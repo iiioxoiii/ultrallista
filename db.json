@@ -1,57 +1,46 @@
 {
 	"concerts": [
 		{
-    	"id": 1,
     	"nom": "The Strokes",
     	"sala": "Aplolo[2]",
     	"hora":"19:00",
     	"mes":"NOV.2020",
     	"dia":"9",
     	"textdia":"dilluns",
-    	"ciutat":"Poblenou-BCN",
-    	"mes":"NOV.2020"
+    	"ciutat":"Poblenou-BCN"
     },{
-    	"id": 2,
       	"nom":"Les Atxes",
       	"sala":"RAZZMATAZZ",
       	"hora":"19:00",
       	"mes":"NOV.2020",
       	"dia":"9",
       	"textdia":"dimarts",
-      	"ciutat":"Poblenou-BCN",
-      	"mes":"NOV.2020"
+      	"ciutat":"Poblenou-BCN"
       },{
-    	"id": 3,
       	"nom": "Lianna Llull",
       	"sala": "Bikini",
       	"hora":"21:00",
       	"mes":"NOV.2020",
       	"dia":"10",
       	"textdia":"dimecres",
-      	"ciutat":"Les Corts-BCN",
-      	"mes":"NOV.2020"
+      	"ciutat":"Les Corts-BCN"
     },{
-    	"id": 4,
       	"nom": "Missing Leech",
       	"sala": "L'antic Forn ...",
       	"hora":"19:00",
       	"mes":"NOV.2020",
       	"dia":"23",
       	"textdia":"divendres",
-      	"ciutat":"Vallcarca-BCN",
-      	"mes":"NOV.2020"
+      	"ciutat":"Vallcarca-BCN"
     },{
-    	"id": 5,
       	"nom": "Ran ran ran",
       	"sala": "GARCILASO",
       	"hora":"19:00",
       	"mes":"NOV.2020",
       	"dia":"24",
       	"textdia":"dijous",
-      	"ciutat":"Poblenou-BCN",
-      	"mes":"NOV.2020"
+      	"ciutat":"Poblenou-BCN"
     },{
-    	"id": 5,
       	"nom": "The EX",
       	"sala": "ESTADI OLÍMPIC",
       	"hora":"19:00",
@@ -61,27 +50,22 @@
       	"ciutat":"Poblesec-BCN",
       	"mes":"NOV.2020"
   	},{
-  		"id": 6,
       	"nom": "The Strokes",
       	"sala": "Aplolo[2]",
       	"hora":"19:00",
       	"mes":"NOV.2020",
       	"dia":"9",
       	"textdia":"dilluns",
-      	"ciutat":"Poblesec-BCN",
-      	"mes":"NOV.2020"
+      	"ciutat":"Poblesec-BCN"
     },{
-    	"id": 7,
       	"nom": "Les Atxes",
       	"sala": "RAZZMATAZZ",
       	"hora":"19:00",
       	"mes":"NOV.2020",
       	"dia":"9",
       	"textdia":"dimarts",
-      	"ciutat":"Poblenou-BCN",
-      	"mes":"NOV.2020"
+      	"ciutat":"Poblenou-BCN"
     },{
-    	"id": 8,
       	"nom": "Lianna Llull",
       	"sala": "Bikini",
       	"hora":"21:00",
@@ -91,33 +75,28 @@
       	"ciutat":"Montjuïch-BCN",
       	"mes":"NOV.2020"
     },{
-    	"id": 9,
       	"nom": "Missing Leech",
       	"sala": "L'antic Forn ...",
       	"hora":"19:00",
       	"mes":"NOV.2020",
       	"dia":"23",
       	"textdia":"divendres",
-      	"ciutat":"Vallcarca-BCN",
-      	"mes":"NOV.2020"
+      	"ciutat":"Vallcarca-BCN"
     },{
-    	"id": 10,
       	"nom": "Ran ran ran",
       	"sala": "GARCILASO",
       	"hora":"19:00",
       	"mes":"NOV.2020",
       	"dia":"24",
       	"textdia":"dijous",
-      	"ciutat":"La Sagrera-BCN",
-      	"mes":"NOV.2020"
+      	"ciutat":"La Sagrera-BCN"
     },{
-    	"id": 11,
       	"nom": "The EX",
       	"sala": "ESTADI OLÍMPIC",
       	"hora":"19:00",
       	"mes":"NOV.2020",
       	"dia":"25",
       	"textdia":"dissabte",
-      	"ciutat":"Poblesec-BCN",
-      	"mes":"NOV.2020"}]
+      	"ciutat":"Poblesec-BCN"
+      }]
 }
