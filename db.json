@@ -1,6 +1,6 @@
 {
 	"concerts": [
-    {
+		{
     	"id": 1,
     	"nom": "The Strokes",
     	"sala": "Aplolo[2]",
@@ -10,10 +10,15 @@
     	"textdia":"dilluns",
     	"ciutat":"Poblenou-BCN",
     	"mes":"NOV.2020"
-    }
-  ],
-
-  "profile": {
-  	"name": "typicode"
-  }
+    },{
+    	"id": 2,
+      	"nom":"Les Atxes",
+      	"sala":"RAZZMATAZZ",
+      	"hora":"19:00",
+      	"mes":"NOV.2020",
+      	"dia":"9",
+      	"textdia":"dimarts",
+      	"ciutat":"Poblenou-BCN",
+      	"mes":"NOV.2020"
+      }]
 }
