@@ -8,14 +8,16 @@
     	"dia":"9",
     	"textdia":"dilluns",
     	"ciutat":"Poblenou-BCN"
+	"date": "2020-11-09T19:001"
     },{
       	"nom":"Les Atxes",
       	"sala":"RAZZMATAZZ",
-      	"hora":"19:00",
+      	"hora":"22:00",
       	"mes":"NOV.2020",
       	"dia":"9",
       	"textdia":"dimarts",
       	"ciutat":"Poblenou-BCN"
+	"date": "2020-11-09T22:001"
       },{
       	"nom": "Lianna Llull",
       	"sala": "Bikini",
@@ -24,6 +26,8 @@
       	"dia":"10",
       	"textdia":"dimecres",
       	"ciutat":"Les Corts-BCN"
+	"date": "2020-11-10T21:001"
+
     },{
       	"nom": "Missing Leech",
       	"sala": "L'antic Forn ...",
@@ -32,6 +36,8 @@
       	"dia":"23",
       	"textdia":"divendres",
       	"ciutat":"Vallcarca-BCN"
+        "date": "2020-11-23T19:001"
+
     },{
       	"nom": "Ran ran ran",
       	"sala": "GARCILASO",
@@ -40,6 +46,8 @@
       	"dia":"24",
       	"textdia":"dijous",
       	"ciutat":"Poblenou-BCN"
+        "date": "2020-11-24T19:001"
+
     },{
       	"nom": "The EX",
       	"sala": "ESTADI OLÍMPIC",
@@ -50,38 +58,45 @@
       	"ciutat":"Poblesec-BCN",
       	"mes":"NOV.2020"
   	},{
-      	"nom": "The Strokes",
+      	"nom": "The Forma",
       	"sala": "Aplolo[2]",
       	"hora":"19:00",
-      	"mes":"NOV.2020",
-      	"dia":"9",
+      	"mes":"MAR.2020",
+      	"dia":"16",
       	"textdia":"dilluns",
       	"ciutat":"Poblesec-BCN"
+        "date": "2020-04-16T19:001"
+
     },{
-      	"nom": "Les Atxes",
+      	"nom": "NIN",
       	"sala": "RAZZMATAZZ",
-      	"hora":"19:00",
+      	"hora":"23:00",
       	"mes":"NOV.2020",
       	"dia":"9",
       	"textdia":"dimarts",
       	"ciutat":"Poblenou-BCN"
+        "date": "2020-11-09T23:001"
+
     },{
       	"nom": "Lianna Llull",
       	"sala": "Bikini",
       	"hora":"21:00",
-      	"mes":"NOV.2020",
-      	"dia":"10",
+      	"mes":"DES.2020",
+      	"dia":"22",
       	"textdia":"dimecres",
       	"ciutat":"Montjuïch-BCN",
-      	"mes":"NOV.2020"
+        "date": "2020-12-22T21:001"
+
     },{
       	"nom": "Missing Leech",
       	"sala": "L'antic Forn ...",
       	"hora":"19:00",
-      	"mes":"NOV.2020",
+      	"mes":"DES.2020",
       	"dia":"23",
       	"textdia":"divendres",
       	"ciutat":"Vallcarca-BCN"
+        "date": "2020-11-23T19:001"
+
     },{
       	"nom": "Ran ran ran",
       	"sala": "GARCILASO",
@@ -93,10 +108,11 @@
     },{
       	"nom": "The EX",
       	"sala": "ESTADI OLÍMPIC",
-      	"hora":"19:00",
+      	"hora":"23:00",
       	"mes":"NOV.2020",
       	"dia":"25",
       	"textdia":"dissabte",
       	"ciutat":"Poblesec-BCN"
+        "date": "2020-12-25T23:001"
       }]
 }
