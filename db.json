@@ -1,7 +1,17 @@
 {
 	"concerts": [
 
+
 		{
+    	"nom": "Les Atxes",
+    	"sala": "Aplolo[2]",
+    	"hora":"19:30",
+    	"mes":"ABR.2020",
+    	"dia":"27",
+    	"textdia":"dilluns",
+    	"ciutat":"Poblenou-BCN",
+		"date": "2020-04-27T19:00"
+    },{
     	"nom": "Los Planetas",
     	"sala": "Aplolo[2]",
     	"hora":"23:00",
