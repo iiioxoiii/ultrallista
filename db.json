@@ -1,13 +1,13 @@
 {
 	"concerts": [{
     	"nom": "Les Atxes",
-    	"sala": "Aplolo[2]",
+    	"sala": "Apolo[2]",
     	"hora":"19:30",
     	"mes":"ABR.2020",
     	"dia":"27",
     	"textdia":"dilluns",
     	"ciutat":"Poblenou-BCN",
-		"date": "2020-04-27T19:00"
+		"date": "2020-04-27T19:30"
     },{
     	"nom": "Los Planetas",
     	"sala": "Aplolo[2]",
@@ -16,7 +16,7 @@
     	"dia":"26",
     	"textdia":"dilluns",
     	"ciutat":"Poblenou-BCN",
-		"date": "2020-04-26T19:00"
+		"date": "2020-04-26T23:00"
     },{
     	"nom": "Los Ganglios",
     	"sala": "Aplolo[2]",
