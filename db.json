@@ -1,8 +1,5 @@
 {
-	"concerts": [
-
-
-		{
+	"concerts": [{
     	"nom": "Les Atxes",
     	"sala": "Aplolo[2]",
     	"hora":"19:30",
