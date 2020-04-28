@@ -3,20 +3,20 @@
     	"nom": "Les Atxes",
     	"sala": "Apolo[2]",
     	"hora":"19:30",
-    	"mes":"ABR.2020",
+    	"mes":"GEN.2020",
     	"dia":"27",
     	"textdia":"dilluns",
     	"ciutat":"Poblenou-BCN",
-		"date": "2020-04-27T19:30"
+		"date": "2020-01-27T19:30"
     },{
     	"nom": "Los Planetas",
     	"sala": "Aplolo[2]",
     	"hora":"23:00",
-    	"mes":"ABR.2020",
+    	"mes":"FEB.2020",
     	"dia":"26",
     	"textdia":"dilluns",
     	"ciutat":"Poblenou-BCN",
-		"date": "2020-04-26T23:00"
+		"date": "2020-02-26T23:00"
     },{
     	"nom": "Los Ganglios",
     	"sala": "Aplolo[2]",
