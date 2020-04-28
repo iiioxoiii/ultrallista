@@ -18,6 +18,15 @@
     	"ciutat":"Poblenou-BCN",
 		"date": "2020-04-27T23:00"
     },{
+    	"nom": "QOSA",
+    	"sala": "Rock Sound",
+    	"hora":"21:00",
+    	"mes":"ABR.2020",
+    	"dia":"28",
+    	"textdia":"dimarts",
+    	"ciutat":"Poblenou-BCN",
+		"date": "2020-04-28T21:00"
+    },{
     	"nom": "Los Ganglios",
     	"sala": "Aplolo[2]",
     	"hora":"19:00",
