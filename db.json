@@ -7,7 +7,7 @@
     	"dia":"27",
     	"textdia":"dilluns",
     	"ciutat":"Poblenou-BCN",
-		"date": "2020-01-27T19:30+02:00"
+		  "dateTime": "2020-01-27T19:30+01:00"
     },{
     	"nom": "Los Ramones",
     	"sala": "Apolo[2]",
@@ -16,7 +16,7 @@
     	"dia":"27",
     	"textdia":"dilluns",
     	"ciutat":"Poblenou-BCN",
-		"date": "2020-04-27T23:00+02:00"
+		  "dateTime": "2020-04-27T23:00+1:00"
     },{
     	"nom": "QOSA",
     	"sala": "Rock Sound",
@@ -25,7 +25,7 @@
     	"dia":"28",
     	"textdia":"dimarts",
     	"ciutat":"Poblenou-BCN",
-		"date": "2020-04-28T21:00+02:00"
+		  "dateTime": "2020-04-28T21:00+02:00"
     },{
     	"nom": "Los Ganglios",
     	"sala": "Aplolo[2]",
@@ -34,7 +34,7 @@
     	"dia":"14",
     	"textdia":"dilluns",
     	"ciutat":"Poblenou-BCN",
-		"date": "2020-06-14T19:00+02:00"
+		  "dateTime": "2020-06-14T19:00+02:00"
     },{
       	"nom":"Les Atxes",
       	"sala":"RAZZMATAZZ",
@@ -43,7 +43,7 @@
       	"dia":"9",
       	"textdia":"dimarts",
       	"ciutat":"Poblenou-BCN",
-      	"date": "2020-11-09T22:00+02:00"
+      	"dateTime": "2020-11-09T22:00+02:00"
       },{
       	"nom": "Lianna Llull",
       	"sala": "Bikini",
@@ -52,7 +52,7 @@
       	"dia":"10",
       	"textdia":"dimecres",
       	"ciutat":"Les Corts-BCN",
-		"date": "2020-11-10T21:00+02:00"
+		    "dateTime": "2020-11-10T21:00+02:00"
 
     },{
       	"nom": "Missing Leech",
@@ -62,7 +62,7 @@
       	"dia":"23",
       	"textdia":"divendres",
       	"ciutat":"Vallcarca-BCN",
-        "date": "2020-11-23T19:00+02:00"
+        "dateTime": "2020-11-23T19:00+02:00"
 
     },{
       	"nom": "Ran ran ran",
@@ -72,7 +72,7 @@
       	"dia":"24",
       	"textdia":"dijous",
       	"ciutat":"Poblenou-BCN",
-        "date": "2020-11-24T19:00+02:00"
+        "dateTime": "2020-11-24T19:00+02:00"
 
     },{
       	"nom": "The EX",
@@ -83,7 +83,7 @@
       	"textdia":"dissabte",
       	"ciutat":"Poblesec-BCN",
       	"mes":"NOV.2020",
-      	"date": "2020-11-25T19:00+02:00"
+      	"dateTime": "2020-11-25T19:00+02:00"
   	},{
       	"nom": "The Forma",
       	"sala": "Apolo[2]",
@@ -92,7 +92,7 @@
       	"dia":"16",
       	"textdia":"dilluns",
       	"ciutat":"Poblesec-BCN",
-        "date": "2020-03-16T19:00+02:00"
+        "dateTime": "2020-03-16T19:00+02:00"
     },{
       	"nom": "NIN",
       	"sala": "RAZZMATAZZ",
@@ -101,7 +101,7 @@
       	"dia":"9",
       	"textdia":"dimarts",
       	"ciutat":"Poblenou-BCN",
-        "date": "2020-11-09T23:00+02:00"
+        "dateTime": "2020-11-09T23:00+02:00"
     },{
       	"nom": "Lianna Llull",
       	"sala": "Bikini",
@@ -110,7 +110,7 @@
       	"dia":"22",
       	"textdia":"dimecres",
       	"ciutat":"Montjuïch-BCN",
-        "date": "2020-12-22T21:00+02:00"
+        "dateTime": "2020-12-22T21:00+02:00"
     },{
       	"nom": "Missing Leech",
       	"sala": "L'antic Forn ...",
@@ -119,7 +119,7 @@
       	"dia":"23",
       	"textdia":"divendres",
       	"ciutat":"Vallcarca-BCN",
-        "date": "2020-12-23T19:00+02:00"
+        "dateTime": "2020-12-23T19:00+02:00"
 
     },{
       	"nom": "Ran ran ran",
@@ -129,7 +129,7 @@
       	"dia":"24",
       	"textdia":"dijous",
       	"ciutat":"La Sagrera-BCN",
-      	"date": "2020-11-24T19:00+02:00"
+      	"dateTime": "2020-11-24T19:00+02:00"
 
     },{
       	"nom": "The EX",
@@ -139,6 +139,6 @@
       	"dia":"25",
       	"textdia":"dissabte",
       	"ciutat":"Poblesec-BCN",
-        "date": "2020-11-25T23:00+02:00"
+        "dateTime": "2020-11-25T23:00+02:00"
       }]
 }
