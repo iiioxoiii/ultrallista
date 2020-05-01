@@ -1,5 +1,15 @@
 {
-"concerts": [{
+"concerts": [
+	{
+    	"nom": "Les Atxes",
+    	"sala": "Monasterio",
+    	"hora":"23:30",
+    	"mes":"MAI.2020",
+    	"dia":"2",
+    	"textdia":"dijous",
+    	"ciutat":"Poblenou-BCN",
+	"dateTime":"2020-05-03T20:30+23:30"
+},{
     	"nom": "Les Atxes",
     	"sala": "Apolo[2]",
     	"hora":"19:30",
