@@ -1,32 +1,32 @@
 {
 "Concerts": [
-{
-"nom": "Koko-Jean & The Tonics",
-"sala": "CavaUrpí",
-"hora": "22:00",
-"mes": "JUN.2020",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "ms",
-"dateTime": "2020-05-29T22:00+02:00"
+  {
+  "nom": "Koko-Jean & The Tonics",
+  "sala": "CavaUrpí",
+  "hora": "22:00",
+  "mes": "JUN.2020",
+  "dia": "29",
+  "textdia": "divendres",
+  "ciutat": "ms",
+  "dateTime": "2020-05-29T22:00+02:00"
 },{
-"nom": "Amaral",
-"sala": "Fimo / Ferrol",
-"hora": "23:00",
-"mes": "JUN.2020",
-"dia": "09",
-"textdia": "dissabte",
-"ciutat": "ms",
-"dateTime": "2020-05-09T23:00+02:00"
+  "nom": "Amaral",
+  "sala": "Fimo / Ferrol",
+  "hora": "23:00",
+  "mes": "JUN.2020",
+  "dia": "09",
+  "textdia": "dissabte",
+  "ciutat": "ms",
+  "dateTime": "2020-05-09T23:00+02:00"
 },{
-"nom": "THE PRUSSIANS",
-"sala": "OD PORT PORTALS MALLORCA",
-"hora": "19:00",
-"mes": "JUN.2020",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "ms",
-"dateTime": "2020-05-29T19:00+02:00"
+  "nom": "THE PRUSSIANS",
+  "sala": "OD PORT PORTALS MALLORCA",
+  "hora": "19:00",
+  "mes": "JUN.2020",
+  "dia": "29",
+  "textdia": "divendres",
+  "ciutat": "ms",
+  "dateTime": "2020-05-29T19:00+02:00"
 },{
 "nom": "Rodrigo Cuevas",
 "sala": "Sala Rebullón",
@@ -675,5 +675,5 @@
 "textdia": "dissabte",
 "ciutat": "ms",
 "dateTime": "2020-07-18T21:00+02:00"
+}]
 }
-]}
