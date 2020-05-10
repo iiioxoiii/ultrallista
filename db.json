@@ -1,139 +1,679 @@
 {
-"concerts": [{
-    	"nom": "Les Atxes",
-    	"sala": "Apolo[2]",
-    	"hora":"19:30",
-    	"mes":"GEN.2020",
-    	"dia":"27",
-    	"textdia":"dilluns",
-    	"ciutat":"Poblenou-BCN",
-	"dateTime":"2020-01-27T19:30+01:00"
+"Concerts": [
+{
+"nom": "Koko-Jean & The Tonics",
+"sala": "CavaUrpí",
+"hora": "22:00",
+"mes": "JUN.2020",
+"dia": "29",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-29T22:00+02:00"
 },{
-    	"nom": "QOSA",
-    	"sala": "Rock Sound",
-    	"hora":"21:00",
-    	"mes":"ABR.2020",
-    	"dia":"28",
-    	"textdia":"dimarts",
-    	"ciutat":"Poblenou-BCN",
-	"dateTime":"2020-04-28T21:00+02:00"
+"nom": "Amaral",
+"sala": "Fimo / Ferrol",
+"hora": "23:00",
+"mes": "JUN.2020",
+"dia": "09",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-05-09T23:00+02:00"
 },{
-      	"nom":"Les Atxes",
-      	"sala":"RAZZMATAZZ",
-      	"hora":"22:00",
-      	"mes":"NOV.2020",
-      	"dia":"9",
-      	"textdia":"dimarts",
-      	"ciutat":"Poblenou-BCN",
-      	"dateTime":"2020-11-09T22:00+02:00"
+"nom": "THE PRUSSIANS",
+"sala": "OD PORT PORTALS MALLORCA",
+"hora": "19:00",
+"mes": "JUN.2020",
+"dia": "29",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-29T19:00+02:00"
 },{
-      	"nom": "Lianna Llull",
-      	"sala": "Bikini",
-      	"hora":"21:00",
-      	"mes":"NOV.2020",
-      	"dia":"10",
-      	"textdia":"dimecres",
-      	"ciutat":"Les Corts-BCN",
-	"dateTime":"2020-11-10T21:00+02:00"
+"nom": "Rodrigo Cuevas",
+"sala": "Sala Rebullón",
+"hora": "21:30",
+"mes": "JUN.2020",
+"dia": "08",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-08T21:30+02:00"
 },{
-	"nom": "Missing Leech",
-      	"sala": "L'antic Forn ...",
-      	"hora":"19:00",
-      	"mes":"NOV.2020",
-      	"dia":"23",
-      	"textdia":"divendres",
-      	"ciutat":"Vallcarca-BCN",
-      	"dateTime":"2020-11-23T19:00+02:00"
+"nom": "Bad Religion",
+"sala": "Sala Tejo (Altice Arena)",
+"hora": "18:00",
+"mes": "JUN.2020",
+"dia": "26",
+"textdia": "dimarts",
+"ciutat": "ms",
+"dateTime": "2020-05-26T18:00+02:00"
 },{
-      	"nom": "Ran ran ran",
-	"sala": "GARCILASO",
-	"hora":"19:00",
-      	"mes":"NOV.2020",
-      	"dia":"24",
-      	"textdia":"dijous",
-      	"ciutat":"Poblenou-BCN",
-      	"dateTime":"2020-11-24T19:00+02:00"
-   },{
-      	"nom": "The EX",
-      	"sala": "ESTADI OLÍMPIC",
-      	"hora":"19:00",
-      	"mes":"NOV.2020",
-      	"dia":"25",
-      	"textdia":"dissabte",
-      	"ciutat":"Poblesec-BCN",
-      	"mes":"NOV.2020",
-      	"dateTime":"2020-11-25T19:00+02:00"
+"nom": "DA SOUZA",
+"sala": "OD Port Portals",
+"hora": "19:00",
+"mes": "OCT.2020",
+"dia": "04",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-09-04T19:00+02:00"
 },{
-      	"nom": "The Forma",
-      	"sala": "Apolo[2]",
-      	"hora":"19:00",
-      	"mes":"MAR.2020",
-      	"dia":"16",
-      	"textdia":"dilluns",
-      	"ciutat":"Poblesec-BCN",
-     	"dateTime":"2020-03-16T19:00+02:00"
+"nom": "Bad Gyal",
+"sala": "Recinto Festival / Rabolagartija Festival",
+"hora": "00:00",
+"mes": "SET.2020",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-08-14T00:00+02:00"
 },{
-	"nom": "NIN",
-      	"sala": "RAZZMATAZZ",
-      	"hora":"23:00",
-      	"mes":"NOV.2020",
-      	"dia":"9",
-      	"textdia":"dimarts",
-      	"ciutat":"Poblenou-BCN",
-        "dateTime":"2020-11-09T23:00+02:00"
+"nom": "Arco",
+"sala": "Sala Madchester",
+"hora": "23:00",
+"mes": "DES.2020",
+"dia": "20",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-11-20T23:00+01:00"
 },{
-        "nom": "Nirvana",
-        "sala": "Bikini",
-        "hora":"23:30",
-        "mes":"ABR.2020",
-        "dia":"27",
-        "textdia":"dilluns",
-        "ciutat":"Les Corts-BCN",
-        "dateTime":"2020-04-27T23:30+02:00"
+"nom": "Igeldo",
+"sala": "Indara",
+"hora": "00:00",
+"mes": "JUN.2020",
+"dia": "08",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-08T00:00+02:00"
 },{
-        "nom": "Stone Temple Pilots",
-        "sala": "Bikini",
-        "hora":"23:30",
-        "mes":"ABR.2020",
-        "dia":"28",
-        "textdia":"dilluns",
-        "ciutat":"Les Corts-BCN",
-        "dateTime":"2020-04-28T23:30+02:00"
+"nom": "Aerosmith",
+"sala": "Wanda Metropolitano",
+"hora": "21:30",
+"mes": "AGO.2020",
+"dia": "03",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-07-03T21:30+02:00"
 },{
-      	"nom": "Lianna Llull",
-      	"sala": "Bikini",
-      	"hora":"21:00",
-      	"mes":"DES.2020",
-      	"dia":"22",
-      	"textdia":"dimecres",
-      	"ciutat":"Montjuïch-BCN",
-        "dateTime":"2020-12-22T21:00+02:00"
+"nom": "Lorena Álvarez",
+"sala": "Teatre del Raval",
+"hora": "00:00",
+"mes": "JUL.2020",
+"dia": "26",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-06-26T00:00+02:00"
 },{
-      	"nom": "Missing Leech",
-      	"sala": "L'antic Forn ...",
-      	"hora":"19:00",
-      	"mes":"DES.2020",
-      	"dia":"23",
-      	"textdia":"divendres",
-      	"ciutat":"Vallcarca-BCN",
-        "dateTime":"2020-12-23T19:00+02:00"
+"nom": "Pinpilinpussies + Los Chivatos de Ana Frank + Miguel Trias de Bes",
+"sala": "Meteoro",
+"hora": "21:15",
+"mes": "JUN.2020",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-22T21:15+02:00"
 },{
-      	"nom": "Ran ran ran",
-      	"sala": "GARCILASO",
-      	"hora":"19:00",
-      	"mes":"NOV.2020",
-      	"dia":"24",
-      	"textdia":"dijous",
-      	"ciutat":"La Sagrera-BCN",
-      	"dateTime":"2020-11-24T19:00+02:00"
+"nom": "MUDHONEY",
+"sala": "Cool Stage",
+"hora": "21:00",
+"mes": "OCT.2020",
+"dia": "20",
+"textdia": "diumenge",
+"ciutat": "ms",
+"dateTime": "2020-09-20T21:00+02:00"
 },{
-      	"nom": "The EX",
-      	"sala": "ESTADI OLÍMPIC",
-      	"hora":"23:00",
-      	"mes":"NOV.2020",
-      	"dia":"25",
-      	"textdia":"dissabte",
-      	"ciutat":"Poblesec-BCN",
-        "dateTime":"2020-11-25T23:00+02:00"
-      }]
+"nom": "Extremoduro",
+"sala": "Recinto Ferial",
+"hora": "22:30",
+"mes": "JUL.2020",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-06-20T22:30+02:00"
+},{
+"nom": "Igeldo",
+"sala": "La Yesería",
+"hora": "21:00",
+"mes": "JUN.2020",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-05-23T21:00+02:00"
+},{
+"nom": "Bad Religion",
+"sala": "Multiusos Fontes do Sar",
+"hora": "16:00",
+"mes": "JUN.2020",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-05-30T16:00+02:00"
+},{
+"nom": "Bad Religion",
+"sala": "Bilbao Arena",
+"hora": "17:00",
+"mes": "JUN.2020",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "ms",
+"dateTime": "2020-05-24T17:00+02:00"
+},{
+"nom": "Biznaga",
+"sala": "Radar Estudios",
+"hora": "21:00",
+"mes": "JUL.2020",
+"dia": "06",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-06-06T21:00+02:00"
+},{
+"nom": "Rodrigo Cuevas",
+"sala": "Sala Sümmum",
+"hora": "20:30",
+"mes": "JUN.2020",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-05-23T20:30+02:00"
+},{
+"nom": "Bad Gyal",
+"sala": "Plaza de Toros / Murcia",
+"hora": "21:00",
+"mes": "AGO.2020",
+"dia": "08",
+"textdia": "dimecres",
+"ciutat": "ms",
+"dateTime": "2020-07-08T21:00+02:00"
+},{
+"nom": "Marsella",
+"sala": "El Perro de la Parte de Atrás del Coche",
+"hora": "21:00",
+"mes": "JUL.2020",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-06-20T21:00+02:00"
+},{
+"nom": "THE POSIES",
+"sala": "La Salvaje",
+"hora": "21:30",
+"mes": "JUL.2020",
+"dia": "15",
+"textdia": "dilluns",
+"ciutat": "ms",
+"dateTime": "2020-06-15T21:30+02:00"
+},{
+"nom": "Foyone",
+"sala": "Sala REM",
+"hora": "22:30",
+"mes": "JUL.2020",
+"dia": "05",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-06-05T22:30+02:00"
+},{
+"nom": "Bad Religion",
+"sala": "Repvblicca",
+"hora": "20:00",
+"mes": "JUN.2020",
+"dia": "28",
+"textdia": "dijous",
+"ciutat": "ms",
+"dateTime": "2020-05-28T20:00+02:00"
+},{
+"nom": "THE POSIES",
+"sala": "16 toneladas",
+"hora": "21:30",
+"mes": "JUL.2020",
+"dia": "18",
+"textdia": "dijous",
+"ciutat": "ms",
+"dateTime": "2020-06-18T21:30+02:00"
+},{
+"nom": "Bad Gyal",
+"sala": "Teatro Albéniz",
+"hora": "20:30",
+"mes": "JUN.2020",
+"dia": "21",
+"textdia": "dijous",
+"ciutat": "ms",
+"dateTime": "2020-05-21T20:30+02:00"
+},{
+"nom": "MEDALLA",
+"sala": "Wurlitzer Ballroom",
+"hora": "20:00",
+"mes": "JUN.2020",
+"dia": "09",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-05-09T20:00+02:00"
+},{
+"nom": "Extremoduro",
+"sala": "Monte do Gozo",
+"hora": "22:30",
+"mes": "JUL.2020",
+"dia": "13",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-06-13T22:30+02:00"
+},{
+"nom": "Larkin Poe",
+"sala": "Sala BUT",
+"hora": "00:00",
+"mes": "JUN.2020",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-05-16T00:00+02:00"
+},{
+"nom": "MUDHONEY",
+"sala": "Centro andaluz de arte contemporáneo",
+"hora": "00:00",
+"mes": "OCT.2020",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-09-19T00:00+02:00"
+},{
+"nom": "Els Amics de les Arts",
+"sala": "Auditori del Fòrum",
+"hora": "21:00",
+"mes": "JUN.2020",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-05-16T21:00+02:00"
+},{
+"nom": "Balkan Paradise Orchestra",
+"sala": "Porta Caeli",
+"hora": "22:00",
+"mes": "DES.2020",
+"dia": "28",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-11-28T22:00+01:00"
+},{
+"nom": "MEDALLA",
+"sala": "Las Armas",
+"hora": "00:00",
+"mes": "JUN.2020",
+"dia": "08",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-08T00:00+02:00"
+},{
+"nom": "Biznaga",
+"sala": "Upload Fooddanceclub",
+"hora": "20:00",
+"mes": "JUN.2020",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-15T20:00+02:00"
+},{
+"nom": "BELAKO",
+"sala": "Bóveda",
+"hora": "20:00",
+"mes": "JUN.2020",
+"dia": "07",
+"textdia": "dijous",
+"ciutat": "ms",
+"dateTime": "2020-05-07T20:00+02:00"
+},{
+"nom": "EMBUSTEROS",
+"sala": "Madchester",
+"hora": "23:00",
+"mes": "JUN.2020",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-15T23:00+02:00"
+},{
+"nom": "La Dispute",
+"sala": "Stage Live",
+"hora": "00:00",
+"mes": "JUN.2020",
+"dia": "08",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-08T00:00+02:00"
+},{
+"nom": "THE PRUSSIANS",
+"sala": "OD OCEAN DRIVE IBIZA",
+"hora": "19:00",
+"mes": "JUL.2020",
+"dia": "12",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-06-12T19:00+02:00"
+},{
+"nom": "YAWNERS",
+"sala": "OD OCEAN DRIVE IBIZA",
+"hora": "19:00",
+"mes": "DES.2020",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-11-27T19:00+01:00"
+},{
+"nom": "THE PRUSSIANS",
+"sala": "OD BARCELONA",
+"hora": "19:00",
+"mes": "AGO.2020",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "ms",
+"dateTime": "2020-07-23T19:00+02:00"
+},{
+"nom": "LOS NASTYS",
+"sala": "OD BARCELONA",
+"hora": "00:00",
+"mes": "NOV.2020",
+"dia": "29",
+"textdia": "dijous",
+"ciutat": "ms",
+"dateTime": "2020-10-29T00:00+01:00"
+},{
+"nom": "Rubén Pozo & Lichis",
+"sala": "La chica de ayer",
+"hora": "00:00",
+"mes": "JUN.2020",
+"dia": "09",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-05-09T00:00+02:00"
+},{
+"nom": "THE POSIES",
+"sala": "La chica de ayer",
+"hora": "21:30",
+"mes": "JUL.2020",
+"dia": "16",
+"textdia": "dimarts",
+"ciutat": "ms",
+"dateTime": "2020-06-16T21:30+02:00"
+},{
+"nom": "THE POSIES",
+"sala": "Sala X / Sevilla",
+"hora": "21:30",
+"mes": "JUL.2020",
+"dia": "17",
+"textdia": "dimecres",
+"ciutat": "ms",
+"dateTime": "2020-06-17T21:30+02:00"
+},{
+"nom": "Balkan Paradise Orchestra",
+"sala": "Sala X / Sevilla",
+"hora": "22:00",
+"mes": "Invalid mes.2020",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-12-19T22:00+01:00"
+},{
+"nom": "Vetusta Morla",
+"sala": "Cartuja Center Cite",
+"hora": "22:00",
+"mes": "OCT.2020",
+"dia": "05",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-09-05T22:00+02:00"
+},{
+"nom": "Vetusta Morla",
+"sala": "Cartuja Center Cite",
+"hora": "22:00",
+"mes": "OCT.2020",
+"dia": "06",
+"textdia": "diumenge",
+"ciutat": "ms",
+"dateTime": "2020-09-06T22:00+02:00"
+},{
+"nom": "Vetusta Morla",
+"sala": "Cartuja Center Cite",
+"hora": "22:00",
+"mes": "OCT.2020",
+"dia": "07",
+"textdia": "dilluns",
+"ciutat": "ms",
+"dateTime": "2020-09-07T22:00+02:00"
+},{
+"nom": "Goa",
+"sala": "Wolf Club",
+"hora": "23:30",
+"mes": "JUN.2020",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-22T23:30+02:00"
+},{
+"nom": "MUDHONEY",
+"sala": "Wolf Club",
+"hora": "21:00",
+"mes": "OCT.2020",
+"dia": "07",
+"textdia": "dilluns",
+"ciutat": "ms",
+"dateTime": "2020-09-07T21:00+02:00"
+},{
+"nom": "Gomad! & Monster",
+"sala": "TBA",
+"hora": "00:00",
+"mes": "JUN.2020",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-05-23T00:00+02:00"
+},{
+"nom": "THE POSIES",
+"sala": "TBA",
+"hora": "00:00",
+"mes": "JUL.2020",
+"dia": "14",
+"textdia": "diumenge",
+"ciutat": "ms",
+"dateTime": "2020-06-14T00:00+02:00"
+},{
+"nom": "Gomad! & Monster",
+"sala": "TBA",
+"hora": "00:00",
+"mes": "AGO.2020",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-07-11T00:00+02:00"
+},{
+"nom": "Gomad! & Monster",
+"sala": "TBA",
+"hora": "00:00",
+"mes": "SET.2020",
+"dia": "13",
+"textdia": "dijous",
+"ciutat": "ms",
+"dateTime": "2020-08-13T00:00+02:00"
+},{
+"nom": "Gomad! & Monster",
+"sala": "TBA",
+"hora": "00:00",
+"mes": "SET.2020",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-08-15T00:00+02:00"
+},{
+"nom": "Bad Religion",
+"sala": "WiZink Center",
+"hora": "17:00",
+"mes": "JUN.2020",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-05-23T17:00+02:00"
+},{
+"nom": "ALICIA KEYS",
+"sala": "WiZink Center",
+"hora": "21:00",
+"mes": "AGO.2020",
+"dia": "04",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-07-04T21:00+02:00"
+},{
+"nom": "Amaral",
+"sala": "WiZink Center",
+"hora": "21:00",
+"mes": "OCT.2020",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-09-19T21:00+02:00"
+},{
+"nom": "The 1975",
+"sala": "WiZink Center",
+"hora": "00:00",
+"mes": "NOV.2020",
+"dia": "05",
+"textdia": "dilluns",
+"ciutat": "ms",
+"dateTime": "2020-10-05T00:00+02:00"
+},{
+"nom": "La Pegatina",
+"sala": "WiZink Center",
+"hora": "22:00",
+"mes": "NOV.2020",
+"dia": "31",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-10-31T22:00+01:00"
+},{
+"nom": "Carolina Durante",
+"sala": "WiZink Center",
+"hora": "19:00",
+"mes": "Invalid mes.2020",
+"dia": "28",
+"textdia": "dilluns",
+"ciutat": "ms",
+"dateTime": "2020-12-28T19:00+01:00"
+},{
+"nom": "Bon Iver",
+"sala": "WiZink Center",
+"hora": "21:00",
+"mes": "FEB.2021",
+"dia": "26",
+"textdia": "dimarts",
+"ciutat": "ms",
+"dateTime": "2021-01-26T21:00+01:00"
+},{
+"nom": "Nick Cave and The Bad Seeds",
+"sala": "WiZink Center",
+"hora": "20:30",
+"mes": "JUN.2021",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "ms",
+"dateTime": "2021-05-23T20:30+02:00"
+},{
+"nom": "Vetusta Morla",
+"sala": "Plaza de Toros / Valencia",
+"hora": "22:00",
+"mes": "OCT.2020",
+"dia": "02",
+"textdia": "dimecres",
+"ciutat": "ms",
+"dateTime": "2020-09-02T22:00+02:00"
+},{
+"nom": "Vetusta Morla",
+"sala": "Plaza de Toros / Valencia",
+"hora": "22:00",
+"mes": "OCT.2020",
+"dia": "03",
+"textdia": "dijous",
+"ciutat": "ms",
+"dateTime": "2020-09-03T22:00+02:00"
+},{
+"nom": "ELEFTHERIA ARVANITAKI",
+"sala": "Barts",
+"hora": "21:00",
+"mes": "JUN.2020",
+"dia": "07",
+"textdia": "dijous",
+"ciutat": "ms",
+"dateTime": "2020-05-07T21:00+02:00"
+},{
+"nom": "DANNY OCEAN",
+"sala": "Barts",
+"hora": "21:00",
+"mes": "JUN.2020",
+"dia": "08",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-08T21:00+02:00"
+},{
+"nom": "JUDIT NEDDERMANN",
+"sala": "Barts",
+"hora": "21:00",
+"mes": "JUN.2020",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-15T21:00+02:00"
+},{
+"nom": "Roger Usart + Artista invitado",
+"sala": "Barts",
+"hora": "21:00",
+"mes": "JUN.2020",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-15T21:00+02:00"
+},{
+"nom": "BEBEL GILBERTO",
+"sala": "Barts",
+"hora": "20:30",
+"mes": "JUN.2020",
+"dia": "20",
+"textdia": "dimecres",
+"ciutat": "ms",
+"dateTime": "2020-05-20T20:30+02:00"
+},{
+"nom": "ANDRÉS SUÁREZ",
+"sala": "Barts",
+"hora": "21:00",
+"mes": "JUN.2020",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-22T21:00+02:00"
+},{
+"nom": "Bely Basarte",
+"sala": "Barts",
+"hora": "21:00",
+"mes": "JUN.2020",
+"dia": "29",
+"textdia": "divendres",
+"ciutat": "ms",
+"dateTime": "2020-05-29T21:00+02:00"
+},{
+"nom": "Joe Satriani",
+"sala": "Barts",
+"hora": "20:30",
+"mes": "JUL.2020",
+"dia": "11",
+"textdia": "dijous",
+"ciutat": "ms",
+"dateTime": "2020-06-11T20:30+02:00"
+},{
+"nom": "THE MILK CARTON KIDS",
+"sala": "Barts",
+"hora": "21:00",
+"mes": "JUL.2020",
+"dia": "18",
+"textdia": "dijous",
+"ciutat": "ms",
+"dateTime": "2020-06-18T21:00+02:00"
+},{
+"nom": "Agnes Obel",
+"sala": "Barts",
+"hora": "21:00",
+"mes": "AGO.2020",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "ms",
+"dateTime": "2020-07-18T21:00+02:00"
 }
+]}
