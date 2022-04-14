@@ -1,265 +1,2110 @@
 {
 "concerts": [
 {
-"nom": "YAWNERS",
-"sala": "OD OCEAN DRIVE IBIZA",
-"hora": "19:00",
-"mes": "DES.2020",
-"dia": "27",
+"nom": "Imelda May",
+"sala": "Oasis Club Teatro",
+"hora": "21:00",
+"mes": "JUL.2022",
+"dia": "10",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2020-11-27T19:00+01:00"
+"dateTime": "2022-06-10T21:00+02:00"
 },{
-"nom": "DA SOUZA",
-"sala": "OD Port Portals",
-"hora": "19:00",
-"mes": "OCT.2020",
-"dia": "04",
+"nom": "Green Valley",
+"sala": "Recinto Festival / Pirata Rock",
+"hora": "20:00",
+"mes": "AGO.2022",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-07-14T20:00+02:00"
+},{
+"nom": "Shinova",
+"sala": "Aquapark de Calvià",
+"hora": "20:00",
+"mes": "JUL.2022",
+"dia": "24",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2020-09-04T19:00+02:00"
+"dateTime": "2022-06-24T20:00+02:00"
 },{
-"nom": "Bad Gyal",
-"sala": "Recinto Festival / Rabolagartija Festival",
-"hora": "00:00",
-"mes": "SET.2020",
+"nom": "Carla",
+"sala": "Centro Cultural MVA",
+"hora": "20:00",
+"mes": "JUL.2022",
+"dia": "16",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-06-16T20:00+02:00"
+},{
+"nom": "Kid Francescoli",
+"sala": "Sala Cool",
+"hora": "21:00",
+"mes": "JUN.2022",
+"dia": "19",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-05-19T21:00+02:00"
+},{
+"nom": "Shinova",
+"sala": "Recinto festival / Cooltural Fest",
+"hora": "20:00",
+"mes": "SET.2022",
+"dia": "19",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-08-19T20:00+02:00"
+},{
+"nom": "Green Valley",
+"sala": "Auditorio Recinto Ferial de Badajoz",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "06",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-06T20:00+02:00"
+},{
+"nom": "León Benavente",
+"sala": "Cartuja Center Cite",
+"hora": "20:30",
+"mes": "MAI.2022",
+"dia": "28",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-04-28T20:30+02:00"
+},{
+"nom": "La Casa Azul",
+"sala": "Poblado de Sancti Petri",
+"hora": "22:30",
+"mes": "SET.2022",
+"dia": "16",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-08-16T22:30+02:00"
+},{
+"nom": "Fito & Fitipaldis",
+"sala": "Navarra Arena",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-23T20:00+02:00"
+},{
+"nom": "Shinova",
+"sala": "La Marina de València",
+"hora": "20:00",
+"mes": "NOV.2022",
 "dia": "14",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2020-08-14T00:00+02:00"
-},{
-"nom": "Balkan Paradise Orchestra",
-"sala": "Sala X / Sevilla",
-"hora": "22:00",
-"mes": "Invalid mes.2020",
-"dia": "19",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2020-12-19T22:00+01:00"
-},{
-"nom": "Arco",
-"sala": "Sala Madchester",
-"hora": "23:00",
-"mes": "DES.2020",
-"dia": "20",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2020-11-20T23:00+01:00"
+"dateTime": "2022-10-14T20:00+02:00"
 },{
 "nom": "Aerosmith",
 "sala": "Wanda Metropolitano",
-"hora": "21:30",
-"mes": "AGO.2020",
-"dia": "03",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2020-07-03T21:30+02:00"
-},{
-"nom": "MUDHONEY",
-"sala": "Wolf Club",
-"hora": "21:00",
-"mes": "OCT.2020",
-"dia": "07",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2020-09-07T21:00+02:00"
-},{
-"nom": "MUDHONEY",
-"sala": "Cool Stage",
-"hora": "21:00",
-"mes": "OCT.2020",
-"dia": "20",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2020-09-20T21:00+02:00"
-},{
-"nom": "Bad Gyal",
-"sala": "Plaza de Toros / Murcia",
-"hora": "21:00",
-"mes": "AGO.2020",
-"dia": "08",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2020-07-08T21:00+02:00"
-},{
-"nom": "MUDHONEY",
-"sala": "Centro andaluz de arte contemporáneo",
-"hora": "00:00",
-"mes": "OCT.2020",
-"dia": "19",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2020-09-19T00:00+02:00"
-},{
-"nom": "Balkan Paradise Orchestra",
-"sala": "Porta Caeli",
-"hora": "22:00",
-"mes": "DES.2020",
-"dia": "28",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2020-11-28T22:00+01:00"
-},{
-"nom": "Agnes Obel",
-"sala": "Barts",
-"hora": "21:00",
-"mes": "AGO.2020",
-"dia": "18",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2020-07-18T21:00+02:00"
-},{
-"nom": "THE PRUSSIANS",
-"sala": "OD BARCELONA",
 "hora": "19:00",
-"mes": "AGO.2020",
-"dia": "23",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2020-07-23T19:00+02:00"
-},{
-"nom": "LOS NASTYS",
-"sala": "OD BARCELONA",
-"hora": "00:00",
-"mes": "NOV.2020",
-"dia": "29",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2020-10-29T00:00+01:00"
-},{
-"nom": "Vetusta Morla",
-"sala": "Cartuja Center Cite",
-"hora": "22:00",
-"mes": "OCT.2020",
-"dia": "05",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2020-09-05T22:00+02:00"
-},{
-"nom": "Vetusta Morla",
-"sala": "Cartuja Center Cite",
-"hora": "22:00",
-"mes": "OCT.2020",
-"dia": "06",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2020-09-06T22:00+02:00"
-},{
-"nom": "Vetusta Morla",
-"sala": "Cartuja Center Cite",
-"hora": "22:00",
-"mes": "OCT.2020",
-"dia": "07",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2020-09-07T22:00+02:00"
-},{
-"nom": "Gomad! & Monster",
-"sala": "TBA",
-"hora": "00:00",
-"mes": "AGO.2020",
-"dia": "11",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2020-07-11T00:00+02:00"
-},{
-"nom": "Gomad! & Monster",
-"sala": "TBA",
-"hora": "00:00",
-"mes": "SET.2020",
-"dia": "13",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2020-08-13T00:00+02:00"
-},{
-"nom": "Gomad! & Monster",
-"sala": "TBA",
-"hora": "00:00",
-"mes": "SET.2020",
-"dia": "15",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2020-08-15T00:00+02:00"
-},{
-"nom": "ALICIA KEYS",
-"sala": "WiZink Center",
-"hora": "21:00",
-"mes": "AGO.2020",
+"mes": "JUL.2022",
 "dia": "04",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2020-07-04T21:00+02:00"
+"dateTime": "2022-06-04T19:00+02:00"
 },{
-"nom": "Amaral",
-"sala": "WiZink Center",
+"nom": "Parcels",
+"sala": "Mad Cool / Valdebebas",
+"hora": "20:00",
+"mes": "AGO.2022",
+"dia": "06",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-07-06T20:00+02:00"
+},{
+"nom": "C. Tangana",
+"sala": "Gran Canaria Arena",
+"hora": "19:00",
+"mes": "AGO.2022",
+"dia": "08",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-07-08T19:00+02:00"
+},{
+"nom": "Killy",
+"sala": "Cha Chá",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "07",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-07T20:00+02:00"
+},{
+"nom": "C. Tangana",
+"sala": "Explanada de la Caja Mágica",
+"hora": "12:00",
+"mes": "JUL.2022",
+"dia": "30",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-06-30T12:00+02:00"
+},{
+"nom": "Stu Larsen",
+"sala": "Nazca",
 "hora": "21:00",
-"mes": "OCT.2020",
-"dia": "19",
+"mes": "MAI.2022",
+"dia": "23",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2020-09-19T21:00+02:00"
+"dateTime": "2022-04-23T21:00+02:00"
 },{
-"nom": "The 1975",
-"sala": "WiZink Center",
-"hora": "00:00",
-"mes": "NOV.2020",
-"dia": "05",
+"nom": "MATT MALTESE",
+"sala": "Laut",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T20:00+02:00"
+},{
+"nom": "Delaporte",
+"sala": "Ruinas de la Iglesia de San Pedro",
+"hora": "22:30",
+"mes": "JUL.2022",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-06-24T22:30+02:00"
+},{
+"nom": "The Sadies",
+"sala": "Lemon Rock",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "16",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-16T21:00+01:00"
+},{
+"nom": "Los Planetas",
+"sala": "Parque Enrique Tierno Galván",
+"hora": "20:00",
+"mes": "AGO.2022",
+"dia": "01",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-07-01T20:00+02:00"
+},{
+"nom": "Franz Ferdinand",
+"sala": "Bilbao Arena",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "27",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-27T21:00+02:00"
+},{
+"nom": "Richard Thompson",
+"sala": "Teatro Zorrilla",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-23T20:00+02:00"
+},{
+"nom": "La Maravillosa Orquesta del Alcohol",
+"sala": "Sala Pelícano",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T21:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Sala Malatesta",
+"hora": "21:00",
+"mes": "JUN.2022",
+"dia": "20",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-05-20T21:00+02:00"
+},{
+"nom": "Porridge Radio",
+"sala": "Radar Estudios",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "21",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-04-21T21:00+02:00"
+},{
+"nom": "Wilco",
+"sala": "Plaza de Toros / Murcia",
+"hora": "22:00",
+"mes": "JUL.2022",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-06-25T22:00+02:00"
+},{
+"nom": "Larkin Poe",
+"sala": "Jerusalem Club",
+"hora": "22:00",
+"mes": "JUN.2022",
+"dia": "13",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-05-13T22:00+02:00"
+},{
+"nom": "Whisky Caravan",
+"sala": "Garage Beat Club",
+"hora": "20:00",
+"mes": "MAR.2023",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T20:00+01:00"
+},{
+"nom": "Itaca Band",
+"sala": "Repvblicca",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-23T21:00+02:00"
+},{
+"nom": "Fito & Fitipaldis",
+"sala": "Plaza de Toros / Albacete",
+"hora": "20:00",
+"mes": "JUN.2022",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-05-21T20:00+02:00"
+},{
+"nom": "Ara Malikian",
+"sala": "Parc del Pinaret",
+"hora": "22:00",
+"mes": "AGO.2022",
+"dia": "29",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-07-29T22:00+02:00"
+},{
+"nom": "Rojuu",
+"sala": "Sala Acapulco",
+"hora": "20:30",
+"mes": "MAI.2022",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-30T20:30+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Masterclub",
+"hora": "22:00",
+"mes": "JUN.2022",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-05-21T22:00+02:00"
+},{
+"nom": "Ara Malikian",
+"sala": "Teatro Real de Madrid",
+"hora": "21:00",
+"mes": "Invalid mes.2022",
+"dia": "28",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-28T21:00+01:00"
+},{
+"nom": "Shinova",
+"sala": "Teatro Albéniz",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-23T20:00+02:00"
+},{
+"nom": "Ara Malikian",
+"sala": "Fòrum Romà d`Empúries -Ruines d`Empúries",
+"hora": "22:00",
+"mes": "SET.2022",
+"dia": "15",
 "textdia": "dilluns",
 "ciutat": "",
-"dateTime": "2020-10-05T00:00+02:00"
+"dateTime": "2022-08-15T22:00+02:00"
 },{
-"nom": "La Pegatina",
+"nom": "Ben Harper",
+"sala": "Ciutadella de Roses",
+"hora": "22:00",
+"mes": "AGO.2022",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-07-23T22:00+02:00"
+},{
+"nom": "Ilegales",
+"sala": "Auditorio Parque Fofo",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-04-22T20:00+02:00"
+},{
+"nom": "Rayden",
+"sala": "Porta Caeli",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "12",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-12T20:30+01:00"
+},{
+"nom": "Joe Satriani",
+"sala": "Barts",
+"hora": "20:30",
+"mes": "JUN.2022",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-05-27T20:30+02:00"
+},{
+"nom": "Alizzz",
+"sala": "Ifema",
+"hora": "18:00",
+"mes": "JUN.2022",
+"dia": "19",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-05-19T18:00+02:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Stage Live",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+01:00"
+},{
+"nom": "Dorian",
+"sala": "Zentral",
+"hora": "12:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T12:00+02:00"
+},{
+"nom": "Soleá Morente",
+"sala": "Lanónima",
+"hora": "20:00",
+"mes": "JUN.2022",
+"dia": "08",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-05-08T20:00+02:00"
+},{
+"nom": "Carla",
+"sala": "Lanónima",
+"hora": "20:00",
+"mes": "JUN.2022",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-05-14T20:00+02:00"
+},{
+"nom": "Dean Wareham",
+"sala": "Sala X / Sevilla",
+"hora": "21:00",
+"mes": "AGO.2022",
+"dia": "07",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-07-07T21:00+02:00"
+},{
+"nom": "The Sadies",
+"sala": "Sala X / Sevilla",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "15",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-15T21:00+01:00"
+},{
+"nom": "Itaca Band",
+"sala": "Mon Madrid",
+"hora": "21:00",
+"mes": "JUN.2022",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-05-27T21:00+02:00"
+},{
+"nom": "Whisky Caravan",
+"sala": "Mon Madrid",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "05",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T20:00+01:00"
+},{
+"nom": "Rayden",
+"sala": "Zentral / Baluarte (Pamplona)",
+"hora": "20:30",
+"mes": "MAI.2022",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-04-15T20:30+02:00"
+},{
+"nom": "El Drogas",
+"sala": "Zentral / Baluarte (Pamplona)",
+"hora": "20:30",
+"mes": "MAI.2022",
+"dia": "29",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-04-29T20:30+02:00"
+},{
+"nom": "El Drogas",
+"sala": "Zentral / Baluarte (Pamplona)",
+"hora": "18:30",
+"mes": "MAI.2022",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-30T18:30+02:00"
+},{
+"nom": "Marlon",
+"sala": "Zentral / Baluarte (Pamplona)",
+"hora": "20:30",
+"mes": "JUN.2022",
+"dia": "06",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-05-06T20:30+02:00"
+},{
+"nom": "Ayax",
+"sala": "Zentral / Baluarte (Pamplona)",
+"hora": "20:30",
+"mes": "JUN.2022",
+"dia": "12",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-05-12T20:30+02:00"
+},{
+"nom": "Fuel Fandango",
+"sala": "Zentral / Baluarte (Pamplona)",
+"hora": "21:00",
+"mes": "JUN.2022",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-05-21T21:00+02:00"
+},{
+"nom": "Meritxell Neddermann",
+"sala": "VOL",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-23T21:00+02:00"
+},{
+"nom": "Chaqueta de Chándal",
+"sala": "VOL",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-30T21:00+02:00"
+},{
+"nom": "Pablo Und Destruktion",
+"sala": "Wolf Club",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-04-22T20:00+02:00"
+},{
+"nom": "Habla de mí en presente",
+"sala": "Wolf Club",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-23T21:00+02:00"
+},{
+"nom": "Helmet",
+"sala": "Wolf Club",
+"hora": "20:30",
+"mes": "MAI.2022",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-30T20:30+02:00"
+},{
+"nom": "El Altar Del Holocausto",
+"sala": "Wolf Club",
+"hora": "20:00",
+"mes": "JUN.2022",
+"dia": "06",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-05-06T20:00+02:00"
+},{
+"nom": "Mystic Braves",
+"sala": "Wolf Club",
+"hora": "20:30",
+"mes": "JUN.2022",
+"dia": "20",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-05-20T20:30+02:00"
+},{
+"nom": "THE SHEEPDOGS",
+"sala": "Wolf Club",
+"hora": "20:30",
+"mes": "JUN.2022",
+"dia": "22",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-05-22T20:30+02:00"
+},{
+"nom": "Joven Dolores",
+"sala": "Wolf Club",
+"hora": "21:30",
+"mes": "OCT.2022",
+"dia": "03",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-03T21:30+02:00"
+},{
+"nom": "Invisible Limits",
+"sala": "Wolf Club",
+"hora": "22:00",
+"mes": "OCT.2022",
+"dia": "10",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-10T22:00+02:00"
+},{
+"nom": "Whisky Caravan",
+"sala": "Wolf Club",
+"hora": "20:00",
+"mes": "FEB.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-21T20:00+01:00"
+},{
+"nom": "Niños Mutantes",
+"sala": "Mon Live",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-04-22T21:00+02:00"
+},{
+"nom": "MUDHONEY",
+"sala": "Mon Live",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "18",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-18T21:00+02:00"
+},{
+"nom": "Shego",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "18:00",
+"mes": "MAI.2022",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-04-14T18:00+02:00"
+},{
+"nom": "Steve Aoki",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-04-14T20:00+02:00"
+},{
+"nom": "Ciudad Jara",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-04-14T20:00+02:00"
+},{
+"nom": "Crystal Fighters",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-04-14T20:00+02:00"
+},{
+"nom": "Zoo",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-04-14T20:00+02:00"
+},{
+"nom": "Califato 3/4",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-04-14T20:00+02:00"
+},{
+"nom": "VEINTIUNO",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-04-14T21:00+02:00"
+},{
+"nom": "La Casa Azul",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "22:00",
+"mes": "MAI.2022",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-04-14T22:00+02:00"
+},{
+"nom": "La Bien Querida",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "19:00",
+"mes": "MAI.2022",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-04-15T19:00+02:00"
+},{
+"nom": "Rozalén",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "19:00",
+"mes": "MAI.2022",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-04-15T19:00+02:00"
+},{
+"nom": "Amatria",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-04-15T20:00+02:00"
+},{
+"nom": "TANXUGUEIRAS",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-04-15T20:00+02:00"
+},{
+"nom": "Fuel Fandango",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-04-15T20:00+02:00"
+},{
+"nom": "Niña Polaca",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "19:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T19:00+02:00"
+},{
+"nom": "Karavana",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "19:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T19:00+02:00"
+},{
+"nom": "Shinova",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T20:00+02:00"
+},{
+"nom": "Dani Martín",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T20:00+02:00"
+},{
+"nom": "Álvaro de Luna",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T20:00+02:00"
+},{
+"nom": "Hinds",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T21:00+02:00"
+},{
+"nom": "Rojuu",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-16T21:00+02:00"
+},{
+"nom": "Lori Meyers",
+"sala": "Recinto de festivales de Benicàssim",
+"hora": "18:00",
+"mes": "AGO.2022",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-07-14T18:00+02:00"
+},{
+"nom": "Miss Caffeina",
 "sala": "WiZink Center",
 "hora": "22:00",
-"mes": "NOV.2020",
-"dia": "31",
+"mes": "MAI.2022",
+"dia": "23",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2020-10-31T22:00+01:00"
+"dateTime": "2022-04-23T22:00+02:00"
 },{
-"nom": "Carolina Durante",
+"nom": "Carlos Sadness",
+"sala": "WiZink Center",
+"hora": "21:30",
+"mes": "MAI.2022",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-30T21:30+02:00"
+},{
+"nom": "Fito & Fitipaldis",
+"sala": "WiZink Center",
+"hora": "20:00",
+"mes": "JUN.2022",
+"dia": "13",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-05-13T20:00+02:00"
+},{
+"nom": "NIL MOLINER",
+"sala": "WiZink Center",
+"hora": "21:00",
+"mes": "JUN.2022",
+"dia": "19",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-05-19T21:00+02:00"
+},{
+"nom": "Kiss",
 "sala": "WiZink Center",
 "hora": "19:00",
-"mes": "Invalid mes.2020",
-"dia": "28",
+"mes": "AGO.2022",
+"dia": "03",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-07-03T19:00+02:00"
+},{
+"nom": "The Black Crowes",
+"sala": "WiZink Center",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-10-18T21:00+02:00"
+},{
+"nom": "The Weeknd",
+"sala": "WiZink Center",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "24",
 "textdia": "dilluns",
 "ciutat": "",
-"dateTime": "2020-12-28T19:00+01:00"
+"dateTime": "2022-10-24T21:30+02:00"
+},{
+"nom": "Franz Ferdinand",
+"sala": "WiZink Center",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "26",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-26T21:00+02:00"
+},{
+"nom": "Izal",
+"sala": "WiZink Center",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-29T20:00+02:00"
 },{
 "nom": "Bon Iver",
 "sala": "WiZink Center",
 "hora": "21:00",
-"mes": "FEB.2021",
-"dia": "26",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2021-01-26T21:00+01:00"
-},{
-"nom": "Nick Cave and The Bad Seeds",
-"sala": "WiZink Center",
-"hora": "20:30",
-"mes": "JUN.2021",
-"dia": "23",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2021-05-23T20:30+02:00"
-},{
-"nom": "Vetusta Morla",
-"sala": "Plaza de Toros / Valencia",
-"hora": "22:00",
-"mes": "OCT.2020",
-"dia": "02",
+"mes": "DES.2022",
+"dia": "09",
 "textdia": "dimecres",
 "ciutat": "",
-"dateTime": "2020-09-02T22:00+02:00"
+"dateTime": "2022-11-09T21:00+01:00"
 },{
-"nom": "Vetusta Morla",
-"sala": "Plaza de Toros / Valencia",
-"hora": "22:00",
-"mes": "OCT.2020",
-"dia": "03",
+"nom": "Dorian",
+"sala": "WiZink Center",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-25T21:00+01:00"
+},{
+"nom": "Bastille",
+"sala": "WiZink Center",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "30",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-30T19:00+01:00"
+},{
+"nom": "Justin Bieber",
+"sala": "WiZink Center",
+"hora": "20:00",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-01-23T20:00+01:00"
+},{
+"nom": "Beret",
+"sala": "Son Fusteret",
+"hora": "21:30",
+"mes": "JUL.2022",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-06-11T21:30+02:00"
+},{
+"nom": "Fito & Fitipaldis",
+"sala": "Son Fusteret",
+"hora": "20:00",
+"mes": "JUL.2022",
+"dia": "23",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2020-09-03T22:00+02:00"
+"dateTime": "2022-06-23T20:00+02:00"
+},{
+"nom": "Franz Ferdinand",
+"sala": "Son Fusteret",
+"hora": "20:00",
+"mes": "JUL.2022",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-06-25T20:00+02:00"
+},{
+"nom": "Shinova",
+"sala": "Playa de Poniente / Torre del Mar (Málaga)",
+"hora": "20:00",
+"mes": "AGO.2022",
+"dia": "06",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-07-06T20:00+02:00"
+},{
+"nom": "Juanito Makandé",
+"sala": "Playa de Poniente / Torre del Mar (Málaga)",
+"hora": "19:00",
+"mes": "AGO.2022",
+"dia": "07",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-07-07T19:00+02:00"
+},{
+"nom": "Toundra",
+"sala": "Garaje Beat Club",
+"hora": "22:30",
+"mes": "JUN.2022",
+"dia": "13",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-05-13T22:30+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Garaje Beat Club",
+"hora": "22:00",
+"mes": "NOV.2022",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-28T22:00+02:00"
+},{
+"nom": "Toundra",
+"sala": "Moon",
+"hora": "21:00",
+"mes": "JUN.2022",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-05-14T21:00+02:00"
+},{
+"nom": "Ladilla Rusa",
+"sala": "Moon",
+"hora": "20:00",
+"mes": "JUN.2022",
+"dia": "19",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-05-19T20:00+02:00"
+},{
+"nom": "Rojuu",
+"sala": "Escenario Santander",
+"hora": "20:30",
+"mes": "MAI.2022",
+"dia": "29",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-04-29T20:30+02:00"
+},{
+"nom": "DePedro",
+"sala": "Escenario Santander",
+"hora": "21:00",
+"mes": "JUN.2022",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-05-21T21:00+02:00"
+},{
+"nom": "The Sadies",
+"sala": "Escenario Santander",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-10T21:00+01:00"
+},{
+"nom": "Maruja Limón",
+"sala": "Auditorio Natural de Lanuza",
+"hora": "20:30",
+"mes": "AGO.2022",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-07-15T20:30+02:00"
+},{
+"nom": "Ara Malikian",
+"sala": "Auditorio Natural de Lanuza",
+"hora": "18:30",
+"mes": "AGO.2022",
+"dia": "31",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-07-31T18:30+02:00"
+},{
+"nom": "Pablo Und Destruktion",
+"sala": "16 toneladas",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-04-23T21:00+02:00"
+},{
+"nom": "Fantastic Negrito",
+"sala": "16 toneladas",
+"hora": "22:00",
+"mes": "AGO.2022",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-07-14T22:00+02:00"
+},{
+"nom": "The Sadies",
+"sala": "16 toneladas",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-17T21:30+01:00"
+},{
+"nom": "Pat Metheny",
+"sala": "Real Jardín Botánico Alfonso XIII",
+"hora": "21:30",
+"mes": "JUL.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-06-18T21:30+02:00"
+},{
+"nom": "Wilco",
+"sala": "Real Jardín Botánico Alfonso XIII",
+"hora": "21:00",
+"mes": "JUL.2022",
+"dia": "27",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-06-27T21:00+02:00"
+},{
+"nom": "Belle and Sebastian + Beth Orton",
+"sala": "Real Jardín Botánico Alfonso XIII",
+"hora": "21:00",
+"mes": "AGO.2022",
+"dia": "02",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-07-02T21:00+02:00"
+},{
+"nom": "Crowded House",
+"sala": "Real Jardín Botánico Alfonso XIII",
+"hora": "21:00",
+"mes": "AGO.2022",
+"dia": "03",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-07-03T21:00+02:00"
+},{
+"nom": "Agnes Obel",
+"sala": "Real Jardín Botánico Alfonso XIII",
+"hora": "20:00",
+"mes": "AGO.2022",
+"dia": "05",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-07-05T20:00+02:00"
+},{
+"nom": "ZUCCHERO",
+"sala": "Real Jardín Botánico Alfonso XIII",
+"hora": "21:00",
+"mes": "AGO.2022",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-07-14T21:00+02:00"
+},{
+"nom": "Sexy Zebras",
+"sala": "Sala BUT",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-04-22T21:00+02:00"
+},{
+"nom": "Nick Waterhouse",
+"sala": "Sala BUT",
+"hora": "21:00",
+"mes": "JUN.2022",
+"dia": "09",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-05-09T21:00+02:00"
+},{
+"nom": "Green Valley",
+"sala": "Sala BUT",
+"hora": "20:00",
+"mes": "JUL.2022",
+"dia": "03",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-06-03T20:00+02:00"
+},{
+"nom": "Kae Tempest",
+"sala": "Sala BUT",
+"hora": "21:00",
+"mes": "Invalid mes.2022",
+"dia": "09",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T21:00+01:00"
+},{
+"nom": "Lido Pimienta",
+"sala": "Dabadaba",
+"hora": "21:00",
+"mes": "JUN.2022",
+"dia": "07",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-05-07T21:00+02:00"
 }
 ]}
