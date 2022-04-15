@@ -2,13 +2,13 @@
 "concerts": [
 {
 "nom": "Urg",
-"hora":"21:00",
 "sala": "VOL",
-"mes":"ABR.2022",
-"dia":"16",
-"textdia":"divendres",
-"ciutat":"Barcelona",
-"datetime":"2022-04-16T21:00+02:00"
+"hora": "21:00",
+"mes": "ABR.2022",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "Barcelona",
+"datetime": "2022-04-16T21:00+02:00"
 },{
 "nom": "Imelda May",
 "sala": "Oasis Club Teatro",
