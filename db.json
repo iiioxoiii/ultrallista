@@ -10,59 +10,59 @@
 "ciutat": "",
 "dateTime": "2022-10-01T22:00+02:00"
 },{
-"nom": "Imelda May",
-"sala": "Oasis Club Teatro",
-"hora": "21:00",
-"mes": "JUL.2022",
-"dia": "10",
-"textdia": "divendres",
+"nom": "Hopeful",
+"sala": "Saltamarges Fest",
+"hora": "??:??",
+"mes": "OCT.2022",
+"dia": "01",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-06-10T21:00+02:00"
+"dateTime": "2022-10-10T21:00+02:00"
 },{
-"nom": "Green Valley",
-"sala": "Recinto Festival / Pirata Rock",
-"hora": "20:00",
-"mes": "AGO.2022",
-"dia": "14",
-"textdia": "dijous",
+"nom": "L'hereu Escampa",
+"sala": "Santamarges Fest",
+"hora": "??:??",
+"mes": "OCT.2022",
+"dia": "01",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-07-14T20:00+02:00"
+"dateTime": "2022-10-01T20:00+02:00"
 },{
-"nom": "Shinova",
-"sala": "Aquapark de Calvià",
-"hora": "20:00",
-"mes": "JUL.2022",
-"dia": "24",
-"textdia": "divendres",
+"nom": "Nöia",
+"sala": "Saltamarges Fest",
+"hora": "??:??",
+"mes": "OCT.2022",
+"dia": "01",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-06-24T20:00+02:00"
+"dateTime": "2022-10-01T20:00+02:00"
 },{
-"nom": "Carla",
-"sala": "Centro Cultural MVA",
-"hora": "20:00",
-"mes": "JUL.2022",
-"dia": "16",
-"textdia": "dijous",
+"nom": "C.A.L.M",
+"sala": "Saltamarges Fest",
+"hora": "??:??",
+"mes": "OCT.2022",
+"dia": "01",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-06-16T20:00+02:00"
+"dateTime": "2022-10-01T20:00+02:00"
 },{
-"nom": "Kid Francescoli",
-"sala": "Sala Cool",
-"hora": "21:00",
-"mes": "JUN.2022",
-"dia": "19",
-"textdia": "dijous",
+"nom": "Not Scientist",
+"sala": "Fusionica",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-05-19T21:00+02:00"
+"dateTime": "2022-10-22T21:00+02:00"
 },{
-"nom": "Shinova",
-"sala": "Recinto festival / Cooltural Fest",
-"hora": "20:00",
-"mes": "SET.2022",
-"dia": "19",
-"textdia": "divendres",
+"nom": "Zeidun",
+"sala": "Fusionica",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-08-19T20:00+02:00"
+"dateTime": "2022-10-22T20:00+02:00"
 },{
 "nom": "Saïm",
 "sala": "Saltamarges Fest",
@@ -109,41 +109,41 @@
 "ciutat": "",
 "dateTime": "2022-10-14T20:00+02:00"
 },{
-"nom": "Aerosmith",
-"sala": "Wanda Metropolitano",
-"hora": "19:00",
-"mes": "JUL.2022",
-"dia": "04",
+"nom": "Saïm",
+"sala": "Fusiònica",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "22",
 "textdia": "dissabte",
-"ciutat": "Madrid",
-"dateTime": "2022-06-04T19:00+02:00"
-},{
-"nom": "Parcels",
-"sala": "Mad Cool / Valdebebas",
-"hora": "20:00",
-"mes": "AGO.2022",
-"dia": "06",
-"textdia": "dimecres",
 "ciutat": "",
-"dateTime": "2022-07-06T20:00+02:00"
+"dateTime": "2022-10-22T20:30+02:00"
 },{
-"nom": "C. Tangana",
-"sala": "Gran Canaria Arena",
-"hora": "19:00",
-"mes": "AGO.2022",
-"dia": "08",
-"textdia": "divendres",
+"nom": "Tano",
+"sala": "Fusiònica",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-07-08T19:00+02:00"
+"dateTime": "2022-10-22T20:00+02:00"
 },{
-"nom": "Killy",
-"sala": "Cha Chá",
-"hora": "20:00",
-"mes": "NOV.2022",
-"dia": "07",
-"textdia": "divendres",
+"nom": "Tansumica",
+"sala": "Fusiònica",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-10-07T20:00+02:00"
+"dateTime": "2022-10-22T20:30+02:00"
+},{
+"nom": "dj. Crustaci",
+"sala": "Fusionica",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T20:30+02:00"
 },{
 "nom": "C. Tangana",
 "sala": "Explanada de la Caja Mágica",
