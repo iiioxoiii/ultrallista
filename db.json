@@ -91,14 +91,14 @@
 "ciutat": "",
 "dateTime": "2022-08-16T22:30+02:00"
 },{
-"nom": "Fito & Fitipaldis",
-"sala": "Navarra Arena",
+"nom": "Macromassa",
+"sala": "Palau Robert",
 "hora": "20:00",
-"mes": "MAI.2022",
-"dia": "23",
-"textdia": "dissabte",
+"mes": "SET.2022",
+"dia": "22",
+"textdia": "dijous",
 "ciutat": "",
-"dateTime": "2022-04-23T20:00+02:00"
+"dateTime": "2022-09-22T22:00+02:00"
 },{
 "nom": "Shinova",
 "sala": "La Marina de València",
@@ -145,23 +145,23 @@
 "ciutat": "",
 "dateTime": "2022-10-22T20:30+02:00"
 },{
-"nom": "C. Tangana",
-"sala": "Explanada de la Caja Mágica",
-"hora": "12:00",
-"mes": "JUL.2022",
-"dia": "30",
+"nom": "Adrià Font",
+"sala": "Palau Robert",
+"hora": "20:00",
+"mes": "SET.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-09-23T20:00+02:00"
+},{
+"nom": "Lolo & Sosaku",
+"sala": "Palau Robert",
+"hora": "21:00",
+"mes": "SET.2022",
+"dia": "23",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2022-06-30T12:00+02:00"
-},{
-"nom": "Stu Larsen",
-"sala": "Nazca",
-"hora": "21:00",
-"mes": "MAI.2022",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-04-23T21:00+02:00"
+"dateTime": "2022-09-23T21:00+02:00"
 },{
 "nom": "MATT MALTESE",
 "sala": "Laut",
