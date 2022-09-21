@@ -187,7 +187,7 @@
 "dia": "25",
 "textdia": "diumenge",
 "ciutat": "",
-"dateTime": "2022-09-24T01:00+02:00"
+"dateTime": "2022-09-25T01:00+02:00"
 },{
 "nom": "Brot Finalistes",
 "sala": "Moll de la Fusta Llobregat",
@@ -873,15 +873,6 @@
 "ciutat": "",
 "dateTime": "2022-06-25T22:00+02:00"
 },{
-"nom": "Larkin Poe",
-"sala": "Jerusalem Club",
-"hora": "22:00",
-"mes": "JUN.2022",
-"dia": "13",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-05-13T22:00+02:00"
-},{
 "nom": "Whisky Caravan",
 "sala": "Garage Beat Club",
 "hora": "20:00",
@@ -890,60 +881,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-02-18T20:00+01:00"
-},{
-"nom": "Itaca Band",
-"sala": "Repvblicca",
-"hora": "21:00",
-"mes": "MAI.2022",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-04-23T21:00+02:00"
-},{
-"nom": "Fito & Fitipaldis",
-"sala": "Plaza de Toros / Albacete",
-"hora": "20:00",
-"mes": "JUN.2022",
-"dia": "21",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-05-21T20:00+02:00"
-},{
-"nom": "Ara Malikian",
-"sala": "Parc del Pinaret",
-"hora": "22:00",
-"mes": "AGO.2022",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-07-29T22:00+02:00"
-},{
-"nom": "Rojuu",
-"sala": "Sala Acapulco",
-"hora": "20:30",
-"mes": "MAI.2022",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-04-30T20:30+02:00"
-},{
-"nom": "Itaca Band",
-"sala": "Masterclub",
-"hora": "22:00",
-"mes": "JUN.2022",
-"dia": "21",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-05-21T22:00+02:00"
-},{
-"nom": "Ara Malikian",
-"sala": "Teatro Real de Madrid",
-"hora": "21:00",
-"mes": "Invalid mes.2022",
-"dia": "28",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-12-28T21:00+01:00"
 },{
 "nom": "La Trinidad",
 "sala": "vol",
