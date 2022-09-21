@@ -1,5 +1,464 @@
 {
 "concerts": [{
+"nom": "Durag presenta: ...",
+"sala": "Moll de la Fusta Llobregat",
+"hora": "21:30",
+"mes": "SET.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-09-23T21:30+02:00"
+},{
+"nom": "Maga",
+"sala": "Nau Bostik",
+"hora": "21:00",
+"mes": "SET.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-09-23T21:00+02:00"
+},{
+"nom": "Eli Almic",
+"sala": "Nau Bostik",
+"hora": "22:00",
+"mes": "SET.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-09-23T22:00+02:00"  
+},{
+"nom": "Koers",
+"sala": "Nau Bostik",
+"hora": "21:00",
+"mes": "SET.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-09-23T23:00+02:00"
+},{
+"nom": "Miquel i Novel Quintet",
+"sala": "Fabra i Coats Fabra",
+"hora": "17:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T17:00+02:00"
+},{
+"nom": "Noko Woi",
+"sala": "Fabra i Coats Fabra",
+"hora": "19:15",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T19:15+02:00"
+},{
+"nom": "Senyor Oca",
+"sala": "Fabra i Coats Fabra",
+"hora": "21:30",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T21:30+02:00"
+},{
+"nom": "Trezor",
+"sala": "Fabra i Coats Fabra",
+"hora": "23:45",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T23:45+02:00"
+},{
+"nom": "Lunaki",
+"sala": "Moll de la Fusta Llobregat",
+"hora": "02:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-23T02:00+02:00"
+},{
+"nom": "Duo Ruut",
+"sala": "Moll de la Fusta Besòs",
+"hora": "21:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T21:00+02:00"
+},{
+"nom": "Marina Satti",
+"sala": "Moll de la Fusta Besòs",
+"hora": "23:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T23:00+02:00"
+},{
+"nom": "Anikka",
+"sala": "Moll de la Fusta Besòs",
+"hora": "01:00",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-24T01:00+02:00"
+},{
+"nom": "Brot Finalistes",
+"sala": "Moll de la Fusta Llobregat",
+"hora": "19:30",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-23T19:30+02:00"
+},{
+"nom": "Cruhda",
+"sala": "Moll de la Fusta Llobregat",
+"hora": "22:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T22:00+02:00"
+},{
+"nom": "Molly Nilsson",
+"sala": "Moll de la Fusta Llobregat",
+"hora": "00:10",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T00:10+02:00"
+},{
+"nom": "Frantic Amber",
+"sala": "Moll de la Fusta Llobregat",
+"hora": "02:00",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-23T02:00+02:00"
+},{
+"nom": "La élite + Sin bragas",
+"sala": "Moll de la Fusta Llobregat",
+"hora": "00:10",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-23T00:00+02:00"
+},{
+"nom": "Álvaro Sola",
+"sala": "Moll de la Fusta Besòs",
+"hora": "23:00",
+"mes": "SET.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-09-23T23:00+02:00"
+},{
+"nom": "Miss Raisa",
+"sala": "Moll de la Fusta Besòs",
+"hora": "20:45",
+"mes": "SET.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-09-23T20:45+02:00"
+},{
+"nom": "Lao Ra",
+"sala": "Moll de la Fusta Besòs",
+"hora": "01:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-23T01:00+02:00"
+},{
+"nom": "Yeli Yeli",
+"sala": "Rambla del Rabal",
+"hora": "23:00",
+"mes": "SET.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-09-23T23:00+02:00"
+},{
+"nom": "Diversorium",
+"sala": "Rambla del Rabal",
+"hora": "21:00",
+"mes": "SET.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-09-23T21:00+02:00"
+},{
+"nom": "Júlia Colom",
+"sala": "Ant.Fàbrica Damm",
+"hora": "13:00",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-24T13:00+02:00"
+},{
+"nom": "Cooba & La Queency",
+"sala": "Ant.Fàbrica Damm",
+"hora": "19:15",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-25T20:15+02:00"
+},{
+"nom": "Fotos de la novia",
+"sala": "Ant.Fàbrica Damm",
+"hora": "18:15",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-25T18:15+02:00"
+},{
+"nom": "Krissia + Lil Ella",
+"sala": "Ant.Fàbrica Damm",
+"hora": "17:00",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-25T21:00+02:00"
+},{
+"nom": "Asmâa Hamzaoui & BNAT Timbouktou",
+"sala": "Rambla del Rabal",
+"hora": "00:30",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-23T00:30+02:00"
+},{
+"nom": "Issam",
+"sala": "Rambla del Rabal",
+"hora": "23:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T23:00+02:00"
+},{
+"nom": "Sunkusi presenta ...",
+"sala": "Rambla del Rabal",
+"hora": "21:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T21:00+02:00"
+},{
+"nom": "Cartel Madras",
+"sala": "Rambla del Rabal",
+"hora": "00:30",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T23:59+02:00"
+},{
+"nom": "Duo Ruut",
+"sala": "Moll de la Fusta esc.Besòs",
+"hora": "21:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T21:00+02:00"
+},{
+"nom": "Soledad Vélez",
+"sala": "Moll de la Fusta esc.Besòs",
+"hora": "01:00",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-24T01:00+02:00"
+},{
+"nom": "Martina Satti",
+"sala": "Moll de la Fusta esc.Besòs",
+"hora": "23:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T23:00+02:00"
+},{
+"nom": "Frantic Amber",
+"sala": "Moll de la Fusta esc.Llobregat",
+"hora": "02:00",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T02:00+02:00"
+},{
+"nom": "Molly Nilsson",
+"sala": "Moll de la Fusta esc.Llobregat",
+"hora": "00:10",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T00:10+02:00"
+},{
+"nom": "Cruhda",
+"sala": "Moll de la Fusta esc.Llobregat",
+"hora": "22:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T22:00+02:00"
+},{
+"nom": "Toro presenta...",
+"sala": "Moll de la Fusta esc. Besòs",
+"hora": "22:30",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T22:30+02:00"
+},{
+"nom": "Yessi Perse + Cor de ...",
+"sala": "Moll de la Fusta Llobregat",
+"hora": "02:00",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T02:00+02:00"
+},{
+"nom": "La URSS",
+"sala": "Moll de la Fusta Llobregat",
+"hora": "00:10",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T00:10+02:00"
+},{
+"nom": "Yessi Perse + Cor ...",
+"sala": "Moll de la Fusta Llobregat",
+"hora": "02:00",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T02:00+02:00"
+},{
+"nom": "Bones Of Minerva",
+"sala": "Moll de la Fusta Llobregat",
+"hora": "21:30",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T21:30+02:00"
+},{
+"nom": "DHAN + Polemik + Megane M",
+"sala": "Moll de la Fusta Besòs",
+"hora": "20:00",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T20:00+02:00"
+},{
+"nom": "Jokko",
+"sala": "Moll de la Fusta Besòs",
+"hora": "01:00",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T01:00+02:00"
+},{
+"nom": "Nídia",
+"sala": "Rambla del Rabal",
+"hora": "21:30",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T21:30+02:00"
+},{
+"nom": "Tristany",
+"sala": "Rambla del Rabal",
+"hora": "23:00",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T23:00+02:00"
+},{
+"nom": "Pedro Mafama",
+"sala": "Rambla del Rabal",
+"hora": "00:30",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T23:59+02:00"
+},{
+"nom": "Catàrsia presenta...",
+"sala": "Ant. Fàbrica Damm",
+"hora": "13:00",
+"mes": "SET.2022",
+"dia": "26",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-09-26T13:00+02:00"
+},{
+"nom": "Anna Ferrer",
+"sala": "Ant. Fàbrica Damm",
+"hora": "17:15",
+"mes": "SET.2022",
+"dia": "26",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-09-26T17:15+02:00"
+},{
+"nom": "Magia Brita",
+"sala": "Ant. Fàbrica Damm",
+"hora": "18:15",
+"mes": "SET.2022",
+"dia": "26",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-09-26T18:15+02:00"
+},{
+"nom": "Los Voluble",
+"sala": "Ant. Fàbrica Damm",
+"hora": "19:15",
+"mes": "SET.2022",
+"dia": "26",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-09-26T19:15+02:00"
+},{
+"nom": "Mans O",
+"sala": "Ant. Fàbrica Damm",
+"hora": "20:15",
+"mes": "SET.2022",
+"dia": "26",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-09-26T20:15+02:00"
+},{
 "nom": "La Orquesta Mondragón",
 "sala": "Razzmatazz",
 "hora": "21:00",
