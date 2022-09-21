@@ -37,7 +37,7 @@
 "dateTime": "2022-09-23T23:00+02:00"
 },{
 "nom": "Miquel i Novel Quintet",
-"sala": "Fabra i Coats Fabra",
+"sala": "Fabra i Coats - Fabra",
 "hora": "17:00",
 "mes": "SET.2022",
 "dia": "24",
@@ -46,7 +46,7 @@
 "dateTime": "2022-09-24T17:00+02:00"
 },{
 "nom": "Noko Woi",
-"sala": "Fabra i Coats Fabra",
+"sala": "Fabra i Coats - Fabra",
 "hora": "19:15",
 "mes": "SET.2022",
 "dia": "24",
@@ -55,7 +55,7 @@
 "dateTime": "2022-09-24T19:15+02:00"
 },{
 "nom": "Senyor Oca",
-"sala": "Fabra i Coats Fabra",
+"sala": "Fabra i Coats - Fabra",
 "hora": "21:30",
 "mes": "SET.2022",
 "dia": "24",
@@ -71,6 +71,87 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-09-24T23:45+02:00"
+},{
+"nom": "Remei de Ca la Fresca",
+"sala": "Fabra i Coats - Harmonia",
+"hora": "18:45",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T18:45+02:00"
+},{
+"nom": "Tnde",
+"sala": "Fabra i Coats - Harmonia",
+"hora": "20:30",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T20:30+02:00"
+},{
+"nom": "Robot Emilio",
+"sala": "Fabra i Coats - Harmonia",
+"hora": "22:45",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T22:45+02:00"
+},{
+"nom": "Flamenco Metropolitan",
+"sala": "Fabra i Coats - Interior",
+"hora": "18:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T18:00+02:00"
+},{
+"nom": "Joana Dark",
+"sala": "Fabra i Coats - Interior",
+"hora": "20:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T20:00+02:00"
+},{
+"nom": "Zbabek + Nara N + Amas",
+"sala": "Fabra i Coats - Interior",
+"hora": "21:45",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T21:45+02:00"
+},{
+"nom": "Eva Fernández",
+"sala": "Fabra i Coats - Interior",
+"hora": "12:00",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T12:00+02:00"
+},{
+"nom": "Las Opinólogas",
+"sala": "Fabra i Coats - Interior",
+"hora": "13:30",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T13:30+02:00"
+},{
+"nom": "Dj Trapella",
+"sala": "Fabra i Coats - Interior",
+"hora": "14:30",
+"mes": "SET.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-09-25T14:30+02:00"
 },{
 "nom": "Lunaki",
 "sala": "Moll de la Fusta Llobregat",
