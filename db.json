@@ -1,5 +1,14 @@
 {
 "concerts": [{
+"nom": "The Roosters",
+"sala": "Bar Bocamoll - Sant Cugat",
+"hora": "20:00",
+"mes": "SET.2022",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-09-22T20:00+02:00"
+},{
 "nom": "Durag presenta: ...",
 "sala": "Moll de la Fusta Llobregat",
 "hora": "21:30",
