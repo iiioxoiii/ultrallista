@@ -1,5 +1,14 @@
 {
 "concerts": [{
+"nom": "Sonics",
+"sala": "Ritchman",
+"hora": "20:00",
+"mes": "SET.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-22T20:00+02:00"
+},{
 "nom": "The Roosters",
 "sala": "Bar Bocamoll - Sant Cugat",
 "hora": "20:00",
