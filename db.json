@@ -189,6 +189,15 @@
 "ciutat": "",
 "dateTime": "2022-10-08T21:00+02:00"
 },{
+"nom": "Veus Lliures + Teranyines",
+"sala": "LEM - La Sedeta",
+"hora": "19:45",
+"mes": "OCT.2022",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-08T19:45+02:00"
+},{
 "nom": "Cruzando el charco",
 "sala": "Razzmatazz[3]",
 "hora": "21:30",
@@ -198,6 +207,24 @@
 "ciutat": "",
 "dateTime": "2022-10-09T21:30+02:00"
 },{
+"nom": "Radio Internazionale",
+"sala": "Seu Gràcia Territori Sonor",
+"hora": "19:45",
+"mes": "OCT.2022",
+"dia": "13",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-13T19:45+02:00"
+},{
+"nom": "Orchestra Fireduche",
+"sala": "Tradicionarius LEM",
+"hora": "20:15",
+"mes": "OCT.2022",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-14T20:15+02:00"
+},{
 "nom": "Les Rencards",
 "sala": "Almo2bar",
 "hora": "20:30",
@@ -206,6 +233,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-10-14T21:30+02:00"
+},{
+"nom": "Joan Bagés",
+"sala": "Església Sant Joan LEM",
+"hora": "19:45",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T19:45+02:00"
 },{
 "nom": "Invisible Harvey + Navarri",
 "sala": "Almo2bar",
@@ -296,6 +332,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-10-08T21:00+02:00"
+},{
+"nom": "Sarram + Stahlfabrik",
+"sala": "Convent Sant Agustí LEM",
+"hora": "19:45",
+"mes": "OCT.2022",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-21T19:45+02:00"
 },{
 "nom": "Not Scientist",
 "sala": "Fusionica",
