@@ -58,7 +58,7 @@
 "sala": "Razzmatazz",
 "hora": "21:00",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-01T21:00+02:00"
@@ -67,7 +67,7 @@
 "sala": "Almo2bar",
 "hora": "20:30",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-10-01T20:30+02:00"
@@ -76,7 +76,7 @@
 "sala": "Almo2bar",
 "hora": "21:30",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-10-01T21:30+02:00"
@@ -85,7 +85,7 @@
 "sala": "Razzmatazz[3]",
 "hora": "21:45",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-01T21:45+02:00"
@@ -94,7 +94,7 @@
 "sala": "Razzmatazz[2]",
 "hora": "19:00",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-01T19:00+02:00"
@@ -103,7 +103,7 @@
 "sala": "Razzmatazz",
 "hora": "20:30",
 "mes": "OCT.2022",
-"dia": "02",
+"dia": "2",
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2022-10-02T19:15+02:00"
@@ -112,7 +112,7 @@
 "sala": "Almo2bar",
 "hora": "20:30",
 "mes": "OCT.2022",
-"dia": "02",
+"dia": "2",
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2022-10-02T20:30+02:00"
@@ -157,7 +157,7 @@
 "sala": "Razzmatazz[1]",
 "hora": "20:30",
 "mes": "OCT.2022",
-"dia": "07",
+"dia": "7",
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-10-07T20:30+02:00"
@@ -166,7 +166,7 @@
 "sala": "Razzmatazz[1]",
 "hora": "20:00",
 "mes": "SET.2022",
-"dia": "08",
+"dia": "8",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-08T20:00+02:00"
@@ -175,7 +175,7 @@
 "sala": "Razzmatazz[3]",
 "hora": "21:00",
 "mes": "OCT.2022",
-"dia": "08",
+"dia": "8",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-08T21:00+02:00"
@@ -193,7 +193,7 @@
 "sala": "Razzmatazz[3]",
 "hora": "21:30",
 "mes": "OCT.2022",
-"dia": "09",
+"dia": "9",
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2022-10-09T21:30+02:00"
@@ -247,7 +247,7 @@
 "sala": "Saltamarges Fest",
 "hora": "??:??",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-01T22:00+02:00"
@@ -256,7 +256,7 @@
 "sala": "Saltamarges Fest",
 "hora": "??:??",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-10T21:00+02:00"
@@ -265,7 +265,7 @@
 "sala": "Santamarges Fest",
 "hora": "??:??",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-01T20:00+02:00"
@@ -274,7 +274,7 @@
 "sala": "Saltamarges Fest",
 "hora": "??:??",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-01T20:00+02:00"
@@ -283,7 +283,7 @@
 "sala": "Saltamarges Fest",
 "hora": "??:??",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-01T20:00+02:00"
@@ -292,7 +292,7 @@
 "sala": "Continental Bar",
 "hora": "21:00",
 "mes": "NOV.2022",
-"dia": "08",
+"dia": "8",
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-10-08T21:00+02:00"
@@ -319,7 +319,7 @@
 "sala": "Saltamarges Fest",
 "hora": "??:??",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-01T20:00+02:00"
@@ -328,7 +328,7 @@
 "sala": "Continental Bar",
 "hora": "21:00",
 "mes": "NOV.2022",
-"dia": "04",
+"dia": "4",
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-11-04T21:00+02:00"
@@ -337,7 +337,7 @@
 "sala": "Continental Bar",
 "hora": "21:00",
 "mes": "NOV.2022",
-"dia": "05",
+"dia": "5",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-05T21:30+02:00"
@@ -346,7 +346,7 @@
 "sala": "Razzmatazz[1]",
 "hora": "<sold out>",
 "mes": "OCT.2022",
-"dia": "09",
+"dia": "9",
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-10-09T20:30+02:00"
@@ -364,7 +364,7 @@
 "sala": "Continental Bar",
 "hora": "22:00",
 "mes": "DES.2022",
-"dia": "02",
+"dia": "2",
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-02T22:00+02:00"
@@ -553,7 +553,7 @@
 "sala": "vol",
 "hora": "21:30",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-01T21:30+02:00"
@@ -562,7 +562,7 @@
 "sala": "vol",
 "hora": "22:00",
 "mes": "OCT.2022",
-"dia": "01",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-01T21:30+02:00"
@@ -625,7 +625,7 @@
 "sala": "vol",
 "hora": "21:30",
 "mes": "NOV.2022",
-"dia": "05",
+"dia": "5",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-05T21:30+02:00"
@@ -661,7 +661,7 @@
 "sala": "Mon Madrid",
 "hora": "20:00",
 "mes": "DES.2022",
-"dia": "05",
+"dia": "5",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-05T20:00+01:00"
@@ -679,7 +679,7 @@
 "sala": "Wolf Club",
 "hora": "21:30",
 "mes": "OCT.2022",
-"dia": "03",
+"dia": "3",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-09-03T21:30+02:00"
@@ -751,7 +751,7 @@
 "sala": "WiZink Center",
 "hora": "21:00",
 "mes": "DES.2022",
-"dia": "09",
+"dia": "9",
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2022-11-09T21:00+01:00"
@@ -814,7 +814,7 @@
 "sala": "Sala BUT",
 "hora": "21:00",
 "mes": "DES.2022",
-"dia": "09",
+"dia": "9",
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-09T21:00+01:00"
