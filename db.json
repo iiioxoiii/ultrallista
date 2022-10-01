@@ -135,6 +135,15 @@
 "ciutat": "",
 "dateTime": "2022-10-05T20:00+02:00"
 },{
+"nom": "Jordi Heras i Gabriel Pereira",
+"sala": "Seu Gracia Territori Sonor - LEM",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "6",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-06T20:00+02:00"
+},{
 "nom": "Mirtils + Bord",
 "sala": "Almo2bar",
 "hora": "20:00",
@@ -342,6 +351,15 @@
 "ciutat": "",
 "dateTime": "2022-10-08T21:00+02:00"
 },{
+"nom": "Encontres en l'Espai-Temps",
+"sala": "Seu Gracia Territori Sonor - LEM",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "20",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-20T20:00+02:00"
+},{
 "nom": "Sarram + Stahlfabrik",
 "sala": "Convent Sant Agustí LEM",
 "hora": "19:45",
@@ -368,6 +386,42 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-22T20:00+02:00"
+},{
+"nom": "Ana Arenas & Santi López",
+"sala": "Seu Gracia Territori Sonor - LEM",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "27",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-27T20:00+02:00"
+},{
+"nom": "Plaça",
+"sala": "Ateneu El Poblet - LEM",
+"hora": "19:00",
+"mes": "OCT.2022",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-28T19:00+02:00"
+},{
+"nom": "Jorgen Teller",
+"sala": "Museu de la Música de BCN - LEM",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-29T20:00+02:00"
+},{
+"nom": "Macromassa",
+"sala": "Museu de la Música BCN - LEM",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-29T21:00+02:00"
 },{
 "nom": "Saïm",
 "sala": "Saltamarges Fest",
