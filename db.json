@@ -274,10 +274,10 @@
 "sala": "Apolo",
 "hora": "21:00",
 "mes": "DEC.2022",
-"dia": "03",
+"dia": "3",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2022-10-03T21:00+02:00"
+"dateTime": "2022-12-03T21:00+02:00"
 },{
 "nom": "Le Nais",
 "sala": "Laut",
@@ -301,7 +301,7 @@
 "sala": "Razzmatazz[3]",
 "hora": "21:00",
 "mes": "NOV.2022",
-"dia": "06",
+"dia": "6",
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2022-11-06T21:00+02:00"
@@ -328,7 +328,7 @@
 "sala": "Apolo [2]",
 "hora": "21:00",
 "mes": "NOV.2022",
-"dia": "08",
+"dia": "8",
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2022-11-08T21:00+02:00"
@@ -689,7 +689,7 @@
 "sala": "La Nau",
 "hora": "21:30",
 "mes": "FEB.2022",
-"dia": "04",
+"dia": "4",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-02-04T21:30+02:00"
@@ -1183,7 +1183,7 @@
 "nom": "Whisky Caravan",
 "sala": "Garage Beat Club",
 "hora": "20:00",
-"mes": "MAR.2023",
+"mes": "MAR2023",
 "dia": "18",
 "textdia": "dissabte",
 "ciutat": "",
@@ -1507,8 +1507,8 @@
 "nom": "Pixies",
 "sala": "Sant Jordi Club",
 "hora": "21:00",
-"mes": "MAR.2022",
-"dia": "09",
+"mes": "MAR2023",
+"dia": "9",
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-03-09T21:00+02:00"
@@ -1516,8 +1516,8 @@
 "nom": "Blackberry Smoke",
 "sala": "Razzmatazz",
 "hora": "21:00",
-"mes": "MAR.2023",
-"dia": "04",
+"mes": "MAR2023",
+"dia": "4",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-03-24T21:00+02:00"
@@ -1562,7 +1562,7 @@
 "sala": "Palau de la Música",
 "hora": "21:00",
 "mes": "MAI.2022",
-"dia": "06",
+"dia": "6",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-05-06T21:00+02:00"
