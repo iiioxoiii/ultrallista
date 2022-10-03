@@ -405,60 +405,6 @@
 "ciutat": "",
 "dateTime": "2023-03-13T22:00+02:00"
 },{
-"nom": "Sounds From the Supermarket",
-"sala": "Almo2bar",
-"hora": "20:30",
-"mes": "OCT.2022",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-01T20:30+02:00"
-},{
-"nom": "Myke Tyson is dead",
-"sala": "Almo2bar",
-"hora": "21:30",
-"mes": "OCT.2022",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-01T21:30+02:00"
-},{
-"nom": "Savonis",
-"sala": "Razzmatazz[3]",
-"hora": "21:45",
-"mes": "OCT.2022",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-01T21:45+02:00"
-},{
-"nom": "Black Stone Cherry + The Georgia Thunderbolts",
-"sala": "Razzmatazz[2]",
-"hora": "19:00",
-"mes": "OCT.2022",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-01T19:00+02:00"
-},{
-"nom": "Sons of the East + Kim Churchill",
-"sala": "Razzmatazz",
-"hora": "20:30",
-"mes": "OCT.2022",
-"dia": "2",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-10-02T19:15+02:00"
-},{
-"nom": "Sin Sonda",
-"sala": "Almo2bar",
-"hora": "20:30",
-"mes": "OCT.2022",
-"dia": "2",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-10-02T20:30+02:00"
-},{
 "nom": "El Caribefunck",
 "sala": "Almo2bar",
 "hora": "20:00",
@@ -675,51 +621,6 @@
 "ciutat": "",
 "dateTime": "2022-10-12T19:00+02:00"
 },{
-"nom": "Bananas",
-"sala": "Saltamarges Fest",
-"hora": "??:??",
-"mes": "OCT.2022",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-01T22:00+02:00"
-},{
-"nom": "Hopeful",
-"sala": "Saltamarges Fest",
-"hora": "??:??",
-"mes": "OCT.2022",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-10T21:00+02:00"
-},{
-"nom": "L'hereu Escampa",
-"sala": "Santamarges Fest",
-"hora": "??:??",
-"mes": "OCT.2022",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-01T20:00+02:00"
-},{
-"nom": "Nöia",
-"sala": "Saltamarges Fest",
-"hora": "??:??",
-"mes": "OCT.2022",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-01T20:00+02:00"
-},{
-"nom": "C.A.L.M",
-"sala": "Saltamarges Fest",
-"hora": "??:??",
-"mes": "OCT.2022",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-01T20:00+02:00"
-},{
 "nom": "Vidus + Heden'Startrip",
 "sala": "Continental Bar",
 "hora": "21:00",
@@ -899,7 +800,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-17T21:00+02:00"
-
 },{
 "nom": "Shinova",
 "sala": "La Marina de València",
@@ -946,24 +846,6 @@
 "ciutat": "",
 "dateTime": "2022-10-22T20:30+02:00"
 },{
-"nom": "Adrià Font",
-"sala": "Palau Robert",
-"hora": "20:00",
-"mes": "SET.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-09-23T20:00+02:00"
-},{
-"nom": "Lolo & Sosaku",
-"sala": "Palau Robert",
-"hora": "21:00",
-"mes": "SET.2022",
-"dia": "23",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-09-23T21:00+02:00"
-},{
 "nom": "MATT MALTESE",
 "sala": "Laut",
 "hora": "20:00",
@@ -972,15 +854,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-15T20:00+02:00"
-},{
-"nom": "Delaporte",
-"sala": "Ruinas de la Iglesia de San Pedro",
-"hora": "22:30",
-"mes": "JUL.2022",
-"dia": "24",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-06-24T22:30+02:00"
 },{
 "nom": "The Sadies",
 "sala": "Lemon Rock",
@@ -991,15 +864,6 @@
 "ciutat": "",
 "dateTime": "2022-11-16T21:00+01:00"
 },{
-"nom": "Los Planetas",
-"sala": "Parque Enrique Tierno Galván",
-"hora": "20:00",
-"mes": "AGO.2022",
-"dia": "01",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-07-01T20:00+02:00"
-},{
 "nom": "Franz Ferdinand",
 "sala": "Bilbao Arena",
 "hora": "21:00",
@@ -1009,15 +873,6 @@
 "ciutat": "",
 "dateTime": "2022-10-27T21:00+02:00"
 },{
-"nom": "Richard Thompson",
-"sala": "Teatro Zorrilla",
-"hora": "20:00",
-"mes": "MAI.2022",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-04-23T20:00+02:00"
-},{
 "nom": "La Maravillosa Orquesta del Alcohol",
 "sala": "Sala Pelícano",
 "hora": "21:00",
@@ -1026,33 +881,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-09-24T21:00+02:00"
-},{
-"nom": "Itaca Band",
-"sala": "Sala Malatesta",
-"hora": "21:00",
-"mes": "JUN.2022",
-"dia": "20",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-05-20T21:00+02:00"
-},{
-"nom": "Porridge Radio",
-"sala": "Radar Estudios",
-"hora": "21:00",
-"mes": "MAI.2022",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-04-21T21:00+02:00"
-},{
-"nom": "Wilco",
-"sala": "Plaza de Toros / Murcia",
-"hora": "22:00",
-"mes": "JUL.2022",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-06-25T22:00+02:00"
 },{
 "nom": "Whisky Caravan",
 "sala": "Garage Beat Club",
@@ -1071,24 +899,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-01T21:30+02:00"
-},{
-"nom": "Festa Males Herbes",
-"sala": "vol",
-"hora": "22:00",
-"mes": "OCT.2022",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-01T21:30+02:00"
-},{
-"nom": "Algara+Enemic Interior+ Sin Bragas",
-"sala": "Ciutadella de Roses",
-"hora": "21:00",
-"mes": "SET.2022",
-"dia": "29",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-09-29T22:00+02:00"
 },{
 "nom": "Ummo",
 "sala": "vol",
