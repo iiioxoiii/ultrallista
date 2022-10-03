@@ -45,6 +45,24 @@
 "ciutat": "",
 "dateTime": "2022-10-07T21:30+02:00"
 },{
+"nom": "Ariox  + The Free Fall Band",
+"sala": "El Pumarejo",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-07T21:00+02:00"
+},{
+"nom": "Se Atormenta una Vecina",
+"sala": "Apolo[2]",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-08T21:00+02:00"
+},{
 "nom": "Bajada de Furros + Gaitas Anauco",
 "sala": "La Nau",
 "hora": "17:30",
@@ -90,8 +108,26 @@
 "ciutat": "",
 "dateTime": "2022-10-15T21:00+02:00"
 },{
+"nom": "Fermi",
+"sala": "The Void",
+"hora": "22:00",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T22:00+02:00"
+},{
 "nom": "L'Hereu Escampa",
 "sala": "Sala VOL",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T21:00+02:00"
+},{
+"nom": "Perturbator",
+"sala": "Razzmatazz[2]",
 "hora": "21:00",
 "mes": "OCT.2022",
 "dia": "15",
@@ -144,6 +180,15 @@
 "ciutat": "",
 "dateTime": "2022-10-23T21:00+02:00"
 },{
+"nom": "Urian Hepp",
+"sala": "Razzmatazz[1]",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T21:00+02:00"
+},{
 "nom": "Yoly Saa",
 "sala": "La Nau",
 "hora": "21:30",
@@ -152,6 +197,24 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-10-27T21:30+02:00"
+},{
+"nom": "Franz Ferdinand",
+"sala": "Sant Jordi Club",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-25T21:00+02:00"
+},{
+"nom": "Ghali",
+"sala": "Bikini",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "27",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-27T21:00+02:00"
 },{
 "nom": "Moves + Iceland",
 "sala": "La Nau (ï)",
@@ -207,6 +270,24 @@
 "ciutat": "",
 "dateTime": "2022-11-06T17:30+02:00"
 },{
+"nom": "Wolf Alice",
+"sala": "Apolo",
+"hora": "21:00",
+"mes": "DEC.2022",
+"dia": "03",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-03T21:00+02:00"
+},{
+"nom": "Le Nais",
+"sala": "Laut",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T21:30+02:00"
+},{
 "nom": "The Bad Plus",
 "sala": "La Nau",
 "hora": "21:00",
@@ -216,14 +297,50 @@
 "ciutat": "",
 "dateTime": "2022-11-05T21:00+02:00"
 },{
+"nom": "Choclock",
+"sala": "Razzmatazz[3]",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "06",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-06T21:00+02:00"
+},{
+"nom": "Bon Iver",
+"sala": "Sant Jordi Club",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "7",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-11-07T21:00+02:00"
+},{
 "nom": "El Pela Romero",
 "sala": "La Nau",
 "hora": "21:00",
 "mes": "NOV.2022",
 "dia": "8",
-"textdia": "dissabte",
+"textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2022-11-08T21:00+02:00"
+},{
+"nom": "Sam Ryder",
+"sala": "Apolo [2]",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "08",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-08T21:00+02:00"
+},{
+"nom": "The Cure",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-10T21:00+02:00"
 },{
 "nom": "Only the Poets",
 "sala": "La Nau",
@@ -234,6 +351,33 @@
 "ciutat": "",
 "dateTime": "2022-11-10T21:00+02:00"
 },{
+"nom": "Mr. Twin Sister",
+"sala": "Laut",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-10T21:00+02:00"
+},{
+"nom": "Anni B Sweet + Mariana tmb",
+"sala": "Salamandra",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+02:00"
+},{
+"nom": "Sed de mal + Sin Reputación",
+"sala": "Sala Rasa 64",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:30+02:00"
+},{
 "nom": "Jimena Amarillo",
 "sala": "La Nau",
 "hora": "21:00",
@@ -242,6 +386,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-11-11T21:00+02:00"
+},{
+"nom": "Leah Kate",
+"sala": "Razzmatazz[2]",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-14T21:00+02:00"
 },{
 "nom": "Ondara",
 "sala": "La Nau",
@@ -261,6 +414,34 @@
 "ciutat": "",
 "dateTime": "2022-11-17T21:00+02:00"
 },{
+"nom": "Lil Nas X",
+"sala": "Sant Jordi Club",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-17T21:00+02:00"
+
+},{
+"nom": "Joan Miquel Oliver",
+"sala": "Voilà",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-17T21:00+02:00"
+},{
+"nom": "Joan Miquel Oliver",
+"sala": "L'Oncle Jack",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-18T21:00+02:00"
+},{
 "nom": "Judi Jackson",
 "sala": "La Nau",
 "hora": "21:00",
@@ -269,6 +450,51 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-11-18T21:00+02:00"
+},{
+"nom": "Band Of Horses",
+"sala": "Apolo",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-18T20:00+02:00"
+},{
+"nom": "Joan Miquel Oliver",
+"sala": "Els Pagesos",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T19:00+02:00"
+},{
+"nom": "Negramaro",
+"sala": "Apolo",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T21:00+02:00"
+},{
+"nom": "Trixie and Katy",
+"sala": "Sant Jordi Club",
+"hora": "??:??",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T21:00+02:00"
+},{
+"nom": "Joan Miquel Oliver",
+"sala": "La Jazz Cava",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "20",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-20T19:00+02:00"
 },{
 "nom": "Rock & Palmas",
 "sala": "La Nau",
@@ -306,6 +532,33 @@
 "ciutat": "",
 "dateTime": "2022-11-26T21:30+02:00"
 },{
+"nom": "Joan Masdéu",
+"sala": "Vade Música",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-25T21:30+02:00"
+},{
+"nom": "Julia Jacklin",
+"sala": "Apolo",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "29",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-29T21:00+02:00"
+},{
+"nom": "Bastille",
+"sala": "Sant Jordi Club",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "29",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-29T20:00+02:00"
+},{
 "nom": "Neal Francis",
 "sala": "La Nau",
 "hora": "21:00",
@@ -315,8 +568,26 @@
 "ciutat": "",
 "dateTime": "2022-11-30T21:00+02:00"
 },{
+"nom": "Mother Mother",
+"sala": "Razzmatazz",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "30",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-30T20:30+02:00"
+},{
 "nom": "The Quireboys",
 "sala": "La Nau",
+"hora": "20:30",
+"mes": "DEC.2022",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-01T20:30+02:00"
+},{
+"nom": "The Crab Apples + Estruç",
+"sala": "Razzmatazz[3]",
 "hora": "20:30",
 "mes": "DEC.2022",
 "dia": "1",
@@ -332,6 +603,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-02T21:00+02:00"
+},{
+"nom": "Mishima 'Nadal'",
+"sala": "Cotton Club",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-16T21:00+02:00"
 },{
 "nom": "Astra Valley + We Exist even dead",
 "sala": "La Nau",
@@ -377,6 +657,24 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-01-20T22:00+02:00"
+},{
+"nom": "Joan M. Oliver + DASouza",
+"sala": "Apolo",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "21",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-21T20:30+02:00"
+},{
+"nom": "Maika Makovski",
+"sala": "Razzmatazz[2]",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-27T21:00+02:00"
 },{
 "nom": "Vidres a la Sang + Vrademargk",
 "sala": "La Nau",
@@ -909,6 +1207,15 @@
 "ciutat": "",
 "dateTime": "2022-10-22T21:00+02:00"
 },{
+"nom": "Walls",
+"sala": "Razzmatazz",
+"hora": "20:00",
+"mes": "GEN.2022",
+"dia": "7",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-07T20:00+02:00"
+},{
 "nom": "Rayden",
 "sala": "Porta Caeli",
 "hora": "20:30",
@@ -917,6 +1224,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-12T20:30+01:00"
+},{
+"nom": "La Femme",
+"sala": "Razzmatazz",
+"hora": "??:??",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-17T20:00+01:00"
 },{
 "nom": "Col·lectiu Pedant a Missa i Repicant",
 "sala": "vol",
@@ -1017,6 +1333,42 @@
 "ciutat": "",
 "dateTime": "2022-09-10T22:00+02:00"
 },{
+"nom": "The Kooks",
+"sala": "Razzmatazz",
+"hora": "20:00",
+"mes": "GEN.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-01-27T20:00+01:00"
+},{
+"nom": "Michael Bublé",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "1",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-02-1T21:00+01:00"
+},{
+"nom": "Palaye Royale",
+"sala": "Apolo",
+"hora": "??:??",
+"mes": "DES.2022",
+"dia": "15",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-02-15T21:00+01:00"
+},{
+"nom": "The Rose",
+"sala": "Razzmatazz",
+"hora": "??:??",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "dimecres",
+"ciutat": "sold out",
+"dateTime": "2023-02-15T21:00+01:00"
+},{
 "nom": "Whisky Caravan",
 "sala": "Wolf Club",
 "hora": "20:00",
@@ -1025,6 +1377,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-01-21T20:00+01:00"
+},{
+"nom": "VV",
+"sala": "Razzmatazz",
+"hora": "21:30",
+"mes": "FEB.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-24T21:30+01:00"
 },{
 "nom": "MUDHONEY",
 "sala": "Mon Live",
@@ -1142,4 +1503,85 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-09T21:00+01:00"
+},{
+"nom": "Pixies",
+"sala": "Sant Jordi Club",
+"hora": "21:00",
+"mes": "MAR.2022",
+"dia": "09",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-09T21:00+02:00"
+},{
+"nom": "Blackberry Smoke",
+"sala": "Razzmatazz",
+"hora": "21:00",
+"mes": "MAR.2023",
+"dia": "04",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-24T21:00+02:00"
+},{
+"nom": "Yungblud",
+"sala": "Sant Jordi Club",
+"hora": "20:00",
+"mes": "MAR.2023",
+"dia": "12",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-03-12T20:00+02:00"
+},{
+"nom": "OMD",
+"sala": "Apolo",
+"hora": "21:00",
+"mes": "MAR.2023",
+"dia": "17",
+"textdia": "divendres",
+"ciutat":"",
+"dateTime": "2022-03-17T21:00+02:00"
+},{
+"nom": "Roger Waters",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "MAR.2023",
+"dia": "21",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-03-21T21:00+02:00"
+},{
+"nom": "Eels",
+"sala": "Razzmatazz",
+"hora": "21:00",
+"mes": "MAR.2023",
+"dia": "27",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-27T20:00+02:00"
+},{
+"nom": "El Kanka",
+"sala": "Palau de la Música",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "06",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-06T21:00+02:00"
+},{
+"nom": "Elton John",
+"sala": "Palau Sant Jordi Club",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "22",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-05-22T21:00+02:00"
+},{
+"nom": "Elton John",
+"sala": "Palau Sant Jordi Club",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "23",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-05-23T21:00+02:00"
 }]}
