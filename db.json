@@ -1,67 +1,94 @@
 {
 "concerts": [{
-"nom": "Molina Molina",
-"sala": "almo2bar",
-"hora": "10:30",
-"mes": "SET.2022",
-"dia": "30",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-09-30T22:00+02:00"
-},{
-"nom": "Catàrsia presenta...",
-"sala": "Ant. Fàbrica Damm",
-"hora": "13:00",
-"mes": "SET.2022",
-"dia": "26",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-09-26T13:00+02:00"
-},{
-"nom": "Anna Ferrer",
-"sala": "Ant. Fàbrica Damm",
-"hora": "17:15",
-"mes": "SET.2022",
-"dia": "26",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-09-26T17:15+02:00"
-},{
-"nom": "Magia Brita",
-"sala": "Ant. Fàbrica Damm",
-"hora": "18:15",
-"mes": "SET.2022",
-"dia": "26",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-09-26T18:15+02:00"
-},{
-"nom": "Los Voluble",
-"sala": "Ant. Fàbrica Damm",
-"hora": "19:15",
-"mes": "SET.2022",
-"dia": "26",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-09-26T19:15+02:00"
-},{
-"nom": "Mans O",
-"sala": "Ant. Fàbrica Damm",
-"hora": "20:15",
-"mes": "SET.2022",
-"dia": "26",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-09-26T20:15+02:00"
-},{
-"nom": "La Orquesta Mondragón",
-"sala": "Razzmatazz",
-"hora": "21:00",
+"nom": "El Jose",
+"sala": "La Nau",
+"hora": "21:30",
 "mes": "OCT.2022",
 "dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-01T21:00+02:00"
+},{
+"nom": "Recordatorio + Lucia Fumero",
+"sala": "La Nau",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "4",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-10-04T21:00+02:00"	
+},{
+"nom": "Moonchild",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-05T21:00+02:00"
+},{
+"nom": "Camellos + El Diablo de Shanghai",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "6",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-06T21:00+02:00"
+},{
+"nom": "Amatria",
+"sala": "La Nau",
+"hora": "21:30",
+"mes": "OCT.2022",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-07T21:30+02:00"
+},{
+"nom": "Bajada de Furros + Gaitas Anauco",
+"sala": "La Nau",
+"hora": "17:30",
+"mes": "OCT.2022",
+"dia": "9",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-09T17:30+02:00"
+},{
+"nom": "Iosonouncane",
+"sala": "La Nau",
+"hora": "21:30",
+"mes": "OCT.2022",
+"dia": "12",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-12T21:30+02:00"
+},{
+"nom": "Comandante Twin",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "13",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-13T21:00+02:00"
+},{
+"nom": "Gloosito",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-14T21:00+02:00"
+},{
+"nom": "Mark Guiliana",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T21:00+02:00"
 },{
 "nom": "L'Hereu Escampa",
 "sala": "Sala VOL",
@@ -71,6 +98,312 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-15T21:00+02:00"
+},{
+"nom": "Youn Sun Nah",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "17",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-10-17T21:00+02:00"
+},{
+"nom": "El Noro y 1ra clase",
+"sala": "La Nau",
+"hora": "21:30",
+"mes": "OCT.2022",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-21T21:30+02:00"
+},{
+"nom": "Tombolo! Wayne Snow",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T21:00+02:00"
+},{
+"nom": "Friolento",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "26",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-26T21:00+02:00"
+},{
+"nom": "Adi Oasis",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T21:00+02:00"
+},{
+"nom": "Yoly Saa",
+"sala": "La Nau",
+"hora": "21:30",
+"mes": "OCT.2022",
+"dia": "27",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-27T21:30+02:00"
+},{
+"nom": "Moves + Iceland",
+"sala": "La Nau (ï)",
+"hora": "22:00",
+"mes": "OCT.2022",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-28T22:00+02:00"
+},{
+"nom": "Chef's Special",
+"sala": "La Nau",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-29T20:30+02:00"
+},{
+"nom": "Takuda Kuroda",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "30",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-30T21:00+02:00"
+},{
+"nom": "Julian Lage",
+"sala": "La Nau",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "1",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-01T21:30+02:00"
+},{
+"nom": "Lime Cordiale",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-02T21:00+02:00"
+},{
+"nom": "MDMAR + Panam + Capromosow",
+"sala": "La Nau",
+"hora": "17:30",
+"mes": "NOV.2022",
+"dia": "6",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-06T17:30+02:00"
+},{
+"nom": "The Bad Plus",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T21:00+02:00"
+},{
+"nom": "El Pela Romero",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-08T21:00+02:00"
+},{
+"nom": "Only the Poets",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-10T21:00+02:00"
+},{
+"nom": "Jimena Amarillo",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+02:00"
+},{
+"nom": "Ondara",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "15",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-15T21:00+02:00"
+},{
+"nom": "Navet",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-17T21:00+02:00"
+},{
+"nom": "Judi Jackson",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-18T21:00+02:00"
+},{
+"nom": "Rock & Palmas",
+"sala": "La Nau",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "20",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-20T21:00+02:00"
+},{
+"nom": "Tombolo! Mykki Blanco",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "21",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-21T21:00+02:00"
+},{
+"nom": "Tombolo! TV GIRL",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "24",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-24T21:00+02:00"
+},{
+"nom": "Arroz Rojo",
+"sala": "La Nau",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-26T21:30+02:00"
+},{
+"nom": "Neal Francis",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "30",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-30T21:00+02:00"
+},{
+"nom": "The Quireboys",
+"sala": "La Nau",
+"hora": "20:30",
+"mes": "DEC.2022",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-01T20:30+02:00"
+},{
+"nom": "Yawners",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "DEC.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T21:00+02:00"
+},{
+"nom": "Astra Valley + We Exist even dead",
+"sala": "La Nau",
+"hora": "20:30",
+"mes": "DEC.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T20:30+02:00"
+},{
+"nom": "Club del Rio",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "DEC.2022",
+"dia": "8",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-03T21:00+02:00"
+},{
+"nom": "Nothing, Nowhere",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "DEC.2022",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-15T21:00+02:00"
+},{
+"nom": "Vulk",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "DEC.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T21:00+02:00"
+},{
+"nom": "Tributs: U2,The Cure, DM",
+"sala": "La Nau",
+"hora": "22:00",
+"mes": "GEN.2022",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-20T22:00+02:00"
+},{
+"nom": "Vidres a la Sang + Vrademargk",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "GEN.2022",
+"dia": "28",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-28T21:00+02:00"
+},{
+"nom": "Amanda Tenfjord",
+"sala": "La Nau",
+"hora": "21:30",
+"mes": "FEB.2022",
+"dia": "04",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T21:30+02:00"
+},{
+"nom": "Tribut: Oasis, David Bowie, Coldplay",
+"sala": "La Nau",
+"hora": "22:00",
+"mes": "MAI.2022",
+"dia": "13",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-13T22:00+02:00"
 },{
 "nom": "Sounds From the Supermarket",
 "sala": "Almo2bar",
