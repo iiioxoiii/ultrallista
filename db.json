@@ -1246,7 +1246,7 @@
 "nom": "Psychotropic Swamp",
 "sala": "Almo2bar",
 "hora": "21:00",
-"mes": "DEC.2022",
+"mes": "DES.2022",
 "dia": "10",
 "textdia": "dissabte",
 "ciutat": "",
@@ -1255,11 +1255,11 @@
 "nom": "La Plata + Pililinpussies",
 "sala": "La Capsa",
 "hora": "22:00",
-"mes": "desembre.2022",
+"mes": "DES.2022",
 "dia": "3",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-11-03T22:00+02:00"
+"dateTime": "2022-12-03T22:00+02:00"
 },{
 "nom": "Laura Sam i Juan Escribano",
 "sala": "La Capsa",
@@ -1286,7 +1286,7 @@
 "dia": "14",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2022-10-14T20:00+02:00"
+"dateTime": "2022-11-14T20:00+02:00"
 },{
 "nom": "Saïm",
 "sala": "Fusiònica",
@@ -1331,7 +1331,7 @@
 "dia": "15",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-10-15T20:00+02:00"
+"dateTime": "2022-11-15T20:00+02:00"
 },{
 "nom": "The Sadies",
 "sala": "Lemon Rock",
@@ -1349,7 +1349,7 @@
 "dia": "27",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2022-10-27T21:00+02:00"
+"dateTime": "2022-11-27T21:00+02:00"
 },{
 "nom": "La Maravillosa Orquesta del Alcohol",
 "sala": "Sala Pelícano",
@@ -1358,7 +1358,7 @@
 "dia": "24",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-09-24T21:00+02:00"
+"dateTime": "2022-10-24T21:00+02:00"
 },{
 "nom": "Whisky Caravan",
 "sala": "Garage Beat Club",
@@ -1403,7 +1403,7 @@
 "dia": "12",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-11-12T20:30+01:00"
+"dateTime": "2022-12-12T20:30+01:00"
 },{
 "nom": "La Femme",
 "sala": "Razzmatazz",
@@ -1412,7 +1412,7 @@
 "dia": "17",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-01-17T20:00+01:00"
+"dateTime": "2022-12-17T20:00+01:00"
 },{
 "nom": "Col·lectiu Pedant a Missa i Repicant",
 "sala": "vol",
@@ -1484,7 +1484,7 @@
 "dia": "5",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-11-05T20:00+01:00"
+"dateTime": "2022-12-05T20:00+01:00"
 },{
 "nom": "Medalla + Ciudad Celeste",
 "sala": "vol",
@@ -1502,7 +1502,7 @@
 "dia": "3",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-09-03T21:30+02:00"
+"dateTime": "2022-10-03T21:30+02:00"
 },{
 "nom": "Invisible Limits",
 "sala": "Wolf Club",
@@ -1511,7 +1511,7 @@
 "dia": "10",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-09-10T22:00+02:00"
+"dateTime": "2022-10-10T22:00+02:00"
 },{
 "nom": "The Kooks",
 "sala": "Razzmatazz",
@@ -1547,7 +1547,7 @@
 "dia": "19",
 "textdia": "dimecres",
 "ciutat": "sold out",
-"dateTime": "2023-02-15T21:00+01:00"
+"dateTime": "2023-02-19T21:00+01:00"
 },{
 "nom": "Whisky Caravan",
 "sala": "Wolf Club",
@@ -1574,7 +1574,7 @@
 "dia": "18",
 "textdia": "diumenge",
 "ciutat": "",
-"dateTime": "2022-09-18T21:00+02:00"
+"dateTime": "2022-10-18T21:00+02:00"
 },{
 "nom": "The Black Crowes",
 "sala": "WiZink Center",
@@ -1583,7 +1583,7 @@
 "dia": "18",
 "textdia": "dimarts",
 "ciutat": "",
-"dateTime": "2022-10-18T21:00+02:00"
+"dateTime": "2022-11-18T21:00+02:00"
 },{
 "nom": "The Weeknd",
 "sala": "WiZink Center",
@@ -1592,7 +1592,7 @@
 "dia": "24",
 "textdia": "dilluns",
 "ciutat": "",
-"dateTime": "2022-10-24T21:30+02:00"
+"dateTime": "2022-11-24T21:30+02:00"
 },{
 "nom": "Franz Ferdinand",
 "sala": "WiZink Center",
@@ -1601,7 +1601,7 @@
 "dia": "26",
 "textdia": "dimecres",
 "ciutat": "",
-"dateTime": "2022-10-26T21:00+02:00"
+"dateTime": "2022-11-26T21:00+02:00"
 },{
 "nom": "Izal",
 "sala": "WiZink Center",
@@ -1610,7 +1610,7 @@
 "dia": "29",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-10-29T20:00+02:00"
+"dateTime": "2022-11-29T20:00+02:00"
 },{
 "nom": "Bon Iver",
 "sala": "WiZink Center",
@@ -1619,7 +1619,7 @@
 "dia": "9",
 "textdia": "dimecres",
 "ciutat": "",
-"dateTime": "2022-11-09T21:00+01:00"
+"dateTime": "2022-12-09T21:00+01:00"
 },{
 "nom": "Dorian",
 "sala": "WiZink Center",
@@ -1628,7 +1628,7 @@
 "dia": "25",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2022-11-25T21:00+01:00"
+"dateTime": "2022-12-25T21:00+01:00"
 },{
 "nom": "Bastille",
 "sala": "WiZink Center",
@@ -1637,7 +1637,7 @@
 "dia": "30",
 "textdia": "dimecres",
 "ciutat": "",
-"dateTime": "2022-11-30T19:00+01:00"
+"dateTime": "2022-12-30T19:00+01:00"
 },{
 "nom": "Justin Bieber",
 "sala": "WiZink Center",
@@ -1646,7 +1646,7 @@
 "dia": "23",
 "textdia": "dilluns",
 "ciutat": "",
-"dateTime": "2023-01-23T20:00+01:00"
+"dateTime": "2023-02-23T20:00+01:00"
 },{
 "nom": "Itaca Band",
 "sala": "Garaje Beat Club",
@@ -1655,7 +1655,7 @@
 "dia": "28",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2022-10-28T22:00+02:00"
+"dateTime": "2022-11-28T22:00+02:00"
 },{
 "nom": "The Sadies",
 "sala": "Escenario Santander",
@@ -1664,7 +1664,7 @@
 "dia": "10",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2022-11-10T21:00+01:00"
+"dateTime": "2022-12-10T21:00+01:00"
 },{
 "nom": "The Sadies",
 "sala": "16 toneladas",
@@ -1673,7 +1673,7 @@
 "dia": "17",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2022-11-17T21:30+01:00"
+"dateTime": "2022-12-17T21:30+01:00"
 },{
 "nom": "Kae Tempest",
 "sala": "Sala BUT",
@@ -1705,7 +1705,7 @@
 "nom": "Yungblud",
 "sala": "Sant Jordi Club",
 "hora": "20:00",
-"mes": "MAR.2023",
+"mes": "MAR2023",
 "dia": "12",
 "textdia": "diumenge",
 "ciutat": "",
@@ -1714,7 +1714,7 @@
 "nom": "OMD",
 "sala": "Apolo",
 "hora": "21:00",
-"mes": "MAR.2023",
+"mes": "MAR2023",
 "dia": "17",
 "textdia": "divendres",
 "ciutat":"",
