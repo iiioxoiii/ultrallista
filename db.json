@@ -54,7 +54,7 @@
 "ciutat": "",
 "dateTime": "2022-10-06T19:00+02:00"
 },{
-"nom": "Trrio Accanto",
+"nom": "Trio Accanto",
 "sala": "Fabra i Coats",
 "hora": "20:30",
 "mes": "OCT.2022",
@@ -108,7 +108,7 @@
 "ciutat": "",
 "dateTime": "2022-10-07T19:30+02:00"
 },{
-"nom": "Sur:Round:Ings",
+"nom": "Sur.Round.Ings",
 "sala": "Fabra i Coats",
 "hora": "20:00",
 "mes": "OCT.2022",
@@ -236,7 +236,7 @@
 "dateTime": "2022-10-14T21:00+02:00"
 },{
 "nom": "Schallfeld Ensemble",
-"sala": "Inst. Français",
+"sala": "Inst. Francais",
 "hora": "20:00",
 "mes": "OCT.2022",
 "dia": "14",
@@ -264,7 +264,7 @@
 },{
 "nom": "Improvisació",
 "sala": "Esc. Sup. de Música",
-"hora": "21:00",
+"hora": "11:30",
 "mes": "OCT.2022",
 "dia": "15",
 "textdia": "dissabte",
