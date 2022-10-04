@@ -45,8 +45,8 @@
 "ciutat": "",
 "dateTime": "2022-10-06T21:00+02:00"
 },{
-"nom": "Sosoveuveu:...",
-"sala": "C.Sant Adrià amb C.Sant Andreu",
+"nom": "Sosoveuveu",
+"sala": "Carrer Sant Adrià amb Sant Andreu",
 "hora": "19:00",
 "mes": "OCT.2022",
 "dia": "6",
@@ -82,7 +82,7 @@
 "dateTime": "2022-10-07T21:00+02:00"
 },{
 "nom": "Mixtur en Primària",
-"sala": "Fabra i Coats esp.Bota",
+"sala": "Fabra i Coats. Bota",
 "hora": "11:00",
 "mes": "OCT.2022",
 "dia": "7",
@@ -217,7 +217,7 @@
 "ciutat": "",
 "dateTime": "2022-10-13T21:00+02:00"
 },{
-"nom": "Alexanda Radulescu & Annabelle Playe",
+"nom": "Alexanda Radulescu & co",
 "sala": "Fundació Phonos",
 "hora": "20:00",
 "mes": "OCT.2022",
@@ -307,7 +307,7 @@
 "ciutat": "",
 "dateTime": "2022-10-15T21:00+02:00"
 },{
-"nom": "Lotte Anker & Biliana Voutchkova",
+"nom": "Lotte Anker Biliana Voutchkova",
 "sala": "Santa Mònica",
 "hora": "13:00",
 "mes": "OCT.2022",
