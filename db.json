@@ -27,6 +27,15 @@
 "ciutat": "",
 "dateTime": "2022-10-05T21:00+02:00"
 },{
+"nom": "Helado Negro",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-05T21:00+02:00"
+},{
 "nom": "Alex Tenor",
 "sala": "Santa Mònica",
 "hora": "19:00",
@@ -62,6 +71,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-10-06T20:30+02:00"
+},{
+"nom": "The Grassland Sinners",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-07T21:00+02:00"
 },{
 "nom": "Amatria",
 "sala": "La Nau",
@@ -252,6 +270,15 @@
 "ciutat": "",
 "dateTime": "2022-10-13T20:00+02:00"
 },{
+"nom": "Javier Corcobado",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-14T21:00+02:00"
+},{
 "nom": "Gloosito",
 "sala": "La Nau",
 "hora": "21:00",
@@ -379,6 +406,15 @@
 "ciutat": "",
 "dateTime": "2022-10-17T21:00+02:00"
 },{
+"nom": "Magic Sword",
+"sala": "Wolf",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "18",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-10-18T20:30+02:00"
+},{
 "nom": "Sarah Davachi + Johannes de Silentio",
 "sala": "El Pumarejo",
 "hora": "20:00",
@@ -390,12 +426,21 @@
 },{
 "nom": "Maria Hein",
 "sala": "heliogàbal",
-"hora": "21:00",
+"hora": "21:30",
 "mes": "OCT.2022",
 "dia": "20",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2022-10-20T21:00+02:00"
+"dateTime": "2022-10-20T21:30+02:00"
+},{
+"nom": "GPS12:Karmento",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-21T21:00+02:00"
 },{
 "nom": "Bofirax + Polseguera",
 "sala": "heliogàbal",
@@ -414,6 +459,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-10-21T21:30+02:00"
+},{
+"nom": "Parabellum",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T21:30+02:00"
 },{
 "nom": "Mushkaa",
 "sala": "helogàbal",
@@ -487,6 +541,69 @@
 "ciutat": "",
 "dateTime": "2022-10-27T21:30+02:00"
 },{
+"nom": "Luisaker",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-10T21:00+02:00"
+},{
+"nom": "Gun",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+02:00"
+},{
+"nom": "Depresión Sonora",
+"sala": "Wolf",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "12",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-12T21:30+02:00"
+},{
+"nom": "Poncho K",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-18T21:00+02:00"
+},{
+"nom": "Enuff Z'Nuff",
+"sala": "Wolf",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T21:30+02:00"
+},{
+"nom": "Delinquent Habits",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "20",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-20T21:00+02:00"
+},{
+"nom": "Moundrag",
+"sala": "Wolf",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "24",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-24T20:30+02:00"
+},{
 "nom": "Franz Ferdinand",
 "sala": "Sant Jordi Club",
 "hora": "21:00",
@@ -494,7 +611,25 @@
 "dia": "25",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2022-10-25T21:00+02:00"
+"dateTime": "2022-11-25T21:00+02:00"
+},{
+"nom": "Shotta & Shaolin Monkey",
+"sala": "Wolf",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-25T20:30+02:00"
+},{
+"nom": "Txarly Usher + Santa Espina + Lobötomics",
+"sala": "Wolf",
+"hora": "19:00",
+"mes": "NOV.2022",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-26T19:00+02:00"
 },{
 "nom": "Ghali",
 "sala": "Bikini",
@@ -949,7 +1084,7 @@
 "nom": "The Quireboys",
 "sala": "La Nau",
 "hora": "20:30",
-"mes": "DEC.2022",
+"mes": "DES.2022",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
@@ -958,20 +1093,56 @@
 "nom": "The Crab Apples + Estruç",
 "sala": "Razzmatazz[3]",
 "hora": "20:30",
-"mes": "DEC.2022",
+"mes": "DES.2022",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-12-01T20:30+02:00"
 },{
+"nom": "Vicente Navarro",
+"sala": "Wolf",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T21:30+02:00"
+},{
 "nom": "Yawners",
 "sala": "La Nau",
 "hora": "21:00",
-"mes": "DEC.2022",
+"mes": "DES.2022",
 "dia": "2",
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-02T21:00+02:00"
+},{
+"nom": "Valira",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T21:45+02:00"
+},{
+"nom": "Onyx",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "4",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-11T21:00+02:00"
+},{
+"nom": "Delgao",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-16T21:00+02:00"
 },{
 "nom": "Mishima 'Nadal'",
 "sala": "Cotton Club",
@@ -981,6 +1152,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-16T21:00+02:00"
+},{
+"nom": "Las Novias + Láudano",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T20:00+02:00"
 },{
 "nom": "Astra Valley + We Exist even dead",
 "sala": "La Nau",
@@ -994,7 +1174,7 @@
 "nom": "Club del Rio",
 "sala": "La Nau",
 "hora": "21:00",
-"mes": "DEC.2022",
+"mes": "DES.2022",
 "dia": "8",
 "textdia": "dijous",
 "ciutat": "",
@@ -1003,7 +1183,7 @@
 "nom": "Nothing, Nowhere",
 "sala": "La Nau",
 "hora": "21:00",
-"mes": "DEC.2022",
+"mes": "DES.2022",
 "dia": "15",
 "textdia": "dijous",
 "ciutat": "",
@@ -1012,7 +1192,7 @@
 "nom": "Vulk",
 "sala": "La Nau",
 "hora": "21:00",
-"mes": "DEC.2022",
+"mes": "DES.2022",
 "dia": "17",
 "textdia": "dissabte",
 "ciutat": "",
@@ -1045,10 +1225,28 @@
 "ciutat": "",
 "dateTime": "2022-12-27T21:00+02:00"
 },{
+"nom": "Chez Kane",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "GEN.2023",
+"dia": "13",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-01-13T20:00+02:00"
+},{
+"nom": "Whisky Caravan",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "GEN.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-21T20:00+02:00"
+},{
 "nom": "Vidres a la Sang + Vrademargk",
 "sala": "La Nau",
 "hora": "21:00",
-"mes": "GEN.2022",
+"mes": "GEN.2023",
 "dia": "28",
 "textdia": "dissabte",
 "ciutat": "",
@@ -1062,6 +1260,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-02-04T21:30+02:00"
+},{
+"nom": "The Mission",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-25T21:00+02:00"
 },{
 "nom": "Tribut: Oasis, David Bowie, Coldplay",
 "sala": "La Nau",
