@@ -90,6 +90,15 @@
 "ciutat": "",
 "dateTime": "2022-10-07T21:30+02:00"
 },{
+"nom": "HVOb",
+"sala": "Apolo",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-07T20:00+02:00"
+},{
 "nom": "Ariox  + The Free Fall Band",
 "sala": "El Pumarejo",
 "hora": "21:00",
@@ -144,6 +153,15 @@
 "ciutat": "",
 "dateTime": "2022-10-07T20:00+02:00"
 },{
+"nom": "GPS: Venturi",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-07T21:00+02:00"
+},{
 "nom": "Se Atormenta una Vecina",
 "sala": "Apolo[2]",
 "hora": "21:00",
@@ -179,6 +197,24 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-08T20:00+02:00"
+},{
+"nom": "Joan Masdéu",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-08T21:00+02:00"
+},{
+"nom": "Lessus",
+"sala": "El Paraigua",
+"hora": "??:??",
+"mes": "OCT.2022",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-08T21:00+02:00"
 },{
 "nom": "Bajada de Furros + Gaitas Anauco",
 "sala": "La Nau",
@@ -234,6 +270,42 @@
 "ciutat": "",
 "dateTime": "2022-10-09T19:00+02:00"
 },{
+"nom": "The Casanovas + Midni...",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "11",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-10-11T21:00+02:00"
+},{
+"nom": "Jake Sherman & Lau Noah",
+"sala": "Pumarejo",
+"hora": "??:??",
+"mes": "OCT.2022",
+"dia": "11",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-10-11T20:00+02:00"
+},{
+"nom": "Cadena Perpetua + The Capaces",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "12",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-12T21:00+02:00"
+},{
+"nom": "Marco Mendoza +  Super 69",
+"sala": "Sidecar",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "13",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-13T20:30+02:00"
+},{
 "nom": "Iosonouncane",
 "sala": "La Nau",
 "hora": "21:30",
@@ -279,6 +351,15 @@
 "ciutat": "",
 "dateTime": "2022-10-14T21:00+02:00"
 },{
+"nom": "Cadena Perpétua + Paládium 86",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-14T21:00+02:00"
+},{
 "nom": "Slavatge Cor",
 "sala": "Laut",
 "hora": "21:00",
@@ -305,7 +386,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-10-14T21:00+02:00"
-
 },{
 "nom": "Schallfeld Ensemble",
 "sala": "Inst. Français",
@@ -318,6 +398,15 @@
 },{
 "nom": "Mark Guiliana",
 "sala": "La Nau",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T21:00+02:00"
+},{
+"nom": "Holics",
+"sala": "Sidecar",
 "hora": "21:00",
 "mes": "OCT.2022",
 "dia": "15",
@@ -451,6 +540,15 @@
 "ciutat": "",
 "dateTime": "2022-10-21T21:00+02:00"
 },{
+"nom": "Exili a Elba",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-21T21:00+02:00"
+},{
 "nom": "Bofirax + Polseguera",
 "sala": "heliogàbal",
 "hora": "21:00",
@@ -477,6 +575,24 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-22T21:30+02:00"
+},{
+"nom": "Garza + Gigi D'Amico",
+"sala": "Espai Niu",
+"hora": "??:??",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T21:30+02:00"
+},{
+"nom": "Luis Fercán",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T21:00+02:00"
 },{
 "nom": "Jimi Somewhere",
 "sala": "Laut",
@@ -505,6 +621,15 @@
 "ciutat": "",
 "dateTime": "2022-10-22T21:00+02:00"
 },{
+"nom": "Just Mustard + Calibra",
+"sala": "Sidecar",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "25",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-10-25T20:30+02:00"
+},{
 "nom": "Friolento",
 "sala": "La Nau",
 "hora": "21:00",
@@ -522,6 +647,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-10-27T21:00+02:00"
+},{
+"nom": "Mourn",
+"sala": "Sidecar",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "27",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-27T20:30+02:00"
 },{
 "nom": "Xarim Aresté",
 "sala": "helogàbal",
@@ -559,6 +693,24 @@
 "ciutat": "",
 "dateTime": "2022-10-27T21:30+02:00"
 },{
+"nom": "Los Fresones Rebeldes",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-28T21:00+02:00"
+},{
+"nom": "Adiós Amores",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-29T21:00+02:00"
+},{
 "nom": "Luisaker",
 "sala": "Wolf",
 "hora": "20:00",
@@ -586,6 +738,15 @@
 "ciutat": "",
 "dateTime": "2022-11-05T21:00+02:00"
 },{
+"nom": "Mi.amargo",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T21:00+02:00"
+},{
 "nom": "Ters",
 "sala": "Laut",
 "hora": "20:30",
@@ -604,6 +765,33 @@
 "ciutat": "",
 "dateTime": "2022-11-11T21:00+02:00"
 },{
+"nom": "Bigwé",
+"sala": "Sidecar",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-10T20:30+02:00"
+},{
+"nom": "Anabel Lee",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:00+02:00"
+},{
+"nom": "Hickeys + The Death of Robert",
+"sala": "Sidecarf",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "12",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-12T21:00+02:00"
+},{
 "nom": "Depresión Sonora",
 "sala": "Wolf",
 "hora": "21:30",
@@ -612,6 +800,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-12T21:30+02:00"
+},{
+"nom": "Carlota Flâneur",
+"sala": "Sidecar",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-17T20:30+02:00"
 },{
 "nom": "Poncho K",
 "sala": "Wolf",
@@ -622,6 +819,15 @@
 "ciutat": "",
 "dateTime": "2022-11-18T21:00+02:00"
 },{
+"nom": "Bulego",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T21:00+02:00"
+},{
 "nom": "Enuff Z'Nuff",
 "sala": "Wolf",
 "hora": "21:30",
@@ -630,6 +836,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-19T21:30+02:00"
+},{
+"nom": "Bestia Bebé",
+"sala": "Sidecar",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "20",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-20T20:00+02:00"
 },{
 "nom": "Delinquent Habits",
 "sala": "Wolf",
@@ -675,6 +890,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-26T19:00+02:00"
+},{
+"nom": "Noctämbuls",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-26T21:00+02:00"
 },{
 "nom": "Ghali",
 "sala": "Bikini",
@@ -1243,6 +1467,15 @@
 "ciutat": "",
 "dateTime": "2022-12-15T21:00+02:00"
 },{
+"nom": "Anal Hard + Kids of Rage",
+"sala": "Sidecar",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-15T20:30+02:00"
+},{
 "nom": "Vulk",
 "sala": "La Nau",
 "hora": "21:00",
@@ -1279,6 +1512,15 @@
 "ciutat": "",
 "dateTime": "2022-12-27T21:00+02:00"
 },{
+"nom": "Brighton 64",
+"sala": "Sidecar",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "30",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-30T22:00+02:00"
+},{
 "nom": "Chez Kane",
 "sala": "Wolf",
 "hora": "20:00",
@@ -1314,6 +1556,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-02-04T21:30+02:00"
+},{
+"nom": "Sorry",
+"sala": "Sidecar",
+"hora": "20:30",
+"mes": "FEB.2022",
+"dia": "28",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-28T20:30+02:00"
 },{
 "nom": "The Mission",
 "sala": "Wolf",
@@ -2107,6 +2358,15 @@
 "ciutat": "",
 "dateTime": "2022-11-28T22:00+02:00"
 },{
+"nom": "Izaro",
+"sala": "Bóveda",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-09T22:00+02:00"
+},{
 "nom": "The Sadies",
 "sala": "Escenario Santander",
 "hora": "21:00",
@@ -2169,6 +2429,15 @@
 "textdia": "divendres",
 "ciutat":"",
 "dateTime": "2022-03-17T21:00+02:00"
+},{
+"nom": "Natos y Waor",
+"sala": "Pallau Sant Jordi",
+"hora": "19:30",
+"mes": "MAR2023",
+"dia": "17",
+"textdia": "divendres",
+"ciutat":"",
+"dateTime": "2022-03-17T19:30+02:00"
 },{
 "nom": "Roger Waters",
 "sala": "Palau Sant Jordi",
