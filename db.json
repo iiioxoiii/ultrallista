@@ -194,9 +194,45 @@
 "hora": "13:00",
 "mes": "OCT.2022",
 "dia": "16",
-"textdia": "dijous",
+"textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2022-10-16T13:00+02:00"
+},{
+"nom": "Vintage Rock Band",
+"sala": "Portal dels Encants",
+"hora": "12:30",
+"mes": "OCT.2022",
+"dia": "16",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-16T12:30+02:00"
+},{
+"nom": "Filles Europees + UltraLocal",
+"sala": "El Pumarejo",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "16",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-16T20:00+02:00"
+},{
+"nom": "Raquel Lúa",
+"sala": "L'Oncle Jack",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "16",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-16T20:30+02:00"
+},{
+"nom": "The Dangeroux Brothers",
+"sala": "Riff Rock Bar",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "16",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-16T21:00+02:00"
 },{
 "nom": "Youn Sun Nah",
 "sala": "La Nau",
@@ -207,6 +243,15 @@
 "ciutat": "",
 "dateTime": "2022-10-17T21:00+02:00"
 },{
+"nom": "Envy + Bossk",
+"sala": "Bóbeda",
+"hora": "19:00",
+"mes": "OCT.2022",
+"dia": "17",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-10-17T19:00+02:00"
+},{
 "nom": "Magic Sword",
 "sala": "Wolf",
 "hora": "20:30",
@@ -216,6 +261,24 @@
 "ciutat": "",
 "dateTime": "2022-10-18T20:30+02:00"
 },{
+"nom": "Hiatus Kaiyote",
+"sala": "Razzmatazz[1]",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "18",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-10-18T21:00+02:00"
+},{
+"nom": "Martes Manouche #24",
+"sala": "Soda Acústic",
+"hora": "21:30",
+"mes": "OCT.2022",
+"dia": "18",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-10-18T21:00+02:00"
+},{
 "nom": "Sarah Davachi + Johannes de Silentio",
 "sala": "El Pumarejo",
 "hora": "20:00",
@@ -224,6 +287,24 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-10-20T20:00+02:00"
+},{
+"nom": "Clarence Bekker Band",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "OCT.2022",
+"dia": "20",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-20T19:00+02:00"
+},{
+"nom": "Bernando Brox Quatet",
+"sala": "La Descomunal",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "20",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-20T20:30+02:00"
 },{
 "nom": "Maria Hein",
 "sala": "heliogàbal",
@@ -242,6 +323,24 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-10-21T21:00+02:00"
+},{
+"nom": "Pulso+Serpent+Verdugo+Frances Garcia",
+"sala": "Vol",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-21T19:30+02:00"
+},{
+"nom": "Paüra + Kasparrata",
+"sala": "La Descomunal",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-21T20:30+02:00"
 },{
 "nom": "Exili a Elba",
 "sala": "Sidecar",
@@ -263,6 +362,15 @@
 },{
 "nom": "El Noro y 1ra clase",
 "sala": "La Nau",
+"hora": "21:30",
+"mes": "OCT.2022",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-21T21:30+02:00"
+},{
+"nom": "Karmento",
+"sala": "Wolf",
 "hora": "21:30",
 "mes": "OCT.2022",
 "dia": "21",
@@ -323,6 +431,24 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-22T21:00+02:00"
+},{
+"nom": "Not Scientist + Zeidun + Saïm + ...",
+"sala": "Estraperlo",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T20:30+02:00"
+},{
+"nom": "The Afghan Whigs",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T20:00+02:00"
 },{
 "nom": "Just Mustard + Calibra",
 "sala": "Sidecar",
@@ -458,6 +584,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-05T21:00+02:00"
+},{
+"nom": "Jon Spencer & Hitmakers",
+"sala": "Bikini",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-10T20:00+02:00"
 },{
 "nom": "Ters",
 "sala": "Laut",
@@ -2186,6 +2321,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-03-27T20:00+02:00"
+},{
+"nom": "Bruce Spingsteen & The E Street Band",
+"sala": "Estadi Olímpic",
+"hora": "??:??",
+"mes": "ABR.2023",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-28T20:00+02:00"
 },{
 "nom": "El Kanka",
 "sala": "Palau de la Música",
