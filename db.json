@@ -1,401 +1,5 @@
 {
 "concerts": [{
-"nom": "El Jose",
-"sala": "La Nau",
-"hora": "21:30",
-"mes": "OCT.2022",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-01T21:00+02:00"
-},{
-"nom": "Recordatorio + Lucia Fumero",
-"sala": "La Nau",
-"hora": "20:30",
-"mes": "OCT.2022",
-"dia": "4",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-10-04T21:00+02:00"	
-},{
-"nom": "Moonchild",
-"sala": "La Nau",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "5",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-10-05T21:00+02:00"
-},{
-"nom": "Helado Negro",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "5",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-10-05T21:00+02:00"
-},{
-"nom": "Alex Tenor",
-"sala": "Santa Mònica",
-"hora": "19:00",
-"mes": "OCT.2022",
-"dia": "5",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-10-05T19:00+02:00"
-},{
-"nom": "Camellos + El Diablo de Shanghai",
-"sala": "La Nau",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "6",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-10-06T21:00+02:00"
-},{
-"nom": "Sosoveuveu:...",
-"sala": "C/ Sant Adrià amb C/Sant Andreu",
-"hora": "19:00",
-"mes": "OCT.2022",
-"dia": "6",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-10-06T19:00+02:00"
-},{
-"nom": "Trrio Accanto",
-"sala": "Fabra i Coats",
-"hora": "20:30",
-"mes": "OCT.2022",
-"dia": "6",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-10-06T20:30+02:00"
-},{
-"nom": "The Grassland Sinners",
-"sala": "Wolf",
-"hora": "20:00",
-"mes": "OCT.2022",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-07T21:00+02:00"
-},{
-"nom": "Amatria",
-"sala": "La Nau",
-"hora": "21:30",
-"mes": "OCT.2022",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-07T21:30+02:00"
-},{
-"nom": "HVOb",
-"sala": "Apolo",
-"hora": "20:00",
-"mes": "OCT.2022",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-07T20:00+02:00"
-},{
-"nom": "Ariox  + The Free Fall Band",
-"sala": "El Pumarejo",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-07T21:00+02:00"
-},{
-"nom": "Amore",
-"sala": "heliogàbal",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-07T21:00+02:00"
-},{
-"nom": "Mixtur en Primària",
-"sala": "Fabra i Coats esp.Bota",
-"hora": "11:00",
-"mes": "OCT.2022",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-07T11:00+02:00"
-},{
-"nom": "Ianis Xenakis reloaded",
-"sala": "Fabra i Coats esp.Bota",
-"hora": "11:30",
-"mes": "OCT.2022",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-07T11:30+02:00"
-},{
-"nom": "Osvaldo Cibils",
-"sala": "Fabra i Coats",
-"hora": "19:30",
-"mes": "OCT.2022",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-07T19:30+02:00"
-},{
-"nom": "Sur:Round:Ings",
-"sala": "Fabra i Coats",
-"hora": "20:00",
-"mes": "OCT.2022",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-07T20:00+02:00"
-},{
-"nom": "GPS: Venturi",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-07T21:00+02:00"
-},{
-"nom": "Se Atormenta una Vecina",
-"sala": "Apolo[2]",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-08T21:00+02:00"
-},{
-"nom": "Bum Motion Club + Salto",
-"sala": "helogàbal",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-08T21:00+02:00"
-},{
-"nom": "Broken Frames Syndicate",
-"sala": "Fabra i Coats",
-"hora": "17:00",
-"mes": "OCT.2022",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-08T17:00+02:00"
-},{
-"nom": "asLand ensemble",
-"sala": "Fundació Tàpies",
-"hora": "20:00",
-"mes": "OCT.2022",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-08T20:00+02:00"
-},{
-"nom": "Joan Masdéu",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-08T21:00+02:00"
-},{
-"nom": "Lessus",
-"sala": "El Paraigua",
-"hora": "??:??",
-"mes": "OCT.2022",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-08T21:00+02:00"
-},{
-"nom": "Bajada de Furros + Gaitas Anauco",
-"sala": "La Nau",
-"hora": "17:30",
-"mes": "OCT.2022",
-"dia": "9",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-10-09T17:30+02:00"
-},{
-"nom": "Saxofonistes",
-"sala": "Fabra i Coats",
-"hora": "10:30",
-"mes": "OCT.2022",
-"dia": "9",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-10-09T10:30+02:00"
-},{
-"nom": "Persephassa, Iannis Xenakis",
-"sala": "Esc. Sup. de Música",
-"hora": "12:00",
-"mes": "OCT.2022",
-"dia": "9",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-10-09T12:00+02:00"
-},{
-"nom": "Pianistes",
-"sala": "Esc. Sup. de Música",
-"hora": "14:00",
-"mes": "OCT.2022",
-"dia": "9",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-10-09T14:00+02:00"
-},{
-"nom": "Osvaldo Cibils",
-"sala": "Fabra i Coats",
-"hora": "18:30",
-"mes": "OCT.2022",
-"dia": "9",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-10-09T18:30+02:00"
-},{
-"nom": "Ensemble Suono Giallo",
-"sala": "Fabra i Coats",
-"hora": "19:00",
-"mes": "OCT.2022",
-"dia": "9",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-10-09T19:00+02:00"
-},{
-"nom": "The Casanovas + Midni...",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "11",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-10-11T21:00+02:00"
-},{
-"nom": "Jake Sherman & Lau Noah",
-"sala": "Pumarejo",
-"hora": "??:??",
-"mes": "OCT.2022",
-"dia": "11",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-10-11T20:00+02:00"
-},{
-"nom": "Cadena Perpetua + The Capaces",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "12",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-10-12T21:00+02:00"
-},{
-"nom": "Marco Mendoza +  Super 69",
-"sala": "Sidecar",
-"hora": "20:30",
-"mes": "OCT.2022",
-"dia": "13",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-10-13T20:30+02:00"
-},{
-"nom": "Iosonouncane",
-"sala": "La Nau",
-"hora": "21:30",
-"mes": "OCT.2022",
-"dia": "12",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-10-12T21:30+02:00"
-},{
-"nom": "Comandante Twin",
-"sala": "La Nau",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "13",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-10-13T21:00+02:00"
-},{
-"nom": "Moon Vision",
-"sala": "heliogàbal",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "13",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-10-13T21:00+02:00"
-},{
-"nom": "Alexanda Radulescu & Annabelle Playe",
-"sala": "Fundació Phonos",
-"hora": "20:00",
-"mes": "OCT.2022",
-"dia": "13",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-10-13T20:00+02:00"
-},{
-"nom": "Javier Corcobado",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "14",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-14T21:00+02:00"
-},{
-"nom": "Cadena Perpétua + Paládium 86",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "14",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-14T21:00+02:00"
-},{
-"nom": "Slavatge Cor",
-"sala": "Laut",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "14",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-14T21:00+02:00"
-},{
-"nom": "Gloosito",
-"sala": "La Nau",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "14",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-14T21:00+02:00"
-},{
-"nom": "Delight+hudredmillionhousand",
-"sala": "helogàbal",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "14",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-14T21:00+02:00"
-},{
-"nom": "Schallfeld Ensemble",
-"sala": "Inst. Français",
-"hora": "20:00",
-"mes": "OCT.2022",
-"dia": "14",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-14T20:00+02:00"
-},{
 "nom": "Mark Guiliana",
 "sala": "La Nau",
 "hora": "21:00",
@@ -488,6 +92,96 @@
 },{
 "nom": "Perturbator",
 "sala": "Razzmatazz[2]",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T21:00+02:00"
+},{
+"nom": "Milk+Vieco+James Band+Murina",
+"sala": "Upload",
+"hora": "19:00",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T19:00+02:00"
+},{
+"nom": "Mono Blanco",
+"sala": "Tradicionàrius",
+"hora": "19:00",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T19:00+02:00"
+},{
+"nom": "Cromo+Nervegas+Arrest...",
+"sala": "CSO La Astilla L'H",
+"hora": "18:00",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T18:00+02:00"
+},{
+"nom": "Anton Jarl Quartet",
+"sala": "Cockteleria Milano",
+"hora": "19:30",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T19:30+02:00"
+},{
+"nom": "Max Sunyer & Norma Cano",
+"sala": "Jazz Club",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T20:00+02:00"
+},{
+"nom": "Alima + La Torre",
+"sala": "Dr. Flow",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T20:00+02:00"
+},{
+"nom": "Tayo + Mezcal",
+"sala": "Bóveda",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T20:30+02:00"
+},{
+"nom": "Holics",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T21:00+02:00"
+},{
+"nom": "Síndrome Tòxico",
+"sala": "Psycho R&R club",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T21:00+02:00"
+},{
+"nom": "Juliol + Pov",
+"sala": "Razzmatazz[3]",
 "hora": "21:00",
 "mes": "OCT.2022",
 "dia": "15",
