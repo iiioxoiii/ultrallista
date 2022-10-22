@@ -288,6 +288,33 @@
 "ciutat": "",
 "dateTime": "2022-10-23T20:30+02:00"
 },{
+"nom": "Los Besos",
+"sala": "Sala Paral·lel 62",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T20:00+02:00"
+},{
+"nom": "Kids Of Rage + Guitza",
+"sala": "Estraperlo",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T20:30+02:00"
+},{
+"nom": "Sergi Sirvent Trio",
+"sala": "Cockteleria Milano",
+"hora": "19:30",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T19:30+02:00"
+},{
 "nom": "Soundfiction",
 "sala": "La Capella de Can Gambús, Sabadell",
 "hora": "12:30",
@@ -342,7 +369,25 @@
 "ciutat": "",
 "dateTime": "2022-10-23T20:00+02:00"
 },{
-"nom": "Urian Heep",
+"nom": "The Jammin'Cat",
+"sala": "Jamboree",
+"hora": "22:00",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T22:00+02:00"
+},{
+"nom": "Miri's Way",
+"sala": "Riff Rock Bar",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T21:00+02:00"
+},{
+"nom": "Uriah Heep <cancelat>",
 "sala": "Razzmatazz[1]",
 "hora": "21:00",
 "mes": "OCT.2022",
@@ -350,6 +395,24 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2022-10-23T21:00+02:00"
+},{
+"nom": "Samara Joy",
+"sala": "Conservatori del Liceu",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T20:30+02:00"
+},{
+"nom": "Berta Gratacós",
+"sala": "Jamboree",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T20:00+02:00"
 },{
 "nom": "Bocanada",
 "sala": "Razzmatazz[3]",
@@ -369,6 +432,33 @@
 "ciutat": "",
 "dateTime": "2022-10-25T20:00+02:00"
 },{
+"nom": "Franz Ferdinand",
+"sala": "Sant Jordi Club",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "25",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-10-25T21:00+02:00"
+},{
+"nom": "Hiromi",
+"sala": "Sala Paral·lel 62",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "25",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-10-25T21:00+02:00"
+},{
+"nom": "Acid Mothers Temple + Dommergang",
+"sala": "Upload",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "25",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-10-25T20:30+02:00"
+},{
 "nom": "Just Mustard + Calibra",
 "sala": "Sidecar",
 "hora": "20:30",
@@ -386,6 +476,69 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2022-10-26T21:00+02:00"
+},{
+"nom": "Sobre mi gata + Kumbia Kaos",
+"sala": "Centre Cívic Besòs",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "26",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-26T20:00+02:00"
+},{
+"nom": "Faun + Emian",
+"sala": "Salamandra[1]",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "26",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-26T20:00+02:00"
+},{
+"nom": "RMMB",
+"sala": "Palau de la Música",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "26",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-26T20:30+02:00"
+},{
+"nom": "Diego Spitaleri",
+"sala": "Nota 79",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "26",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-26T20:00+02:00"
+},{
+"nom": "Toca Blus pel Sàhara",
+"sala": "Luz de Gas",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "26",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-26T20:00+02:00"
+},{
+"nom": "Alba Morena",
+"sala": "Centre Cívic Can Deu",
+"hora": "19:00",
+"mes": "OCT.2022",
+"dia": "26",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-26T19:00+02:00"
+},{
+"nom": "Invocació al Pare Manel",
+"sala": "Luz de Gas",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "27",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-27T21:00+02:00"
 },{
 "nom": "Angeladorrrm",
 "sala": "helogàbal",
@@ -422,6 +575,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-10-27T20:00+02:00"
+},{
+"nom": "Hotel Cochambre",
+"sala": "Luz de Gas",
+"hora": "00:30",
+"mes": "OCT.2022",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-28T00:30+02:00"
 },{
 "nom": "Plaça",
 "sala": "Ateneu El Poblet - LEM",
