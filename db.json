@@ -1,112 +1,76 @@
 {
 "concerts": [{
-"nom": "Pulso+Serpent+Verdugo+Frances Garcia",
-"sala": "Vol",
-"hora": "20:30",
+"nom": "La Muntanyeta Sound System",
+"sala": "Cal Ninyo Espai Weller",
+"hora": "12:30",
 "mes": "OCT.2022",
-"dia": "21",
-"textdia": "divendres",
+"dia": "22",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-10-21T19:30+02:00"
+"dateTime": "2022-10-22T12:30+02:00"
 },{
-"nom": "Sarram + Sthalfabrik",
-"sala": "Convent Sant Agustí",
+"nom": "Dani Flaco",
+"sala": "Teatre Joventud L'H",
 "hora": "20:00",
 "mes": "OCT.2022",
-"dia": "21",
-"textdia": "divendres",
+"dia": "22",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-10-21T20:00+02:00"
+"dateTime": "2022-10-22T20:00+02:00"
 },{
-"nom": "Cradle of Filh + Alcest",
-"sala": "Razzmatazz[2]",
-"hora": "18:30",
+"nom": "Ben Marcus",
+"sala": "La Catedral del KfèOlé L'H",
+"hora": "20:00",
 "mes": "OCT.2022",
-"dia": "21",
-"textdia": "divendres",
+"dia": "22",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-10-21T18:30+02:00"
+"dateTime": "2022-10-22T20:00+02:00"
 },{
-"nom": "And you will know us by the trail of dead",
-"sala": "Razzmatazz[3]",
-"hora": "18:30",
+"nom": "Outsiders",
+"sala": "El Paraigua",
+"hora": "20:00",
 "mes": "OCT.2022",
-"dia": "21",
-"textdia": "divendres",
+"dia": "22",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-10-21T20:30+02:00"
+"dateTime": "2022-10-22T20:30+02:00"
 },{
-"nom": "Paüra + Kasparrata",
-"sala": "La Descomunal",
-"hora": "20:30",
+"nom": "Bullenrap",
+"sala": "DioBar",
+"hora": "20:00",
 "mes": "OCT.2022",
-"dia": "21",
-"textdia": "divendres",
+"dia": "22",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-10-21T20:30+02:00"
+"dateTime": "2022-10-22T20:00+02:00"
 },{
-"nom": "Exili a Elba",
-"sala": "Sidecar",
+"nom": "Drica",
+"sala": "Dr Flow",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T20:00+02:00"
+},{
+"nom": "Gaby Moreno",
+"sala": "Apolo[2]",
 "hora": "21:00",
 "mes": "OCT.2022",
-"dia": "21",
-"textdia": "divendres",
+"dia": "22",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-10-21T21:00+02:00"
+"dateTime": "2022-10-22T121:00+02:00"
 },{
-"nom": "Bofirax + Polseguera",
-"sala": "heliogàbal",
+"nom": "Los 4señores",
+"sala": "Bar Continental",
 "hora": "21:00",
 "mes": "OCT.2022",
-"dia": "21",
-"textdia": "divendres",
+"dia": "22",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-10-21T21:00+02:00"
-},{
-"nom": "Xarim Aresté",
-"sala": "helogàbal",
-"hora": "21:00",
-"mes": "OCT.2022",
-"dia": "21",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-21T21:00+02:00"
-},{
-"nom": "El Noro y 1ra clase",
-"sala": "La Nau",
-"hora": "21:30",
-"mes": "OCT.2022",
-"dia": "21",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-21T21:30+02:00"
-},{
-"nom": "Karmento",
-"sala": "Wolf",
-"hora": "21:30",
-"mes": "OCT.2022",
-"dia": "21",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-21T21:30+02:00"
-},{
-"nom": "Sanatorium + Malos Tragos",
-"sala": "La Capsa",
-"hora": "22:00",
-"mes": "OCT.2022",
-"dia": "21",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-21T22:00+02:00"
-},{
-"nom": "Sarram + Stahlfabrik",
-"sala": "Convent Sant Agustí LEM",
-"hora": "19:45",
-"mes": "OCT.2022",
-"dia": "21",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-21T19:45+02:00"
+"dateTime": "2022-10-22T21:00+02:00"
 },{
 "nom": "Ummo",
 "sala": "vol",
@@ -118,7 +82,7 @@
 "dateTime": "2022-10-22T21:00+02:00"
 },{
 "nom": "Not Scientist",
-"sala": "Fusionica",
+"sala": "Estraperlo",
 "hora": "20:30",
 "mes": "OCT.2022",
 "dia": "22",
@@ -127,7 +91,7 @@
 "dateTime": "2022-10-22T21:00+02:00"
 },{
 "nom": "Zeidun",
-"sala": "Fusionica",
+"sala": "Estraperlo",
 "hora": "20:30",
 "mes": "OCT.2022",
 "dia": "22",
@@ -197,6 +161,42 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-22T21:30+02:00"
+},{
+"nom": "Mala Vida",
+"sala": "Sarau 08911, BDN",
+"hora": "23:30",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T23:30+02:00"
+},{
+"nom": "Los Made in BCN",
+"sala": "Marula Café",
+"hora": "22:30",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T22:30+02:00"
+},{
+"nom": "HLIAAW + Rotura",
+"sala": "La Deskomunal",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T21:00+02:00"
+},{
+"nom": "Isla Lavanda + No Funciona",
+"sala": "Slow",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T21:00+02:00"
 },{
 "nom": "Luis Fercán",
 "sala": "Sidecar",
@@ -278,6 +278,51 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-10-22T20:30+02:00"
+},{
+"nom": "Cecile McLorin",
+"sala": "L'Auditori Sala 2",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T20:30+02:00"
+},{
+"nom": "Soundfiction",
+"sala": "La Capella de Can Gambús, Sabadell",
+"hora": "12:30",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T12:30+02:00"
+},{
+"nom": "David Busquets",
+"sala": "Nota 79",
+"hora": "19:00",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T19:00+02:00"
+},{
+"nom": "Miriam Cano, Matí Sales i Sara Fontán",
+"sala": "Casa Almirall LEM",
+"hora": "13:00",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T13:00+02:00"
+},{
+"nom": "The Karlberts",
+"sala": "El Portal dels Encants",
+"hora": "12:30",
+"mes": "OCT.2022",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-23T12:30+02:00"
 },{
 "nom": "Adi Oasis",
 "sala": "La Nau",
