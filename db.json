@@ -18,6 +18,15 @@
 "ciutat": "",
 "dateTime": "2022-10-29T21:00+02:00"
 },{
+"nom": "James Bay",
+"sala": "Razzmatazz",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-02T21:00+02:00"
+},{
 "nom": "Luisaker",
 "sala": "Wolf",
 "hora": "20:00",
@@ -1413,42 +1422,6 @@
 "ciutat": "",
 "dateTime": "2022-11-14T20:00+02:00"
 },{
-"nom": "Saïm",
-"sala": "Fusiònica",
-"hora": "20:30",
-"mes": "OCT.2022",
-"dia": "22",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-22T20:30+02:00"
-},{
-"nom": "Tano",
-"sala": "Fusiònica",
-"hora": "20:30",
-"mes": "OCT.2022",
-"dia": "22",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-22T20:00+02:00"
-},{
-"nom": "Tansumica",
-"sala": "Fusiònica",
-"hora": "20:30",
-"mes": "OCT.2022",
-"dia": "22",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-22T20:30+02:00"
-},{
-"nom": "dj. Crustaci",
-"sala": "Fusionica",
-"hora": "20:30",
-"mes": "OCT.2022",
-"dia": "22",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-22T20:30+02:00"
-},{
 "nom": "MATT MALTESE",
 "sala": "Laut",
 "hora": "20:00",
@@ -1602,6 +1575,15 @@
 "ciutat": "",
 "dateTime": "2022-11-13T20:00+02:00"
 },{
+"nom": "Frank Carter & The Rattlesnakes",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "NOV.2022",
+"dia": "29",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-29T19:30+02:00"
+},{
 "nom": "Whisky Caravan",
 "sala": "Mon Madrid",
 "hora": "20:00",
@@ -1619,24 +1601,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-23T21:30+02:00"
-},{
-"nom": "Joven Dolores",
-"sala": "Wolf Club",
-"hora": "21:30",
-"mes": "OCT.2022",
-"dia": "3",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-03T21:30+02:00"
-},{
-"nom": "Invisible Limits",
-"sala": "Wolf Club",
-"hora": "22:00",
-"mes": "OCT.2022",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-10-10T22:00+02:00"
 },{
 "nom": "The Kooks",
 "sala": "Razzmatazz",
@@ -1691,6 +1655,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-02-24T21:30+01:00"
+},{
+"nom": "Ice Nine Kills",
+"sala": "Razzmatazz",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-25T21:00+01:00"
 },{
 "nom": "The Black Crowes",
 "sala": "WiZink Center",
@@ -1863,6 +1836,15 @@
 "ciutat": "",
 "dateTime": "2023-03-21T21:00+02:00"
 },{
+"nom": "Robbie Williams",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "MAR2023",
+"dia": "21:30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-25T21:30+02:00"
+},{
 "nom": "Eels",
 "sala": "Razzmatazz",
 "hora": "21:00",
@@ -1872,14 +1854,59 @@
 "ciutat": "",
 "dateTime": "2023-03-27T20:00+02:00"
 },{
+"nom": "Måneskin",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "11",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-11T21:00+02:00"
+},{
+"nom": "Birdy",
+"sala": "Razzmatazz",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "18",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-18T21:00+02:00"
+},{
+"nom": "Calum Scott",
+"sala": "Apolo[2]",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "25",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-25T21:00+02:00"
+},{
 "nom": "Bruce Spingsteen & The E Street Band",
 "sala": "Estadi Olímpic",
-"hora": "??:??",
+"hora": "21:00",
 "mes": "ABR.2023",
 "dia": "28",
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-04-28T20:00+02:00"
+},{
+"nom": "Bruce Spingsteen & The E Street Band",
+"sala": "Estadi Olímpic",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "30",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-30T21:00+02:00"
+},{
+"nom": "Omar Sheriff",
+"sala": "Razzmatazz",
+"hora": "20:30",
+"mes": "MAI.2022",
+"dia": "1",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-05-01T20:30+02:00"
 },{
 "nom": "El Kanka",
 "sala": "Palau de la Música",
@@ -1907,4 +1934,13 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2023-05-23T21:00+02:00"
+},{
+"nom": "Rammstein",
+"sala": "Wanda Metropolitano",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "23",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-06-23T21:00+02:00"
 }]}
