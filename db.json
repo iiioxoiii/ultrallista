@@ -27,6 +27,96 @@
 "ciutat": "",
 "dateTime": "2022-11-02T21:00+02:00"
 },{
+"nom": "Avishai Cohen Quartet",
+"sala": "Conservatori del Liceu",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-02T20:30+02:00"
+},{
+"nom": "Hermeto Pascoal",
+"sala": "Apolo",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-02T21:00+02:00"
+},{
+"nom": "Jordi Rossy Vibes Trio",
+"sala": "Conservatori del Liceu",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "3",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-03T20:30+02:00"
+},{
+"nom": "Liceu Blam Collective",
+"sala": "Conservatori del Liceu",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "4",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-04T20:30+02:00"
+},{
+"nom": "Martirio & Chano Domínguez",
+"sala": "Paral·lel 62",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "4",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-04T20:30+02:00"
+},{
+"nom": "Bill Frisell Harmony",
+"sala": "L'Auditori (2)",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T21:00+02:00"
+},{
+"nom": "Javi Ruibal Trio",
+"sala": "Milano Jazz Club",
+"hora": "19:30",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T19:30+02:00"
+},{
+"nom": "daBumbus",
+"sala": "Harlem",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T20:00+02:00"
+},{
+"nom": "CCJLLJR",
+"sala": "Conservatori Liceu",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "7",
+"textdia": "dilluns",
+"ciutat": "",
+dateTime": "2022-11-0720:30+02:00"
+},{
+"nom": "Dianne Reeves",
+"sala": "Palau de la Música",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "9",
+"textdia": "dimecres",
+"ciutat": "",
+dateTime": "2022-11-0920:30+02:00"
+},{
 "nom": "Luisaker",
 "sala": "Wolf",
 "hora": "20:00",
@@ -135,14 +225,50 @@
 "ciutat": "",
 "dateTime": "2022-11-11T21:00+02:00"
 },{
+"nom": "Michel Camilo & Tomatito",
+"sala": "Palau de la Música",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T20:30+02:00"
+},{
+"nom": "BJ Griffin Band",
+"sala": "Harlem",
+"hora": "23:00",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T23:00+02:00"
+},{
 "nom": "Hickeys + The Death of Robert",
-"sala": "Sidecarf",
+"sala": "Sidecar",
 "hora": "21:00",
 "mes": "NOV.2022",
 "dia": "12",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-12T21:00+02:00"
+},{
+"nom": "Adriana Ospina & Bartolomeo Barenghi",
+"sala": "Harlem",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "12",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-12T20:00+02:00"
+},{
+"nom": "Steve Coleman & 5 elements",
+"sala": "Conservatori Liceu",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "12",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-12T20:30+02:00"
 },{
 "nom": "Depresión Sonora",
 "sala": "Wolf",
@@ -152,6 +278,51 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-12T21:30+02:00"
+},{
+"nom": "BJ Griffin Band",
+"sala": "Harlem",
+"hora": "22:30",
+"mes": "NOV.2022",
+"dia": "13",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-13T22:30+02:00"
+},{
+"nom": "KHBSBH",
+"sala": "Conservatori Liceu",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "16",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-16T20:30+02:00"
+},{
+"nom": "OBX",
+"sala": "Harlem",
+"hora": "22:30",
+"mes": "NOV.2022",
+"dia": "16",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-16T22:30+02:00"
+},{
+"nom": "Liba Villavecchia trio",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "NOV.2022",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-17T19:30+02:00"
+},{
+"nom": "Gran Ensemble Liceu",
+"sala": "Conservatori Liceu",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-17T20:30+02:00"
 },{
 "nom": "Navet",
 "sala": "La Nau",
@@ -179,6 +350,33 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-11-18T21:00+02:00"
+},{
+"nom": "Chucho Valdés & Paquito de Rivera",
+"sala": "Palau de la Música",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-18T20:30+02:00"
+},{
+"nom": "Homenaje a Paquito de Rivera",
+"sala": "Conservatori Liceu",
+"hora": "13:00",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T13:00+02:00"
+},{
+"nom": "Gemma Abrié & Josep Traver",
+"sala": "Harlem",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T20:00+02:00"
 },{
 "nom": "Bulego",
 "sala": "Sidecar",
@@ -236,6 +434,15 @@
 },{
 "nom": "Moundrag + The Deathlines",
 "sala": "Wolf",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "24",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-24T20:30+02:00"
+},{
+"nom": "Marc Ribot solo",
+"sala": "Conservatori Liceu",
 "hora": "20:30",
 "mes": "NOV.2022",
 "dia": "24",
@@ -332,6 +539,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2022-10-30T21:00+02:00"
+},{
+"nom": "The Chopin Project",
+"sala": "La Nau",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "30",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-30T20:30+02:00"
 },{
 "nom": "Julian Lage",
 "sala": "La Nau",
