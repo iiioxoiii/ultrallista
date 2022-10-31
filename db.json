@@ -1017,6 +1017,15 @@
 "ciutat": "",
 "dateTime": "2022-11-26T21:00+02:00"
 },{
+"nom": "Melody Gardot",
+"sala": "Palau de la Musica",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "29",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-29T21:00+02:00"
+},{
 "nom": "Julia Jacklin",
 "sala": "Apolo",
 "hora": "21:00",
@@ -1044,6 +1053,15 @@
 "ciutat": "",
 "dateTime": "2022-11-30T20:30+02:00"
 },{
+"nom": "Gaël Horellou Organ trio",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-01T21:30+02:00"
+},{
 "nom": "The Quireboys",
 "sala": "La Nau",
 "hora": "20:30",
@@ -1062,6 +1080,15 @@
 "ciutat": "",
 "dateTime": "2022-12-01T20:30+02:00"
 },{
+"nom": "Vicente Amigo",
+"sala": "Palau de la Música",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T20:30+02:00"
+},{
 "nom": "Vicente Navarro",
 "sala": "Wolf",
 "hora": "21:30",
@@ -1071,6 +1098,24 @@
 "ciutat": "",
 "dateTime": "2022-12-02T21:30+02:00"
 },{
+"nom": "Michele Biondi Blues Band",
+"sala": "Harlem",
+"hora": "23:00",
+"mes": "DES.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T23:00+02:00"
+},{
+"nom": "Eliades Ochoa",
+"sala": "Auditori Sant Cugat",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T20:00+02:00"
+},{
 "nom": "Yawners",
 "sala": "La Nau",
 "hora": "21:00",
@@ -1079,6 +1124,24 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-02T21:00+02:00"
+},{
+"nom": "B.Bandra i C.Motis",
+"sala": "Harlem",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T20:00+02:00"
+},{
+"nom": "Thioune Brothers",
+"sala": "Harlem",
+"hora": "23:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T23:00+02:00"
 },{
 "nom": "Valira",
 "sala": "Wolf",
@@ -1097,6 +1160,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-11T21:00+02:00"
+},{
+"nom": "Soweto Gospel Choir",
+"sala": "Auditori St.Cugat",
+"hora": "18:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-11T18:00+02:00"
 },{
 "nom": "Kollaps + Dayofwrath",
 "sala": "El Pumarejo",
@@ -1125,6 +1197,15 @@
 "ciutat": "",
 "dateTime": "2022-12-16T21:00+02:00"
 },{
+"nom": "B. Bandera & J. Llombart",
+"sala": "Harlem",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T20:00+02:00"
+},{
 "nom": "Las Novias + Láudano",
 "sala": "Wolf",
 "hora": "20:00",
@@ -1142,6 +1223,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-03T20:30+02:00"
+},{
+"nom": "Ant Law & Alex Hitchcock",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "8",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-08T19:30+02:00"
 },{
 "nom": "Club del Rio",
 "sala": "La Nau",
@@ -1206,6 +1296,15 @@
 "ciutat": "",
 "dateTime": "2022-12-19T20:00+02:00"
 },{
+"nom": "Amazing Grace 50th.",
+"sala": "Palau de la Música",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "20",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-12-20T20:30+02:00"
+},{
 "nom": "Tributs: U2,The Cure, DM",
 "sala": "La Nau",
 "hora": "22:00",
@@ -1224,14 +1323,41 @@
 "ciutat": "",
 "dateTime": "2022-12-21T20:30+02:00"
 },{
+"nom": "Niña Pastori",
+"sala": "Gran Teatre Liceu",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "26",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-12-26T21:00+02:00"
+},{
+"nom": "Miguel Poveda",
+"sala": "Gran Teatre Liceu",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "27",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-12-27T21:30+02:00"
+},{
 "nom": "Maika Makovski",
 "sala": "Razzmatazz[2]",
 "hora": "21:00",
 "mes": "DES.2022",
 "dia": "27",
-"textdia": "dissabte",
+"textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2022-12-27T21:00+02:00"
+},{
+"nom": "E. Ferrer i J. Chamorro",
+"sala": "Luz de Gas",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "27",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-12-27T20:30+02:00"
 },{
 "nom": "Brighton 64",
 "sala": "Sidecar",
