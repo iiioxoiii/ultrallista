@@ -441,6 +441,15 @@
 "ciutat": "",
 "dateTime": "2022-11-20T20:00+02:00"
 },{
+"nom": "Andrea Motis & Marco Mezquida",
+"sala": "Sala Paral·lel",
+"hora": "19:30",
+"mes": "NOV.2022",
+"dia": "20",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-20T19:30+02:00"
+},{
 "nom": "La Plazuela + Cristian de Moret",
 "sala": "La Nau",
 "hora": "20:00",
@@ -531,6 +540,24 @@
 "ciutat": "",
 "dateTime": "2022-11-25T21:00+02:00"
 },{
+"nom": "St Andreu Jazz Band",
+"sala": "Palau de la Música",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-25T20:30+02:00"
+},{
+"nom": "Normanton Street",
+"sala": "Harlem",
+"hora": "23:00",
+"mes": "NOV.2022",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-25T23:00+02:00"
+},{
 "nom": "Shotta & Shaolin Monkey",
 "sala": "Wolf",
 "hora": "20:30",
@@ -548,6 +575,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-26T19:00+02:00"
+},{
+"nom": "Marie Pratt",
+"sala": "Harlem",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-26T20:30+02:00"
 },{
 "nom": "Rafael Riqueni",
 "sala": "Conservatori Liceu",
@@ -576,21 +612,12 @@
 "ciutat": "",
 "dateTime": "2022-10-27T21:00+02:00"
 },{
-"nom": "Moves + Iceland",
-"sala": "La Nau (ï)",
-"hora": "22:00",
-"mes": "OCT.2022",
-"dia": "28",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-10-28T22:00+02:00"
-},{
 "nom": "Rosario la Tremendita",
 "sala": "Conservatori Liceu",
 "hora": "20:30",
-"mes": "OCT.2022",
+"mes": "NOV.2022",
 "dia": "28",
-"textdia": "divendres",
+"textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2022-11-28T22:00+02:00"
 },{
