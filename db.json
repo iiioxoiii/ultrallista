@@ -494,7 +494,6 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-11-10T20:30+02:00"
-    
 },{
 "nom": "Las Ninyas del Corro",
 "sala": "La Capsa",
@@ -504,6 +503,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-11-11T22:00+02:00"  
+},{
+"nom": "Kokoshca",
+"sala": "Zowie",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T20:30+02:00"  
 },{
 "nom": "Anni B Sweet + Mariana tmb",
 "sala": "Salamandra",
@@ -793,6 +801,15 @@
 "ciutat": "",
 "dateTime": "2022-11-17T20:30+02:00"
 },{
+"nom": "Kaliza",
+"sala": "Zowie",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-17T21:30+01:00"    
+},{
 "nom": "La Femme",
 "sala": "Razzmatazz",
 "hora": "??:??",
@@ -1000,14 +1017,23 @@
 "ciutat": "",
 "dateTime": "2022-11-18T20:30+02:00"
 },{
-    "nom": "The Black Crowes",
-    "sala": "WiZink Center",
-    "hora": "21:00",
-    "mes": "NOV.2022",
-    "dia": "18",
-    "textdia": "dimarts",
-    "ciutat": "",
-    "dateTime": "2022-11-18T21:00+02:00"    
+"nom": "The Black Crowes",
+"sala": "WiZink Center",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-18T21:00+02:00"
+},{
+"nom": "Confeti de Odio",
+"sala": "Zowie",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-18T20:30+02:00"  
 },{
 "nom": "Homenaje a Paquito de Rivera",
 "sala": "Conservatori Liceu",
@@ -1425,6 +1451,15 @@
 },{
 "nom": "B.Bandra i C.Motis",
 "sala": "Harlem",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T20:00+02:00"
+},{
+"nom": "Thulsa Doom + Guillotina",
+"sala": "Zowie",
 "hora": "20:00",
 "mes": "DES.2022",
 "dia": "3",
@@ -1981,6 +2016,15 @@
 "ciutat": "",
 "dateTime": "2023-03-07T21:30+02:00"
 },{
+"nom": "Wormrot + Pount + Caphre",
+"sala": "Zowie",
+"hora": "21:00",
+"mes": "MAR2023",
+"dia": "9",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-09T20:00+02:00"
+},{
 "nom": "Yungblud",
 "sala": "Sant Jordi Club",
 "hora": "20:00",
@@ -2035,11 +2079,20 @@
 "ciutat": "",
 "dateTime": "2023-03-22T21:30+02:00"    
 },{
+"nom": "Human Tetris",
+"sala": "Zowie",
+"hora": "20:00",
+"mes": "MAR2023",
+"dia": "24",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-03-24T20:00+02:00"    
+},{
 "nom": "Robbie Williams",
 "sala": "Palau Sant Jordi",
 "hora": "21:00",
 "mes": "MAR2023",
-"dia": "21:30",
+"dia": "25",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-03-25T21:30+02:00"
