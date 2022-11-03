@@ -205,7 +205,16 @@
 "dia": "4",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2022-11-04T20:00+02:00"    
+"dateTime": "2022-11-04T20:00+02:00"
+},{
+"nom": "Menta",
+"sala": "vol",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "4",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-04T21:30+02:00"
 },{
 "nom": "Wild Incordios",
 "sala": "El Portal dels Encants",
@@ -214,7 +223,16 @@
 "dia": "4",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2022-11-04T20:00+02:00"
+"dateTime": "2022-11-04T20:00+02:00"    
+},{
+"nom": "Salvana + White Lighters",
+"sala": "vol",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T21:30+02:00"   
 },{
 "nom": "Staytons",
 "sala": "Continental Bar",
@@ -233,6 +251,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-05T22:00+02:00"    
+},{
+"nom": "The Goliards Collective",
+"sala": "Almo2bar",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-05T20:30+02:00"  
 },{
 "nom": "Le Nais",
 "sala": "Laut",
@@ -531,6 +558,24 @@
 "ciutat": "",
 "dateTime": "2022-11-11T23:00+02:00"
 },{
+"nom": "El Buen Hijo",
+"sala": "vol",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T21:30+02:00"
+},{
+"nom": "Blackpanda + Vangoura",
+"sala": "vol",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "12",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-12T21:30+01:00"
+},{
 "nom": "Medussa + Matote",
 "sala": "Almo2bar",
 "hora": "20:30",
@@ -585,6 +630,15 @@
 "ciutat": "",
 "dateTime": "2022-11-12T21:30+02:00"
 },{
+"nom": "Riki + Nuovo Testamento",
+"sala": "vol",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "13",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-13T20:00+02:00"
+},{
 "nom": "BJ Griffin Band",
 "sala": "Harlem",
 "hora": "22:30",
@@ -602,6 +656,24 @@
 "textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2022-11-14T20:30+02:00"
+},{
+"nom": "Shinova",
+"sala": "La Marina de València",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-14T20:00+02:00"
+},{
+"nom": "MATT MALTESE",
+"sala": "Laut",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-15T20:00+02:00"
 },{
 "nom": "KHBSBH",
 "sala": "Conservatori Liceu",
@@ -1602,15 +1674,6 @@
 "ciutat": "",
 "dateTime": "2023-05-13T22:00+02:00"
 },{
-"nom": "The Goliards Collective",
-"sala": "Almo2bar",
-"hora": "20:30",
-"mes": "NOV.2022",
-"dia": "5",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-05T20:30+02:00"  
-},{
 "nom": "Vidus + Heden'Startrip",
 "sala": "Continental Bar",
 "hora": "21:00",
@@ -1719,24 +1782,6 @@
 "ciutat": "",
 "dateTime": "2022-12-17T21:00+02:00"
 },{
-"nom": "Shinova",
-"sala": "La Marina de València",
-"hora": "20:00",
-"mes": "NOV.2022",
-"dia": "14",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-14T20:00+02:00"
-},{
-"nom": "MATT MALTESE",
-"sala": "Laut",
-"hora": "20:00",
-"mes": "NOV.2022",
-"dia": "15",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-15T20:00+02:00"
-},{
 "nom": "The Sadies",
 "sala": "Lemon Rock",
 "hora": "21:00",
@@ -1790,51 +1835,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-17T20:00+01:00"
-},{
-"nom": "Menta",
-"sala": "vol",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "4",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-04T21:30+02:00"
-},{
-"nom": "Salvana + White Lighters",
-"sala": "vol",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "5",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-05T21:30+02:00"
-},{
-"nom": "El Buen Hijo",
-"sala": "vol",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "11",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-11T21:30+02:00"
-},{
-"nom": "Blackpanda + Vangoura",
-"sala": "vol",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "12",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-12T21:30+01:00"
-},{
-"nom": "Riki + Nuovo Testamento",
-"sala": "vol",
-"hora": "20:00",
-"mes": "NOV.2022",
-"dia": "13",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-11-13T20:00+02:00"
 },{
 "nom": "Frank Carter & The Rattlesnakes",
 "sala": "Razzmatazz[2]",
