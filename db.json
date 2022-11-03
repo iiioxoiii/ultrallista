@@ -1,5 +1,77 @@
 {
 "concerts": [{
+"nom": "Lordi+Almanac+Dymytry",
+"sala": "Salamandra[1]",
+"hora": "19:00",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-02T19:00+02:00"
+},{
+"nom": "Centinex + Obscure",
+"sala": "Upload",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-02T20:00+02:00" 
+},{
+"nom": "Los Telepáticos + Melchoas",
+"sala": "El Pumarejo",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-02T20:00+02:00"
+},{
+"nom": "James Bay",
+"sala": "Razzmatazz",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-02T21:00+02:00"
+},{
+"nom": "Avishai Cohen Quartet",
+"sala": "Conservatori del Liceu",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-02T20:30+02:00"
+},{
+"nom": "Märvel + The Garnet",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-02T21:00+02:00"
+},{
+"nom": "Hermeto Pascoal",
+"sala": "Apolo",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-02T21:00+02:00"
+},{
+"nom": "Lime Cordiale",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-02T21:00+02:00"
+},{
 "nom": "Telmo Fernández Quartet",
 "sala": "Milano",
 "hora": "19:30",
@@ -81,24 +153,6 @@
 "ciutat": "",
 "dateTime": "2022-11-03T20:30+02:00"
 },{
-"nom": "Menta + El Diablo de Shanhai",
-"sala": "vol",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "4",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-04T21:00+02:00"
-},{
-"nom": "Salvana + White Lighters",
-"sala": "vol",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "5",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-05T21:30+02:00"
-},{
 "nom": "Liceu Blam Collective",
 "sala": "Conservatori del Liceu",
 "hora": "20:30",
@@ -152,51 +206,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-11-04T20:00+02:00"
-},{
-"nom": "Zero Kelvin",
-"sala": "Continental Bar",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "4",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-04T21:00+02:00"
-},{
-"nom": "La Costa Brava + Llamadas Perdidas",
-"sala": "La Capsa",
-"hora": "22:00",
-"mes": "NOV.2022",
-"dia": "5",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-05T22:00+02:00"
-},{
-"nom": "Invisible Harvey + Navarri",
-"sala": "Almo2bar",
-"hora": "20:30",
-"mes": "NOV.2022",
-"dia": "5",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-05T21:00+02:00"
-},{
-"nom": "The Goliards Collective",
-"sala": "Almo2bar",
-"hora": "20:30",
-"mes": "NOV.2022",
-"dia": "5",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-05T20:30+02:00"  
-},{
-"nom": "Salvana + Whte Lighters",
-"sala": "vol",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "5",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-05T21:30+02:00"
 },{
 "nom": "Le Nais",
 "sala": "Laut",
@@ -342,24 +351,6 @@
 "ciutat": "",
 "dateTime": "2022-11-08T20:30+02:00"
 },{
-"nom": "Izaro",
-"sala": "Bóveda",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "9",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-12-09T22:00+02:00"
-},{
-"nom": "Kae Tempest",
-"sala": "Sala BUT",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "9",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-09T21:00+01:00"
-},{
 "nom": "Dianne Reeves",
 "sala": "Palau de la Música",
 "hora": "20:30",
@@ -495,24 +486,6 @@
 "ciutat": "",
 "dateTime": "2022-11-11T23:00+02:00"
 },{
-"nom": "Medussa + Matote",
-"sala": "Almo2bar",
-"hora": "20:30",
-"mes": "NOV.2022",
-"dia": "12",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-12T20:30+02:00"
-},{
-"nom": "Blackpanda + Vangoura",
-"sala": "vol",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "12",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-12T21:00+02:00"
-},{
 "nom": "Steve Coleman",
 "sala": "Conservatori Liceu",
 "hora": "20:30",
@@ -561,15 +534,6 @@
 "nom": "BJ Griffin Band",
 "sala": "Harlem",
 "hora": "22:30",
-"mes": "NOV.2022",
-"dia": "13",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-11-13T22:30+02:00"
-},{
-"nom": "Riki + Nuovo Testamento",
-"sala": "vol",
-"hora": "20:00",
 "mes": "NOV.2022",
 "dia": "13",
 "textdia": "diumenge",
@@ -657,15 +621,6 @@
 "ciutat": "",
 "dateTime": "2022-11-18T20:30+02:00"
 },{
-"nom": "Albert Lax + Azul",
-"sala": "vol",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "18",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-18T21:30+02:00"
-},{
 "nom": "Homenaje a Paquito de Rivera",
 "sala": "Conservatori Liceu",
 "hora": "13:00",
@@ -728,15 +683,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-19T19:00+02:00"
-},{
-"nom": "Súper Gegant + Gracia Pedro",
-"sala": "vol",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "19",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-19T21:30+02:00"
 },{
 "nom": "Bestia Bebé",
 "sala": "Sidecar",
@@ -873,15 +819,6 @@
 "ciutat": "",
 "dateTime": "2022-11-25T20:30+02:00"
 },{
-"nom": "Pararrayos + Belirio",
-"sala": "vol",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "25",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-25T21:30+02:00"
-},{
 "nom": "Txarly Usher + Santa Espina + Lobötomics",
 "sala": "Wolf",
 "hora": "19:00",
@@ -917,15 +854,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-26T21:00+02:00"
-},{
-"nom": "Navarri + Gudar",
-"sala": "vol",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "26",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-26T21:30+02:00"
 },{
 "nom": "Ghali",
 "sala": "Bikini",
@@ -994,6 +922,15 @@
 "sala": "La Nau",
 "hora": "21:00",
 "mes": "NOV.2022",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-17T21:00+02:00"
+},{
+"nom": "Marialluïsa",
+"sala": "heliogàbal",
+"hora": "21:00",
+"mes": "OCT.2022",
 "dia": "17",
 "textdia": "dijous",
 "ciutat": "",
@@ -1115,15 +1052,6 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-11-24T21:00+02:00"
-},{
-"nom":"Gúdar + Navarri + Ultra-Local DJs" 
-"sala": "Vol",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "26",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-26T21:30+02:00"
 },{
 "nom": "Arroz Rojo",
 "sala": "La Nau",
@@ -1278,15 +1206,6 @@
 "ciutat": "",
 "dateTime": "2022-12-02T21:00+02:00"
 },{
-"nom": "Aliment",
-"sala": "vol",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "2",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-02T21:30+02:00"
-},{
 "nom": "B.Bandra i C.Motis",
 "sala": "Harlem",
 "hora": "20:00",
@@ -1413,15 +1332,6 @@
 "ciutat": "",
 "dateTime": "2022-12-16T21:00+02:00"
 },{
-"nom": "P.A.W.N. Gang",
-"sala": "vol",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:30+02:00"
-},{
 "nom": "B. Bandera & J. Llombart",
 "sala": "Harlem",
 "hora": "20:00",
@@ -1475,15 +1385,6 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2022-12-21T20:30+02:00"
-},{
-"nom": "Medalla + Ciudad Celeste",
-"sala": "vol",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T21:30+02:00"
 },{
 "nom": "Niña Pastori",
 "sala": "Gran Teatre Liceu",
@@ -1647,14 +1548,221 @@
 "ciutat": "",
 "dateTime": "2023-05-13T22:00+02:00"
 },{
-"nom": "Staytons",
-"sala": "Continental Bar",
+"nom": "El Caribefunck",
+"sala": "Almo2bar",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-10-05T20:00+02:00"
+},{
+"nom": "Jordi Heras i Gabriel Pereira",
+"sala": "Seu Gracia Territori Sonor - LEM",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "6",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-06T20:00+02:00"
+},{
+"nom": "Mirtils + Bord",
+"sala": "Almo2bar",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-07T21:00+02:00"
+},{
+"nom": "Neverland Bari",
+"sala": "Continental",
+"hora": "21:30",
+"mes": "OCT.2022",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-07T21:30+02:00"
+},{
+"nom": "Lobbos",
+"sala": "Almo2bar",
 "hora": "21:00",
+"mes": "OCT.2022",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-07T21:00+02:00"  
+},{
+"nom": "Rulo y la Contrabanda",
+"sala": "Razzmatazz[1]",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-07T20:30+02:00"
+},{
+"nom": "Non Servium",
+"sala": "Razzmatazz[1]",
+"hora": "20:00",
+"mes": "SET.2022",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2021-10-08T20:00+02:00"
+},{
+"nom": "David Canal",
+"sala": "Razzmatazz[3]",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-08T21:00+02:00"
+},{
+"nom": "Futurachicapop + Oreiana",
+"sala": "Almo2bar",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-08T21:00+02:00"
+},{
+"nom": "Veus Lliures + Teranyines",
+"sala": "LEM - La Sedeta",
+"hora": "19:45",
+"mes": "OCT.2022",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-08T19:45+02:00"
+},{
+"nom": "Cruzando el charco",
+"sala": "Razzmatazz[3]",
+"hora": "21:30",
+"mes": "OCT.2022",
+"dia": "9",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-09T21:30+02:00"
+},{
+"nom": "Radio Internazionale",
+"sala": "Seu Gràcia Territori Sonor",
+"hora": "19:45",
+"mes": "OCT.2022",
+"dia": "13",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-13T19:45+02:00"
+},{
+"nom": "Orchestra Fireduche",
+"sala": "Tradicionarius LEM",
+"hora": "20:15",
+"mes": "OCT.2022",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-14T20:15+02:00"
+},{
+"nom": "Les Rencards",
+"sala": "Almo2bar",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-14T21:30+02:00"
+},{
+"nom": "Joan Bagés",
+"sala": "Església Sant Joan LEM",
+"hora": "19:45",
+"mes": "OCT.2022",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-15T19:45+02:00"
+},{
+"nom": "Sanatorium + Malos Tragos",
+"sala": "La Capsa",
+"hora": "22:00",
+"mes": "OCT.2022",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-21T22:00+02:00"
+},{
+"nom": "Claraguilar",
+"sala": "La Capsa",
+"hora": "22:00",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T20:30+02:00"
+},{
+"nom": "Jack`s Sons i LaBandaTonPare",
+"sala": "La Capsa",
+"hora": "22:00",
+"mes": "OCT.2022",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-29T22:00+02:00"
+},{
+"nom": "La Costa Brava + Llamadas Perdidas",
+"sala": "La Capsa",
+"hora": "22:00",
 "mes": "NOV.2022",
 "dia": "5",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-11-05T21:30+02:00"
+"dateTime": "2022-11-05T22:00+02:00"
+},{
+"nom": "Las Ninyas del Corro",
+"sala": "La Capsa",
+"hora": "22:00",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T22:00+02:00"
+},{
+"nom": "Invisible Harvey + Navarri",
+"sala": "Almo2bar",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-05T21:00+02:00"
+},{
+"nom": "The Goliards Collective",
+"sala": "Almo2bar",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-05T20:30+02:00"  
+},{
+"nom": "Bocanada",
+"sala": "Razzmatazz[3]",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-09-24T21:00+02:00"
+},{
+"nom": "Dead Kennedys",
+"sala": "Razzmatazz",
+"hora": "19:00",
+"mes": "OCT.2022",
+"dia": "13",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-13T19:00+02:00"
 },{
 "nom": "Vidus + Heden'Startrip",
 "sala": "Continental Bar",
@@ -1665,6 +1773,105 @@
 "ciutat": "",
 "dateTime": "2022-11-08T21:00+02:00"
 },{
+"nom": "Encontres en l'Espai-Temps",
+"sala": "Seu Gracia Territori Sonor - LEM",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "20",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-20T20:00+02:00"
+},{
+"nom": "Sarram + Stahlfabrik",
+"sala": "Convent Sant Agustí LEM",
+"hora": "19:45",
+"mes": "OCT.2022",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-21T19:45+02:00"
+},{
+"nom": "Not Scientist",
+"sala": "Fusionica",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T21:00+02:00"
+},{
+"nom": "Zeidun",
+"sala": "Fusionica",
+"hora": "20:30",
+"mes": "OCT.2022",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-22T20:00+02:00"
+},{
+"nom": "Ana Arenas & Santi López",
+"sala": "Seu Gracia Territori Sonor - LEM",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "27",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-10-27T20:00+02:00"
+},{
+"nom": "Plaça",
+"sala": "Ateneu El Poblet - LEM",
+"hora": "19:00",
+"mes": "OCT.2022",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-10-28T19:00+02:00"
+},{
+"nom": "Jorgen Teller",
+"sala": "Museu de la Música de BCN - LEM",
+"hora": "20:00",
+"mes": "OCT.2022",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-29T20:00+02:00"
+},{
+"nom": "Macromassa",
+"sala": "Museu de la Música BCN - LEM",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-29T21:00+02:00"
+},{
+"nom": "Saïm",
+"sala": "Saltamarges Fest",
+"hora": "??:??",
+"mes": "OCT.2022",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-01T20:00+02:00"
+},{
+"nom": "Zero Kelvin",
+"sala": "Continental Bar",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "4",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-04T21:00+02:00"
+},{
+"nom": "Staytons",
+"sala": "Continental Bar",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T21:30+02:00"
+},{
 "nom": "Tom Odell",
 "sala": "Razzmatazz[1]",
 "hora": "<sold out>",
@@ -1674,6 +1881,33 @@
 "ciutat": "",
 "dateTime": "2022-10-09T20:30+02:00"
 },{
+"nom": "La Casa Azul",
+"sala": "Poblado de Sancti Petri",
+"hora": "22:30",
+"mes": "SET.2022",
+"dia": "16",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-08-16T22:30+02:00"
+},{
+"nom": "El verbo Odiado",
+"sala": "Continental Bar",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T22:00+02:00"
+},{
+"nom": "Medussa + Matote",
+"sala": "Almo2bar",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "12",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-12T20:30+02:00"
+},{
 "nom": "Psychotropic Swamp",
 "sala": "Almo2bar",
 "hora": "21:00",
@@ -1682,15 +1916,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-10T21:00+02:00"
-},{
-"nom": "Las Ninyas del Corro",
-"sala": "La Capsa",
-"hora": "22:00",
-"mes": "NOV.2022",
-"dia": "11",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-11T22:00+02:00"
 },{
 "nom": "La Plata + Pililinpussies",
 "sala": "La Capsa",
@@ -1817,6 +2042,42 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-17T20:00+01:00"
+},{
+"nom": "Col·lectiu Pedant a Missa i Repicant",
+"sala": "vol",
+"hora": "21:00",
+"mes": "OCT.2022",
+"dia": "25",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-10-25T21:00+02:00"
+},{
+"nom": "La Plata",
+"sala": "vol",
+"hora": "21:30",
+"mes": "OCT.2022",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-10-29T21:30+02:00"
+},{
+"nom": "Menta",
+"sala": "vol",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "4",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-04T21:30+02:00"
+},{
+"nom": "Salvana + White Lighters",
+"sala": "vol",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T21:30+02:00"
 },{
 "nom": "El Buen Hijo",
 "sala": "vol",
@@ -2007,6 +2268,24 @@
 "ciutat": "",
 "dateTime": "2023-02-23T20:00+01:00"
 },{
+"nom": "Itaca Band",
+"sala": "Garaje Beat Club",
+"hora": "22:00",
+"mes": "NOV.2022",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-28T22:00+02:00"
+},{
+"nom": "Izaro",
+"sala": "Bóveda",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-09T22:00+02:00"
+},{
 "nom": "The Sadies",
 "sala": "Escenario Santander",
 "hora": "21:00",
@@ -2024,6 +2303,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-12-17T21:30+01:00"
+},{
+"nom": "Kae Tempest",
+"sala": "Sala BUT",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T21:00+01:00"
 },{
 "nom": "Pixies",
 "sala": "Sant Jordi Club",
