@@ -135,7 +135,7 @@
 "ciutat": "",
 "dateTime": "2022-11-04T20:00+02:00"
 },{
-"nom": "Menta",
+"nom": "Menta + El Diablo de Shangai",
 "sala": "vol",
 "hora": "21:30",
 "mes": "NOV.2022",
@@ -1587,6 +1587,15 @@
 "nom": "The Sadies",
 "sala": "Lemon Rock",
 "hora": "21:00",
+"mes": "DES.2022",
+"dia": "16",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-16T21:00+01:00"
+},{
+"nom": "Crim",
+"sala": "Razzmatazz",
+"hora": "??:??",
 "mes": "DES.2022",
 "dia": "16",
 "textdia": "dimecres",
