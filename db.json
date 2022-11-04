@@ -81,6 +81,15 @@
 "ciutat": "",
 "dateTime": "2022-11-05T12:30+02:00"          
 },{
+"nom": "LOTL + NachBlut + Scarlet",
+"sala": "Salamandra",
+"hora": "19:00",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T19:00+02:00"
+},{
 "nom": "Dead People + Eight",
 "sala": "Rock'n'Trini",
 "hora": "21:30",
@@ -549,6 +558,15 @@
 "ciutat": "",
 "dateTime": "2022-11-12T21:00+02:00"
 },{
+"nom": "Reno Renardo",
+"sala": "Salamandra",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "12",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-12T20:30+02:00"    
+},{
 "nom": "Adriana Ospina & Bartolomeo Barenghi",
 "sala": "Harlem",
 "hora": "20:00",
@@ -833,9 +851,18 @@
 "hora": "21:00",
 "mes": "NOV.2022",
 "dia": "21",
-"textdia": "dijous",
+"textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2022-11-21T21:00+02:00"
+},{
+"nom": "U.D.O",
+"sala": "Samandra",
+"hora": "19:00",
+"mes": "NOV.2022",
+"dia": "22",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-21T19:00+02:00"    
 },{
 "nom": "Carles Viarnès",
 "sala": "heliogàbal",
@@ -863,6 +890,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-24T21:30+02:00"
+},{
+"nom": "Led Zeppelin (covers)",
+"sala": "Salamandra",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-24T20:30+02:00"    
 },{
 "nom": "Grabu",
 "sala": "heliogàbal",
@@ -1290,11 +1326,20 @@
 "nom": "Wolf Alice",
 "sala": "Apolo",
 "hora": "21:00",
-"mes": "DEC.2022",
+"mes": "DES.2022",
 "dia": "3",
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-03T21:00+02:00"
+},{
+"nom": "Maggots + MTV Hits",
+"sala": "Salamandra",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-03T19:30+02:00"    
 },{
 "nom": "Gaël Horellou Organ trio",
 "sala": "Milano",
@@ -1602,6 +1647,15 @@
 "ciutat": "",
 "dateTime": "2022-12-16T21:00+02:00"
 },{
+"nom": "Sofia Gabanna",
+"sala": "Salamandra",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-16T20:00+02:00"    
+},{
 "nom": "The Sadies",
 "sala": "Lemon Rock",
 "hora": "21:00",
@@ -1800,6 +1854,15 @@
 "ciutat": "",
 "dateTime": "2023-01-21T20:00+02:00"
 },{
+"nom": "Angelus Apatrida + TBC",
+"sala": "Salamandra",
+"hora": "20:00",
+"mes": "GEN.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-21T20:00+02:00"    
+},{
 "nom": "Èxtasis + Merino",
 "sala": "Upload",
 "hora": "21:00",
@@ -1844,6 +1907,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-01-28T21:00+02:00"
+},{
+"nom": "Beast in Blanck",
+"sala": "Salamandra",
+"hora": "19:30",
+"mes": "GEN.2023",
+"dia": "31",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-01-31T19:30+02:00"    
 },{    
 "nom": "Michael Bublé",
 "sala": "Palau Sant Jordi",
@@ -1853,6 +1925,15 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-02-1T21:00+01:00"
+},{    
+"nom": "Black Flag + Total Chaos",
+"sala": "Salamandra",
+"hora": "20:00",
+"mes": "FEB.2023",
+"dia": "3",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-1T20:00+01:00"
 },{
 "nom": "Amanda Tenfjord",
 "sala": "La Nau",
@@ -1862,6 +1943,69 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-02-04T21:30+02:00"
+},{
+"nom": "Katatonia + Sólstafir + Som",
+"sala": "Salamandra",
+"hora": "18:00",
+"mes": "FEB.2022",
+"dia": "7",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-07T18:00+02:00"    
+},{
+"nom": "Ill Pequeño & Ergo Pro",
+"sala": "Salamandra",
+"hora": "21:00",
+"mes": "FEB.2022",
+"dia": "10",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-10T21:00+02:00"        
+},{
+"nom": "Palaye Royale",
+"sala": "Apolo",
+"hora": "20:00",
+"mes": "FEB.2022",
+"dia": "15",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-02-15T21:00+01:00"    
+},{
+"nom": "The Rose",        
+"sala": "Razzmatazz",
+"hora": "??:??",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "dimecres",
+"ciutat": "sold out",
+"dateTime": "2023-02-19T21:00+01:00"        
+},{
+"nom": "Whisky Caravan",
+"sala": "Wolf Club",
+"hora": "20:00",
+"mes": "FEB.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-21T20:00+01:00"    
+},{
+"nom": "VV",
+"sala": "Razzmatazz",
+"hora": "21:30",
+"mes": "FEB.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-24T21:30+01:00"
+},{
+"nom": "Ice Nine Kills",
+"sala": "Razzmatazz",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-25T21:00+01:00"    
 },{
 "nom": "Sorry",
 "sala": "Sidecar",
@@ -1881,6 +2025,24 @@
 "ciutat": "",
 "dateTime": "2023-04-25T21:00+02:00"
 },{
+"nom": "Conception",
+"sala": "Salamandra",
+"hora": "19:30",
+"mes": "ABR.2023",
+"dia": "27",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-04-27T19:30+02:00"    
+},{
+"nom": "Lacrimosa",
+"sala": "Salamandra",
+"hora": "20:00",
+"mes": "MAI.2023",
+"dia": "6",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-06T20:00+02:00"        
+},{
 "nom": "Tribut: Oasis, David Bowie, Coldplay",
 "sala": "La Nau",
 "hora": "22:00",
@@ -1890,59 +2052,14 @@
 "ciutat": "",
 "dateTime": "2023-05-13T22:00+02:00"
 },{
-"nom": "Palaye Royale",
-"sala": "Apolo",
+"nom": "Riot V + Redshank",
+"sala": "Salamandra",
 "hora": "20:00",
-"mes": "FEB.2022",
-"dia": "15",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-02-15T21:00+01:00"
-},{
-"nom": "The Rose",
-"sala": "Razzmatazz",
-"hora": "??:??",
-"mes": "FEB.2023",
+"mes": "MAI.2023",
 "dia": "19",
-"textdia": "dimecres",
-"ciutat": "sold out",
-"dateTime": "2023-02-19T21:00+01:00"
-},{
-"nom": "Whisky Caravan",
-"sala": "Wolf Club",
-"hora": "20:00",
-"mes": "FEB.2023",
-"dia": "21",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-21T20:00+01:00"
-},{
-"nom": "VV",
-"sala": "Razzmatazz",
-"hora": "21:30",
-"mes": "FEB.2023",
-"dia": "24",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-02-24T21:30+01:00"
-},{
-"nom": "Ice Nine Kills",
-"sala": "Razzmatazz",
-"hora": "21:00",
-"mes": "FEB.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-02-25T21:00+01:00"
-},{
-"nom": "Justin Bieber",
-"sala": "WiZink Center",
-"hora": "20:00",
-"mes": "FEB.2023",
-"dia": "23",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-02-23T20:00+01:00"
+"dateTime": "2023-05-19T20:00+02:00"    
 },{
 "nom": "Pixies",
 "sala": "Sant Jordi Club",
@@ -1971,6 +2088,15 @@
 "ciutat": "",
 "dateTime": "2023-03-07T21:30+02:00"
 },{
+"nom": "Hakey + BTBAM + Cryptodira",
+"sala": "Salamandra",
+"hora": "18:00",
+"mes": "MAR2023",
+"dia": "8",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-03-08T18:00+02:00"    
+},{    
 "nom": "Wormrot + Pount + Caphre",
 "sala": "Zowie",
 "hora": "21:00",
