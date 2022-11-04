@@ -617,7 +617,7 @@
 "hora": "21:00",
 "mes": "NOV.2022",
 "dia": "14",
-"textdia": "divendres",
+"textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2022-11-14T21:00+02:00"
 },{
@@ -626,7 +626,7 @@
 "hora": "20:00",
 "mes": "NOV.2022",
 "dia": "14",
-"textdia": "divendres",
+"textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2022-11-14T20:00+02:00"
 },{
@@ -644,7 +644,7 @@
 "hora": "20:00",
 "mes": "NOV.2022",
 "dia": "15",
-"textdia": "dissabte",
+"textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2022-11-15T20:00+02:00"
 },{
@@ -810,6 +810,15 @@
 "ciutat": "",
 "dateTime": "2022-11-19T21:00+02:00"
 },{
+"nom": "Súper Gegant + Gràcia Pedro",
+"sala": "vol",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T21:30+02:00"    
+},{
 "nom": "Joan Miquel Oliver",
 "sala": "La Jazz Cava",
 "hora": "21:00",
@@ -881,6 +890,24 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2022-11-25T21:30+02:00"
+},{
+"nom": "Pararrayos + Belirio",
+"sala": "vol",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-25T21:30+02:00"    
+},{
+"nom": "Navarri + Gúdar",
+"sala": "vol",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-26T21:30+02:00"    
 },{
 "nom": "Parade + Jonston",
 "sala": "helogàbal",
