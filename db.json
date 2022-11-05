@@ -1,77 +1,5 @@
 {
 "concerts": [{
-"nom": "Liceu Blam Collective",
-"sala": "Conservatori del Liceu",
-"hora": "20:30",
-"mes": "NOV.2022",
-"dia": "4",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-04T20:30+02:00"
-},{
-"nom": "Zero Kelvin",
-"sala": "Continental Bar",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "4",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-04T21:00+02:00"
-},{
-"nom": "Jagulin",
-"sala": "Els Pagesos",
-"hora": "23:59",
-"mes": "NOV.2022",
-"dia": "4",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-04T23:59+02:00"
-},{
-"nom": "Martirio & Chano Domínguez",
-"sala": "Paral·lel 62",
-"hora": "20:30",
-"mes": "NOV.2022",
-"dia": "4",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-04T20:30+02:00"
-},{
-"nom": "Lionware",
-"sala": "Laut",
-"hora": "20:00",
-"mes": "NOV.2022",
-"dia": "4",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-04T20:00+02:00"
-},{
-"nom": "Doble Fuerza + Último Rekurso + La Chinaski",
-"sala": "Wolf",
-"hora": "20:00",
-"mes": "NOV.2022",
-"dia": "4",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-04T20:00+02:00"
-},{
-"nom": "Menta + El Diablo de Shangai",
-"sala": "vol",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "4",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-04T21:30+02:00"
-},{
-"nom": "Wild Incordios",
-"sala": "El Portal dels Encants",
-"hora": "20:00",
-"mes": "NOV.2022",
-"dia": "4",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-04T20:00+02:00"    
-},{
 "nom": "Wax & Boogie",
 "sala": "Plç. Repartidor (L'H)",
 "hora": "12:30",
@@ -79,7 +7,79 @@
 "dia": "5",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-11-05T12:30+02:00"          
+"dateTime": "2022-11-05T12:30+02:00"
+},{
+"nom": "Flamsteed + Silly Sally",
+"sala": "Ceferino",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T21:00+02:00"          
+},{
+"nom": "Martín Burguez & His Rhythm Combo",
+"sala": "La Sedeta",
+"hora": "12:30",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T12:30+02:00"              
+},{
+"nom": "Gallina Rex",
+"sala": "Bar Makinavaja",
+"hora": "13:00",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T13:00+02:00"                  
+},{
+"nom": "La Habitacion Roja",
+"sala": "Apolo",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T21:00+02:00"                          
+},{
+"nom": "Ataraxy + Guillotina + ...",
+"sala": "Zowie",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T20:30+02:00"                              
+},{
+"nom": "Elefantes",
+"sala": "Luz de Gas",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T21:00+02:00"                      
+},{
+"nom": "Gigatron + Pycaya + Falç + ...",
+"sala": "Estraperlo",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T20:30+02:00"                      
+},{
+"nom": "M¡R¡M + SDH + Infant Blai",
+"sala": "Meteoro",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "5",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-05T20:00+02:00"                      
 },{
 "nom": "LOTL + NachBlut + Scarlet",
 "sala": "Salamandra",
