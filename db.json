@@ -279,6 +279,15 @@
 "ciutat": "",
 "dateTime": "2022-11-07T21:00+02:00"    
 },{
+"nom": "Pup",
+"sala": "Bóveda",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "7",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-11-07T20:00+02:00"    
+},{
 "nom": "Bon Iver",
 "sala": "Sant Jordi Club",
 "hora": "21:00",
@@ -864,6 +873,15 @@
 "ciutat": "",
 "dateTime": "2022-11-18T20:00+02:00"
 },{
+"nom": "Zahara",
+"sala": "Razzmatazz",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-18T21:00+02:00"
+},{
 "nom": "Gebre + Islandia Nunca Quema",
 "sala": "heliogàbal",
 "hora": "21:00",
@@ -1314,6 +1332,24 @@
 "ciutat": "",
 "dateTime": "2022-11-25T21:00+02:00"
 },{
+"nom": "Venturi",
+"sala": "Acme",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-25T21:00+02:00"
+},{
+"nom": "Cariño",
+"sala": "Razzmatazz[1]",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-25T20:00+02:00"
+},{
 "nom": "St Andreu Jazz Band",
 "sala": "Palau de la Música",
 "hora": "20:30",
@@ -1349,6 +1385,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-11-25T21:00+02:00"
+},{
+"nom": "Sudan Archives + Sunaji",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-25T20:00+02:00"
 },{
 "nom": "Franz Ferdinand",
 "sala": "WiZink Center",
@@ -1645,7 +1690,7 @@
 "dia": "4",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2022-12-11T21:00+02:00"
+"dateTime": "2022-12-04T21:00+02:00"
 },{
 "nom": "Whisky Caravan",
 "sala": "Mon Madrid",
@@ -1917,6 +1962,15 @@
 "ciutat": "",
 "dateTime": "2022-12-17T21:30+01:00"    
 },{
+"nom": "Guarachea",
+"sala": "la Nau",
+"hora": "18:00",
+"mes": "DES.2022",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-18T18:00+01:00"    
+},{
 "nom": "The Graham Bonnet Band",
 "sala": "Wolf",
 "hora": "21:00",
@@ -1956,6 +2010,15 @@
 "nom": "Monodrama",
 "sala": "Sunset Jazz (Gi.)",
 "hora": "20:00",
+"mes": "DES.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-23T20:00+02:00"  
+},{
+"nom": "Alf",
+"sala": "la Nau",
+"hora": "??:??",
 "mes": "DES.2022",
 "dia": "23",
 "textdia": "divendres",
@@ -2303,6 +2366,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-02-25T21:00+01:00"    
+},{
+"nom": "Shenova",
+"sala": "Apolo",
+"hora": "20:00",
+"mes": "FEB.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-25T20:00+01:00"    
 },{
 "nom": "Sorry",
 "sala": "Sidecar",
