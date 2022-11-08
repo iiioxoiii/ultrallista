@@ -45,8 +45,44 @@
 "ciutat": "",
 "dateTime": "2022-11-08T23:00+02:00"        
 },{
+"nom": "Trio Nilo",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "9",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-09T21:30+02:00"
+},{
+"nom": "Asbest Boys + Aspanya + Mandanga",
+"sala": "La Astilla (L'H)",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "9",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-09T21:30+02:00"
+},{
 "nom": "Dianne Reeves",
 "sala": "Palau de la Música",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "9",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-09T20:30+02:00"
+},{
+"nom": "Irene Augé i Àngel Ollé",
+"sala": "Tradicionarius",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "9",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-09T21:00+02:00"
+},{
+"nom": "Marc Lettieri",
+"sala": "Razzmataz[3]",
 "hora": "20:30",
 "mes": "NOV.2022",
 "dia": "9",
@@ -71,6 +107,60 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-11-10T21:00+02:00"
+},{
+"nom": "Tu Otra Bonita",
+"sala": "Apolo[2]",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-10T21:00+02:00"
+},{
+"nom": "The Lounge Society + Chico Jorge",
+"sala": "Razzmataz[3]",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-10T21:00+02:00"
+},{
+"nom": "Kodaline",
+"sala": "Razzmataz[1]",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-10T21:00+02:00"
+},{
+"nom": "N.Hardem",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-10T21:00+02:00"
+},{
+"nom": "Aina Koda+Eloi+Sayrach+Kiga Flawas",
+"sala": "Salamandra",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-10T21:00+02:00"
+},{
+"nom": "Laura Andrés",
+"sala": "Tradicionàrius",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "10",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-10T20:00+02:00"
 },{
 "nom": "Chaqueta de Chándal",
 "sala": "heliogàbal",
@@ -144,6 +234,15 @@
 "ciutat": "",
 "dateTime": "2022-11-11T21:00+02:00"  
 },{
+"nom": "Bj Griffin & TGGB",
+"sala": "Harlem",
+"hora": "23:00",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T23:00+02:00"  
+},{
 "nom": "Kokoshca",
 "sala": "Zowie",
 "hora": "20:30",
@@ -152,6 +251,24 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-11-11T20:30+02:00"  
+},{
+"nom": "Sofian Dhondt & Aust Tharrats",
+"sala": "El Cafe r&r",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T20:30+02:00"  
+},{
+"nom": "Supergatos",
+"sala": "La Sedeta",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "11",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-11T20:00+02:00"  
 },{
 "nom": "Anni B Sweet + Mariana tmb",
 "sala": "Salamandra",
@@ -233,6 +350,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-12T21:30+01:00"
+},{
+"nom": "Damned Hellbillies",
+"sala": "El Café r&r",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "12",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-12T20:30+01:00"
 },{
 "nom": "Selma Bruna",
 "sala": "helogàbal",
