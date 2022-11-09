@@ -1,50 +1,5 @@
 {
 "concerts": [{
-"nom": "El Pela Romero",
-"sala": "La Nau",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "8",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-08T21:00+02:00"
-},{
-"nom": "Sam Ryder",
-"sala": "Apolo [2]",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "8",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-08T21:00+02:00"
-},{
-"nom": "Mark Turner",
-"sala": "Conservatori Liceu",
-"hora": "20:30",
-"mes": "NOV.2022",
-"dia": "8",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-08T20:30+02:00"
-},{
-"nom": "Vidus + Heden'Startrip",
-"sala": "Continental Bar",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "8",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-08T21:00+02:00"    
-},{
-"nom": "Gregory Alan Isakov",
-"sala": "Bikini",
-"hora": "23:00",
-"mes": "NOV.2022",
-"dia": "8",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-08T23:00+02:00"        
-},{
 "nom": "Trio Nilo",
 "sala": "Milano",
 "hora": "21:30",
@@ -693,6 +648,105 @@
 "ciutat": "",
 "dateTime": "2022-11-18T21:00+02:00"
 },{
+"nom": "Poncho K",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-18T21:00+02:00"
+},{
+"nom": "Chucho Valdés & Paquito de Rivera",
+"sala": "Palau de la Música",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-18T20:30+02:00"
+},{
+"nom": "The Black Crowes",
+"sala": "WiZink Center",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-18T21:00+02:00"
+},{
+"nom": "Confeti de Odio",
+"sala": "Zowie",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-18T20:30+02:00"  
+},{
+"nom": "Homenaje a Paquito de Rivera",
+"sala": "Conservatori Liceu",
+"hora": "13:00",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T13:00+02:00"
+},{
+"nom": "Ters",
+"sala": "Laut",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T20:30+02:00"
+},{
+"nom": "Gemma Abrié & Josep Traver",
+"sala": "Harlem",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T20:00+02:00"
+},{
+"nom": "Yamnadú Costa",
+"sala": "Conservatori Liceu",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T20:30+02:00"
+},{
+"nom": "Bulego",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T21:00+02:00"
+},{
+"nom": "Enuff Z'Nuff",
+"sala": "Wolf",
+"hora": "21:30",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T21:30+02:00"
+},{
+"nom": "Joan Miquel Oliver",
+"sala": "Els Pagesos",
+"hora": "19:00",
+"mes": "NOV.2022",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-19T19:00+02:00"
+},{
 "nom": "Gebre + Islandia Nunca Quema",
 "sala": "heliogàbal",
 "hora": "21:00",
@@ -935,106 +989,6 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2022-11-30T20:30+02:00"
-},{
-"nom": "Poncho K",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "18",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-18T21:00+02:00"
-},{
-"nom": "Chucho Valdés & Paquito de Rivera",
-"sala": "Palau de la Música",
-"hora": "20:30",
-"mes": "NOV.2022",
-"dia": "18",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-11-18T20:30+02:00"
-},{
-"nom": "The Black Crowes",
-"sala": "WiZink Center",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "18",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-18T21:00+02:00"
-},{
-"nom": "Confeti de Odio",
-"sala": "Zowie",
-"hora": "20:30",
-"mes": "NOV.2022",
-"dia": "18",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-18T20:30+02:00"  
-},{
-"nom": "Homenaje a Paquito de Rivera",
-"sala": "Conservatori Liceu",
-"hora": "13:00",
-"mes": "NOV.2022",
-"dia": "19",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-19T13:00+02:00"
-},{
-"nom": "Ters",
-"sala": "Laut",
-"hora": "20:30",
-"mes": "NOV.2022",
-"dia": "19",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-19T20:30+02:00"
-},{
-"nom": "Gemma Abrié & Josep Traver",
-"sala": "Harlem",
-"hora": "20:00",
-"mes": "NOV.2022",
-"dia": "19",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-19T20:00+02:00"
-},{
-"nom": "Yamnadú Costa",
-"sala": "Conservatori Liceu",
-"hora": "20:30",
-"mes": "NOV.2022",
-"dia": "19",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-19T20:30+02:00"
-},{
-"nom": "Bulego",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "19",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-19T21:00+02:00"
-},{
-"nom": "Enuff Z'Nuff",
-"sala": "Wolf",
-"hora": "21:30",
-"mes": "NOV.2022",
-"dia": "19",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-19T21:30+02:00"
-},{
-"nom": "Joan Miquel Oliver",
-"sala": "Els Pagesos",
-"hora": "19:00",
-"mes": "NOV.2022",
-"dia": "19",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-19T19:00+02:00"
-},{
 "nom": "Bestia Bebé",
 "sala": "Sidecar",
 "hora": "20:00",
