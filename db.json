@@ -558,6 +558,15 @@
 "ciutat": "",
 "dateTime": "2022-11-16T20:00+02:00"    
 },{
+"nom": "L'Entrourloop",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "NOV.2022",
+"dia": "16",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-16T19:30+02:00"    
+},{
 "nom": "Navet",
 "sala": "La Nau",
 "hora": "21:00",
@@ -566,6 +575,33 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-11-17T21:00+02:00"  
+},{
+"nom": "Eluveitie + Amorphis + ...",
+"sala": "Razzmatazz[1]",
+"hora": "17:20",
+"mes": "NOV.2022",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-17T17:20+02:00"  
+},{
+"nom": "Saramalaca",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "NOV.2022",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-17T19:30+02:00"  
+},{
+"nom": "Edu Requejo",
+"sala": "Razzmatazz[3]",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-17T20:30+02:00"
 },{
 "nom": "Lil Nas X",
 "sala": "Sant Jordi Club",
@@ -638,6 +674,42 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-17T20:00+01:00"    
+},{
+"nom": "Haizea Martiartu Qut.",
+"sala": "La Deskominal",
+"hora": "20:30?",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T20:30+01:00"    
+},{
+"nom": "Alex Beat",
+"sala": "La Deskomunal",
+"hora": "23:00",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-18T23:00+02:00"
+},{
+"nom": "The Sadies",
+"sala": "Razzmatazz[3]",
+"hora": "19:45",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-18T19:45+02:00"
+},{
+"nom": "Zahara",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "NOV.2022",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-18T19:30+02:00"
 },{
 "nom": "Joan Miquel Oliver",
 "sala": "L'Oncle Jack",
@@ -900,14 +972,23 @@
 "ciutat": "",
 "dateTime": "2022-11-20T21:00+02:00"
 },{
-"nom": "Mykki Blanco",
-"sala": "la Nau",
-"hora": "21:00",
+"nom": "Alter Bridge + Halestorm + Mammoth",
+"sala": "Razzmatazz[1]",
+"hora": "17:00",
+"mes": "NOV.2022",
+"dia": "20",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-20T17:00+02:00"
+},{
+"nom": "PowerWolf + DragonForce + ...",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
 "mes": "NOV.2022",
 "dia": "21",
 "textdia": "dilluns",
 "ciutat": "",
-"dateTime": "2022-11-21T21:00+02:00"
+"dateTime": "2022-11-21T19:00+02:00"
 },{
 "nom": "Tombolo! Mykki Blanco",
 "sala": "La Nau",
@@ -926,6 +1007,15 @@
 "textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2022-11-21T20:30+02:00"
+},{
+"nom": "Stick to your Guns + Knoked Loose + LandMVRKS + Soul Blind ",
+"sala": "Razzmatazz[2]",
+"hora": "17:45",
+"mes": "NOV.2022",
+"dia": "22",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-22T17:45+02:00"
 },{
 "nom": "Ferran Rico",
 "sala": "Conservatori Liceu",
@@ -963,6 +1053,33 @@
 "ciutat": "",
 "dateTime": "2022-11-23T20:30+02:00"
 },{
+"nom": "Opeth",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "NOV.2022",
+"dia": "23",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-23T19:00+02:00"
+},{
+"nom": "Zapato3",
+"sala": "Razzmatazz[2]",
+"hora": "19:00",
+"mes": "NOV.2022",
+"dia": "23",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-23T19:00+02:00"
+},{
+"nom": "Mellow Mood",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "23",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-11-23T20:00+02:00"
+},{
 "nom": "Moundrag + The Deathlines",
 "sala": "Wolf",
 "hora": "20:30",
@@ -990,6 +1107,24 @@
 "ciutat": "",
 "dateTime": "2022-11-24T21:00+02:00"
 },{
+"nom": "Dillom",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "NOV.2022",
+"dia": "24",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-24T19:30+02:00"
+},{
+"nom": "GranBrothers",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "24",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-24T20:00+02:00"
+},{
 "nom": "Carles Viarnès",
 "sala": "heliogàbal",
 "hora": "21:00",
@@ -999,6 +1134,15 @@
 "ciutat": "",
 "dateTime": "2022-11-24T21:00+02:00"
 },{
+"nom": "Sigmunds + Dama Carmesina",
+"sala": "la Deskomunal",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "24",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-11-24T20:30+02:00"
+},{
 "nom": "The Weeknd",
 "sala": "WiZink Center",
 "hora": "21:30",
@@ -1007,6 +1151,33 @@
 "textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2022-11-24T21:30+02:00"
+},{
+"nom": "Hoke & Louis Amoeba",
+"sala": "Razzmatazz[2]",
+"hora": "19:00",
+"mes": "NOV.2022",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-24T19:00+02:00"
+},{
+"nom": "Cariño",
+"sala": "Razzmatazz[1]",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-24T20:00+02:00"
+},{
+"nom": "PVA",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-11-24T20:00+02:00"
 },{
 "nom": "Guada",
 "sala": "New Fizz",
@@ -1116,14 +1287,50 @@
 "ciutat": "",
 "dateTime": "2022-11-25T20:00+02:00"
 },{
+"nom": "Mango Wood",
+"sala": "La Deskomunal",
+"hora": "22:00",
+"mes": "NOV.2022",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-26T22:00+02:00"
+},{
 "nom": "Franz Ferdinand",
 "sala": "WiZink Center",
 "hora": "21:00",
 "mes": "NOV.2022",
 "dia": "26",
-"textdia": "dimecres",
+"textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-11-26T21:00+02:00"
+},{
+"nom": "Rayden + Subliminal",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "NOV.2022",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-26T19:30+02:00"
+},{
+"nom": "Mda & ambeats",
+"sala": "Razzmatazz[2]",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-26T19:30+02:00"
+},{
+"nom": "Hey Bulldogs",
+"sala": "Razzmatazz[3]",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-26T20:30+02:00"
 },{
 "nom": "Arroz Rojo",
 "sala": "La Nau",
@@ -1206,14 +1413,41 @@
 "ciutat": "",
 "dateTime": "2022-11-26T21:00+02:00"
 },{
+"nom": "Usted + Muyaio",
+"sala": "niu",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-26T20:00+02:00"
+},{
 "nom": "Franz Ferdinand",
 "sala": "Bilbao Arena",
 "hora": "21:00",
 "mes": "NOV.2022",
 "dia": "27",
-"textdia": "dijous",
+"textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2022-11-27T21:00+02:00"    
+},{
+"nom": "In Flames + At the Gates + Imminence + Orbit Culture",
+"sala": "Razzmantazz[1]",
+"hora": "17:30",
+"mes": "NOV.2022",
+"dia": "27",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-27T17:30+02:00"    
+},{
+"nom": "Llars + Janbu",
+"sala": "Razzmantazz[3]",
+"hora": "18:31",
+"mes": "NOV.2022",
+"dia": "27",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-27T18:30+02:00"    
 },{
 "nom": "Ghali",
 "sala": "Bikini",
@@ -1223,6 +1457,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2022-10-27T21:00+02:00"
+},{
+"nom": "Finntroll S.+ Atavistia",
+"sala": "Razzamatazz[2]",
+"hora": "19:30",
+"mes": "NOV.2022",
+"dia": "27",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-10-27T19:30+02:00"
 },{
 "nom": "Melody Gardot",
 "sala": "Palau de la Musica",
@@ -1332,6 +1575,15 @@
 "ciutat": "",
 "dateTime": "2022-12-03T19:30+02:00"    
 },{
+"nom": "Carolina Durante + Aiko el Grupo + Banani",
+"sala": "Razzamatazz[1]",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-01T19:00+02:00"
+},{
 "nom": "Gaël Horellou Organ trio",
 "sala": "Milano",
 "hora": "21:30",
@@ -1350,6 +1602,15 @@
 "ciutat": "",
 "dateTime": "2022-12-01T20:30+02:00"
 },{
+"nom": "Pau Jorba Group",
+"sala": "La Deskomunal",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-01T20:30+02:00"
+},{
 "nom": "The Crab Apples + Estruç",
 "sala": "Razzmatazz[3]",
 "hora": "20:30",
@@ -1358,6 +1619,24 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-12-01T20:30+02:00"
+},{
+"nom": "Maiden United + Powerized",
+"sala": "Razzamatazz[3]",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T19:30+02:00"
+},{
+"nom": "Airboune + Blues Pills",
+"sala": "Razzamatazz[1]",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T19:00+02:00"
 },{
 "nom": "Vicente Amigo",
 "sala": "Palau de la Música",
@@ -1449,6 +1728,33 @@
 "ciutat": "",
 "dateTime": "2022-12-03T22:00+02:00"    
 },{
+"nom": "Cock Sparrer + Lion's Law + Giuda + Des-kontrol",
+"sala": "Razzmatazz[1]",
+"hora": "17:30",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T17:30+02:00"    
+},{
+"nom": "Tierra Santa + The Vigus Report",
+"sala": "Razzmatazz[2]",
+"hora": "19:45",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T19:45+02:00"    
+},{
+"nom": "Awakate + 186",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T20:00+02:00"    
+},{
 "nom": "B.Bandra i C.Motis",
 "sala": "Harlem",
 "hora": "20:00",
@@ -1512,6 +1818,33 @@
 "ciutat": "",
 "dateTime": "2022-12-05T20:00+01:00"    
 },{
+"nom": "Bonobo + Poté",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "7",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-07T19:00+01:00"    
+},{
+"nom": "La Orquesta del Rock...",
+"sala": "Razzmatazz[1]",
+"hora": "19:45",
+"mes": "DES.2022",
+"dia": "7",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-07T19:45+01:00"    
+},{
+"nom": "Venerus & Cosmic Renaissance",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "7",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-07T19:30+01:00"    
+},{
 "nom": "Ant Law & Alex Hitchcock",
 "sala": "Milano",
 "hora": "19:30",
@@ -1529,6 +1862,24 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-12-08T21:00+02:00"
+},{
+"nom": "Rojuu + Orslok + Ben Yart",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T19:00+01:00"
+},{
+"nom": "Kardec",
+"sala": "Razzmatazz[2]",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T20:00+01:00"
 },{
 "nom": "Bon Iver",
 "sala": "WiZink Center",
@@ -1562,9 +1913,27 @@
 "hora": "21:00",
 "mes": "DES.2022",
 "dia": "10",
-"textdia": "dijous",
+"textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-10T21:00+01:00"    
+},{
+"nom": "Opció k95 + The Oppressed + Nabat",
+"sala": "Razzmatazz[2]",
+"hora": "18:30",
+"mes": "DES.2022",
+"dia": "10",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-10T18:30+01:00"    
+},{
+"nom": "Motherflowers + Irepelusa",
+"sala": "Razzmatazz[3]",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "10",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-10T19:30+01:00"    
 },{
 "nom": "Psychotropic Swamp",
 "sala": "Almo2bar",
@@ -1583,6 +1952,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-10T22:00+02:00"
+},{
+"nom": "Sofia Ellar",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-11T19:00+02:00"    
 },{
 "nom": "Soweto Gospel Choir",
 "sala": "Auditori St.Cugat",
@@ -1628,6 +2006,24 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-12-15T21:00+02:00"
+},{
+"nom": "Blasfem",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-15T19:30+02:00"
+},{
+"nom": "Nil Moliner",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-15T19:00+02:00"
 },{
 "nom": "Anal Hard + Kids of Rage",
 "sala": "Sidecar",    
@@ -1809,6 +2205,15 @@
 "ciutat": "",
 "dateTime": "2022-12-21T20:30+02:00"
 },{
+"nom": "Mar Vilaseca",
+"sala": "La Deskomunal",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "21",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-21T20:30+02:00"
+},{
 "nom": "Medalla + Ciudad Celeste",
 "sala": "vol",
 "hora": "21:30",
@@ -1817,6 +2222,24 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-23T21:30+02:00"  
+},{
+"nom": "Morgan",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-23T19:00+02:00"  
+},{
+"nom": "Cor Jove O.Sarrià",
+"sala": "Razzmatazz[2]",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-23T20:00+02:00"  
 },{
 "nom": "Monodrama",
 "sala": "Sunset Jazz (Gi.)",
@@ -1881,6 +2304,24 @@
 "ciutat": "",
 "dateTime": "2022-12-27T20:30+02:00"
 },{
+"nom": "Ginestà",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "28",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-27T19:30+02:00"
+},{
+"nom": "Coque Malla",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "29",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-27T19:00+02:00"
+},{
 "nom": "Brighton 64",
 "sala": "Sidecar",
 "hora": "22:00",
@@ -1889,6 +2330,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-30T22:00+02:00"
+},{
+"nom": "Los Cigarros",
+"sala": "Razzamatazz[1]",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "30",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-30T19:00+02:00"
 },{
 "nom": "Bastille",
 "sala": "WiZink Center",
@@ -1943,6 +2393,42 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-01-14T22:30+02:00"
+},{
+"nom": "Adventus",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "GEN.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-14T19:30+02:00"
+},{
+"nom": "Port Louis + Ella Ella",
+"sala": "niu",
+"hora": "20:00",
+"mes": "GEN.2022",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-01-13T20:00+02:00"
+},{
+"nom": "Abraham Mateo",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "GEN.2022",
+"dia": "15",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-01-15T19:00+02:00"
+},{
+"nom": "La Femme",
+"sala": "Razzmatazz[1]",
+"hora": "20:30",
+"mes": "GEN.2022",
+"dia": "17",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-01-17T20:30+02:00"
 },{
 "nom": "Tributs: U2,The Cure, DM",
 "sala": "La Nau",
@@ -2024,6 +2510,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-01-27T20:30+02:00"
+},{
+"nom": "Vidus + Wicked Wizzard",
+"sala": "La Deskomunal",
+"hora": "21:00",
+"mes": "GEN.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-01-27T21:30+02:00"
 },{
 "nom": "Amaia Miranda",
 "sala": "C.C. La Mercè (Gi.)",
