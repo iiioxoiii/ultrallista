@@ -693,6 +693,15 @@
 "ciutat": "",
 "dateTime": "2022-12-03T19:45+02:00"    
 },{
+"nom": "Hamfuggi Fest",
+"sala": "Antic Forn de Valcarca",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T19:30+02:00"    
+},{
 "nom": "Awakate + 186",
 "sala": "Razzmatazz[3]",
 "hora": "20:00",
@@ -1211,7 +1220,25 @@
 "hora": "21:30",
 "mes": "DES.2022",
 "dia": "17",
-"textdia": "dijous",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T21:30+01:00"    
+},{
+"nom": "Marraig",
+"sala": "L'antic forn de Vallcarca",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T21:30+01:00"    
+},{
+"nom": "The Missing Leech",
+"sala": "L'antic forn de Vallcarca",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-17T21:30+01:00"    
 },{
@@ -1220,7 +1247,7 @@
 "hora": "18:00",
 "mes": "DES.2022",
 "dia": "18",
-"textdia": "divendres",
+"textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2022-12-18T18:00+01:00"    
 },{
