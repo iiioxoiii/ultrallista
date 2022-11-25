@@ -288,6 +288,15 @@
 "ciutat": "",
 "dateTime": "2022-11-26T20:00+02:00"
 },{
+"nom": "Inna Sound Foundation",
+"sala": "La Nau",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "27",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-11-27T20:00+02:00"
+},{
 "nom": "Franz Ferdinand",
 "sala": "Bilbao Arena",
 "hora": "21:00",
@@ -494,6 +503,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-03T17:30+02:00"
+},{
+"nom": "Astra Valley + W.E.E.D.",
+"sala": "La Nau",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T20:30+02:00"
 },{
 "nom": "Incognito",
 "sala": "Apolo",
@@ -792,6 +810,15 @@
 "ciutat": "",
 "dateTime": "2022-12-07T20:00+01:00"    
 },{
+"nom": "The LAzy Tokes",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "7",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-07T21:00+01:00"    
+},{
 "nom": "Bonobo + Poté",
 "sala": "Razzmatazz[1]",
 "hora": "19:00",
@@ -908,6 +935,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-10T19:00+01:00"    
+},{
+"nom": "Fills del Sr. President",
+"sala": "La Nau",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "10",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-10T22:00+01:00"    
 },{
 "nom": "Bigott",
 "sala": "Apolo[2]",
@@ -1370,12 +1406,12 @@
 },{
 "nom": "Alf",
 "sala": "la Nau",
-"hora": "??:??",
+"hora": "22:00",
 "mes": "DES.2022",
 "dia": "23",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2022-12-23T20:00+02:00"  
+"dateTime": "2022-12-23T22:00+02:00"  
 },{
 "nom": "Dorian",
 "sala": "WiZink Center",
@@ -1529,6 +1565,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-01-14T22:30+02:00"
+},{
+"nom": "Mortuary Drape + Necroracle",
+"sala": "La Nau",
+"hora": "20:30",
+"mes": "GEN.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-14T20:30+02:00"
 },{
 "nom": "Adventus",
 "sala": "Razzmatazz[2]",
@@ -1709,6 +1754,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-01-21T21:00+02:00"
+},{
+"nom": "Ocata",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "GEN.2023",
+"dia": "26",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-01-26T21:00+02:00"
 },{
 "nom": "Sticky Fingers",
 "sala": "Razzmatazz[1]",
@@ -1924,7 +1978,7 @@
 "dia": "3",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-02-1T20:00+01:00"
+"dateTime": "2023-02-03T20:00+01:00"
 },{
 "nom": "Amanda Tenfjord",
 "sala": "La Nau",
@@ -2042,6 +2096,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-02-11T19:15+02:00"        
+},{    
+"nom": "Sildàvia + Súper Gegant",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-11T21:00+02:00"
 },{
 "nom": "Second",
 "sala": "Apolo",
@@ -2141,6 +2204,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-01-21T20:00+02:00"    
+},{    
+"nom": "Henrio",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T21:00+02:00"
 },{
 "nom": "Tulsa",
 "sala": "Apolo[2]",
@@ -2149,7 +2221,7 @@
 "dia": "23",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-01-23T20:00+02:00"    
+"dateTime": "2023-02-23T20:00+02:00"    
 },{
 "nom": "Leprous + Kalandra",
 "sala": "Apolo",
@@ -2349,15 +2421,6 @@
 "ciutat": "",
 "dateTime": "2023-03-10T20:00+02:00"
 },{
-"nom": "Yungblud",
-"sala": "Sant Jordi Club",
-"hora": "20:00",
-"mes": "MAR2023",
-"dia": "12",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-12T20:00+02:00"
-},{
 "nom": "OMD",
 "sala": "Apolo",
 "hora": "19:30",
@@ -2366,6 +2429,15 @@
 "textdia": "divendres",
 "ciutat":"",
 "dateTime": "2022-03-17T19:30+02:00"
+},{
+"nom": "Ven'nus",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "MAR2023",
+"dia": "16",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-16T21:00+02:00"
 },{
 "nom": "Natos y Waor",
 "sala": "Pallau Sant Jordi",
@@ -2528,6 +2600,24 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-03-25T20:00+02:00"
+},{
+"nom": "Plini + Jakub Zytecki + Jack Gardiner & Owane",
+"sala": "La Nau",
+"hora": "19:00",
+"mes": "MAR.2023",
+"dia": "27",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-03-27T19:00+02:00"
+},{
+"nom": "Socunbohemio",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "MAR.2023",
+"dia": "30",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-30T21:00+02:00"
 },{
 "nom": "dEUS",
 "sala": "Razzmatazz[2]",
