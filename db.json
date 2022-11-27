@@ -63,51 +63,6 @@
 "ciutat": "",
 "dateTime": "2022-10-28T20:00+02:00"
 },{
-"nom": "Rosario la Tremendita",
-"sala": "Conservatori Liceu",
-"hora": "20:30",
-"mes": "NOV.2022",
-"dia": "28",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-11-28T22:00+02:00"
-},{
-"nom": "Clutch",
-"sala": "Apolo[2]",
-"hora": "18:45",
-"mes": "NOV.2022",
-"dia": "28",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-11-28T18:45+02:00"
-},{
-"nom": "Itaca Band"
-"sala": "Garaje Beat Club",
-"hora": "22:00",
-"mes": "NOV.2022",
-"dia": "28",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-11-28T22:00+02:00"
-},{
-"nom": "Frank Carter & The Rattlesnakes",
-"sala": "Razzmatazz[2]",
-"hora": "19:30",
-"mes": "NOV.2022",
-"dia": "29",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-29T19:30+02:00" 
-},{
-"nom": "Izal",
-"sala": "WiZink Center",
-"hora": "20:00",
-"mes": "NOV.2022",
-"dia": "29",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-11-29T20:00+02:00"
-},{
 "nom": "Julia Jacklin",
 "sala": "Apolo[2]",
 "hora": "19:00",
@@ -171,6 +126,51 @@
 "ciutat": "",
 "dateTime": "2022-11-30T20:00+02:00"
 },{
+"nom": "Rosario la Tremendita",
+"sala": "Conservatori Liceu",
+"hora": "20:30",
+"mes": "NOV.2022",
+"dia": "28",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-11-28T22:00+02:00"
+},{
+"nom": "Clutch",
+"sala": "Apolo[2]",
+"hora": "18:45",
+"mes": "NOV.2022",
+"dia": "28",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-11-28T18:45+02:00"
+},{
+"nom": "Itaca Band",
+"sala": "Garaje Beat Club",
+"hora": "22:00",
+"mes": "NOV.2022",
+"dia": "28",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-11-28T22:00+02:00"
+},{
+"nom": "Frank Carter & The Rattlesnakes",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "NOV.2022",
+"dia": "29",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-11-29T19:30+02:00" 
+},{
+"nom": "Izal",
+"sala": "WiZink Center",
+"hora": "20:00",
+"mes": "NOV.2022",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-11-29T20:00+02:00"
+},{
 "nom": "The Chopin Project",
 "sala": "Conservatori Liceu",
 "hora": "20:30",
@@ -188,6 +188,69 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-11-01T20:15+02:00"
+},{
+"nom": "El Pony Pisador",
+"sala": "Apolo",
+"hora": "18:30",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T18:30+02:00"
+},{
+"nom": "Vizinhas + Yeli Yeli + Soluna + King Kami + Júlia COlom",
+"sala": "Apolo[2]",
+"hora": "19:00",
+"mes": "NOV.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T19:00+02:00"
+},{
+"nom": "MGTA + Ulcerate + Mord'a'stigmata",
+"sala": "Apolo[2]",
+"hora": "17:30",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T17:30+02:00"
+},{
+"nom": "Astra Valley + W.E.E.D.",
+"sala": "La Nau",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T20:30+02:00"
+},{
+"nom": "Incognito",
+"sala": "Apolo",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T19:00+02:00"
+},{
+"nom": "Wolf Alice",
+"sala": "Apolo",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T21:00+02:00"
+},{
+"nom": "Maggots + MTV Hits",
+"sala": "Salamandra",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-03T19:30+02:00"    
 },{
 "nom": "Carolina Durante + Aiko el Grupo + Banani",
 "sala": "Razzamatazz[1]",
@@ -233,24 +296,6 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-12-01T20:30+02:00"
-},{
-"nom": "El Pony Pisador",
-"sala": "Apolo",
-"hora": "18:30",
-"mes": "NOV.2022",
-"dia": "2",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-02T18:30+02:00"
-},{
-"nom": "Vizinhas + Yeli Yeli + Soluna + King Kami + Júlia COlom",
-"sala": "Apolo[2]",
-"hora": "19:00",
-"mes": "NOV.2022",
-"dia": "2",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-02T19:00+02:00"
 },{
 "nom": "Maiden United + Powerized",
 "sala": "Razzamatazz[3]",
@@ -350,51 +395,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-02T21:30+02:00"
-},{
-"nom": "MGTA + Ulcerate + Mord'a'stigmata",
-"sala": "Apolo[2]",
-"hora": "17:30",
-"mes": "DES.2022",
-"dia": "3",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-03T17:30+02:00"
-},{
-"nom": "Astra Valley + W.E.E.D.",
-"sala": "La Nau",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "3",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-03T20:30+02:00"
-},{
-"nom": "Incognito",
-"sala": "Apolo",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "3",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-03T19:00+02:00"
-},{
-"nom": "Wolf Alice",
-"sala": "Apolo",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "3",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-03T21:00+02:00"
-},{
-"nom": "Maggots + MTV Hits",
-"sala": "Salamandra",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "3",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-03T19:30+02:00"    
 },{
 "nom": "La Plata + Pililinpussies",
 "sala": "La Capsa",
@@ -2160,41 +2160,14 @@
 "ciutat": "",
 "dateTime": "2023-03-10T20:00+02:00"
 },{
-"nom": "Kaos Urbano",
-"sala": "Razzmatazz[2]",
+"nom": "OMD",
+"sala": "Apolo",
 "hora": "19:30",
-"mes": "MAR.2022",
-"dia": "11",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-11T19:30+02:00"
-},{
-"nom": "Soul Garden",
-"sala": "Razzmatazz[3]",
-"hora": "20:00",
-"mes": "MAR.2022",
-"dia": "11",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-11T20:00+02:00"
-},{
-"nom": "Devin Towsen",
-"sala": "Razzmatazz[1]",
-"hora": "19:00",
-"mes": "MAR.2022",
-"dia": "16",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-16T19:00+02:00"
-},{
-"nom": "Swbastián Cortés",
-"sala": "Razzmatazz[2]",
-"hora": "19:30",
-"mes": "MAR.2022",
-"dia": "16",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-16T19:30+02:00"
+"mes": "MAR2023",
+"dia": "17",
+"textdia": "divendres",
+"ciutat":"",
+"dateTime": "2022-03-17T19:30+02:00"
 },{
 "nom": "Ven'nus",
 "sala": "La Nau",
@@ -2204,24 +2177,6 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-03-16T21:00+02:00"
-},{
-"nom": "Carnnibal Corpse + Dark Funeral + Ingested + Stormruler",
-"sala": "Razzmatazz[2]",
-"hora": "17:30",
-"mes": "MAR.2022",
-"dia": "17",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-03-17T17:30+02:00"
-},{
-"nom": "OMD",
-"sala": "Apolo",
-"hora": "19:30",
-"mes": "MAR2023",
-"dia": "17",
-"textdia": "divendres",
-"ciutat":"",
-"dateTime": "2022-03-17T19:30+02:00"
 },{
 "nom": "Natos y Waor",
 "sala": "Pallau Sant Jordi",
@@ -2295,6 +2250,60 @@
 "ciutat": "",
 "dateTime": "2023-03-24T20:00+02:00"    
 },{
+"nom": "Robbie Williams",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "MAR2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-25T21:30+02:00"
+},{
+"nom": "Kaos Urbano",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "MAR.2022",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-11T19:30+02:00"
+},{
+"nom": "Soul Garden",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
+"mes": "MAR.2022",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-11T20:00+02:00"
+},{
+"nom": "Devin Towsen",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "MAR.2022",
+"dia": "16",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-16T19:00+02:00"
+},{
+"nom": "Swbastián Cortés",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "MAR.2022",
+"dia": "16",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-16T19:30+02:00"
+},{
+"nom": "Carnnibal Corpse + Dark Funeral + Ingested + Stormruler",
+"sala": "Razzmatazz[2]",
+"hora": "17:30",
+"mes": "MAR.2022",
+"dia": "17",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-03-17T17:30+02:00"
+},{
 "nom": "Avatar",
 "sala": "Razzmatazz[2]",
 "hora": "19:30",
@@ -2312,15 +2321,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-03-24T19:30+02:00"
-},{
-"nom": "Robbie Williams",
-"sala": "Palau Sant Jordi",
-"hora": "21:00",
-"mes": "MAR2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:30+02:00"
 },{
 "nom": "Flavio",
 "sala": "Razzmatazz[3]",
@@ -2376,15 +2376,6 @@
 "ciutat": "",
 "dateTime": "2023-04-01T19:30+02:00"
 },{
-"nom": "Måneskin",
-"sala": "Palau Sant Jordi",
-"hora": "21:00",
-"mes": "ABR.2023",
-"dia": "11",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-04-11T21:00+02:00"
-},{
 "nom": "Las Pastillas del Abuelo",
 "sala": "Apolo",
 "hora": "20:00",
@@ -2438,15 +2429,6 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-04-18T19:30+02:00"
-},{
-"nom": "Birdy",
-"sala": "Razzmatazz",
-"hora": "21:00",
-"mes": "ABR.2023",
-"dia": "18",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-04-18T21:00+02:00"
 },{
 "nom": "Ana Mena",
 "sala": "Razzmatazz[1]",
@@ -2502,15 +2484,6 @@
 "ciutat": "",
 "dateTime": "2023-04-25T21:00+02:00"
 },{
-"nom": "Calum Scott",
-"sala": "Apolo[2]",
-"hora": "21:00",
-"mes": "ABR.2023",
-"dia": "25",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-04-25T21:00+02:00"
-},{
 "nom": "Big Thief",
 "sala": "Razzmatazz[1]",
 "hora": "19:00",
@@ -2547,15 +2520,6 @@
 "ciutat": "",
 "dateTime": "2023-04-28T19:45+02:00"    
 },{
-"nom": "Bruce Spingsteen & The E Street Band",
-"sala": "Estadi Olímpic",
-"hora": "21:00",
-"mes": "ABR.2023",
-"dia": "28",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-04-28T20:00+02:00"
-},{
 "nom": "Yo La Tengo",
 "sala": "Apolo",
 "hora": "20:00",
@@ -2564,15 +2528,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-04-29T20:00+02:00"    
-},{
-"nom": "Bruce Spingsteen & The E Street Band",
-"sala": "Estadi Olímpic",
-"hora": "21:00",
-"mes": "ABR.2023",
-"dia": "30",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-04-30T21:00+02:00"
 },{
 "nom": "Omar Sheriff",
 "sala": "Razzmatazz",
@@ -2717,6 +2672,51 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-05-26T19:00+02:00"
+},{
+"nom": "Måneskin",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "11",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-11T21:00+02:00"
+},{
+"nom": "Birdy",
+"sala": "Razzmatazz",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "18",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-18T21:00+02:00"
+},{
+"nom": "Calum Scott",
+"sala": "Apolo[2]",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "25",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-25T21:00+02:00"
+},{
+"nom": "Bruce Spingsteen & The E Street Band",
+"sala": "Estadi Olímpic",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-28T20:00+02:00"
+},{
+"nom": "Bruce Spingsteen & The E Street Band",
+"sala": "Estadi Olímpic",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "30",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-30T21:00+02:00"
 },{
 "nom": "Dub Inc",
 "sala": "Razzmatazz[1]",
