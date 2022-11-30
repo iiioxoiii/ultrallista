@@ -1,113 +1,5 @@
 {
 "concerts": [{
-"nom": "Inna Sound Foundation",
-"sala": "La Nau",
-"hora": "20:00",
-"mes": "NOV.2022",
-"dia": "27",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-11-27T20:00+02:00"
-},{
-"nom": "Franz Ferdinand",
-"sala": "Bilbao Arena",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "27",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-11-27T21:00+02:00"    
-},{
-"nom": "In Flames + At the Gates + Imminence + Orbit Culture",
-"sala": "Razzmantazz[1]",
-"hora": "17:30",
-"mes": "NOV.2022",
-"dia": "27",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-11-27T17:30+02:00"    
-},{
-"nom": "Llars + Janbu",
-"sala": "Razzmantazz[3]",
-"hora": "18:31",
-"mes": "NOV.2022",
-"dia": "27",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-11-27T18:30+02:00"    
-},{
-"nom": "Ghali",
-"sala": "Bikini",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "27",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-10-27T21:00+02:00"
-},{
-"nom": "Finntroll S.+ Atavistia",
-"sala": "Razzamatazz[2]",
-"hora": "19:30",
-"mes": "NOV.2022",
-"dia": "27",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-10-27T19:30+02:00"
-},{
-"nom": "Clutch",
-"sala": "Apolo",
-"hora": "20:00",
-"mes": "NOV.2022",
-"dia": "28",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-10-28T20:00+02:00"
-},{
-"nom": "Julia Jacklin",
-"sala": "Apolo[2]",
-"hora": "19:00",
-"mes": "NOV.2022",
-"dia": "29",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-29T19:00+02:00"
-},{
-"nom": "Melody Gardot",
-"sala": "Palau de la Musica",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "29",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-29T21:00+02:00"
-},{
-"nom": "Ominira",
-"sala": "Fabra i Coats",
-"hora": "19:00",
-"mes": "NOV.2022",
-"dia": "29",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-29T19:00+02:00"
-},{
-"nom": "Julia Jacklin",
-"sala": "Apolo",
-"hora": "21:00",
-"mes": "NOV.2022",
-"dia": "29",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-29T21:00+02:00"
-},{
-"nom": "Bastille",
-"sala": "Sant Jordi Club",
-"hora": "20:00",
-"mes": "NOV.2022",
-"dia": "29",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-11-29T20:00+02:00"
-},{
 "nom": "Mother Mother",
 "sala": "Razzmatazz",
 "hora": "20:30",
@@ -189,6 +81,42 @@
 "ciutat": "",
 "dateTime": "2022-11-01T20:15+02:00"
 },{
+"nom": "Soul Lab Jam",
+"sala": "Jamboree",
+"hora": "22:30",
+"mes": "DES.2022",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-01T22:30+02:00"
+},{
+"nom": "Kòt Lapè",
+"sala": "El Coleccionista",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-01T21:30+02:00"
+},{
+"nom": "Vicio&Fornizio + Dosïs",
+"sala": "Sidecar",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-01T20:30+02:00"
+},{
+"nom": "Santiago Ronchese",
+"sala": "La Cobra",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-01T20:00+02:00"
+},{
 "nom": "El Pony Pisador",
 "sala": "Apolo",
 "hora": "18:30",
@@ -197,6 +125,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-02T18:30+02:00"
+},{
+"nom": "Raynald Colom Quartet",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T19:00+02:00"
 },{
 "nom": "Vizinhas + Yeli Yeli + Soluna + King Kami + Júlia COlom",
 "sala": "Apolo[2]",
@@ -207,7 +144,43 @@
 "ciutat": "",
 "dateTime": "2022-12-02T19:00+02:00"
 },{
-"nom": "Fernanda Alemán Kinética",
+"nom": "Üll",
+"sala": "El Coleccionista",
+"hora": "22:30",
+"mes": "DES.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T22:30+02:00"
+},{
+"nom": "Aliment + Disciplina Limitar",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T21:30+02:00"
+},{
+"nom": "El Naranjo",
+"sala": "Slow",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T21:30+02:00"
+},{
+"nom": "Grushenka + Os Bru",
+"sala": "Almo2bar",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-02T21:00+02:00"
+},{
+"nom": "Fernanda Alemán + Kinética",
 "sala": "Sidecar",
 "hora": "21:00",
 "mes": "DES.2022",
@@ -242,6 +215,78 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-03T20:30+02:00"
+},{
+"nom": "Pili y los Cometas",
+"sala": "El Paraigua",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T22:00+02:00"
+},{
+"nom": "Hanton",
+"sala": "El Coleccionista",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T22:00+02:00"
+},{
+"nom": "Morosito",
+"sala": "Almo2bar",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T21:00+02:00"
+},{
+"nom": "The Foxholes + Fun Drama",
+"sala": "Slow",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T21:00+02:00"
+},{
+"nom": "Alex Torío",
+"sala": "Luz de Gas",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T21:00+02:00"
+},{
+"nom": "Soul of Anubis + Ground + Sota Terra",
+"sala": "Blokes fantasma",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T20:30+02:00"
+},{
+"nom": "Travis Birds",
+"sala": "Tradicionàrius",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T20:30+02:00"
+},{
+"nom": "Daniel Higiénico",
+"sala": "Mediterraneo",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-03T20:00+02:00"
 },{
 "nom": "Incognito",
 "sala": "Apolo",
