@@ -2043,6 +2043,15 @@
 "ciutat": "",
 "dateTime": "2023-02-02T20:00+01:00"
 },{    
+"nom": "Ulma Elmo",
+"sala": "auditori[3]",
+"hora": "20:00",
+"mes": "FEB.2023",
+"dia": "3",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-03T20:00+01:00"
+},{    
 "nom": "Jenny and the Mexicants",
 "sala": "Apolo[2]",
 "hora": "20:00",
@@ -2546,6 +2555,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-03-10T20:00+02:00"
+},{
+"nom": "Gerald Clayton",
+"sala": "<?>",
+"hora": "??:??",
+"mes": "FEB.2022",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-11T19:00+02:00"        
 },{
 "nom": "OMD",
 "sala": "Apolo",
