@@ -495,7 +495,61 @@
 "ciutat": "",
 "dateTime": "2022-12-10T22:00+02:00"
 },{
-"nom": "Mitch Woods & His Rocket 88's",
+"nom": "Pantocrator + YMNK + Los Sara Fontán",
+"sala": "Apolo[2]",
+"hora": "18:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-11T18:00+02:00"    
+},{
+"nom": "Obsesion",
+"sala": "Riff Rock Bar",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-11T21:00+02:00"    
+},{
+"nom": "The Jammin'n Cat",
+"sala": "Jamboree",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-11T20:00+02:00"    
+},{
+"nom": "Gustav Lundgren (I)",
+"sala": "milano",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-11T19:30+02:00"    
+},{
+"nom": "Gustav Lundgren (II)",
+"sala": "milano",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-11T20:30+02:00"    
+},{
+"nom": "Jack Dante & The Orbisongs",
+"sala": "El Portal dels Encants",
+"hora": "12:30",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-11T12:30+02:00"    
+},{
+"nom": "Mitch Woods & His Rocket 88's (I)",
 "sala": "Jamboree",
 "hora": "19:00",
 "mes": "DES.2022",
@@ -503,6 +557,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2022-12-11T19:00+02:00"    
+},{
+"nom": "Mitch Woods & His Rocket 88's (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "11",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-11T20:30+02:00"    
 },{
 "nom": "Mitch Woods & His Rocket 88's",
 "sala": "Jamboree",
