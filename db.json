@@ -594,6 +594,33 @@
 "ciutat": "",
 "dateTime": "2022-12-11T18:00+02:00"    
 },{
+"nom": "Roko Banana + Misha1Dem + La Maga",
+"sala": "Salamandra",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "12",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-12-12T19:00+02:00"    
+},{
+"nom": "Peces de Ciudad",
+"sala": "Luz de Gas",
+"hora": "20:15",
+"mes": "DES.2022",
+"dia": "12",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-12-12T20:15+02:00"    
+},{
+"nom": "Tina Masawi",
+"sala": "Jamboree",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "12",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-12-12T21:00+02:00"    
+},{
 "nom": "Albert Bover Trio",
 "sala": "Jamboree",
 "hora": "19:00",
@@ -611,6 +638,15 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2022-12-13T20:30+02:00"
+},{
+"nom": "Sortida + Perfecto Desorden + Ypnosi",
+"sala": "Salamandra",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "13",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-12-13T19:00+02:00"
 },{
 "nom": "Oscar Domenech (I)",
 "sala": "Jamboree",
@@ -639,6 +675,42 @@
 "ciutat": "",
 "dateTime": "2022-12-13T19:00+02:00"
 },{
+"nom": "Maria Gil & Vicente Martín",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "14",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-14T19:00+02:00"
+},{
+"nom": "Leo Golo",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "14",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-14T20:30+02:00"
+},{
+"nom": "Black Bird Trio",
+"sala": "Jamboree",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "14",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-14T22:00+02:00"
+},{
+"nom": "Caramelo + Kòt Laè + Jovedry",
+"sala": "Salamandra",
+"hora": "18:30",
+"mes": "DES.2022",
+"dia": "14",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-14T18:30+02:00"
+},{
 "nom": "D-lirio (I)",
 "sala": "Jamboree",
 "hora": "20:00",
@@ -657,6 +729,15 @@
 "ciutat": "",
 "dateTime": "2022-12-14T22:00+02:00"
 },{
+"nom": "Ivan Ilic",
+"sala": "Soda Acústic",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "14",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-14T21:30+02:00"
+},{
 "nom": "Iseo & Dodosound",
 "sala": "Apolo",
 "hora": "19:00",
@@ -665,6 +746,24 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2022-12-14T20:00+02:00"
+},{
+"nom": "Casares Family Quintet (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-15T19:30+02:00"
+},{
+"nom": "Casares Family Quintet (II)",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-15T21:30+02:00"
 },{
 "nom": "Nothing, Nowhere",
 "sala": "La Nau",
@@ -746,6 +845,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2022-12-15T20:30+02:00"
+},{
+"nom": "Rec Syndrome + Toxifuzz",
+"sala": "Freedonia",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-16T20:30+02:00"
 },{
 "nom": "Antonio Grande (I)",
 "sala": "Jamboree",
