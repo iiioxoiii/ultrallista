@@ -1,177 +1,6 @@
 {
 "concerts": [{
-"nom": "Mad Sin + The Raters",
-"sala": "Upload",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "5",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-12-05T21:00+02:00"    
-},{
-"nom": "Mayer-Sánchez + Somos Fabricantes",
-"sala": "Heliogàbal",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "5",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-12-05T21:00+02:00"    
-},{
-"nom": "Martes Manouche #30",
-"sala": "Soda Acústic",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "6",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-12-06T21:30+02:00"    
-},{
-"nom": "Jordi Matas",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "6",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2022-12-06T19:00+02:00"    
-},{
-"nom": "Whisky Caravan",
-"sala": "Mon Madrid",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "5",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-12-05T20:00+02:00"    
-},{
-"nom": "Boombox",
-"sala": "Apolo",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "7",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-12-07T19:00+02:00"    
-},{
-"nom": "Jf Trio + Verajoy",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "7",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-12-07T19:00+02:00"    
-},{
-"nom": "Marilina Bertoldi",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "7",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-12-07T20:00+01:00"    
-},{
-"nom": "The LAzy Tokes",
-"sala": "La Nau",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "7",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-12-07T21:00+01:00"    
-},{
-"nom": "Bonobo + Poté",
-"sala": "Razzmatazz[1]",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "7",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-12-07T19:00+01:00"    
-},{
-"nom": "La Orquesta del Rock...",
-"sala": "Razzmatazz[1]",
-"hora": "19:45",
-"mes": "DES.2022",
-"dia": "7",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-12-07T19:45+01:00"    
-},{
-"nom": "Gianluca Petrella Cosmic Renaissance ...",
-"sala": "Razzmatazz[2]",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "7",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2022-12-07T19:30+01:00"    
-},{
-"nom": "Clarence Bekker Band",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "8",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-08T19:00+02:00"
-},{
-"nom": "Abermals + C.A.L.M + Roko Banana",
-"sala": "vol",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "8",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-08T21:00+02:00"
-},{
-"nom": "Ant Law & Alex Hitchcock",
-"sala": "Milano",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "8",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-08T19:30+02:00"
-},{
-"nom": "La orquesta del Rock a la luz de las velas",
-"sala": "Razzmatazz[1]",
-"hora": "19:45",
-"mes": "DES.2022",
-"dia": "8",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-08T19:45+02:00"
-},{
-"nom": "Eclipse + Xtasy",
-"sala": "Razzmatazz[2]",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "8",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-08T19:00+02:00"
-},{
-"nom": "Club del Rio",
-"sala": "La Nau",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "8",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-08T21:00+02:00"
-},{
-"nom": "Kae Tempest",
-"sala": "Apolo",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "8",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-08T20:00+02:00"
-},{
-"nom": "Irene, Héctor + 4",
+"nom": "Irene, Héctor + 4 (I)",
 "sala": "Jamboree",
 "hora": "19:00",
 "mes": "DES.2022",
@@ -179,6 +8,33 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-09T19:00+01:00"
+},{
+"nom": "Irene, Héctor + 4 (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T20:30+01:00"
+},{
+"nom": "B.J.L. (I)",
+"sala": "milano",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T19:30+01:00"
+},{
+"nom": "B.J.L. (II)",
+"sala": "milano",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T21:30+01:00"
 },{
 "nom": "Rojuu + Orslok + Ben Yart",
 "sala": "Razzmatazz[1]",
@@ -188,6 +44,132 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2022-12-09T19:00+01:00"
+},{
+"nom": "Marïe Pratt",
+"sala": "Harlem",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T20:00+01:00"
+},{
+"nom": "Villa Capri",
+"sala": "La Sedeta",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T20:00+01:00"
+},{
+"nom": "Handicap",
+"sala": "El Portal dels Encants",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T20:00+01:00"
+},{
+"nom": "The Peawees + Hiroshima",
+"sala": "Upload",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T20:30+01:00"
+},{
+"nom": "La Queency + Lablackie",
+"sala": "C.C. Besòs",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T20:00+01:00"
+},{
+"nom": "Jesús Molina Quartet",
+"sala": "Jazz Cava (Terrassa)",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T22:00+01:00"
+},{
+"nom": "Koré",
+"sala": "El Coleccionista",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T22:00+01:00"
+},{
+"nom": "Swingin'Camels",
+"sala": "Soda Acústic",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T22:00+01:00"
+},{
+"nom": "Boogalizer",
+"sala": "Marula Café",
+"hora": "22:30",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T22:30+01:00"
+},{
+"nom": "Hotel Cochambre",
+"sala": "Sarau 08911 (BDN)",
+"hora": "23:30",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T23:30+01:00"
+},{
+"nom": "Chino Swingslide & co",
+"sala": "Harlem",
+"hora": "23:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T23:00+01:00"
+},{
+"nom": "Pena Máxima",
+"sala": "Heliogàbal",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T21:00+01:00"
+},{
+"nom": "El Tolo",
+"sala": "Cafe r&r",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T20:30+01:00"
+},{
+"nom": "Bemba Saoco",
+"sala": "C.C. Matas i Ramis",
+"hora": "20:00",
+"mes": "DES.2022",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-09T20:00+01:00"
 },{
 "nom": "Fauna&Flora: Ellian, Neska, Rachael, Lucia Gea",
 "sala": "El Pumarejo",
