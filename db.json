@@ -648,6 +648,24 @@
 "ciutat": "",
 "dateTime": "2022-12-15T20:30+02:00"
 },{
+"nom": "Cece Giannotti & co (II)",
+"sala": "milano",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-16T20:30+02:00"
+},{
+"nom": "Cece Giannotti & co (I)",
+"sala": "milano",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-16T19:30+02:00"
+},{
 "nom": "Rec Syndrome + Toxifuzz",
 "sala": "Freedonia",
 "hora": "20:30",
@@ -791,6 +809,24 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-17T20:00+02:00"
+},{
+"nom": "Myriam Swanson (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T19:30+02:00"
+},{
+"nom": "Myriam Swanson (II)",
+"sala": "Milano",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T20:30+02:00"
 },{
 "nom": "Heather + Los Yolos + Adelaida + TitiCalor",
 "sala": "Vol",
@@ -1053,6 +1089,24 @@
 "ciutat": "",
 "dateTime": "2022-12-22T19:00+02:00"
 },{
+"nom": "Gorka Benítez Quartet (I)",
+"sala": "milano",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "22",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-22T19:30+02:00"
+},{
+"nom": "Gorka Benítez Quartet (II)",
+"sala": "milano",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "22",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-22T20:30+02:00"
+},{
 "nom": "Ignasi Terraza & co (II)",
 "sala": "Jamboree",
 "hora": "20:30",
@@ -1118,6 +1172,24 @@
 },{
 "nom": "Clarence Bekker Band (II)",
 "sala": "Jamboree[3]",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-23T20:30+02:00"
+},{
+"nom": "Scaramanga",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-23T19:30+02:00"
+},{
+"nom": "Scaramanga",
+"sala": "Milano",
 "hora": "20:30",
 "mes": "DES.2022",
 "dia": "23",
@@ -1233,6 +1305,24 @@
 "ciutat": "",
 "dateTime": "2022-12-25T20:30+02:00"  
 },{
+"nom": "Wax & B Boogie (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-25T19:30+02:00"  
+},{
+"nom": "Wax & B Boogie (II)",
+"sala": "Milano",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-25T20:30+02:00"  
+},{
 "nom": "Vàlius",
 "sala": "vol",
 "hora": "21:30",
@@ -1314,6 +1404,24 @@
 "ciutat": "",
 "dateTime": "2022-12-27T20:30+02:00"
 },{
+"nom": "FB & FG (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "28",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-27T19:30+02:00"
+},{
+"nom": "FB & FG (II)",
+"sala": "Milano",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "28",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-27T20:30+02:00"
+},{
 "nom": "Ginestà",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -1343,6 +1451,24 @@
 },{
 "nom": "Èlia Bastida (II)",
 "sala": "Jamboree",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "29",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-29T20:30+02:00"
+},{
+"nom": "Oliver & Llombart (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "DES.2022",
+"dia": "29",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-29T19:30+02:00"
+},{
+"nom": "Oliver & Llombart (II)",
+"sala": "Milano",
 "hora": "20:30",
 "mes": "DES.2022",
 "dia": "29",
@@ -1386,14 +1512,23 @@
 "ciutat": "",
 "dateTime": "2022-12-30T20:30+02:00"
 },{
-"nom": "Food4Soul",
-"sala": "Jamboree[3]",
-"hora": "20:00",
+"nom": "Balta Bordoy & The Bad Boys (I)",
+"sala": "Milano",
+"hora": "19:30",
 "mes": "DES.2022",
 "dia": "30",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2022-12-30T20:00+02:00"
+"dateTime": "2022-12-30T19:30+02:00"
+},{
+"nom": "Balta Bordoy & The Bad Boys (II)",
+"sala": "Milano",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "30",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2022-12-30T20:30+02:00"
 },{
 "nom": "Food4Soul",
 "sala": "Jamboree[3]",
@@ -1457,6 +1592,15 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2022-12-30T19:00+01:00"
+},{
+"nom": "Yakety-Yak",
+"sala": "Milano",
+"hora": "01:00",
+"mes": "GEN.2023",
+"dia": "1",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-01-01T01:00+02:00"
 },{
 "nom": "Dave Kikoski (I)",
 "sala": "Jamboree",
