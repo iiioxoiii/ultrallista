@@ -4077,6 +4077,15 @@
 "ciutat": "",
 "dateTime": "2023-06-02T18:00+02:00"
 },{
+"nom": "Baby Keem",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
 "nom": "Alissic",
 "sala": "PS",
 "hora": "??:??",
@@ -4464,23 +4473,266 @@
 "ciutat": "",
 "dateTime": "2023-06-03T18:00+02:00"
 },{
-"nom": "Iron Maiden",
-"sala": "Palau Sant Jordi",
+"nom": "Sen Senra",
+"sala": "Cruïlla",
 "hora": "??:??",
 "mes": "JUN.2023",
-"dia": "18",
-"textdia": "dimarts",
+"dia": "5",
+"textdia": "dimecres",
 "ciutat": "",
-"dateTime": "2023-06-18T19:00+02:00"
+"dateTime": "2023-06-05T18:30+02:00"
 },{
-"nom": "Baby Keem",
-"sala": "PS",
+"nom": "Cruz Cafuné",
+"sala": "Cruïlla",
 "hora": "??:??",
 "mes": "JUN.2023",
-"dia": "2",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-05T18:30+02:00"
+},{
+"nom": "DeLaOssa",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-05T18:30+02:00"
+},{
+"nom": "Rusowsky",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-05T18:30+02:00"
+},{
+"nom": "La Élite",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-05T18:30+02:00"
+},{
+"nom": "Las Niñas del Corro",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-05T18:30+02:00"
+},{
+"nom": "Lia Kali",
+"sala": "cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-05T18:30+02:00"
+},{
+"nom": "Triquell",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-05T18:30+02:00"
+},{
+"nom": "Tesa",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-05T18:30+02:00"
+},{
+"nom": "Tash Sultana",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "6",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-02T18:00+02:00"
+"dateTime": "2023-06-06T18:30+02:00"
+},{
+"nom": "Iseo & Dodosound",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "6",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-06T18:30+02:00"
+},{
+"nom": "Sigur Rós",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-07T18:30+02:00"
+},{
+"nom": "Franz Ferdinand",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-07T18:30+02:00"
+},{
+"nom": "Viva Suecia",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-07T18:30+02:00"
+},{
+"nom": "Carolina Durante",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-07T18:30+02:00"
+},{
+"nom": "Sidonie",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-07T18:30+02:00"
+},{
+"nom": "Cala Vento",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-07T18:30+02:00"
+},{
+"nom": "Ciudad Jara",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-07T18:30+02:00"
+},{
+"nom": "Victorias",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-07T18:30+02:00"
+},{
+"nom": "Menta",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-07T18:30+02:00"
+},{
+"nom": "Placebo",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-08T18:30+02:00"
+},{
+"nom": "Leiva",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-08T18:30+02:00"
+},{
+"nom": "Antònia Font",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-08T18:30+02:00"
+},{
+"nom": "Stay Homa",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-08T18:30+02:00"
+},{
+"nom": "Dani Fernández",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-08T18:30+02:00"
+},{
+"nom": "Amaia",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-08T18:30+02:00"
+},{
+"nom": "Carlangas",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-08T18:30+02:00"
+},{
+"nom": "Suu",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-08T18:30+02:00"
+},{
+"nom": "Shego",
+"sala": "Cruïlla",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-08T18:30+02:00"
 },{
 "nom": "Dub Inc",
 "sala": "Razzmatazz[1]",
@@ -4490,6 +4742,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-06-26T19:00+02:00"
+},{
+"nom": "Iron Maiden",
+"sala": "Palau Sant Jordi",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "18",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-06-18T19:00+02:00"
 },{
 "nom": "Rammstein",
 "sala": "Wanda Metropolitano",
