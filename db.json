@@ -2763,6 +2763,15 @@
 "ciutat": "",
 "dateTime": "2023-04-01T19:30+02:00"
 },{
+"nom": "Måneskin",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "11",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-11T21:00+02:00"
+},{
 "nom": "Las Pastillas del Abuelo",
 "sala": "Apolo",
 "hora": "20:00",
@@ -2825,6 +2834,42 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-04-18T19:30+02:00"
+},{
+"nom": "Birdy",
+"sala": "Razzmatazz",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "18",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-18T21:00+02:00"
+},{
+"nom": "Calum Scott",
+"sala": "Apolo[2]",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "25",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-25T21:00+02:00"
+},{
+"nom": "Bruce Spingsteen & The E Street Band",
+"sala": "Estadi Olímpic",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-28T20:00+02:00"
+},{
+"nom": "Bruce Spingsteen & The E Street Band",
+"sala": "Estadi Olímpic",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "30",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-30T21:00+02:00"
 },{
 "nom": "Ana Mena",
 "sala": "Razzmatazz[1]",
@@ -3600,50 +3645,437 @@
 "ciutat": "",
 "dateTime": "2023-06-01T18:00+02:00"
 },{
-"nom": "Måneskin",
-"sala": "Palau Sant Jordi",
-"hora": "21:00",
-"mes": "ABR.2023",
-"dia": "11",
-"textdia": "dimarts",
+"nom": "Alvvays",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-04-11T21:00+02:00"
+"dateTime": "2023-06-02T18:00+02:00"
 },{
-"nom": "Birdy",
-"sala": "Razzmatazz",
-"hora": "21:00",
-"mes": "ABR.2023",
-"dia": "18",
-"textdia": "dimarts",
+"nom": "Baby Keem",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-04-18T21:00+02:00"
+"dateTime": "2023-06-02T18:00+02:00"
 },{
-"nom": "Calum Scott",
-"sala": "Apolo[2]",
-"hora": "21:00",
-"mes": "ABR.2023",
-"dia": "25",
-"textdia": "dimarts",
+"nom": "Bad Religion",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-04-25T21:00+02:00"
+"dateTime": "2023-06-02T18:00+02:00"
 },{
-"nom": "Bruce Spingsteen & The E Street Band",
-"sala": "Estadi Olímpic",
-"hora": "21:00",
-"mes": "ABR.2023",
-"dia": "28",
-"textdia": "divendres",
+"nom": "Bala",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-04-28T20:00+02:00"
+"dateTime": "2023-06-02T18:00+02:00"
 },{
-"nom": "Bruce Spingsteen & The E Street Band",
-"sala": "Estadi Olímpic",
-"hora": "21:00",
-"mes": "ABR.2023",
-"dia": "30",
-"textdia": "diumenge",
+"nom": "Beak>",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-04-30T21:00+02:00"
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Beth Ornon",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Bleachers",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Carlota Flâneur",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Cavetown",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Channel Tres",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Christine and the Queens",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Daphni",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Depeche Mode",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Fred again...",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Gabriels",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Gaz Coombes",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Israel Fernández y Diego del Morao",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Japanese Breakfast",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "John Talabot",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Judeline",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Julia Jackin",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Karate",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Kendrick Lamar",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Kyary Pamyu Pamyu",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "LalaCe & LowJack",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Lebanon Hanover",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Los Hacheros",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "MaddyMaiab2bTottie",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Mora",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Nation of Language",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Nazira",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "NiñaCoyote eta Chico Tornado",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Skrillex",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Soul Glo",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Swans",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Tems",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "The Beths",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "The Delgados",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "The Moldy Peaches",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Tongue in Mind",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Trueno",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "TSHA",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Tzusing",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Unwound",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Velmondo",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Voices form The Lake",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "VTSSB2BLSDXOXO",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
+},{
+"nom": "Yves Tumor",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
 },{
 "nom": "Iron Maiden",
 "sala": "Palau Sant Jordi",
@@ -3653,6 +4085,15 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2023-06-18T19:00+02:00"
+},{
+"nom": "Baby Keem",
+"sala": "PS",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-02T18:00+02:00"
 },{
 "nom": "Dub Inc",
 "sala": "Razzmatazz[1]",
