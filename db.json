@@ -342,6 +342,33 @@
 "ciutat": "",
 "dateTime": "2022-12-17T20:00+02:00"
 },{
+"nom": "The Burning Shore",
+"sala": "Cafe r6r",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T20:30+02:00"
+},{
+"nom": "Flow and The Daffodils Orchestra",
+"sala": "Can Basté",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T19:00+02:00"
+},{
+"nom": "Marta Sango i Estrella Xtravaganza",
+"sala": "Salamandra (L'H)",
+"hora": "18:30",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T18:30+02:00"
+},{
 "nom": "Myriam Swanson (I)",
 "sala": "Milano",
 "hora": "19:30",
@@ -397,7 +424,7 @@
 "dateTime": "2022-12-17T19:00+02:00"
 },{
 "nom": "Fermi",
-"sala": "La Capsa",
+"sala": "La Capsa (El Prat)",
 "hora": "21:00",
 "mes": "DES.2022",
 "dia": "17",
@@ -405,7 +432,16 @@
 "ciutat": "",
 "dateTime": "2022-12-17T21:00+02:00"
 },{
-"nom": "Anier",
+"nom": "Casero",
+"sala": "Heliogàbal",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T21:00+02:00"
+},{
+"nom": "Anier<cancel·lat>",
 "sala": "Apolo[2]",
 "hora": "20:00",
 "mes": "DES.2022",
@@ -423,6 +459,15 @@
 "ciutat": "",
 "dateTime": "2022-12-17T20:15+02:00"
 },{
+"nom": "Crim + The Bite + Afganistan Yeye's",
+"sala": "Estraperlo (BDN)",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T21:30+02:00"
+},{
 "nom": "Marialuïsa",
 "sala": "La Volta (Gi.)",
 "hora": "12:00",
@@ -431,6 +476,78 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2022-12-17T12:00+02:00"
+},{
+"nom": "The Sants",
+"sala": "La Deskomunal",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T21:30+02:00"
+},{
+"nom": "Lonelys Band",
+"sala": "Continental",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T21:30+02:00"
+},{
+"nom": "Rewind the Cassettes",
+"sala": "El Coleccionista",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T22:00+02:00"
+},{
+"nom": "OpusPain + DVRK Pijo + Sektum",
+"sala": "CSO Els Timbres (Viladecans)",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T22:00+02:00"
+},{
+"nom": "James White Experience",
+"sala": "El Paraigua",
+"hora": "22:30",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T22:30+02:00"
+},{
+"nom": "Ferran Palau",
+"sala": "Paral·lel 62",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T22:00+02:00"
+},{
+"nom": "Jansky + Mercuri",
+"sala": "Paral·lel 62",
+"hora": "23:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T23:00+02:00"
+},{
+"nom": "Litus",
+"sala": "Nova Jazz Cava (Terrassa)",
+"hora": "22:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T22:00+02:00"
 },{
 "nom": "Remei de ca la fresca",
 "sala": "La Volta (Gi.)",
@@ -459,6 +576,33 @@
 "ciutat": "",
 "dateTime": "2022-12-17T20:00+02:00"
 },{
+"nom": "Arrest + Aspanya +Räus + Rotura",
+"sala": "CSO kasablanca (Molins de R)",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T21:00+02:00"
+},{
+"nom": "LeTissier + Morosito",
+"sala": "ZOw1e (L'H)",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T21:00+02:00"
+},{
+"nom": "King Sapo + Alber Solo & The Firebirdblues",
+"sala": "La Textil",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-17T21:00+02:00"
+},{
 "nom": "Las Novias + Láudano",
 "sala": "Wolf",
 "hora": "20:00",
@@ -468,7 +612,7 @@
 "ciutat": "",
 "dateTime": "2022-12-17T20:00+02:00"
 },{
-"nom": "Vulk",
+"nom": "Vulk + Pinpilinpussies",
 "sala": "La Nau",
 "hora": "21:00",
 "mes": "DES.2022",
@@ -477,7 +621,7 @@
 "ciutat": "",
 "dateTime": "2022-12-17T21:00+02:00"    
 },{
-"nom": "Emlan",
+"nom": "Emlan + Shad Demn",
 "sala": "Sicecar",
 "hora": "21:00",
 "mes": "DES.2022",
