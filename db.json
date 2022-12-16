@@ -666,14 +666,50 @@
 "ciutat": "",
 "dateTime": "2022-12-17T17:00+02:00"    
 },{
-"nom": "Guarachea",
-"sala": "la Nau",
-"hora": "18:00",
+"nom": "21 Blackjack",
+"sala": "El Portal dels Encants",
+"hora": "12:30",
 "mes": "DES.2022",
 "dia": "18",
 "textdia": "diumenge",
 "ciutat": "",
-"dateTime": "2022-12-18T18:00+02:00"    
+"dateTime": "2022-12-18T12:30+02:00"    
+},{
+"nom": "La Clika",
+"sala": "Salamandra (L'H)",
+"hora": "12:00",
+"mes": "DES.2022",
+"dia": "18",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-18T12:00+02:00"    
+},{
+"nom": "Wet Dust Band",
+"sala": "Riff Rock Bar",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "18",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-18T21:00+02:00"    
+},{
+"nom": "Rabadàb",
+"sala": "Tradicionàrius",
+"hora": "12:00",
+"mes": "DES.2022",
+"dia": "18",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-18T12:00+02:00"    
+},{
+"nom": "Tumbakin + Fredyclan",
+"sala": "la Nau",
+"hora": "18:30",
+"mes": "DES.2022",
+"dia": "18",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2022-12-18T18:30+02:00"    
 },{
 "nom": "Lluís Coloma Troupe (I)",
 "sala": "Jamboree",
@@ -701,6 +737,24 @@
 "textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2022-12-19T20:00+02:00"
+},{
+"nom": "Gianni Gagliardi & co",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "19",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-12-19T19:00+02:00"
+},{
+"nom": "The Graham Bonnet Band",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "19",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2022-12-19T21:00+02:00"
 },{
 "nom": "Antonio Mazzei (I)",
 "sala": "Jamboree",
@@ -738,6 +792,15 @@
 "ciutat": "",
 "dateTime": "2022-12-21T20:30+02:00"
 },{
+"nom": "Atenea Carter + Maldonado Quartet + Eric Abril Band",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "21",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-21T19:00+02:00"
+},{
 "nom": "Joan Miquel Oliver + Da Souza",
 "sala": "Apolo",
 "hora": "20:00",
@@ -755,6 +818,15 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2022-12-21T20:30+02:00"
+},{
+"nom": "Mar Vilaseca",
+"sala": "La Deskomunal",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "22",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-22T20:30+02:00"
 },{
 "nom": "Ignasi Terraza & co (I)",
 "sala": "Jamboree",
