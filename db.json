@@ -1,734 +1,5 @@
 {
 "concerts": [{
-"nom": "Cece Giannotti & co (II)",
-"sala": "milano",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:30+02:00"
-},{
-"nom": "Cece Giannotti & co (I)",
-"sala": "milano",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T19:30+02:00"
-},{
-"nom": "Cant i Combos",
-"sala": "La Bàscula",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T19:30+02:00"
-},{
-"nom": "Iris Deco",
-"sala": "Golferichs",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T19:30+02:00"
-},{
-"nom": "Covenant + Future Lied To Us + Volkoff",
-"sala": "Paral·lel 22",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:00+02:00"
-},{
-"nom": "Alba Morenaa",
-"sala": "Ca n'Arús (L'H)",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:00+02:00"
-},{
-"nom": "Jonathan Herrero",
-"sala": "El Cafe r&r",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:30+02:00"
-},{
-"nom": "Miguel Costas + LaLey de Morfi",
-"sala": "La Deskomunal",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:30+02:00"
-},{
-"nom": "Cabra Sense Gorra + The Ivory",
-"sala": "La Bàscula",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:00+02:00"
-},{
-"nom": "Ven'nus + Henrio",
-"sala": "Heliogàbal",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:00+02:00"
-},{
-"nom": "Luz Verde",
-"sala": "Continental",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:00+02:00"
-},{
-"nom": "Cachemira",
-"sala": "La Textil",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:00+02:00"
-},{
-"nom": "Suburban Rebels + Bomber",
-"sala": "Estraperlo (BDN)",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:30+02:00"
-},{
-"nom": "La Contraband",
-"sala": "El Col·leccionista",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T22:00+02:00"
-},{
-"nom": "Cafe Magnetik",
-"sala": "Soda Acústic",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T22:00+02:00"
-},{
-"nom": "Obra Vista",
-"sala": "El Col·leccionista",
-"hora": "22:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T22:30+02:00"
-},{
-"nom": "Fauç + Keloidrop + Brot Bords",
-"sala": "Masferrer (Montornès V.)",
-"hora": "23:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T23:00+02:00"
-},{
-"nom": "Sondelvent",
-"sala": "Yesterday (Sta. Coloma de G)",
-"hora": "23:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T23:00+02:00"
-},{
-"nom": "Bridge for Animals",
-"sala": "Slow",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:30+02:00"
-},{
-"nom": "Will Spector + Stay + Teana + Duralex",
-"sala": "Upload",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:00+02:00"
-},{
-"nom": "Bemba Saoco",
-"sala": "C.C. Albareda",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:00+02:00"
-},{
-"nom": "Blueroormess",
-"sala": "El Portal dels Encants",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:00+02:00"
-},{
-"nom": "Rec Syndrome + Toxifuzz",
-"sala": "Freedonia",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:30+02:00"
-},{
-"nom": "Antonio Grande (I)",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T19:00+02:00"
-},{
-"nom": "Antonio Grande (II)",
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:30+02:00"
-},{
-"nom": "Blood Quartet",
-"sala": "jamboree[3]",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:00+02:00"
-},{
-"nom": "Delgao",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:00+02:00"
-},{
-"nom": "P.A.W.N. Gang",
-"sala": "Vol",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:30+02:00"
-},{
-"nom": "Mira que Freskis",
-"sala": "Vol",
-"hora": "23:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T23:30+02:00"
-},{
-"nom": "Gogo Penguin",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:00+02:00"
-},{
-"nom": "Sense Sal",
-"sala": "Apolo",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:30+02:00"
-},{
-"nom": "Mishima 'Nadal'",
-"sala": "Cotton Club",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:00+02:00"
-},{
-"nom": "Sofia Gabanna",
-"sala": "Salamandra",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T20:00+02:00"    
-},{
-"nom": "The Sadies",
-"sala": "Lemon Rock",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:00+01:00"
-},{
-"nom": "Soziedad Alkoholika + Brujeria + Pycaya",
-"sala": "Razzmatazz[1]",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T19:00+01:00"
-},{
-"nom": "Kadec Santa Anna",
-"sala": "Razzmatazz[2]",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:00+01:00"
-},{
-"nom": "Dani Llamas+Xavier Calvet",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-16T21:00+01:00"
-},{
-"nom": "Ignis",
-"sala": "El Pumarejo",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T20:00+02:00"
-},{
-"nom": "The Burning Shore",
-"sala": "Cafe r6r",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T20:30+02:00"
-},{
-"nom": "Flow and The Daffodils Orchestra",
-"sala": "Can Basté",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T19:00+02:00"
-},{
-"nom": "Marta Sango i Estrella Xtravaganza",
-"sala": "Salamandra (L'H)",
-"hora": "18:30",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T18:30+02:00"
-},{
-"nom": "Myriam Swanson (I)",
-"sala": "Milano",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T19:30+02:00"
-},{
-"nom": "Myriam Swanson (II)",
-"sala": "Milano",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T20:30+02:00"
-},{
-"nom": "Heather + Los Yolos + Adelaida + TitiCalor",
-"sala": "Vol",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:00+02:00"
-},{
-"nom": "Biel Ballester (I)",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T19:00+02:00"
-},{
-"nom": "Biel Ballester (II)",
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T20:30+02:00"
-},{
-"nom": "Álvaro Belchí",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T19:00+02:00"
-},{
-"nom": "Fermi",
-"sala": "La Capsa (El Prat)",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:00+02:00"
-},{
-"nom": "Casero",
-"sala": "Heliogàbal",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:00+02:00"
-},{
-"nom": "Anier<cancel·lat>",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T20:00+02:00"
-},{
-"nom": "Los Rebeldes",
-"sala": "Apolo[2]",
-"hora": "20:15",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T20:15+02:00"
-},{
-"nom": "Crim + The Bite + Afganistan Yeye's",
-"sala": "Estraperlo (BDN)",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:30+02:00"
-},{
-"nom": "Marialuïsa",
-"sala": "La Volta (Gi.)",
-"hora": "12:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T12:00+02:00"
-},{
-"nom": "The Sants",
-"sala": "La Deskomunal",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:30+02:00"
-},{
-"nom": "Lonelys Band",
-"sala": "Continental",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:30+02:00"
-},{
-"nom": "Rewind the Cassettes",
-"sala": "El Coleccionista",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T22:00+02:00"
-},{
-"nom": "OpusPain + DVRK Pijo + Sektum",
-"sala": "CSO Els Timbres (Viladecans)",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T22:00+02:00"
-},{
-"nom": "James White Experience",
-"sala": "El Paraigua",
-"hora": "22:30",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T22:30+02:00"
-},{
-"nom": "Ferran Palau",
-"sala": "Paral·lel 62",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T22:00+02:00"
-},{
-"nom": "Jansky + Mercuri",
-"sala": "Paral·lel 62",
-"hora": "23:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T23:00+02:00"
-},{
-"nom": "Litus",
-"sala": "Nova Jazz Cava (Terrassa)",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T22:00+02:00"
-},{
-"nom": "Remei de ca la fresca",
-"sala": "La Volta (Gi.)",
-"hora": "18:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T18:00+02:00"
-},{
-"nom": "L'hereu Escampa",
-"sala": "Yeah! (Gi.)",
-"hora": "23:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T23:00+02:00"
-},{
-"nom": "B. Bandera & J. Llombart",
-"sala": "Harlem",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T20:00+02:00"
-},{
-"nom": "Arrest + Aspanya +Räus + Rotura",
-"sala": "CSO kasablanca (Molins de R)",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:00+02:00"
-},{
-"nom": "LeTissier + Morosito",
-"sala": "ZOw1e (L'H)",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:00+02:00"
-},{
-"nom": "King Sapo + Alber Solo & The Firebirdblues",
-"sala": "La Textil",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:00+02:00"
-},{
-"nom": "Las Novias + Láudano",
-"sala": "Wolf",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T20:00+02:00"
-},{
-"nom": "Vulk + Pinpilinpussies",
-"sala": "La Nau",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:00+02:00"    
-},{
-"nom": "Emlan + Shad Demn",
-"sala": "Sicecar",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:00+02:00"    
-},{
-"nom": "The Sadies",
-"sala": "16 toneladas",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:30+02:00"    
-},{
-"nom": "Marraig",
-"sala": "L'antic forn de Vallcarca",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:30+02:00"    
-},{
-"nom": "The Missing Leech",
-"sala": "L'antic forn de Vallcarca",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T21:30+02:00"    
-},{
-"nom": "Trance + DarkQuaterer + Alien Force + Venator",
-"sala": "Bóveda",
-"hora": "17:00",
-"mes": "DES.2022",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-17T17:00+02:00"    
-},{
-"nom": "21 Blackjack",
-"sala": "El Portal dels Encants",
-"hora": "12:30",
-"mes": "DES.2022",
-"dia": "18",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-18T12:30+02:00"    
-},{
-"nom": "La Clika",
-"sala": "Salamandra (L'H)",
-"hora": "12:00",
-"mes": "DES.2022",
-"dia": "18",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-18T12:00+02:00"    
-},{
-"nom": "Wet Dust Band",
-"sala": "Riff Rock Bar",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "18",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-18T21:00+02:00"    
-},{
-"nom": "Rabadàb",
-"sala": "Tradicionàrius",
-"hora": "12:00",
-"mes": "DES.2022",
-"dia": "18",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-18T12:00+02:00"    
-},{
-"nom": "Tumbakin + Fredyclan",
-"sala": "la Nau",
-"hora": "18:30",
-"mes": "DES.2022",
-"dia": "18",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-18T18:30+02:00"    
-},{
-"nom": "Lluís Coloma Troupe (I)",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "18",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-18T19:00+02:00"    
-},{
-"nom": "Lluís Coloma Troupe (II)",
-"sala": "Jamboree",
-"hora": "22:30",
-"mes": "DES.2022",
-"dia": "18",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-18T22:30+02:00"    
-},{
 "nom": "The Graham Bonnet Band",
 "sala": "Wolf",
 "hora": "21:00",
@@ -1845,6 +1116,15 @@
 "ciutat": "",
 "dateTime": "2023-01-26T19:30+02:00"
 },{
+"nom": "Baiuca",
+"sala": "Paral·lel 62",
+"hora": "21:00",
+"mes": "GEN.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-01-27T21:00+02:00"
+},{
 "nom": "The Kooks",
 "sala": "Razzmatazz[1]",
 "hora": "20:00",
@@ -2151,6 +1431,15 @@
 "ciutat": "",
 "dateTime": "2023-02-04T21:30+02:00"
 },{
+"nom": "Cristina Rosenvinge",
+"sala": "Paral·lel 62",
+"hora": "21:00",
+"mes": "FEB.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T21:00+02:00"
+},{
 "nom": "Antilópez",
 "sala": "Apolo[2]",
 "hora": "20:00",
@@ -2295,6 +1584,15 @@
 "ciutat": "",
 "dateTime": "2023-02-11T21:00+02:00"
 },{    
+"nom": "Skatalà + The Cabrians + Dr. Calypso +The Moskito Bite",
+"sala": "Paral·lel 62",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-11T21:00+02:00"
+},{    
 "nom": "Álvaro Suite",
 "sala": "Sidecar",
 "hora": "21:00",
@@ -2366,6 +1664,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-02-16T18:00+02:00"    
+},{
+"nom": "Núria Graham",
+"sala": "Paral·Lel 62",
+"hora": "21:00",
+"mes": "FEB.2022",
+"dia": "16",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-16T21:00+02:00"    
 },{
 "nom": "Miguel Campello",
 "sala": "Razzmatazz[1]",
@@ -2483,6 +1790,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-02-25T20:00+02:00"    
+},{
+"nom": "Queralt Lahoz",
+"sala": "Paral·lel 62",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-25T21:00+02:00"    
 },{
 "nom": "Ice Nine Kills",
 "sala": "Apolo[2]",
@@ -2961,6 +2277,15 @@
 "ciutat": "",
 "dateTime": "2023-04-15T20:30+02:00"
 },{
+"nom": "Mariona Escoda",
+"sala": "Paral·lel 62",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "16",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-16T19:00+02:00"
+},{
 "nom": "Syml",
 "sala": "Razzmatazz[2]",
 "hora": "19:00",
@@ -2968,25 +2293,34 @@
 "dia": "16",
 "textdia": "diumenge",
 "ciutat": "",
-"dateTime": "2023-04-19T19:00+02:00"
+"dateTime": "2023-04-16T19:00+02:00"
 },{
 "nom": "Birdy",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
 "mes": "ABR.2023",
 "dia": "18",
-"textdia": "dimecres",
+"textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2023-04-18T19:30+02:00"
 },{
-"nom": "Birdy",
+"nom": "Bill Callahan",
 "sala": "Razzmatazz",
-"hora": "21:00",
+"hora": "20:30",
 "mes": "ABR.2023",
-"dia": "18",
-"textdia": "dimarts",
+"dia": "19",
+"textdia": "dimecres",
 "ciutat": "",
-"dateTime": "2023-04-18T21:00+02:00"
+"dateTime": "2023-04-19T20:30+02:00"
+},{
+"nom": "Mariona Escoda",
+"sala": "Paral·lel 62",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "19",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-16T19:00+02:00"
 },{
 "nom": "Calum Scott",
 "sala": "Apolo[2]",
@@ -3410,6 +2744,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-06-01T18:00+02:00"
+},{
+"nom": "Joe Satriani",
+"sala": "Paral·lel 62",
+"hora": "30:30",
+"mes": "JUN.2023",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-01T20:30+02:00"
 },{
 "nom": "Brutalismus 3000",
 "sala": "PS",
@@ -4904,6 +4247,15 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2023-06-23T21:00+02:00"
+},{
+"nom": "La bomba de tiempo",
+"sala": "Paral·lel 62",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "29",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-29T21:00+02:00"
 },{
 "nom": "Benjamin Clementine",
 "sala": "Apolo",
