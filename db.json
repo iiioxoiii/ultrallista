@@ -1,14 +1,5 @@
 {
 "concerts": [{
-"nom": "The Graham Bonnet Band",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "19",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-12-19T20:00+02:00"
-},{
 "nom": "Gianni Gagliardi & co",
 "sala": "Jamboree",
 "hora": "19:00",
