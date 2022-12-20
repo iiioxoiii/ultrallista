@@ -693,6 +693,15 @@
 "ciutat": "",
 "dateTime": "2023-01-07T20:30+02:00"
 },{
+"nom": "Killdevil",
+"sala": "Ceferino",
+"hora": "20:00",
+"mes": "GEN.2022",
+"dia": "7",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-07T20:00+02:00"
+},{
 "nom": "Walls",
 "sala": "Razzmatazz",
 "hora": "20:00",
@@ -1001,6 +1010,15 @@
 },{
 "nom": "La Bien Querida",
 "sala": "Apolo",
+"hora": "20:00",
+"mes": "GEN.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-21T20:00+02:00"
+},{
+"nom": "La Senda de Carol + Contraband",
+"sala": "Ceferino",
 "hora": "20:00",
 "mes": "GEN.2023",
 "dia": "21",
@@ -1584,6 +1602,15 @@
 "ciutat": "",
 "dateTime": "2023-02-10T19:30+02:00"        
 },{
+"nom": "Shiego",
+"sala": "Ceferino",
+"hora": "21:00",
+"mes": "FEB.2022",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-11T21:00+02:00"        
+},{
 "nom": "Lendakaris Muertos + Bellako",
 "sala": "Razzmatazz[1]",
 "hora": "19:15",
@@ -1628,6 +1655,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-02-11T20:00+02:00"        
+},{
+"nom": "Bad Gyal",
+"sala": "Palau Sant Jordi",
+"hora": "19:00",
+"mes": "FEB.2022",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-11T19:00+02:00"        
 },{
 "nom": "Subze",
 "sala": "Razzmatazz[3]",
@@ -2124,6 +2160,15 @@
 "ciutat": "",
 "dateTime": "2023-03-16T19:00+02:00"
 },{
+"nom": "Triquell",
+"sala": "Apolo",
+"hora": "21:00",
+"mes": "MAR.2022",
+"dia": "13",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-13T21:00+02:00"
+},{
 "nom": "Swbastián Cortés",
 "sala": "Razzmatazz[2]",
 "hora": "19:30",
@@ -2187,12 +2232,30 @@
 "ciutat": "",
 "dateTime": "2023-03-25T21:00+02:00"
 },{
+"nom": "Robbie Williams",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "MAR.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-03-24T21:00+02:00"
+},{
+"nom": "Robbie Williams",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "MAR.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-25T21:00+02:00"
+},{
 "nom": "Marc Almond",
 "sala": "Razzmatazz[2]",
 "hora": "20:00",
 "mes": "MAR.2023",
 "dia": "25",
-"textdia": "dijous",
+"textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-03-25T20:00+02:00"
 },{
@@ -2231,6 +2294,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-04-01T19:30+02:00"
+},{
+"nom": "Eros Ramazzotti",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T21:00+02:00"
 },{
 "nom": "Brother Firetribe + One Desire + Stråle",
 "sala": "Bóveda",
@@ -2636,6 +2708,33 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-05-26T19:00+02:00"
+},{
+"nom": "Coldplay",
+"sala": "Estadi Olímpic",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "24",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-05-24T21:00+02:00"
+},{
+"nom": "Coldplay",
+"sala": "Estadi Olímpic",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "25",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-05-25T21:00+02:00"
+},{
+"nom": "Coldplay",
+"sala": "Estadi Olímpic",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-27T21:00+02:00"
 },{
 "nom": "Ne Obliviscaris + Persefone + Omnific",
 "sala": "La Nau",
@@ -4248,6 +4347,24 @@
 "ciutat": "",
 "dateTime": "2023-06-26T19:00+02:00"
 },{
+"nom": "The Who",
+"sala": "Palau Sant Jordi",
+"hora": "20:00",
+"mes": "JUN.2023",
+"dia": "14",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-14T20:00+02:00"
+},{
+"nom": "Maroon 5",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-16T21:00+02:00"
+},{
 "nom": "Iron Maiden",
 "sala": "Palau Sant Jordi",
 "hora": "??:??",
@@ -4275,6 +4392,24 @@
 "ciutat": "",
 "dateTime": "2023-06-29T21:00+02:00"
 },{
+"nom": "Harry Styles",
+"sala": "Estadi Olímpic",
+"hora": "21:45",
+"mes": "JUL.2023",
+"dia": "12",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-07-12T21:45+02:00"
+},{
+"nom": "the Weeknd",
+"sala": "Estadi Olímpic",
+"hora": "19:15",
+"mes": "JUL.2023",
+"dia": "20",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-07-20T19:15+02:00"
+},{
 "nom": "Benjamin Clementine",
 "sala": "Apolo",
 "hora": "20:00",
@@ -4301,4 +4436,13 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-10-04T21:30+02:00"
-}]}
+},{
+"nom": "Louis Tomlinson",
+"sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "OCT.2023",
+"dia": "06",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-06T21:00+02:00"
+},]}
