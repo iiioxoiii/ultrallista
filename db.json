@@ -4473,15 +4473,6 @@
 "ciutat": "",
 "dateTime": "2023-07-12T21:45+02:00"
 },{
-"nom": "the Weeknd",
-"sala": "Estadi Olímpic",
-"hora": "19:15",
-"mes": "JUL.2023",
-"dia": "20",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-07-20T19:15+02:00"
-},{
 "nom": "Benjamin Clementine",
 "sala": "Apolo",
 "hora": "20:00",
@@ -4490,6 +4481,15 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2023-09-19T20:00+02:00"
+},{
+"nom": "the Weeknd",
+"sala": "Estadi Olímpic",
+"hora": "19:15",
+"mes": "JUL.2023",
+"dia": "20",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-07-20T19:15+02:00"
 },{
 "nom": "Sanctuary + Halcyon Way",
 "sala": "Bóveda",
@@ -4517,4 +4517,4 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-10-06T21:00+02:00"
-},]}
+}]}
