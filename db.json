@@ -1,473 +1,5 @@
 {
 "concerts": [{
-"nom": "Mar Vilaseca",
-"sala": "La Deskomunal",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "22",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-22T20:30+02:00"
-},{
-"nom": "Ignasi Terraza & co (I)",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "22",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-22T19:00+02:00"
-},{
-"nom": "Gorka Benítez Quartet (I)",
-"sala": "milano",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "22",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-22T19:30+02:00"
-},{
-"nom": "Gorka Benítez Quartet (II)",
-"sala": "milano",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "22",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-22T20:30+02:00"
-},{
-"nom": "Ignasi Terraza & co (II)",
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "22",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-22T20:30+02:00"
-},{
-"nom": "Mishima",
-"sala": "Apolo",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "22",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-22T20:00+02:00"
-},{
-"nom": "The Sey Sisters",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "22",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-22T20:00+02:00"
-},{
-"nom": "s2k2ky + 5ilv4",
-"sala": "El Puarejo",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "22",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2022-12-22T21:00+02:00"
-},{
-"nom": "Ignasi Terraza & co (I)",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T19:00+02:00"
-},{
-"nom": "Tort + Trollcave + Caphre",
-"sala": "Ceferino",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T19:30+02:00"
-},{
-"nom": "Partidaris",
-"sala": "Clap (Mataró)",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T21:00+02:00"
-},{
-"nom": "Oto & Don",
-"sala": "El Coleccionista",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T22:00+02:00"
-},{
-"nom": "Joao del Monte",
-"sala": "Marula Café",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T22:00+02:00"
-},{
-"nom": "Ruben Pozo",
-"sala": "L'Oncle Jack (L'H)",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T21:00+02:00"
-},{
-"nom": "The Incorregibles Blues Band",
-"sala": "Continental",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T21:00+02:00"
-},{
-"nom": "Txus Blues & César Canut",
-"sala": "MEAM",
-"hora": "18:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T19:00+02:00"
-},{
-"nom": "Boye + Socunbohemio",
-"sala": "Heliogàbal",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T21:00+02:00"
-},{
-"nom": "Salvation Inc",
-"sala": "Diobar",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T19:00+02:00"
-},{
-"nom": "The Barroom Buddies Band",
-"sala": "El Portal dels Encants",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T20:00+02:00"
-},{
-"nom": "Ignasi Terraza & co (II)",
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T20:30+02:00"
-},{
-"nom": "Clarence Bekker Band (I)",
-"sala": "Jamboree[3]",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T19:00+02:00"
-},{
-"nom": "Quico el Célio, el Noi i el Mut de Ferreries",
-"sala": "tradicionarius",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T20:30+02:00"
-},{
-"nom": "Sara Ariche & GAS Space",
-"sala": "Soda Acústic",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T22:00+02:00"
-},{
-"nom": "Chino Swingslide & co",
-"sala": "Harlem",
-"hora": "23:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T23:00+02:00"
-},{
-"nom": "Clarence Bekker Band (II)",
-"sala": "Jamboree[3]",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T20:30+02:00"
-},{
-"nom": "Scaramanga",
-"sala": "Milano",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T19:30+02:00"
-},{
-"nom": "Scaramanga",
-"sala": "Milano",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T20:30+02:00"
-},{
-"nom": "Medalla + Ciudad Celeste",
-"sala": "vol",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T21:30+02:00"  
-},{
-"nom": "Mishima",
-"sala": "Apolo",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T20:00+02:00"  
-},{
-"nom": "Diego Morao + Antonio el Agujetas + Ané Carrasco",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T20:00+02:00"  
-},{
-"nom": "Morgan",
-"sala": "Razzmatazz[1]",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T19:00+02:00"  
-},{
-"nom": "Cor Jove O.Sarrià",
-"sala": "Razzmatazz[2]",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T20:00+02:00"  
-},{
-"nom": "Monodrama",
-"sala": "Sunset Jazz (Gi.)",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T20:00+02:00"  
-},{
-"nom": "River Omelet+Cesc Sansalvadó",
-"sala": "Sidecar",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T20:30+02:00"  
-},{
-"nom": "Alf",
-"sala": "la Nau",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-23T22:00+02:00"  
-},{
-"nom": "B4FT. Agusti Burrie (I)",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "24",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-24T19:30+02:00"  
-},{
-"nom": "B4FT. Agusti Burrie (II)",
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "24",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-24T20:30+02:00"  
-},{
-"nom": "Hotel Cochambre",
-"sala": "Sarau 080911 (BDN)",
-"hora": "23:59",
-"mes": "DES.2022",
-"dia": "24",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-24T23:59+02:00"  
-},{
-"nom": "BCN Big Blues Band (I)",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-25T19:30+02:00"  
-},{
-"nom": "BCN Big Blues Band (II)",
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2022-12-25T20:30+02:00"  
-},{
-"nom": "Wax & B Boogie (I)",
-"sala": "Milano",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "25",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-25T19:30+02:00"  
-},{
-"nom": "Wax & B Boogie (II)",
-"sala": "Milano",
-"hora": "20:30",
-"mes": "DES.2022",
-"dia": "25",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-25T20:30+02:00"  
-},{
-"nom": "Vàlius",
-"sala": "vol",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "25",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-25T21:30+01:00"   
-},{
-"nom": "Dorian",
-"sala": "WiZink Center",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "25",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2022-12-25T21:00+01:00"   
-},{
-"nom": "Toni Solà Quartet (I)",
-"sala": "Milano",
-"hora": "19:30",
-"mes": "DES.2022",
-"dia": "25",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-25T19:30+02:00"  
-},{
-"nom": "Toni Solà Quartet (II)",
-"sala": "Milano",
-"hora": "21:30",
-"mes": "DES.2022",
-"dia": "25",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-25T21:30+02:00"  
-},{
-"nom": "Th' Booty Hunters",
-"sala": "La Textil",
-"hora": "22:00",
-"mes": "DES.2022",
-"dia": "25",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-25T22:00+02:00"  
-},{
-"nom": "Florist + Juanki Pesudo",
-"sala": "El Pumarejo",
-"hora": "20:00",
-"mes": "DES.2022",
-"dia": "25",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2022-12-25T20:00+02:00"  
-},{
-"nom": "Niña Pastori",
-"sala": "Gran Teatre Liceu",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "26",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-12-26T21:00+02:00"
-},{
-"nom": "Aguaje",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "26",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-12-26T19:00+02:00"
-},{
-"nom": "Ignasi Terraza Trio",
-"sala": "Nova Jazz Cava  (Terrassa)",
-"hora": "19:00",
-"mes": "DES.2022",
-"dia": "26",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-12-26T19:00+02:00"
-},{
-"nom": "Dani Flaco",
-"sala": "Cafè Teatro Voilà  (Manrresa)",
-"hora": "21:00",
-"mes": "DES.2022",
-"dia": "26",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2022-12-26T21:00+02:00"
-},{
 "nom": "Víctor Carrascosa (I)",
 "sala": "Jamboree",
 "hora": "19:00",
@@ -513,6 +45,51 @@
 "ciutat": "",
 "dateTime": "2022-12-27T20:30+02:00"
 },{
+"nom": "Joan Dausà (I)",
+"sala": "Coliseum",
+"hora": "19:00",
+"mes": "DES.2022",
+"dia": "27",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-12-27T19:00+02:00"
+},{
+"nom": "Joan Dausà (II)",
+"sala": "Coliseum",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "27",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-12-27T21:30+02:00"
+},{
+"nom": "La Mari",
+"sala": "Palau de la Música",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "27",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-12-27T21:00+02:00"
+},{
+"nom": "Fredyarmonica Band",
+"sala": "La Deskomunal",
+"hora": "21:00",
+"mes": "DES.2022",
+"dia": "27",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2022-12-27T21:00+02:00"
+},{
+"nom": "Edu Ferrer & co",
+"sala": "Luz de Gas",
+"hora": "20:30",
+"mes": "DES.2022",
+"dia": "28",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2022-12-28T20:30+02:00"
+},{
 "nom": "FB & FG (I)",
 "sala": "Milano",
 "hora": "19:30",
@@ -539,6 +116,24 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2022-12-28T19:30+02:00"
+},{
+"nom": "Dúo Mandinga",
+"sala": "La Deskomunal",
+"hora": "21:30",
+"mes": "DES.2022",
+"dia": "29",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-29T21:30+02:00"
+},{
+"nom": "Hotel Cochambre",
+"sala": "Luz de Gas",
+"hora": "23:59",
+"mes": "DES.2022",
+"dia": "29",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2022-12-29T23:59+02:00"
 },{
 "nom": "Clarence Bekker Band",
 "sala": "Jamboree",
@@ -675,7 +270,7 @@
 "ciutat": "",
 "dateTime": "2022-12-30T20:00+02:00"
 },{
-"nom": "Los Cigarros",
+"nom": "Los Zigarros",
 "sala": "Razzamatazz[1]",
 "hora": "19:00",
 "mes": "DES.2022",
@@ -691,7 +286,7 @@
 "dia": "30",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2022-12-30T21:30+01:00"
+"dateTime": "2022-12-30T21:30+02:00"
 },{
 "nom": "Bastille",
 "sala": "WiZink Center",
@@ -700,7 +295,16 @@
 "dia": "30",
 "textdia": "dimecres",
 "ciutat": "",
-"dateTime": "2022-12-30T19:00+01:00"
+"dateTime": "2022-12-30T19:00+02:00"
+},{
+"nom": "Yakety Yak",
+"sala": "Milano",
+"hora": "23:59",
+"mes": "DES.2022",
+"dia": "31",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2022-12-31T23:59+02:00"
 },{
 "nom": "Yakety-Yak",
 "sala": "Milano",
