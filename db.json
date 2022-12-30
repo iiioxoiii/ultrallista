@@ -702,6 +702,15 @@
 "ciutat": "",
 "dateTime": "2023-01-20T20:00+02:00"
 },{
+"nom": "Malànima",
+"sala": "C.C. Albareda",
+"hora": "20:00",
+"mes": "GEN.2022",
+"dia": "20",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-01-20T20:00+02:00"
+},{
 "nom": "Extasis + Merino",
 "sala": "La Nau",
 "hora": "21:30",
@@ -921,6 +930,15 @@
 "nom": "Baiuca",
 "sala": "Paral·lel 62",
 "hora": "21:00",
+"mes": "GEN.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-01-27T21:00+02:00"
+},{
+"nom": "Polyklyn",
+"sala": "C.C. albareda",
+"hora": "20:00",
 "mes": "GEN.2023",
 "dia": "27",
 "textdia": "divendres",
@@ -2307,6 +2325,15 @@
 "nom": "Robbie Williams",
 "sala": "Palau Sant Jordi",
 "hora": "21:00",
+"mes": "MAR.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-03-24T21:00+02:00"
+},{
+"nom": "Fera y las Disidentes",
+"sala": "C.C. Albareda",
+"hora": "20:00",
 "mes": "MAR.2023",
 "dia": "24",
 "textdia": "divendres",
