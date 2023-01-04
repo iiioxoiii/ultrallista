@@ -520,7 +520,7 @@
 "dia": "14",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2022-01-13T20:00+02:00"
+"dateTime": "2023-01-13T20:00+02:00"
 },{
 "nom": "Abraham Mateo",
 "sala": "Razzmatazz[1]",
@@ -529,7 +529,7 @@
 "dia": "15",
 "textdia": "diumenge",
 "ciutat": "",
-"dateTime": "2022-01-15T19:00+02:00"
+"dateTime": "2023-01-15T19:00+02:00"
 },{
 "nom": "Hemiola Trio (I)",
 "sala": "Jamboree",
@@ -659,6 +659,15 @@
 },{
 "nom": "Extasis + Merino",
 "sala": "La Nau",
+"hora": "21:30",
+"mes": "GEN.2022",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-21T21:30+02:00"
+},{
+"nom": "Medusa Box + Aldrin y Collins",
+"sala": "Vol",
 "hora": "21:30",
 "mes": "GEN.2022",
 "dia": "21",
@@ -954,6 +963,15 @@
 "ciutat": "",
 "dateTime": "2023-01-27T18:00+02:00"
 },{
+"nom": "Rakeem",
+"sala": "Razzmataz[3]",
+"hora": "20:30",
+"mes": "GEN.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-01-27T20:30+02:00"
+},{
 "nom": "Ernest Crusats",
 "sala": "Auditori de Girona",
 "hora": "20:00",
@@ -971,6 +989,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-01-28T21:00+02:00"
+},{
+"nom": "Johnny Mafia + Sonic Beast",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "GEN.2023",
+"dia": "28",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-01-28T21:30+02:00"
 },{
 "nom": "Sax-o-Rama (I)",
 "sala": "Jamboree",
@@ -1159,16 +1186,34 @@
 "dia": "2",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-02-02T21:00+01:00"
+"dateTime": "2023-02-02T21:00+02:00"
 },{    
-"nom": "Deathstarts",
+"nom": "Paula Mattheus",
 "sala": "Razzmatazz[2]",
 "hora": "20:00",
 "mes": "FEB.2023",
 "dia": "3",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-02-03T20:00+01:00"
+"dateTime": "2023-02-03T20:00+02:00"
+},{    
+"nom": "Eqvvs Lacrima & Guests + Yereh Yebadi",
+"sala": "Razzmatazz[3]",
+"hora": "20:30",
+"mes": "FEB.2023",
+"dia": "3",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-03T20:30+02:00"
+},{    
+"nom": "Deathstarts",
+"sala": "Razzmatazz[2]",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "3",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-03T21:00+02:00"
 },{    
 "nom": "Coure + Féretor + Espinoza Espinoza + Joan Arp",
 "sala": "Vol",
@@ -1241,6 +1286,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-02-04T21:00+02:00"
+},{
+"nom": "Rata Negra",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "FEB.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T21:30+02:00"
 },{
 "nom": "Antilópez",
 "sala": "Apolo[2]",
@@ -1404,6 +1458,15 @@
 "ciutat": "",
 "dateTime": "2023-02-10T19:30+02:00"        
 },{
+"nom": "Marta Knight",
+"sala": "Vol",
+"hora": "21:00",
+"mes": "FEB.2022",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-11T21:30+02:00"        
+},{
 "nom": "Shiego",
 "sala": "Ceferino",
 "hora": "21:00",
@@ -1556,6 +1619,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-02-16T18:00+02:00"    
+},{
+"nom": "Kris Baha + Patriarchy + SDH",
+"sala": "Vol",
+"hora": "20:00",
+"mes": "FEB.2022",
+"dia": "16",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-16T20:00+02:00"    
 },{
 "nom": "Núria Graham",
 "sala": "Paral·Lel 62",
@@ -1818,6 +1890,15 @@
 "ciutat": "",
 "dateTime": "2023-03-04T19:00+02:00"
 },{
+"nom": "The Serfs + Fotos de la Novia + Vitriol",
+"sala": "Vol",
+"hora": "20:00",
+"mes": "MAR.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-04T20:00+02:00"
+},{
 "nom": "In Extremo",
 "sala": "Apolo[2]",
 "hora": "19:00",
@@ -2024,6 +2105,15 @@
 "textdia": "divendres",
 "ciutat":"",
 "dateTime": "2022-03-17T19:30+02:00"
+},{
+"nom": "Guineu",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "MAR2023",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-18T21:30+02:00"
 },{
 "nom": "Whisky Caravan",
 "sala": "Garage Beat Club",
@@ -2330,6 +2420,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-03-31T20:30+02:00"
+},{
+"nom": "Amore + Dora",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "MAR.2023",
+"dia": "31",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-31T21:30+02:00"
 },{
 "nom": "W.A.S.P",
 "sala": "Razzmatazz[1]",
