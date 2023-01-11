@@ -1,374 +1,5 @@
 {
 "concerts": [{
-"nom": "Dave Kikoski (I)",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "GEN.2023",
-"dia": "3",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-01-03T19:00+02:00"
-},{
-"nom": "Dave Kikoski (II)",
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "GEN.2023",
-"dia": "3",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-01-03T20:30+02:00"
-},{
-"nom": "Big Mounthers + Daez", 
-"sala": "apolo",
-"hora": "17:00",
-"mes": "GEN.2023",
-"dia": "4",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-01-04T17:00+02:00"
-},{
-"nom": "Dan & Isaac", 
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "GEN.2023",
-"dia": "4",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-01-04T19:00+02:00"
-},{
-"nom": "Crisscross quartet", 
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "GEN.2023",
-"dia": "4",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-01-04T20:30+02:00"
-},{
-"nom": "Berta Gratacòs", 
-"sala": "Jamboree",
-"hora": "22:00",
-"mes": "GEN.2023",
-"dia": "4",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-01-04T22:00+02:00"
-},{
-"nom": "The Rock Killers ", 
-"sala": "Luz de Gas",
-"hora": "21:00",
-"mes": "GEN.2023",
-"dia": "4",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-01-04T21:00+02:00"
-},{
-"nom": "Camil Arcarazo 5Tet", 
-"sala": "Jamboree",
-"hora": "21:30",
-"mes": "GEN.2023",
-"dia": "4",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-01-04T21:30+02:00"
-},{
-"nom": "Gianni Gagliardi Reunion (I)", 
-"sala": "Milano",
-"hora": "19:30",
-"mes": "GEN.2023",
-"dia": "5",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-01-05T19:30+02:00"
-},{
-"nom": "Gianni Gagliardi Reunion (II)", 
-"sala": "Milano",
-"hora": "21:30",
-"mes": "GEN.2023",
-"dia": "5",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-01-05T21:30+02:00"
-},{
-"nom": "Arpaviejas + Último Rekurso", 
-"sala": "Apolo[2]",
-"hora": "20:30",
-"mes": "GEN.2023",
-"dia": "5",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-01-05T20:30+02:00"
-},{
-"nom": "Malämmar + Brega", 
-"sala": "Bóbeda",
-"hora": "20:30",
-"mes": "GEN.2023",
-"dia": "5",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-01-05T20:30+02:00"
-},{
-"nom": "Nico Ronchese", 
-"sala": "La Cobra",
-"hora": "20:30",
-"mes": "GEN.2023",
-"dia": "5",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-01-05T20:30+02:00"
-},{
-"nom": "Yakety - Yak (II)", 
-"sala": "Jamboree",
-"hora": "21:30",
-"mes": "GEN.2023",
-"dia": "6",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-01-06T21:30+02:00"
-},{
-"nom": "Yakety - Yak (I)", 
-"sala": "Jamboree",
-"hora": "19:30",
-"mes": "GEN.2023",
-"dia": "6",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-01-06T19:30+02:00"
-},{
-"nom": "Abe Ràbade (I)", 
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "GEN.2023",
-"dia": "6",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-01-06T19:30+02:00"
-},{
-"nom": "Abe Ràbade (II)", 
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "GEN.2023",
-"dia": "6",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-01-06T20:30+02:00"
-},{
-"nom": "Bruguez's", 
-"sala": "El Cafe r&r",
-"hora": "20:30",
-"mes": "GEN.2023",
-"dia": "6",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-01-06T20:30+02:00"
-},{
-"nom": "El Antiguo Astronauta + Suki Suki", 
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "GEN.2023",
-"dia": "6",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-01-06T21:00+02:00"
-},{
-"nom": "Que Beleza", 
-"sala": "Soda Acústic",
-"hora": "22:00",
-"mes": "GEN.2023",
-"dia": "6",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-01-06T22:00+02:00"
-},{
-"nom": "Helena Fàbregas + Clire Retrogirl + Miquel BOno", 
-"sala": "La Deskomunal",
-"hora": "22:00",
-"mes": "GEN.2023",
-"dia": "6",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-01-06T22:00+02:00"
-},{
-"nom": "Balkumbila", 
-"sala": "Marula Café",
-"hora": "22:00",
-"mes": "GEN.2023",
-"dia": "6",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-01-06T22:00+02:00"
-},{
-"nom": "Chino Swingslide & Sharps Swing Band", 
-"sala": "Harlem",
-"hora": "23:00",
-"mes": "GEN.2023",
-"dia": "6",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-01-06T23:00+02:00"
-},{
-"nom": "Pol Omedes (I)", 
-"sala": "Milano",
-"hora": "19:30",
-"mes": "GEN.2023",
-"dia": "7",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-07T19:30+02:00"
-},{
-"nom": "Pol Omedes (II)", 
-"sala": "Milano",
-"hora": "21:30",
-"mes": "GEN.2023",
-"dia": "7",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-07T21:30+02:00"
-},{
-"nom": "Martín Díaz (I)", 
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "GEN.2023",
-"dia": "7",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-07T19:30+02:00"
-},{
-"nom": "Martín Díaz (II)", 
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "GEN.2023",
-"dia": "7",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-07T20:30+02:00"
-},{
-"nom": "Rude Pride", 
-"sala": "Razzmatazz[2]",
-"hora": "19:00",
-"mes": "GEN.2023",
-"dia": "7",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-07T19:00+02:00"
-},{
-"nom": "Vizio", 
-"sala": "Razzmatazz[2]",
-"hora": "21:00",
-"mes": "GEN.2023",
-"dia": "7",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-07T21:00+02:00"
-},{
-"nom": "Killdevil",
-"sala": "Ceferino",
-"hora": "20:00",
-"mes": "GEN.2022",
-"dia": "7",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-07T20:00+02:00"
-},{
-"nom": "SublocalZ + Cardiax + Fullmoon Shakers",
-"sala": "Razzmatazz",
-"hora": "20:00",
-"mes": "GEN.2022",
-"dia": "7",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-07T21:00+02:00"
-},{
-"nom": "Tolu",
-"sala": "Soda Acústic",
-"hora": "22:00",
-"mes": "GEN.2022",
-"dia": "7",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-07T22:00+02:00"
-},{
-"nom": "Abby Rubens and tMBB",
-"sala": "Harlem",
-"hora": "23:00",
-"mes": "GEN.2022",
-"dia": "7",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-07T23:00+02:00"
-},{
-"nom": "Walls",
-"sala": "Razzmatazz",
-"hora": "20:00",
-"mes": "GEN.2022",
-"dia": "7",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-07T20:00+02:00"
-},{
-"nom": "Síndrome Tóxico + Rehenes",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "GEN.2022",
-"dia": "7",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-01-07T21:00+02:00"
-},{
-"nom": "Augie Burr & co (I)",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "GEN.2022",
-"dia": "8",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-01-08T19:00+02:00"
-},{
-"nom": "Augie Burr & co (II)",
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "GEN.2022",
-"dia": "8",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-01-08T20:30+02:00"
-},{
-"nom": "Ignasi Terraza & co. (I)",
-"sala": "Milano",
-"hora": "19:30",
-"mes": "GEN.2022",
-"dia": "8",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-01-08T19:30+02:00"
-},{
-"nom": "Ignasi Terraza & co. (II)",
-"sala": "Milano",
-"hora": "21:30",
-"mes": "GEN.2022",
-"dia": "8",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-01-08T21:30+02:00"
-},{
-"nom": "Joan Fort Organ (I)",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "GEN.2022",
-"dia": "10",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-01-10T19:00+02:00"
-},{
-"nom": "Joan Fort Organ (II)",
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "GEN.2022",
-"dia": "10",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-01-10T20:30+02:00"
-},{
 "nom": "Clarence Bekker Band (I)",
 "sala": "Jamboree",
 "hora": "19:00",
@@ -520,7 +151,16 @@
 "dia": "14",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-01-13T20:00+02:00"
+"dateTime": "2023-01-14T20:00+02:00"
+},{
+"nom": "Final Hospisona",
+"sala": "Salamandra",
+"hora": "17:30",
+"mes": "GEN.2022",
+"dia": "14",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-01-14T17:30+02:00"
 },{
 "nom": "Abraham Mateo",
 "sala": "Razzmatazz[1]",
@@ -1485,6 +1125,15 @@
 "ciutat": "",
 "dateTime": "2023-02-11T21:30+02:00"        
 },{
+"nom": "Meinstein",
+"sala": "Salamandra",
+"hora": "20:15",
+"mes": "FEB.2022",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-11T20:15+02:00"        
+},{
 "nom": "Shiego",
 "sala": "Ceferino",
 "hora": "21:00",
@@ -1791,6 +1440,15 @@
 "ciutat": "",
 "dateTime": "2023-02-24T21:00+02:00"    
 },{
+"nom": "Gallardo + Trapani + Cheb Rubën",
+"sala": "Salamandra",
+"hora": "20:30",
+"mes": "FEB.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-24T20:30+02:00"
+},{
 "nom": "VV",
 "sala": "Razzmatazz",
 "hora": "21:30",
@@ -1890,6 +1548,15 @@
 "ciutat": "",
 "dateTime": "2023-03-03T20:00+02:00"
 },{
+"nom": "Selva Nua + Pau Vallvé",
+"sala": "Salamandra",
+"hora": "20:30",
+"mes": "MAR.2022",
+"dia": "3",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-03-03T20:30+02:00"
+},{
 "nom": "Vicente Navarro",
 "sala": "Wolf",
 "hora": "21:00",
@@ -1907,6 +1574,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-03-04T19:00+02:00"
+},{
+"nom": "Los Punsetes + Grushenka",
+"sala": "Salamandra",
+"hora": "19:30",
+"mes": "MAR.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-04T19:30+02:00"
 },{
 "nom": "The Serfs + Fotos de la Novia + Vitriol",
 "sala": "Vol",
@@ -2052,6 +1728,15 @@
 "ciutat": "",
 "dateTime": "2023-03-10T20:00+02:00"
 },{    
+"nom": "Ángel Stanich + Dan Peralbo i el comboi",
+"sala": "Apolo[2]",
+"hora": "19:30",
+"mes": "MAR2023",
+"dia": "10",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-03-10T19:30+02:00"
+},{    
 "nom": "Oddliquor",
 "sala": "Wolf",
 "hora": "21:00",
@@ -2060,6 +1745,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-03-10T20:00+02:00"
+},{    
+"nom": "Smoking souls + Guineu",
+"sala": "Salamandra",
+"hora": "19:30",
+"mes": "MAR2023",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-11T19:30+02:00"
 },{    
 "nom": "Nach",
 "sala": "Razzmatazz",
@@ -2097,6 +1791,15 @@
 "ciutat": "",
 "dateTime": "2023-03-14T17:30+02:00"        
 },{
+"nom": "Veintiuno + Karavana",
+"sala": "Slamandra",
+"hora": "19:30",
+"mes": "MAR2023",
+"dia": "17",
+"textdia": "divendres",
+"ciutat":"",
+"dateTime": "2022-03-17T19:30+02:00"
+},{
 "nom": "OMD",
 "sala": "Apolo",
 "hora": "19:30",
@@ -2123,6 +1826,15 @@
 "textdia": "divendres",
 "ciutat":"",
 "dateTime": "2022-03-17T19:30+02:00"
+},{
+"nom": "Toundra + Bones of Minerva",
+"sala": "Salamandra",
+"hora": "19:30",
+"mes": "MAR2023",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-18T19:30+02:00"
 },{
 "nom": "Guineu",
 "sala": "Vol",
@@ -2232,9 +1944,27 @@
 "ciutat": "",
 "dateTime": "2023-03-24T21:00+02:00"    
 },{
+"nom": "Morgan + Pau Batllé & Rita Payés",
+"sala": "Salamandra",
+"hora": "19:30",
+"mes": "MAR2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-03-24T19:30+02:00"    
+},{
 "nom": "Putilatex + Estrella Xtravaganzs + Alma-X + Turista Sueca + Tanina Sativa",
 "sala": "Wolf",
 "hora": "20:00",
+"mes": "MAR2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-03-25T19:30+02:00"    
+},{
+"nom": "Ginebras + Anabel Lee",
+"sala": "Salamandra",
+"hora": "19:30",
 "mes": "MAR2023",
 "dia": "25",
 "textdia": "dissabte",
@@ -2448,6 +2178,15 @@
 "ciutat": "",
 "dateTime": "2023-03-31T21:30+02:00"
 },{
+"nom": "Cariño + La Plata",
+"sala": "Salamandra",
+"hora": "19:30",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T19:30+02:00"
+},{
 "nom": "W.A.S.P",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -2579,9 +2318,18 @@
 "hora": "19:00",
 "mes": "ABR.2023",
 "dia": "19",
-"textdia": "diumenge",
+"textdia": "dimecres",
 "ciutat": "",
-"dateTime": "2023-04-16T19:00+02:00"
+"dateTime": "2023-04-19T19:00+02:00"
+},{
+"nom": "La Fuga + TBC",
+"sala": "Salamandra",
+"hora": "20:15",
+"mes": "ABR.2023",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-21T20:15+02:00"
 },{
 "nom": "Calum Scott",
 "sala": "Apolo[2]",
@@ -2717,6 +2465,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-04-28T19:45+02:00"    
+},{
+"nom": "Ilegales",
+"sala": "Salamandra",
+"hora": "20:15",
+"mes": "ABR.2023",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-29T20:15+02:00"    
 },{
 "nom": "O.R.K + Lizzard",
 "sala": "Razzmatazz[3]",
