@@ -43,7 +43,34 @@
 "dia": "13",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-01-13T19:30+02:00"
+"dateTime": "2023-01-13T20:00+02:00"
+},{
+"nom": "Sandré + Enamorados",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "GEN.2023",
+"dia": "13",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-01-13T21:00+02:00"
+},{
+"nom": "Perruzo + Surf & Fat",
+"sala": "Can Ninyo (Sant Boi)",
+"hora": "21:00",
+"mes": "GEN.2023",
+"dia": "13",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-01-13T21:00+02:00"
+},{
+"nom": "The Beats of Burden",
+"sala": "Continental",
+"hora": "21:00",
+"mes": "GEN.2023",
+"dia": "13",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-01-13T21:00+02:00"
 },{
 "nom": "Jaune Emma + Júls",
 "sala": "Freedonia",
@@ -52,7 +79,7 @@
 "dia": "13",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-01-13T19:30+02:00"
+"dateTime": "2023-01-13T20:00+02:00"
 },{
 "nom": "Sidecars",
 "sala": "Razzmatazz",
