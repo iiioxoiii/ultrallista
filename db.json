@@ -414,6 +414,96 @@
 "ciutat": "",
 "dateTime": "2023-02-04T21:30+02:00"
 },{
+"nom": "Kortocirkuito + Irreal + Sewer Brigade + Revanche + Elektra SeleKta",
+"sala": "Rock'n'Trini",
+"hora": "21:37",
+"mes": "FEB.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T21:37+02:00"
+},{
+"nom": "Hotel Cochambre",
+"sala": "Sarau 08911 (BDN)",
+"hora": "23:59",
+"mes": "FEB.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T23:59+02:00"
+},{
+"nom": "Kay Kalo Lantin Jazz Quartet",
+"sala": "Jamboree",
+"hora": "23:00",
+"mes": "FEB.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T23:00+02:00"
+},{
+"nom": "Chino Swingslide & The Sharps Swing",
+"sala": "Harlem Jazz Club",
+"hora": "23:00",
+"mes": "FEB.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T23:00+02:00"
+},{
+"nom": "Balkumbia",
+"sala": "Marula Café",
+"hora": "22:30",
+"mes": "FEB.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T22:30+02:00"
+},{
+"nom": "Banda Sereia",
+"sala": "Tradicionàrius",
+"hora": "22:30",
+"mes": "FEB.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T22:30+02:00"
+},{
+"nom": "Patata i Bleda + Turborata + Troners + Rotura",
+"sala": "cso La 13",
+"hora": "22:00",
+"mes": "FEB.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T22:00+02:00"
+},{
+"nom": "Dani Bou",
+"sala": "El Coleccionista",
+"hora": "22:00",
+"mes": "FEB.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T22:00+02:00"
+},{
+"nom": "Miquel Galceran Trio",
+"sala": "Nova Jazz Cava (Terrassa)",
+"hora": "22:00",
+"mes": "FEB.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T22:00+02:00"
+},{
+"nom": "Arrels de Gràcia + Quinqui Sound",
+"sala": "La Deskomunal",
+"hora": "21:30",
+"mes": "FEB.2022",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-04T21:30+02:00"
+},{
 "nom": "Cristina Rosenvinge",
 "sala": "Paral·lel 62",
 "hora": "21:00",
@@ -621,7 +711,106 @@
 "ciutat": "",
 "dateTime": "2023-02-04T21:00+02:00"
 },{
-"nom": "Imonolith + Ascend the hollow",
+"nom": "Alex Zayas Trio",
+"sala": "El Portal dels Encants",
+"hora": "12:30",
+"mes": "FEB.2022",
+"dia": "5",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-02-05T12:30+02:00"
+},{
+"nom": "Fetén Fetén",
+"sala": "Tradicionàrius",
+"hora": "19:00",
+"mes": "FEB.2022",
+"dia": "5",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-02-05T19:00+02:00"
+},{
+"nom": "La Voodoo",
+"sala": "Harlem",
+"hora": "21:30",
+"mes": "FEB.2022",
+"dia": "5",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-02-05T21:30+02:00"
+},{
+"nom": "Àlex Thomas",
+"sala": "Riff",
+"hora": "21:00",
+"mes": "FEB.2022",
+"dia": "5",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-02-05T21:00+02:00"
+},{
+"nom": "Júlia Cruz Sesé",
+"sala": "Fizz",
+"hora": "21:00",
+"mes": "FEB.2022",
+"dia": "5",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-02-05T21:00+02:00"
+},{
+"nom": "La Prima Vera",
+"sala": "L'Oncle Jack (L'H)",
+"hora": "20:30",
+"mes": "FEB.2022",
+"dia": "5",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-02-05T20:30+02:00"
+},{
+"nom": "Alan Pardo & co.",
+"sala": "Artcafé Isalba (Sta. Coloma de G.)",
+"hora": "20:00",
+"mes": "FEB.2022",
+"dia": "5",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-02-05T20:00+02:00"
+},{
+"nom": "Tomeu Penya",
+"sala": "Auditori de Porreres",
+"hora": "20:00",
+"mes": "FEB.2022",
+"dia": "5",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-02-05T20:00+02:00"
+},{
+"nom": "Duma Quartet (II)",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "FEB.2022",
+"dia": "5",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-02-05T21:30+02:00"
+},{
+"nom": "Duma Quartet (I)",
+"sala": "Milano",
+"hora": "19:00",
+"mes": "FEB.2022",
+"dia": "5",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-02-05T19:00+02:00"
+},{
+"nom": "Roigé",
+"sala": "Harlem",
+"hora": "19:00",
+"mes": "FEB.2022",
+"dia": "5",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-02-05T19:00+02:00"
+},{
+"nom": "Imonolith <cancel·lat>",
 "sala": "Razzmatazz[3]",
 "hora": "19:00",
 "mes": "FEB.2022",
@@ -647,6 +836,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-02-05T18:30+02:00"
+},{
+"nom": "Cromàtic",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "FEB.2022",
+"dia": "6",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-02-06T19:00+02:00"
 },{
 "nom": "Revocation + Goatwhore + Alluvial + Creeping Death",
 "sala": "Bóveda",
@@ -683,6 +881,60 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2023-02-07T18:00+02:00"    
+},{
+"nom": "Tha`Quartet",
+"sala": "Robadors",
+"hora": "22:30",
+"mes": "FEB.2022",
+"dia": "7",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-07T20:00+02:00"    
+},{
+"nom": "Manouche#38",
+"sala": "Soda",
+"hora": "21:30",
+"mes": "FEB.2022",
+"dia": "7",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-07T21:30+02:00"    
+},{
+"nom": "Ferran Exceso",
+"sala": "Fizz",
+"hora": "20:00",
+"mes": "FEB.2022",
+"dia": "7",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-07T20:00+02:00"    
+},{
+"nom": "Índigo Blues BCN + Blueswomen Project",
+"sala": "La CIBA (Sta. Coloma de G.)",
+"hora": "19:00",
+"mes": "FEB.2022",
+"dia": "7",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-07T19:00+02:00"    
+},{
+"nom": "Hugo Astudillo Expósito (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "FEB.2022",
+"dia": "7",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-07T19:00+02:00"    
+},{
+"nom": "Hugo Astudillo Expósito (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "FEB.2022",
+"dia": "7",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-07T20:30+02:00"    
 },{
 "nom": "Diogo Nogueira",
 "sala": "Apolo",
