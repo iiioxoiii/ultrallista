@@ -414,13 +414,130 @@
 "ciutat": "",
 "dateTime": "2023-02-18T18:00+02:00"    
 },{
-"nom": "The Rose",        
-"sala": "Razzmatazz[1]",
-"hora": "??:??",
+"nom": "Bring Me The Horizon + A Day To Remember + Poorstacy + Static Dress",        
+"sala": "Sant Jordi Club",
+"hora": "18:30",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "",
+"dateTime": "2023-02-19T18:30+02:00"        
+},{
+"nom": "Hammond Party (I)",        
+"sala": "Jamboree",
+"hora": "19:00",
 "mes": "FEB.2023",
 "dia": "19",
 "textdia": "diumege",
 "ciutat": "sold out",
+"dateTime": "2023-02-19T19:00+02:00"        
+},{
+"nom": "Hammond Party (II)",        
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "",
+"dateTime": "2023-02-19T20:30+02:00"        
+},{
+"nom": "Miriam Swanson (I)",        
+"sala": "Milano",
+"hora": "19:30",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "",
+"dateTime": "2023-02-19T19:30+02:00"        
+},{
+"nom": "Miriam Swanson (II)",        
+"sala": "Milano",
+"hora": "21:30",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "",
+"dateTime": "2023-02-19T21:30+02:00"        
+},{
+"nom": "Boja Picó",        
+"sala": "New Fizz",
+"hora": "19:30",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "",
+"dateTime": "2023-02-19T19:30+02:00"        
+},{
+"nom": "Forró da Madame Bailao",        
+"sala": "DioBar",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "",
+"dateTime": "2023-02-19T20:30+02:00"        
+},{
+"nom": "Vicky Gastelo",        
+"sala": "Casinet d'Hostafrancs",
+"hora": "19:00",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "",
+"dateTime": "2023-02-19T19:00+02:00"        
+},{
+"nom": "Joana Gomila i Laia Vallès",        
+"sala": "Tradicionarius",
+"hora": "19:00",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "sold out",
+"dateTime": "2023-02-19T19:00+02:00"        
+},{
+"nom": "The Rose",        
+"sala": "Razzmatazz[1]",
+"hora": "20:30",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "sold out",
+"dateTime": "2023-02-19T20:30+02:00"        
+},{
+"nom": "La Voodoo",        
+"sala": "Harlem Jazz Club",
+"hora": "21:30",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "",
+"dateTime": "2023-02-19T21:30+02:00"        
+},{
+"nom": "Irina Gonzàlez",        
+"sala": "Jamboree",
+"hora": "23:30",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "",
+"dateTime": "2023-02-19T23:30+02:00"        
+},{
+"nom": "US Rails",        
+"sala": "La Textil",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "",
+"dateTime": "2023-02-19T21:00+02:00"        
+},{
+"nom": "Obsesion",        
+"sala": "Riff Rock Bar",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "19",
+"textdia": "diumege",
+"ciutat": "",
 "dateTime": "2023-02-19T21:00+02:00"        
 },{
 "nom": "Teenage Bottlerocket",        
@@ -442,13 +559,40 @@
 "dateTime": "2023-02-19T20:00+02:00"        
 },{
 "nom": "All Time Low",        
-"sala": "Razzmatazz[q]",
+"sala": "Razzmatazz[1]",
 "hora": "18:30",
 "mes": "FEB.2023",
 "dia": "20",
 "textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2023-02-20T18:30+02:00"        
+},{
+"nom": "TCXXSB (I)",        
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "FEB.2023",
+"dia": "20",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-02-20T19:00+02:00"        
+},{
+"nom": "TCXXSB (II)",        
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "FEB.2023",
+"dia": "20",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-02-20T20:30+02:00"        
+},{
+"nom": "Ara Malikian",        
+"sala": "Kursaal (Manresa)",
+"hora": "20:00",
+"mes": "FEB.2023",
+"dia": "20",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-02-20T20:00+02:00"        
 },{
 "nom": "Whisky Caravan",
 "sala": "Wolf Club",
@@ -467,6 +611,42 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-02-20T21:00+02:00"
+},{    
+"nom": "Manouche #40",
+"sala": "Soda acústic",
+"hora": "21:30",
+"mes": "FEB.2023",
+"dia": "21",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-21T21:30+02:00"
+},{    
+"nom": "Jam Session",
+"sala": "Harlem",
+"hora": "22:30",
+"mes": "FEB.2023",
+"dia": "21",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-21T22:30+02:00"
+},{    
+"nom": "Fredrik Calquist (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "FEB.2023",
+"dia": "21",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-21T19:00+02:00"
+},{    
+"nom": "Fredrik Calquist (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "FEB.2023",
+"dia": "21",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-21T20:30+02:00"
 },{    
 "nom": "Henrio",
 "sala": "La Nau",
