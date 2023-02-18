@@ -1,139 +1,103 @@
 {
 "concerts": [{
-"nom": "Tarja",
-"sala": "Apolo",
-"hora": "18:30",
+"nom": "Ground + Sutge + Gôlut + Pvrgatorii + Tempestat",
+"sala": "Plç. Bonanova",
+"hora": "12:00",
 "mes": "FEB.2022",
-"dia": "13",
-"textdia": "dilluns",
+"dia": "18",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-02-13T18:30+02:00"        
+"dateTime": "2023-02-18T12:00+02:00"    
 },{
-"nom": "Deez Nuts +  The Acacia Strain + Unity Tx + Brother Till We Die",
-"sala": "Razzmatazz[3]",
-"hora": "18:00",
+"nom": "Mabel Flores",
+"sala": "C.C. el Coll",
+"hora": "12:30",
 "mes": "FEB.2022",
-"dia": "14",
-"textdia": "dimarts",
+"dia": "18",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-02-14T18:00+02:00"        
+"dateTime": "2023-02-18T12:30+02:00"    
 },{
-"nom": "Palaye Royale",
-"sala": "Apolo",
-"hora": "20:30",
-"mes": "FEB.2022",
-"dia": "15",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-02-15T20:30+02:00"    
-},{
-"nom": "Jared James Nichols + Montana Stomp",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "FEB.2022",
-"dia": "15",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-02-15T21:00+02:00"    
-},{
-"nom": "Bullet for my Valentine + Jinjer + Atreyu",
-"sala": "Razzmatazz[1]",
-"hora": "18:00",
-"mes": "FEB.2022",
-"dia": "16",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-02-16T18:00+02:00"    
-},{
-"nom": "Mooon",
-"sala": "Sidecar",
-"hora": "20:30",
-"mes": "FEB.2022",
-"dia": "16",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-02-16T20:30+02:00"    
-},{
-"nom": "Kris Baha + Patriarchy + SDH",
-"sala": "Vol",
-"hora": "20:00",
-"mes": "FEB.2022",
-"dia": "16",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-02-16T20:00+02:00"    
-},{
-"nom": "Núria Graham",
-"sala": "Paral·Lel 62",
-"hora": "21:00",
-"mes": "FEB.2022",
-"dia": "16",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-02-16T21:00+02:00"    
-},{
-"nom": "Furamago",
-"sala": "Heliogàbal",
-"hora": "21:00",
-"mes": "FEB.2022",
-"dia": "16",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-02-16T21:00+02:00"    
-},{
-"nom": "The Levitants",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "FEB.2022",
-"dia": "17",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-02-17T21:00+02:00"    
-},{
-"nom": "Azul i Reina",
-"sala": "Heliogàbal",
-"hora": "21:00",
-"mes": "FEB.2022",
-"dia": "17",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-02-17T21:00+02:00"    
-},{
-"nom": "Joan Reagge Drummer + Roberto Sánchez",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "FEB.2022",
-"dia": "17",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-02-17T20:00+02:00"    
-},{
-"nom": "Totekings + Easy-s",
-"sala": "Apolo",
-"hora": "20:00",
-"mes": "FEB.2022",
-"dia": "17",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-02-17T20:00+02:00"    
-},{
-"nom": "Alma de Boquerón",
-"sala": "Almo2bar",
-"hora": "21:00",
-"mes": "FEB.2022",
-"dia": "17",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-02-17T21:00+02:00"    
-},{
-"nom": "Miguel Campello",
-"sala": "Razzmatazz[1]",
+"nom": "Albert Sanz & Javier Colina (I)",
+"sala": "Jamboree",
 "hora": "19:00",
 "mes": "FEB.2022",
 "dia": "18",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-02-18T19:00+02:00"    
+},{
+"nom": "Albert Sanz & Javier Colina (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T20:30+02:00"    
+},{
+"nom": "Paco Candela",
+"sala": "L'auditori",
+"hora": "19:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T19:00+02:00"    
+},{
+"nom": "Anora Kito",
+"sala": "Fnac El triangle",
+"hora": "19:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T19:00+02:00"    
+},{
+"nom": "2084 + Comando Helios Gomez + L'Arròs + Laura Crehuet",
+"sala": "blokes fantasma",
+"hora": "19:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T19:00+02:00"    
+},{
+"nom": "Irina González",
+"sala": "C.C. Torre Llobeta",
+"hora": "19:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T19:00+02:00"    
+},{
+"nom": "Gessamí Boada",
+"sala": "Tradicionàrius",
+"hora": "19:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T19:00+02:00"    
+},{
+"nom": "The 4 Shots (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T19:30+02:00"    
+},{
+"nom": "The 4 Shots (II)",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T21:30+02:00"    
 },{
 "nom": "Frans Banfield",
 "sala": "Sidecar",
@@ -144,8 +108,251 @@
 "ciutat": "",
 "dateTime": "2023-02-18T19:00+02:00"    
 },{
+"nom": "Diego Escusol",
+"sala": "C.C. Barradas (L'H)",
+"hora": "20:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T20:00+02:00"    
+},{
+"nom": "Ojos Verdes",
+"sala": "Teatre Joventut",
+"hora": "20:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T20:00+02:00"    
+},{
+"nom": "Rose Avalon + Saltimbankya",
+"sala": "Bóveda",
+"hora": "19:45",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T19:45+02:00"    
+},{
+"nom": "Nukke + CPU + Bait + Katu Partio + Turborata",
+"sala": "Rock'n'Trini",
+"hora": "20:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T20:00+02:00"    
+},{
+"nom": "Blowfuse + Dissaster Jacks)",
+"sala": "Casal Joves Les Corts",
+"hora": "20:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T19:30+02:00"    
+},{
+"nom": "Los Perlas + The Blitzkriegs",
+"sala": "La Deskomunal",
+"hora": "21:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T21:00+02:00"    
+},{
+"nom": "Les que faltaband",
+"sala": "B1 (Granollers)",
+"hora": "23:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T23:30+02:00"    
+},{
+"nom": "Mala Vida",
+"sala": "Sarau 08911 (BDN)",
+"hora": "23:59",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T23:59+02:00"    
+},{
+"nom": "Yadia Ferrer",
+"sala": "Jamboree",
+"hora": "23:05",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T23:05+02:00"    
+},{
+"nom": "Los Deltonos",
+"sala": "La Boite (lleida)",
+"hora": "23:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T23:00+02:00"    
+},{
+"nom": "Jay Kalo",
+"sala": "Jamboree",
+"hora": "23:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T23:00+02:00"    
+},{
+"nom": "Los Amantes de Amparo",
+"sala": "La Capsa (El Prat de Ll.)",
+"hora": "23:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T23:00+02:00"    
+},{
+"nom": "Mateólika + Maruja Limón + Bizaplayers",
+"sala": "Ateneu 9Barris",
+"hora": "23:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T23:00+02:00"    
+},{
+"nom": "Lonelys Band",
+"sala": "Bar Continental",
+"hora": "22:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T22:30+02:00"    
+},{
+"nom": "Son de la Rambla",
+"sala": "Harlem",
+"hora": "23:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T23:00+02:00"    
+},{
+"nom": "La Mapocho Cumbia",
+"sala": "Jamboree",
+"hora": "22:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T22:30+02:00"    
+},{
+"nom": "Poetas Puestos + Dolor García",
+"sala": "Freedonia",
+"hora": "21:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T21:00+02:00"    
+},{
+"nom": "Bones Of Minerva + Ikaie",
+"sala": "Vol",
+"hora": "21:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T21:00+02:00"    
+},{
+"nom": "Master Boot Records + Areottenbit",
+"sala": "La Nau",
+"hora": "20:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T19:30+02:00"    
+},{
+"nom": "L'Haine & Claudio Montana",
+"sala": "Razzmatazz[3]",
+"hora": "21:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T21:00+02:00"    
+},{
+"nom": "Papa Orbe + La Condal",
+"sala": "Paral·lel 62",
+"hora": "20:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T20:30+02:00"    
+},{
+"nom": "Brizna + Salva",
+"sala": "La Textil",
+"hora": "20:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T20:30+02:00"    
+},{
+"nom": "El Kujo",
+"sala": "Café r&r",
+"hora": "20:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T20:30+02:00"    
+},{
+"nom": "Luter",
+"sala": "L'Oncle Jack (L'H)",
+"hora": "19:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T19:30+02:00"    
+},{
+"nom": "Billy Mandanga",
+"sala": "Nes Fizz",
+"hora": "20:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T20:30+02:00"    
+},{
+"nom": "Toti Soler & Gemma Humet",
+"sala": "Centre Social (Quatretonda)",
+"hora": "19:30",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T19:30+02:00"    
+},{
 "nom": "Un Pingüino en mi ascensor",
 "sala": "Wolf",
+"hora": "20:00",
+"mes": "FEB.2022",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-18T20:00+02:00"    
+},{
+"nom": "Top Models + Síndrome Tòxico + Los 4 señores ",
+"sala": "Upload",
 "hora": "20:00",
 "mes": "FEB.2022",
 "dia": "18",
