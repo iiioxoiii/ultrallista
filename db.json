@@ -648,6 +648,87 @@
 "ciutat": "",
 "dateTime": "2023-02-21T20:30+02:00"
 },{    
+"nom": "A Woman Dressed In Green + The Summer Lovers + Eric Abril Band",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "FEB.2023",
+"dia": "22",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-02-22T19:00+02:00"
+},{    
+"nom": "Clarence Bekker Band (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T19:00+02:00"
+},{    
+"nom": "Clarence Bekker Band (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T20:30+02:00"
+},{    
+"nom": "Eran Har Even Trio (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T19:30+02:00"
+},{    
+"nom": "Eran Har Even Trio (II)",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T21:30+02:00"
+},{    
+"nom": "jam blues",
+"sala": "Harlem",
+"hora": "22:30",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T22:30+02:00"
+},{    
+"nom": "Hotel Cochambre",
+"sala": "Luz de Gas",
+"hora": "23:59",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T23:59+02:00"
+},{    
+"nom": "jam afro latin",
+"sala": "Marula Café",
+"hora": "22:30",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T22:30+02:00"
+},{    
+"nom": "jam",
+"sala": "Soda Acústic",
+"hora": "22:30",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T22:30+02:00"
+},{    
 "nom": "Henrio",
 "sala": "La Nau",
 "hora": "21:00",
@@ -656,6 +737,51 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-02-23T21:00+02:00"
+},{    
+"nom": "La Paloma",
+"sala": "Vol",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T21:00+02:00"
+},{    
+"nom": "Serious Black + Ethernal",
+"sala": "Bóveda",
+"hora": "20:00",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T20:00+02:00"
+},{    
+"nom": "The Fuzztones + Sinciders",
+"sala": "upload",
+"hora": "21:00",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T21:00+02:00"
+},{    
+"nom": "Maui",
+"sala": "Luz de Gas",
+"hora": "20:30",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T20:30+02:00"
+},{    
+"nom": "impro/jam",
+"sala": "Soda Acústic",
+"hora": "20:00",
+"mes": "FEB.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-02-23T20:00+02:00"
 },{    
 "nom": "Els Cundits",
 "sala": "Heliogàbal",
@@ -674,6 +800,69 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-02-23T20:00+02:00"    
+},{
+"nom": "Nikole McCabre (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "FEB.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-24T19:00+02:00"
+},{
+"nom": "Yadira Ferrer (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "FEB.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-24T19:30+02:00"
+},{
+"nom": "Cheb Rubën + Trapani + Gallardo",
+"sala": "Salamandra",
+"hora": "20:30",
+"mes": "FEB.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-24T20:30+02:00"
+},{
+"nom": "Vecinos + Totla Noventa",
+"sala": "Vol",
+"hora": "20:00",
+"mes": "FEB.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-24T20:00+02:00"
+},{
+"nom": "Reyko",
+"sala": "Laut",
+"hora": "20:00",
+"mes": "FEB.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-24T20:00+02:00"
+},{
+"nom": "Yadira Ferrer (II)",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "FEB.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-24T21:30+02:00"
+},{
+"nom": "Nikole McCabre (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "FEB.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-24T20:30+02:00"
 },{
 "nom": "Leprous + Kalandra",
 "sala": "Apolo",
@@ -711,6 +900,51 @@
 "ciutat": "",
 "dateTime": "2023-02-24T21:30+02:00"
 },{
+"nom": "Timbacine Orquesta",
+"sala": "Jamporee",
+"hora": "22:30",
+"mes": "FEB.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-02-24T22:30+02:00"
+},{
+"nom": "Victor de Diego (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "FEB.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-25T19:00+02:00"    
+},{
+"nom": "Victor de Diego (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "FEB.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-25T20:30+02:00"    
+},{
+"nom": "Mr. Cool & co.",
+"sala": "La Deskomunal",
+"hora": "20:30",
+"mes": "FEB.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-25T20:30+02:00"    
+},{
+"nom": "Virginia & the Woolfs",
+"sala": "Harlem",
+"hora": "23:00",
+"mes": "FEB.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-25T23:00+02:00"    
+},{
 "nom": "La Desbandada",
 "sala": "Wolf",
 "hora": "20:00",
@@ -719,6 +953,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-02-25T20:00+02:00"    
+},{
+"nom": "Indee",
+"sala": "Harlem",
+"hora": "23:00",
+"mes": "FEB.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-02-25T23:00+02:00"    
 },{
 "nom": "Carlos Gasca + Invisible Harvey",
 "sala": "Almo2bar",
