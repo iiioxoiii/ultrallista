@@ -702,6 +702,15 @@
 "ciutat": "",
 "dateTime": "2023-03-20T19:00+02:00"
 },{
+"nom": "The Flying Shepherds",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "MAR2023",
+"dia": "20",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-03-20T19:00+02:00"
+},{
 "nom": "Shame",
 "sala": "Apolo[2]",
 "hora": "20:00",
@@ -710,6 +719,24 @@
 "textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2023-03-20T20:00+02:00"
+},{
+"nom": "Silly Symphony (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "MAR2023",
+"dia": "21",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-03-21T19:00+02:00"
+},{
+"nom": "Silly Symphony (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "MAR2023",
+"dia": "21",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-03-21T20:30+02:00"
 },{
 "nom": "Roger Waters",
 "sala": "Palau Sant Jordi",
@@ -729,7 +756,7 @@
 "ciutat": "",
 "dateTime": "2023-03-21T20:00+02:00"
 },{
-"nom": "The Lemon Lovers",
+"nom": "The Lemon Lovers + Navarri",
 "sala": "Heliogàbal",
 "hora": "21:00",
 "mes": "MAR2023",
@@ -738,7 +765,52 @@
 "ciutat": "",
 "dateTime": "2023-03-21T21:00+02:00"
 },{
-"nom": "Billy Nomates",
+"nom": "Jam Session",
+"sala": "DioBar",
+"hora": "21:00",
+"mes": "MAR2023",
+"dia": "21",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-03-21T21:00+02:00"
+},{
+"nom": "Jam Manouche",
+"sala": "Soda Acústic",
+"hora": "21:30",
+"mes": "MAR2023",
+"dia": "21",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-03-21T21:00+02:00"
+},{
+"nom": "Jam Session",
+"sala": "Harlem",
+"hora": "22:30",
+"mes": "MAR2023",
+"dia": "21",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-03-21T22:30+02:00"
+},{
+"nom": "Backing Track + Delight + SRFAX Funck Collective",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "MAR2023",
+"dia": "22",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-03-22T19:00+02:00"    
+},{
+"nom": "Tori sparks Band",
+"sala": "Teatre Gespa",
+"hora": "20:00",
+"mes": "MAR2023",
+"dia": "22",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-03-22T20:00+02:00"    
+},{
+"nom": "Billy Nomates + Alan Neil",
 "sala": "La Nau",
 "hora": "20:30",
 "mes": "MAR2023",
@@ -765,6 +837,51 @@
 "ciutat": "",
 "dateTime": "2023-03-23T20:30+02:00"    
 },{
+"nom": "Clarence Bekker Band (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "MAR2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-23T19:00+02:00"    
+},{
+"nom": "Clarence Bekker Band (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "MAR2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-23T20:30+02:00"    
+},{
+"nom": "Romain Pilon Trio (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "MAR2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-23T19:30+02:00"    
+},{
+"nom": "Romain Pilon Trio (II)",
+"sala": "Milano",
+"hora": "20:30",
+"mes": "MAR2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-23T20:30+02:00"    
+},{
+"nom": "Impro",
+"sala": "Soda Acústic",
+"hora": "20:00",
+"mes": "MAR2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-23T20:00+02:00"    
+},{
 "nom": "Anacondaz",
 "sala": "Apolo",
 "hora": "19:00",
@@ -773,6 +890,42 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-03-23T19:00+02:00"    
+},{
+"nom": "Ezeplan + Hernán Platt + sara Aldana",
+"sala": "La Deskomunal",
+"hora": "20:00",
+"mes": "MAR2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-23T20:00+02:00"    
+},{
+"nom": "Mario Puglia",
+"sala": "Nota 79",
+"hora": "21:00",
+"mes": "MAR2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-23T21:00+02:00"    
+},{
+"nom": "Mr Shingles Blues Jam Session",
+"sala": "Harlem",
+"hora": "22:30",
+"mes": "MAR2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-23T22:30+02:00"    
+},{
+"nom": "Jam Session",
+"sala": "Soda Acústic",
+"hora": "22:30",
+"mes": "MAR2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-03-23T22:30+02:00"    
 },{
 "nom": "Barei + Ronela + Efendi + Wrs",
 "sala": "Apolo",
