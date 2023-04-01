@@ -486,14 +486,320 @@
 "ciutat": "",
 "dateTime": "2023-04-02T21:00+02:00"
 },{
-"nom": "Lia Kali",
-"sala": "Apolo[2]",
+"nom": "Alma de Pato",
+"sala": "La Capella de Can Gambús (Sabadell)",
+"hora": "12:30",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T12:30+02:00"
+},{
+"nom": "Red Pig Brothers",
+"sala": "El Portal dels Encants",
+"hora": "12:30",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T12:30+02:00"
+},{
+"nom": "Mireia",
+"sala": "Harlem",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T19:00+02:00"
+},{
+"nom": "Sirjo Cocchi (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T19:00+02:00"
+},{
+"nom": "Sirjo Cocchi (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T20:30+02:00"
+},{
+"nom": "Quimi Portet",
+"sala": "Auditori (Vilafranca)",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T19:00+02:00"
+},{
+"nom": "Masacre + Unbounded Terror + Reticulate",
+"sala": "Bóveda",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T19:00+02:00"
+},{
+"nom": "Aina Tramullas",
+"sala": "Nou Bar (Maó)",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T19:00+02:00"
+},{
+"nom": "Toni Solà Quartet (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T19:30+02:00"
+},{
+"nom": "Toni Solà Quartet (II)",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T21:30+02:00"
+},{
+"nom": "Jam Session",
+"sala": "Jamboree",
 "hora": "20:00",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T20:00+02:00"
+},{
+"nom": "Mojothunder",
+"sala": "La Textil",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T121:00+02:00"
+},{
+"nom": "Steve Vai",
+"sala": "Paral·lel 62",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T21:00+02:00"
+},{
+"nom": "Slim Jim Blues Band",
+"sala": "Harlem",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T21:30+02:00"
+},{
+"nom": "Blas Cantó",
+"sala": "La Nau",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-02T21:30+02:00"
+},{
+"nom": "Aguaje",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "3",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-04-03T19:00+02:00"
+},{
+"nom": "Lucas Martínez Project (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "4",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-04T19:00+02:00"
+},{
+"nom": "Lucas Martínez Project (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "ABR.2023",
+"dia": "4",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-04T20:30+02:00"
+},{
+"nom": "Hitch & Go + Chumo + Fastloud",
+"sala": "La Deskomunal",
+"hora": "20:00",
+"mes": "ABR.2023",
+"dia": "4",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-04T20:00+02:00"
+},{
+"nom": "La Maruca",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "ABR.2023",
+"dia": "4",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-04T20:30+02:00"
+},{
+"nom": "Jam Session",
+"sala": "DioBar",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "4",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-04T21:00+02:00"
+},{
+"nom": "Manouche",
+"sala": "Soda Acústic",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "4",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-04T21:30+02:00"
+},{
+"nom": "Jam Session",
+"sala": "Harlem",
+"hora": "22:30",
+"mes": "ABR.2023",
+"dia": "4",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-04-04T22:30+02:00"
+},{
+"nom": "Lia Kali",
+"sala": "Apolo[1]",
+"hora": "21:00",
 "mes": "ABR.2023",
 "dia": "5",
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-04-05T20:00+02:00"
+},{
+"nom": "MC & ML (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-04-05T19:00+02:00"
+},{
+"nom": "MC & ML (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "ABR.2023",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-04-05T20:30+02:00"
+},{
+"nom": "Georgi Dimitrov",
+"sala": "Soda Acústic",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "5",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-04-05T21:30+02:00"
+},{
+"nom": "Wax & Boogie (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "ABR.2023",
+"dia": "6",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-04-06T19:30+02:00"
+},{
+"nom": "Wax & Boogie (II)",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "6",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-04-06T21:30+02:00"
+},{
+"nom": "Jam Session",
+"sala": "Harlem",
+"hora": "22:30",
+"mes": "ABR.2023",
+"dia": "6",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-04-06T22:30+02:00"
+},{
+"nom": "Jam Session",
+"sala": "soda",
+"hora": "22:30",
+"mes": "ABR.2023",
+"dia": "6",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-04-06T22:30+02:00"
+},{
+"nom": "Casares Family Quintet (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "ABR.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-07T19:30+02:00"
+},{
+"nom": "Casares Family Quintet (II)",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-07T21:30+02:00"
+},{
+"nom": "Jake Calypso",
+"sala": "Marula Café",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-07T21:00+02:00"
+},{
+"nom": "Basarab Trío",
+"sala": "soda Acústic",
+"hora": "22:00",
+"mes": "ABR.2023",
+"dia": "7",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-07T22:00+02:00"
 },{
 "nom": "Cano",
 "sala": "Apolo",
@@ -504,6 +810,42 @@
 "ciutat": "",
 "dateTime": "2023-04-07T20:30+02:00"
 },{
+"nom": "Balta Bordoy & The Bad Boys (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "ABR.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-08T19:30+02:00"
+},{
+"nom": "Balta Bordoy & The Bad Boys (II)",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-08T21:30+02:00"
+},{
+"nom": "Kill The President",
+"sala": "Slow",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-08T21:30+02:00"
+},{
+"nom": "Papa orbe y los Cientídicos del Sabor",
+"sala": "Marula Café",
+"hora": "22:30",
+"mes": "ABR.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-08T22:30+02:00"
+},{
 "nom": "Brother Firetribe + One Desire + Stråle",
 "sala": "Bóveda",
 "hora": "19:00",
@@ -511,7 +853,34 @@
 "dia": "8",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-04-01T19:30+02:00"
+"dateTime": "2023-04-08T19:30+02:00"
+},{
+"nom": "Mala Vida",
+"sala": "Sarau 08911 (BDN)",
+"hora": "23:55",
+"mes": "ABR.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-08T23:55+02:00"
+},{
+"nom": "Jam Session",
+"sala": "Jamboree",
+"hora": "20:00",
+"mes": "ABR.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-08T20:00+02:00"
+},{
+"nom": "Cachemira",
+"sala": "La Textil",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-08T21:00+02:00"
 },{
 "nom": "Måneskin",
 "sala": "Palau Sant Jordi",
