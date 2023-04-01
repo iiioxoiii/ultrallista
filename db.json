@@ -1,5 +1,14 @@
 {
 "concerts": [{
+"nom": "N.S.S.C + N.R.F.C",
+"sala": "Antic Forn de Vallcarca",
+"hora": "20:30",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T20:30+02:00"
+},{
 "nom": "Nebur (DD Fest)",
 "sala": "masia Masferrer (Montornés del V.)",
 "hora": "12:00",
