@@ -1,994 +1,238 @@
 {
 "concerts": [{
-"nom": "Lluc Casares Quintet (I)",
-"sala": "Jamboree",
-"hora": "19:05",
-"mes": "MAR.2023",
-"dia": "25",
+"nom": "Nebur (DD Fest)",
+"sala": "masia Masferrer (Montornés del V.)",
+"hora": "12:00",
+"mes": "ABR.2023",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-03-25T19:05+02:00"
+"dateTime": "2023-04-01T12:00+02:00"
 },{
-"nom": "Lluc Casares Quintet (II)",
+"nom": "Amatraka (DD Fest)",
+"sala": "masia Masferrer (Montornés del V.)",
+"hora": "13:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T13:00+02:00"
+},{
+"nom": "Sictor Valdaña (DD Fest)",
+"sala": "masia Masferrer (Montornés del V.)",
+"hora": "14:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T14:00+02:00"
+},{
+"nom": "El Bruixot (DD Fest)",
+"sala": "masia Masferrer (Montornés del V.)",
+"hora": "15:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T15:00+02:00"
+},{
+"nom": "Arma to Brun (DD Fest)",
+"sala": "masia Masferrer (Montornés del V.)",
+"hora": "16:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T16:00+02:00"
+},{
+"nom": "Perro Pachingo (DD Fest)",
+"sala": "masia Masferrer (Montornés del V.)",
+"hora": "17:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T17:00+02:00"
+},{
+"nom": "Tangana (DD Fest)",
+"sala": "masia Masferrer (Montornés del V.)",
+"hora": "18:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T18:00+02:00"
+},{
+"nom": "Gaua (DD Fest)",
+"sala": "masia Masferrer (Montornés del V.)",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T19:00+02:00"
+},{
+"nom": "Dalla (DD Fest)",
+"sala": "masia Masferrer (Montornés del V.)",
+"hora": "20:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T20:00+02:00"
+},{
+"nom": "Runä (DD Fest)",
+"sala": "masia Masferrer (Montornés del V.)",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:00+02:00"
+},{
+"nom": "Mutant Clan (DD Fest)",
+"sala": "masia Masferrer (Montornés del V.)",
+"hora": "22:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T22:00+02:00"
+},{
+"nom": "Radioformula + Ovvo + Nicomedes Mendes + Dabike",
+"sala": "el Pumarejo (L'H.)",
+"hora": "11:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T22:00+02:00"
+},{
+"nom": "Svart Katt (Foc Fest)",
+"sala": "upload",
+"hora": "??:??",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T18:00+02:00"
+},{
+"nom": "La Culpa (Foc Fest)",
+"sala": "upload",
+"hora": "??:??",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T18:00+02:00"
+},{
+"nom": "Vacío Negro (Foc Fest)",
+"sala": "upload",
+"hora": "??:??",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T18:00+02:00"
+},{
+"nom": "Último Templo (Foc Fest)",
+"sala": "upload",
+"hora": "??:??",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T18:00+02:00"
+},{
+"nom": "Govin-Ernault-Bernier (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T19:00+02:00"
+},{
+"nom": "Govin-Ernault-Bernier (II)",
 "sala": "Jamboree",
 "hora": "20:30",
-"mes": "MAR.2023",
-"dia": "25",
+"mes": "ABR.2023",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-03-25T20:30+02:00"
+"dateTime": "2023-04-01T20:30+02:00"
 },{
-"nom": "Paz Aguado",
-"sala": "Harlem Jazz Club",
+"nom": "Pybus Groove Quartet (I)",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T19:30+02:00"
+},{
+"nom": "Pybus Groove Quartet (II)",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:30+02:00"
+},{
+"nom": "Percless, Uf Dog y Solo K.Os",
+"sala": "Jamboree",
 "hora": "20:00",
-"mes": "MAR.2023",
-"dia": "25",
+"mes": "ABR.2023",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-03-25T20:00+02:00"
+"dateTime": "2023-04-01T20:00+02:00"
 },{
-"nom": "Miquel",
+"nom": "Guadi Galego",
+"sala": "Tradicionarius",
+"hora": "20:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T19:30+02:00"
+},{
+"nom": "Angel Pestime",
 "sala": "Casinet d'Hostafrancs",
 "hora": "20:00",
-"mes": "MAR.2023",
-"dia": "25",
+"mes": "ABR.2023",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-03-25T20:00+02:00"
+"dateTime": "2023-04-01T20:00+02:00"
 },{
-"nom": "Said Muti + Mi Capitán",
-"sala": "La Textil",
-"hora": "20:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T20:00+02:00"
-},{
-"nom": "Ginebras + Anabel Lee <soldout>",
-"sala": "salamandra[1]",
-"hora": "20:15",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T20:00+02:00"
-},{
-"nom": "Ros + Stukat del Bolet",
-"sala": "Tradicionàrius",
-"hora": "20:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T20:30+02:00"
-},{
-"nom": "Gonzalo de Cos Rodríguez Chus",
-"sala": "L'Oncle Jack",
-"hora": "20:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T20:30+02:00"
-},{
-"nom": "Potato + Predicador JJ Bolton",
-"sala": "La Deskomunal",
-"hora": "20:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T20:30+02:00"
-},{
-"nom": "Café Quijano",
-"sala": "sala Paral·lel 62",
-"hora": "20:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T20:30+02:00"
-},{
-"nom": "Carlota Flâneur",
-"sala": "Centre d'Art del Museu de Mataró",
-"hora": "20:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T20:30+02:00"
-},{
-"nom": "Delta & Brizna",
-"sala": "Laut Concert",
-"hora": "20:45",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T20:45+02:00"
-},{
-"nom": "La Habitación Roja <solt out>",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "The Tyets <sold out>",
-"sala": "Apolo",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "Catalan Mainstream Mcs",
-"sala": "Heliogàbal",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "Los Chikos del Maíz",
-"sala": "Razzmataz[1]",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "Celistia",
-"sala": "Zero",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "Rojo Libanés",
-"sala": "Continental",
-"hora": "23:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T23:30+02:00"
-},{
-"nom": "Touch + Red Gala + Dj Gabs",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "Pared con Pared",
-"sala": "Slow",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "Larry Smith and Unfinished Business",
-"sala": "Stone (Tarragona)",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "Jonibegut + The Plotters",
-"sala": "La Nau",
-"hora": "21:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:30+02:00"
-},{
-"nom": "Malacara Blues Bland",
-"sala": "El Paraigua",
-"hora": "21:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:30+02:00"
-},{
-"nom": "Rombo + Candela Escobar",
-"sala": "Vol",
-"hora": "21:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:30+02:00"
-},{
-"nom": "Ulysses Owens Jr. & Generation Y",
-"sala": "Nova Jazz Cava (Terrassa)",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "Julia Martín",
-"sala": "Marula Café",
-"hora": "22:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T22:00+02:00"
-},{
-"nom": "Rewind the Cassettes",
-"sala": "El Coleccionista",
-"hora": "22:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T22:00+02:00"
-},{
-"nom": "Rage Rising + Lobötomics",
-"sala": "La Boîte (Lleida)",
-"hora": "22:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T22:00+02:00"
-},{
-"nom": "Lfdlc",
-"sala": "Jamboree",
-"hora": "22:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T22:30+02:00"
-},{
-"nom": "Lachy Doley",
-"sala": "La Mirona (Salt)",
-"hora": "22:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T22:30+02:00"
-},{
-"nom": "Mishima + Mar Pujol",
-"sala": "Stroika (Manresa)",
-"hora": "22:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T22:30+02:00"
-},{
-"nom": "Chino Swingslide && BB Chris",
-"sala": "Café r&r",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "Son de la Rambla",
-"sala": "Harlem Jazz Club",
-"hora": "23:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T23:00+02:00"
-},{
-"nom": "Nerea Royo + Ditto Band",
-"sala": "Jamboree",
-"hora": "23:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T23:00+02:00"
-},{
-"nom": "Poko Takto + Habi 986 + Animal Karlos + Ivanoska",
-"sala": "CSO Nabat3 (L'H)",
-"hora": "23:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T23:00+02:00"
-},{
-"nom": "Flavio",
-"sala": "Razzmatazz[3]",
-"hora": "20:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "Gabriela i Julio Lovos",
-"sala": "Sidecar",
-"hora": "07:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T07:00+02:00"
-},{
-"nom": "Afrojazz Q + Combo EMM Vacarisses",
-"sala": "Plç Major de Varisses",
-"hora": "11:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T11:00+02:00"
-},{
-"nom": "Mabel Flores",
-"sala": "C.C. Trinitat Vella",
-"hora": "12:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T12:00+02:00"
-},{
-"nom": "Lluc Casares Quintet",
-"sala": "Plaça del Rector Homs",
-"hora": "12:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T12:30+02:00"
-},{
-"nom": "Senyor Oca + Las Ninyas del Corro + Metro",
-"sala": "Estació Espai Jove (Girona)",
-"hora": "16:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T16:00+02:00"
-},{
-"nom": "Escola de Rock i Xocolada",
-"sala": "Sidecar",
-"hora": "16:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T16:30+02:00"
-},{
-"nom": "Exessus + Fierce Cult + Oopart + Sickoticks",
-"sala": "Vade Música (Sabadell)",
-"hora": "17:30",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T17:30+02:00"
-},{
-"nom": "Dosis + Leo Fishead + Ground + Black Babies + King Of Pain ",
-"sala": "CSO Nabat 3 (L'H)",
-"hora": "18:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T18:00+02:00"
-},{
-"nom": "Arar",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T19:00+02:00"
-},{
-"nom": "Carlos Sarduy Trio",
-"sala": "C.C. sant Martí de Provençals",
-"hora": "19:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T19:00+02:00"
-},{
-"nom": "Sistema de Entretenimiento + dA + Mazmorra + Echoes in Smoke + 80% Baul+ Enjoy & Division",
-"sala": "Upload",
-"hora": "19:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T19:00+02:00"
-},{
-"nom": "Xavi Vidal",
-"sala": "Sa Congregació sa Pobla",
-"hora": "19:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T19:00+02:00"
-},{
-"nom": "Robbie Williams",
-"sala": "Palau Sant Jordi",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "Marc Almond",
-"sala": "Razzmatazz[2]",
-"hora": "20:00",
-"mes": "MAR.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T20:00+02:00"
-},{
-"nom": "Putilatex + Estrella Xtravaganzs + Alma-X + Turista Sueca + Tanina Sativa",
-"sala": "Wolf",
-"hora": "20:00",
-"mes": "MAR2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T19:30+02:00"    
-},{
-"nom": "Ginebras + Anabel Lee",
-"sala": "Salamandra",
-"hora": "19:30",
-"mes": "MAR2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T19:30+02:00"    
-},{
-"nom": "Florist + Juanki Pesudo",
+"nom": "Ana Roxane + Dania + Foggy Hex Djs",
 "sala": "El Pumarejo",
 "hora": "20:00",
-"mes": "MAR2023",
-"dia": "25",
+"mes": "ABR.2023",
+"dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-03-25T20:00+02:00"    
+"dateTime": "2023-04-01T20:00+02:00"
 },{
-"nom": "Robbie Williams",
-"sala": "Palau Sant Jordi",
-"hora": "21:00",
-"mes": "MAR2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:30+02:00"
-},{
-"nom": "Live Choir",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "MAR2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T21:00+02:00"
-},{
-"nom": "Juanito + Danza Mecànica + Jordi Heras Fauque",
-"sala": "Antic Forn de Vallcarca",
-"hora": "19:30",
-"mes": "MAR2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-03-25T19:30+02:00"
-},{
-"nom": "The Surfing Robbers",
-"sala": "La Capella de Can Gambús (Sabadell)",
-"hora": "12:30",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T12:30+02:00"
-},{
-"nom": "Martin J Merino & Robert G. Roll Band",
-"sala": "El Portal dels Encants",
-"hora": "12:30",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T13:30+02:00"
-},{
-"nom": "La Mambera BCN",
-"sala": "Nota 79",
-"hora": "18:00",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T18:00+02:00"
-},{
-"nom": "The Harlem Gospel Travelers",
-"sala": "Tatre Margarida Xirgu",
-"hora": "18:00",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T18:00+02:00"
-},{
-"nom": "Mireia Vives i Borja Penalba",
-"sala": "Nota 79",
-"hora": "18:00",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T13:30+02:00"
-},{
-"nom": "Barcelona Big Blues Band (I)",
-"sala": "Jamboree",
-"hora": "18:30",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T18:30+02:00"
-},{
-"nom": "Barcelona Big Blues Band (II)",
-"sala": "Jamboree",
-"hora": "19:30",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T19:30+02:00"
-},{
-"nom": "Tina Masawi & Band + Nai-Jah + Roberto Sánchez Dub",
-"sala": "La Nau",
-"hora": "19:00",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T19:00+02:00"
-},{
-"nom": "Anna Roig",
-"sala": "Auditori Munic.Vilafranca",
-"hora": "19:00",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T19:00+02:00"
-},{
-"nom": "Jack Broadbent",
-"sala": "C.c. La Mercè (Girona) ",
-"hora": "19:00",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T19:00+02:00"
-},{
-"nom": "Ari & Jodi ",
-"sala": "Yesterday (Sta. Coloma de G.)",
-"hora": "19:00",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T19:00+02:00"
-},{
-"nom": "D'Callaos",
-"sala": "New Fizz",
-"hora": "19:30",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T19:30+02:00"
-},{
-"nom": "The Pharcyde",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T20:00+02:00"
-},{
-"nom": "Rafa Pons",
-"sala": "L'Oncle Jack (L'H)",
-"hora": "20:00",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T20:00+02:00"
-},{
-"nom": "Ezvit 810",
-"sala": "Wolf",
-"hora": "20:00",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T20:00+02:00"
-},{
-"nom": "Cash Bently",
-"sala": "Heliogàbal",
-"hora": "21:00",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T21:00+02:00"
-},{
-"nom": "Greg Taro",
-"sala": "Razzmatazz[3]",
-"hora": "21:00",
-"mes": "MAR2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-03-26T21:00+02:00"
-},{
-"nom": "Plini + Jakub Zytecki + Jack Gardiner & Owane",
-"sala": "La Nau",
-"hora": "19:00",
-"mes": "MAR2023",
-"dia": "27",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-03-27T19:30+02:00"
-},{
-"nom": "PH-1",
-"sala": "Apolo",
-"hora": "19:00",
-"mes": "MAR2023",
-"dia": "27",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-03-27T19:00+02:00"
-},{
-"nom": "Wil Barry Trio",
-"sala": "Milano",
-"hora": "19:30",
-"mes": "MAR2023",
-"dia": "27",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-03-27T19:30+02:00"
-},{
-"nom": "Pedro Luís Ferrer",
-"sala": "Biblioteca Gabriel García Márquez",
-"hora": "18:30",
-"mes": "MAR.2023",
-"dia": "28",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-03-28T18:30+02:00"
-},{
-"nom": "Joan Chamorro",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "MAR.2023",
-"dia": "28",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-03-28T19:00+02:00"
-},{
-"nom": "Tony Glausi Quartet (I)",
-"sala": "Milano",
-"hora": "19:30",
-"mes": "MAR.2023",
-"dia": "28",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-03-28T19:30+02:00"
-},{
-"nom": "Tony Glausi Quartet (II)",
-"sala": "Milano",
-"hora": "21:30",
-"mes": "MAR.2023",
-"dia": "28",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-03-28T21:30+02:00"
-},{
-"nom": "Los Antonios",
-"sala": "Luz de Gas",
-"hora": "20:00",
-"mes": "MAR.2023",
-"dia": "28",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-03-28T20:00+02:00"
-},{
-"nom": "La Maruca",
-"sala": "Jamboree",
-"hora": "20:00",
-"mes": "MAR.2023",
-"dia": "28",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-03-28T20:00+02:00"
-},{
-"nom": "Dirty Loops",
-"sala": "Apolo[2]",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "28",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-03-28T21:00+02:00"
-},{
-"nom": "Potato & Predicador JJ Bolton",
-"sala": "La Boîte (Lleida)",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "28",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-03-28T21:00+02:00"
-},{
-"nom": "Manouche",
-"sala": "Luz de Gas",
-"hora": "21:30",
-"mes": "MAR.2023",
-"dia": "28",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-03-28T21:30+02:00"
-},{
-"nom": "Jam Blues",
-"sala": "Harlem Jazz Club",
-"hora": "22:30",
-"mes": "MAR.2023",
-"dia": "28",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-03-28T22:30+02:00"
-},{
-"nom": "Xiripa Combo + Chimbet + Álvaro Belchi",
-"sala": "Jamoree",
-"hora": "19:00",
-"mes": "MAR.2023",
-"dia": "29",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-03-29T19:00+02:00"
-},{
-"nom": "Tiken Jah Fakoly",
-"sala": "Apolo[2]",
-"hora": "19:30",
-"mes": "MAR.2023",
-"dia": "29",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-03-29T19:30+02:00"
-},{
-"nom": "Moonday6",
-"sala": "Sidecar",
-"hora": "20:00",
-"mes": "MAR.2023",
-"dia": "29",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-03-29T19:00+02:00"
-},{
-"nom": "Jere + Yonki Love",
-"sala": "La Nau",
-"hora": "20:30",
-"mes": "MAR.2023",
-"dia": "29",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-03-29T20:30+02:00"
-},{
-"nom": "Stefano Palatchi",
-"sala": "Luz de Gas",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "29",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-03-29T21:00+02:00"
-},{
-"nom": "Socunbohemio",
-"sala": "La Nau",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-30T21:00+02:00"
-},{
-"nom": "Martín Leiton Quartet (I)",
-"sala": "Cockteleria Milano",
-"hora": "19:30",
-"mes": "MAR.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-30T19:30+02:00"
-},{
-"nom": "Martín Leiton Quartet (II)",
-"sala": "Cockteleria Milano",
-"hora": "21:30",
-"mes": "MAR.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-30T21:30+02:00"
-},{
-"nom": "Comebak",
-"sala": "Luz de Gas",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-30T21:00+02:00"
-},{
-"nom": "Álvaro de Luna",
-"sala": "Apolo",
-"hora": "20:00",
-"mes": "MAR.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-30T20:00+02:00"
-},{
-"nom": "Mark Almond",
-"sala": "Razzmatazz[2]",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-30T21:00+02:00"
-},{
-"nom": "Robot Rock Alive +`David Van Bylen + Jack Dafons",
-"sala": "Salamandra[1]",
-"hora": "22:00",
-"mes": "MAR.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-30T22:00+02:00"
-},{
-"nom": "Blues Jam Session",
-"sala": "Harlem",
-"hora": "22:30",
-"mes": "MAR.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-30T22:30+02:00"
-},{
-"nom": "Soul Lab Jam",
-"sala": "Jamboree",
-"hora": "22:30",
-"mes": "MAR.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-30T22:30+02:00"
-},{
-"nom": "Hotel Cochambre",
-"sala": "Luz de Gas",
-"hora": "23:59",
-"mes": "MAR.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-30T23:59+02:00"
-},{
-"nom": "Oleandole (I)",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "MAR.2023",
-"dia": "31",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-03-31T19:00+02:00"
-},{
-"nom": "Oleandole (II)",
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "MAR.2023",
-"dia": "31",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-03-31T20:30+02:00"
-},{
-"nom": "Kitty, Daisy & Lewis",
+"nom": "North Mississipi Allstars Duo",
 "sala": "Teatre Margarida Xirgu (BDN)",
 "hora": "20:00",
-"mes": "MAR.2023",
-"dia": "31",
-"textdia": "divendres",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-03-31T20:00+02:00"
+"dateTime": "2023-04-01T20:00+02:00"
 },{
-"nom": "Marina Casellas",
-"sala": "Jamboree",
-"hora": "22:00",
-"mes": "MAR.2023",
-"dia": "31",
-"textdia": "divendres",
+"nom": "Ella la Rabia + Gyoza + Battosai",
+"sala": "wolf",
+"hora": "20:15",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-03-31T22:00+02:00"
-},{
-"nom": "Eddi Circa + Raxet1",
-"sala": "La Nau",
-"hora": "22:00",
-"mes": "MAR.2023",
-"dia": "31",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-03-31T22:00+02:00"
-},{
-"nom": "The Cookbook",
-"sala": "Jamboree",
-"hora": "23:00",
-"mes": "MAR.2023",
-"dia": "31",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-03-31T23:00+02:00"
-},{
-"nom": "dEUS",
-"sala": "Razzmatazz[2]",
-"hora": "20:30",
-"mes": "MAR.2023",
-"dia": "31",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-03-31T20:30+02:00"
-},{
-"nom": "Capullo de Jerez",
-"sala": "Apolo",
-"hora": "21:00",
-"mes": "MAR.2023",
-"dia": "31",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-03-31T21:00+02:00"
-},{
-"nom": "Amore + Dora",
-"sala": "Vol",
-"hora": "21:30",
-"mes": "MAR.2023",
-"dia": "31",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-03-31T21:30+02:00"
+"dateTime": "2023-04-01T20:15+02:00"
 },{
 "nom": "Cariño + La Plata",
 "sala": "Salamandra",
@@ -999,14 +243,203 @@
 "ciutat": "",
 "dateTime": "2023-04-01T19:30+02:00"
 },{
-"nom": "Percless, Uf Dog y Solo K.Os",
-"sala": "Jamboreee",
-"hora": "20:00",
+"nom": "The Heeks",
+"sala": "El Cafe r&r",
+"hora": "20:30",
 "mes": "ABR.2023",
 "dia": "1",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-04-01T20:00+02:00"
+"dateTime": "2023-04-01T20:30+02:00"
+},{
+"nom": "Zea Mays",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:00+02:00"
+},{
+"nom": "Medalla + Fox System",
+"sala": "Café del Teatre (Lleida)",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:00+02:00"
+},{
+"nom": "Ricky Hombre Libre",
+"sala": "Marula Café",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:00+02:00"
+},{
+"nom": "Judit Neddermann",
+"sala": "Auditori Palau Congr.(Gi)",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:00+02:00"
+},{
+"nom": "Rumbakana",
+"sala": "Almo2bar",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:00+02:00"
+},{
+"nom": "Fujita",
+"sala": "Slow",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:00+02:00"
+},{
+"nom": "Vómito + Arrest",
+"sala": "la Deskomunal",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:00+02:00"
+},{
+"nom": "Diamante Negro",
+"sala": "La Textil",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:00+02:00"
+},{
+"nom": "Aktitud 47 + Santo Machango + Acros",
+"sala": "Estraperlo (BDN)",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:30+02:00"
+},{
+"nom": "Monteperdido + Boys Kissing Boys",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:30+02:00"
+},{
+"nom": "P.A.W.N Gang",
+"sala": "Vade Música (Sabadell)",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:00+02:00"
+},{
+"nom": "Depresión Sonora",
+"sala": "Sala Paral·lel 62",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T21:30+02:00"
+},{
+"nom": "The Outsiders",
+"sala": "El Coleccionista",
+"hora": "22:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T22:00+02:00"
+},{
+"nom": "Blues Captain",
+"sala": "El Paraigua",
+"hora": "22:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T22:00+02:00"
+},{
+"nom": "Ratpenat + Enemigo Públiko + Impakto de Nausea",
+"sala": "La Boîte (Lleida)",
+"hora": "22:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T22:00+02:00"
+},{
+"nom": "Farniente Band",
+"sala": "Soda Acústic",
+"hora": "22:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T22:00+02:00"
+},{
+"nom": "Ree Kohl",
+"sala": "Ateneu Linea Uno (Sta. Coloma de G.)",
+"hora": "22:30",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T22:30+02:00"
+},{
+"nom": "Chino & The Big Bet Blues Band",
+"sala": "Harlem",
+"hora": "23:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T23:30+02:00"
+},{
+"nom": "Mechero",
+"sala": "Jamboree",
+"hora": "23:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T23:00+02:00"
+},{
+"nom": "Jay Kalo",
+"sala": "Jamboree",
+"hora": "23:00",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T23:00+02:00"
+},{
+"nom": "Hotel Cochambre",
+"sala": "Sarau 08911 (BDN)",
+"hora": "23:59",
+"mes": "ABR.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-01T19:30+02:00"
 },{
 "nom": "North Mississipi Allstarts Duo",
 "sala": "Teatre Margarida Xirgu (BDN)",
@@ -1026,7 +459,7 @@
 "ciutat": "",
 "dateTime": "2023-04-01T23:00+02:00"
 },{
-"nom": "Los Chichos",
+"nom": "Los Chichos <sold out>",
 "sala": "Apolo",
 "hora": "19:30",
 "mes": "ABR.2023",
