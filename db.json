@@ -1044,6 +1044,24 @@
 "ciutat": "",
 "dateTime": "2023-04-14T20:00+02:00"
 },{
+"nom": "Gigatron XXV",
+"sala": "Boveda",
+"hora": "20:00",
+"mes": "ABR.2023",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-14T20:00+02:00"
+},{
+"nom": "Dry River",
+"sala": "Boveda",
+"hora": "19:45",
+"mes": "ABR.2023",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-15T19:45+02:00"
+},{
 "nom": "Evil Invaders + Warbringer + Schizophrenia",
 "sala": "La Nau",
 "hora": "20:30",
@@ -1251,6 +1269,15 @@
 "ciutat": "",
 "dateTime": "2023-04-21T19:00+02:00"
 },{
+"nom": "The Climb + El Sucio",
+"sala": "Boveda",
+"hora": "19:30",
+"mes": "ABR.2023",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-21T19:30+02:00"
+},{
 "nom": "Alex Ubago",
 "sala": "Bikini",
 "hora": "20:00",
@@ -1335,6 +1362,15 @@
 "nom": "Biela + Chusma + Bellvitge",
 "sala": "Sidecar",
 "hora": "21:00",
+"mes": "ABR2023",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-22T21:00+02:00"
+},{
+"nom": "Swallow the Sun + Draconjal",
+"sala": "Sidecar",
+"hora": "??:??",
 "mes": "ABR2023",
 "dia": "22",
 "textdia": "dissabte",
@@ -1502,6 +1538,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-04-29T21:00+02:00"
+},{
+"nom": "Evadne + Helevorn",
+"sala": "Vol",
+"hora": "19:30",
+"mes": "ABR.2023",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-29T19:30+02:00"
 },{
 "nom": "Bon Entendeur",
 "sala": "Apolo",
@@ -1812,6 +1857,15 @@
 "nom": "Morning Drivers + Carmen 113",
 "sala": "Sidecar",
 "hora": "21:30",
+"mes": "MAI.2023",
+"dia": "5",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-05T21:30+02:00"        
+},{
+"nom": "Nanowar",
+"sala": "Boveda",
+"hora": "??:??",
 "mes": "MAI.2023",
 "dia": "5",
 "textdia": "divendres",
@@ -4067,6 +4121,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-06-09T19:30+02:00"
+},{
+"nom": "Madsher + Estestor + MeteorCross",
+"sala": "Boveda",
+"hora": "20:30",
+"mes": "JUN.2023",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-09T20:30+02:00"
 },{
 "nom": "Iñigo Merino",
 "sala": "Sidecar]",
