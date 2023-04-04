@@ -936,6 +936,15 @@
 "ciutat": "",
 "dateTime": "2023-04-13T20:00+02:00"
 },{
+"nom": "Descemer Bueno",
+"sala": "Bikini",
+"hora": "20:30",
+"mes": "ABR.2023",
+"dia": "13",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-04-13T20:30+02:00"
+},{
 "nom": "Yngwie Malmsteen",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -1197,6 +1206,15 @@
 "ciutat": "",
 "dateTime": "2023-04-21T19:00+02:00"
 },{
+"nom": "Alex Ubago",
+"sala": "Bikini",
+"hora": "20:00",
+"mes": "ABR.2023",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-21T20:00+02:00"
+},{
 "nom": "Sila Lua",
 "sala": "Razzmatazz[3]",
 "hora": "20:30",
@@ -1367,6 +1385,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-04-28T20:30+02:00"
+},{
+"nom": "без обмежень_bez obmezhen",
+"sala": "Bikini",
+"hora": "20:00",
+"mes": "ABR.2023",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-28T20:00+02:00"
 },{
 "nom": "Bruce Spingsteen & The E Street Band",
 "sala": "Estadi Olímpic",
@@ -1997,6 +2024,15 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-05-17T20:30+02:00"
+},{
+"nom": "Los Tekis",
+"sala": "Bikini",
+"hora": "20:00",
+"mes": "MAI.2023",
+"dia": "17",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-05-17T20:00+02:00"
 },{
 "nom": "Maria Carrasco",
 "sala": "Razzmatazz[2]",
@@ -4409,4 +4445,22 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-12-01T19:30+02:00"
+},{
+"nom": "Costa",
+"sala": "Bikini",
+"hora": "19:30",
+"mes": "DES.2023",
+"dia": "1",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-01T19:30+02:00"
+},{
+"nom": "Nikone",
+"sala": "Bikini",
+"hora": "19:30",
+"mes": "GEN.2024",
+"dia": "19",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-01-19T19:30+02:00"
 }]}
