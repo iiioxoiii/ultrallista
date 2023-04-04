@@ -918,6 +918,15 @@
 "ciutat": "",
 "dateTime": "2023-04-12T20:00+02:00"
 },{
+"nom": "Genís Bagés",
+"sala": "Niu",
+"hora": "20:00",
+"mes": "ABR.2023",
+"dia": "12",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-04-12T20:00+02:00"
+},{
 "nom": "Cepeda",
 "sala": "Razzmatazz[2]",
 "hora": "20:00",
@@ -980,6 +989,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-04-14T20:30+02:00"
+},{
+"nom": "G.I.B.S",
+"sala": "niu",
+"hora": "20:00",
+"mes": "ABR.2023",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-14T20:00+02:00"
 },{
 "nom": "Evil Invaders + Warbringer + Schizophrenia",
 "sala": "La Nau",
@@ -1152,6 +1170,15 @@
 "ciutat": "",
 "dateTime": "2023-04-21T20:30+02:00"
 },{
+"nom": "Rick's Electric Mayhem",
+"sala": "Niu",
+"hora": "20:30",
+"mes": "ABR.2023",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-21T20:30+02:00"
+},{
 "nom": "Sexenni",
 "sala": "Razzmatazz[2]",
 "hora": "20:30",
@@ -1206,6 +1233,15 @@
 "ciutat": "",
 "dateTime": "2023-04-21T20:00+02:00"
 },{
+"nom": "Dibuixar Música",
+"sala": "Niu",
+"hora": "11:00",
+"mes": "ABR2023",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-22T11:00+02:00"
+},{
 "nom": "Gatibu",
 "sala": "Apolo[2]",
 "hora": "20:00",
@@ -1233,6 +1269,15 @@
 "ciutat": "",
 "dateTime": "2023-04-25T20:00+02:00"
 },{
+"nom": "Live Coding session",
+"sala": "Niu",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "26",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-04-26T19:00+02:00"
+},{
 "nom": "Green Valley + Nonpalidece",
 "sala": "Apolo",
 "hora": "19:30",
@@ -1259,6 +1304,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-04-26T20:30+02:00"
+},{
+"nom": "Punkacid",
+"sala": "Niu",
+"hora": "20:30",
+"mes": "ABR.2023",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-28T20:30+02:00"
 },{
 "nom": "Bruce Spingsteen & The E Street Band",
 "sala": "Estadi Olímpic",
@@ -1295,6 +1349,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-04-29T20:00+02:00"
+},{
+"nom": "Migration + la A Minuscula + UltraLocal Dj",
+"sala": "niu",
+"hora": "12:00",
+"mes": "ABR.2023",
+"dia": "30",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-30T12:00+02:00"
 },{
 "nom": "Bruce Spingsteen & The E Street Band",
 "sala": "Estadi Olímpic",
@@ -1728,6 +1791,15 @@
 "ciutat": "",
 "dateTime": "2023-05-13T19:00+02:00"        
 },{
+"nom": "G.I.B.S",
+"sala": "Niu",
+"hora": "20:00",
+"mes": "MAI.2023",
+"dia": "13",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-13T20:00+02:00"        
+},{
 "nom": "Rambalaya",
 "sala": "Razzmatazz[3]",
 "hora": "20:45",
@@ -1962,6 +2034,15 @@
 "ciutat": "",
 "dateTime": "2023-05-25T21:00+02:00"
 },{
+"nom": "Aristides Moreno",
+"sala": "Niu",
+"hora": "20:30",
+"mes": "MAI.2023",
+"dia": "26",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-26T20:30+02:00"
+},{
 "nom": "Marlon",
 "sala": "Razzmatazz[1]",
 "hora": "19:00",
@@ -1988,6 +2069,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-05-26T20:30+02:00"
+},{
+"nom": "G.I.B.S.",
+"sala": "Niu",
+"hora": "19:00",
+"mes": "MAI.2023",
+"dia": "26",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-26T19:00+02:00"
 },{
 "nom": "Cyril Kamer",
 "sala": "Razzmatazz[1]",
