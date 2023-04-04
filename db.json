@@ -990,6 +990,15 @@
 "ciutat": "",
 "dateTime": "2023-04-14T20:30+02:00"
 },{
+"nom": "Erick Hervé & Cristian Brawler",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-14T21:00+02:00"
+},{
 "nom": "G.I.B.S",
 "sala": "niu",
 "hora": "20:00",
@@ -1007,6 +1016,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-04-15T19:00+02:00"
+},{
+"nom": "Verona + Keloidrop",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-15T21:00+02:00"
 },{
 "nom": "Legion",
 "sala": "Wolf",
@@ -1125,6 +1143,15 @@
 "ciutat": "",
 "dateTime": "2023-04-20T20:00+02:00"
 },{
+"nom": "Kim Churchill + Felipe Baldomir",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "20",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-04-20T21:00+02:00"
+},{
 "nom": "Mercedes Cañas",
 "sala": "Razzmatazz[3]",
 "hora": "20:30",
@@ -1154,6 +1181,15 @@
 },{
 "nom": "Xoel López",
 "sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "ABR.2023",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-21T19:00+02:00"
+},{
+"nom": "Xavi Malacara",
+"sala": "Sidecar",
 "hora": "19:00",
 "mes": "ABR.2023",
 "dia": "21",
@@ -1233,6 +1269,15 @@
 "ciutat": "",
 "dateTime": "2023-04-21T20:00+02:00"
 },{
+"nom": "Biela + Chusma + Bellvitge",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "ABR2023",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-22T21:00+02:00"
+},{
 "nom": "Dibuixar Música",
 "sala": "Niu",
 "hora": "11:00",
@@ -1305,6 +1350,15 @@
 "ciutat": "",
 "dateTime": "2023-04-26T20:30+02:00"
 },{
+"nom": "Eflexx + D.Valentino + Drew K.",
+"sala": "Sidecar",
+"hora": "20:30",
+"mes": "ABR.2023",
+"dia": "27",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-04-27T20:30+02:00"
+},{
 "nom": "Punkacid",
 "sala": "Niu",
 "hora": "20:30",
@@ -1349,6 +1403,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-04-29T20:00+02:00"
+},{
+"nom": "Chaqueta de Chándal + Disco Lehmitz",
+"sala": "Sidecar",
+"hora": "20:00",
+"mes": "ABR.2023",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-29T21:00+02:00"
 },{
 "nom": "Migration + la A Minuscula + UltraLocal Dj",
 "sala": "niu",
@@ -1602,6 +1665,15 @@
 "ciutat": "",
 "dateTime": "2023-05-04T20:00+02:00"        
 },{
+"nom": "Otros Aires",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "4",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-05-04T21:00+02:00"        
+},{
 "nom": "Geraldo Azevedo",
 "sala": "Apolo[2]",
 "hora": "20:00",
@@ -1619,6 +1691,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-05-05T19:30+02:00"        
+},{
+"nom": "Morning Drivers + Carmen 113",
+"sala": "Sidecar",
+"hora": "21:30",
+"mes": "MAI.2023",
+"dia": "5",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-05T21:30+02:00"        
 },{
 "nom": "Mornig Drivers + Carmen 113",
 "sala": "Sidecar",
@@ -1649,6 +1730,15 @@
 },{
 "nom": "El Kanka",
 "sala": "Palau de la Música",
+"hora": "21:00",
+"mes": "MAI.2022",
+"dia": "6",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-06T21:00+02:00"
+},{
+"nom": "El Ganga Calé",
+"sala": "Sidecar",
 "hora": "21:00",
 "mes": "MAI.2022",
 "dia": "6",
@@ -1746,6 +1836,15 @@
 "ciutat": "",
 "dateTime": "2023-05-11T20:15+02:00"        
 },{
+"nom": "Chiki Lora",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "11",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-05-11T21:00+02:00"        
+},{
 "nom": "The Last Internationale",
 "sala": "Razzmatazz[3]",
 "hora": "20:00",
@@ -1790,6 +1889,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-05-13T19:00+02:00"        
+},{
+"nom": "La Tour de Carol",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "13",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-13T21:00+02:00"        
 },{
 "nom": "G.I.B.S",
 "sala": "Niu",
@@ -1899,6 +2007,15 @@
 "ciutat": "",
 "dateTime": "2023-05-17T19:00+02:00"
 },{
+"nom": "Barrenci Whitfield & The Savages",
+"sala": "Sidecar",
+"hora": "20:30",
+"mes": "MAI.2023",
+"dia": "17",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-05-17T20:30+02:00"
+},{
 "nom": "Glenn Hughes",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -1916,6 +2033,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-05-18T20:00+02:00"
+},{
+"nom": "Ciao Marina",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "18",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-05-18T21:00+02:00"
 },{
 "nom": "JC Reyes",
 "sala": "Razzmatazz[1]",
@@ -1961,6 +2087,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-05-20T20:30+02:00"
+},{
+"nom": "La Furia",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-20T21:00+02:00"
 },{
 "nom": "Ice Nine Kills + Skynd",
 "sala": "Razzmatazz[2]",
@@ -2015,6 +2150,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-05-25T19:00+02:00"
+},{
+"nom": "Confeti de Odio",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "25",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-05-25T21:00+02:00"
 },{
 "nom": "Thylacine + Il·lo",
 "sala": "Razzamatazz[3]",
@@ -2090,6 +2234,15 @@
 },{
 "nom": "Dano",
 "sala": "Razzmatazz[2]",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-27T21:00+02:00"
+},{
+"nom": "The Sick Boys",
+"sala": "Sidecar",
 "hora": "21:00",
 "mes": "MAI.2023",
 "dia": "27",
@@ -3141,6 +3294,15 @@
 "ciutat": "",
 "dateTime": "2023-06-03T18:00+02:00"
 },{
+"nom": "Ariso",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-03T21:00+02:00"
+},{
 "nom": "Death Grips",
 "sala": "pS",
 "hora": "??:??",
@@ -3735,6 +3897,15 @@
 "ciutat": "",
 "dateTime": "2023-06-09T19:30+02:00"
 },{
+"nom": "Iñigo Merino",
+"sala": "Sidecar]",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-09T21:00+02:00"
+},{
 "nom": "Dub Inc",
 "sala": "Razzmatazz[1]",
 "hora": "19:00",
@@ -3753,6 +3924,15 @@
 "ciutat": "",
 "dateTime": "2023-06-10T20:00+02:00"
 },{
+"nom": "Los Invaders",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "10",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-10T21:00+02:00"
+},{
 "nom": "The Who",
 "sala": "Palau Sant Jordi",
 "hora": "20:00",
@@ -3761,6 +3941,15 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-06-14T20:00+02:00"
+},{
+"nom": "Indigo Sparke",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "14",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-14T21:00+02:00"
 },{
 "nom": "China Crisis",
 "sala": "Wolf",
@@ -3782,6 +3971,15 @@
 },{
 "nom": "Maroon 5",
 "sala": "Palau Sant Jordi",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-16T21:00+02:00"
+},{
+"nom": "Marc Grau Jr + Cold Hands",
+"sala": "Sidecar",
 "hora": "21:00",
 "mes": "JUN.2023",
 "dia": "16",
@@ -4022,6 +4220,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-10-05T20:00+02:00"
+},{
+"nom": "Grant-Lee Phillips",
+"sala": "Sidecar",
+"hora": "21:00",
+"mes": "OCT.2023",
+"dia": "5",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-05T21:00+02:00"
 },{
 "nom": "Louis Tomlinson",
 "sala": "Palau Sant Jordi",
