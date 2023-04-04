@@ -743,7 +743,16 @@
 "hora": "19:30",
 "mes": "ABR.2023",
 "dia": "6",
-"textdia": "dimecres",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-04-06T19:30+02:00"
+},{
+"nom": "One Art",
+"sala": "Vol",
+"hora": "19:30",
+"mes": "ABR.2023",
+"dia": "6",
+"textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-04-06T19:30+02:00"
 },{
@@ -752,7 +761,7 @@
 "hora": "21:30",
 "mes": "ABR.2023",
 "dia": "6",
-"textdia": "dimecres",
+"textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-04-06T21:30+02:00"
 },{
@@ -761,7 +770,7 @@
 "hora": "22:30",
 "mes": "ABR.2023",
 "dia": "6",
-"textdia": "dimecres",
+"textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-04-06T22:30+02:00"
 },{
@@ -770,7 +779,7 @@
 "hora": "22:30",
 "mes": "ABR.2023",
 "dia": "6",
-"textdia": "dimecres",
+"textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-04-06T22:30+02:00"
 },{
@@ -936,6 +945,15 @@
 "ciutat": "",
 "dateTime": "2023-04-13T20:00+02:00"
 },{
+"nom": "Island of Love + Aliment",
+"sala": "Vol",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "13",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-04-13T21:00+02:00"
+},{
 "nom": "Descemer Bueno",
 "sala": "Bikini",
 "hora": "20:30",
@@ -980,6 +998,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-04-14T19:30+02:00"
+},{
+"nom": "Goa",
+"sala": "Vol",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-14T21:00+02:00"
 },{
 "nom": "Ivan Ave",
 "sala": "Razzmatazz[3]",
@@ -1034,6 +1061,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-04-15T21:00+02:00"
+},{
+"nom": "Los Yolos",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-15T21:30+02:00"
 },{
 "nom": "Legion",
 "sala": "Wolf",
@@ -1170,6 +1206,15 @@
 "ciutat": "",
 "dateTime": "2023-04-20T20:30+02:00"
 },{
+"nom": "Brux + Colisión + Enemic Interior",
+"sala": "Vol",
+"hora": "19:45",
+"mes": "ABR.2023",
+"dia": "20",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-04-20T19:45+02:00"
+},{
 "nom": "El Duende Callejero",
 "sala": "Razzmatazz[2]",
 "hora": "19:00",
@@ -1296,6 +1341,15 @@
 "ciutat": "",
 "dateTime": "2023-04-22T21:00+02:00"
 },{
+"nom": "Tigres Leones + Gúdar",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "ABR2023",
+"dia": "22",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-22T21:30+02:00"
+},{
 "nom": "Dibuixar Música",
 "sala": "Niu",
 "hora": "11:00",
@@ -1322,6 +1376,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-04-22T19:30+02:00"
+},{
+"nom": "Montaña Irreal + Fuera de Sector",
+"sala": "Vol",
+"hora": "19:45",
+"mes": "ABR2023",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-23T19:45+02:00"
 },{
 "nom": "The Mission + Sigmund Wilder + Gene Joves",
 "sala": "Razzmatazz[2]",
@@ -1404,6 +1467,15 @@
 "ciutat": "",
 "dateTime": "2023-04-28T20:00+02:00"
 },{
+"nom": "Nita + Calm + Les Salvatges",
+"sala": "Vol",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-28T21:00+02:00"
+},{
 "nom": "And One",
 "sala": "Apolo[2]",
 "hora": "19:45",
@@ -1421,6 +1493,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-04-29T20:00+02:00"
+},{
+"nom": "Algorave",
+"sala": "Vol",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-29T21:00+02:00"
 },{
 "nom": "Bon Entendeur",
 "sala": "Apolo",
@@ -1683,6 +1764,15 @@
 "ciutat": "",
 "dateTime": "2023-05-04T20:00+02:00"        
 },{
+"nom": "Ballena",
+"sala": "Vol",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "4",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-05-04T21:00+02:00"        
+},{
 "nom": "Fakear",
 "sala": "Razzmatazz[3]",
 "hora": "20:00",
@@ -1763,6 +1853,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-05-06T21:00+02:00"
+},{
+"nom": "Poison Ruïn + Enemic Interior + Gaua + Fiebre",
+"sala": "Vol",
+"hora": "20:00",
+"mes": "MAI.2022",
+"dia": "6",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-06T20:00+02:00"
 },{
 "nom": "El Ganga Calé",
 "sala": "Sidecar",
@@ -1880,6 +1979,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-05-12T20:00+02:00"        
+},{
+"nom": "FuturaChicaPop + Alan neil + Centauros",
+"sala": "Vol",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "12",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-12T21:00+02:00"        
 },{
 "nom": "Charlie Cunningham",
 "sala": "Razzmatazz[2]",
@@ -2115,7 +2223,25 @@
 "ciutat": "",
 "dateTime": "2023-05-19T19:30+02:00"
 },{
+"nom": "Kentaro Terajima + Lanav",
+"sala": "Vol",
+"hora": "23:00",
+"mes": "MAI.2023",
+"dia": "19",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-19T23:00+02:00"
+},{
 "nom": "Hey Bulldogs",
+"sala": "Razzmatazz[3]",
+"hora": "20:30",
+"mes": "MAI.2023",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-20T20:30+02:00"
+},{
+"nom": "Belgrado + SDH + 80%Baul",
 "sala": "Razzmatazz[3]",
 "hora": "20:30",
 "mes": "MAI.2023",
@@ -3924,6 +4050,15 @@
 "ciutat": "",
 "dateTime": "2023-06-08T18:30+02:00"
 },{
+"nom": "Bicèfal + Project Roko Banana",
+"sala": "Vol",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-08T21:00+02:00"
+},{
 "nom": "Kadec Santa Ana",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -4058,6 +4193,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-06-29T21:00+02:00"
+},{
+"nom": "Les Slavatges + Nus",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "JUN.2023",
+"dia": "30",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-30T21:30+02:00"
 },{
 "nom": "Puscifer",
 "sala": "razzmatazz[1]",
