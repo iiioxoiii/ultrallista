@@ -1062,6 +1062,15 @@
 "ciutat": "",
 "dateTime": "2023-04-15T19:45+02:00"
 },{
+"nom": "Legion",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-15T21:00+02:00"
+},{
 "nom": "Evil Invaders + Warbringer + Schizophrenia",
 "sala": "La Nau",
 "hora": "20:30",
@@ -1260,6 +1269,15 @@
 "ciutat": "",
 "dateTime": "2023-04-21T19:00+02:00"
 },{
+"nom": "Joshua Radin",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "ABR.2023",
+"dia": "21",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-21T20:00+02:00"
+},{
 "nom": "Xavi Malacara",
 "sala": "Sidecar",
 "hora": "19:00",
@@ -1422,6 +1440,15 @@
 "ciutat": "",
 "dateTime": "2023-04-23T19:45+02:00"
 },{
+"nom": "Mobb deep (Big Noyld Dj L.E.S)",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "ABR2023",
+"dia": "23",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-04-23T20:00+02:00"
+},{
 "nom": "The Mission + Sigmund Wilder + Gene Joves",
 "sala": "Razzmatazz[2]",
 "hora": "20:00",
@@ -1439,6 +1466,15 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-04-26T19:00+02:00"
+},{
+"nom": "Skull Fist + Screamer Miercoles",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "ABR.2023",
+"dia": "26",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-04-26T20:00+02:00"
 },{
 "nom": "Green Valley + Nonpalidece",
 "sala": "Apolo",
@@ -1512,6 +1548,15 @@
 "ciutat": "",
 "dateTime": "2023-04-28T21:00+02:00"
 },{
+"nom": "Never Agent",
+"sala": "Apolo[2]",
+"hora": "21:30",
+"mes": "ABR.2023",
+"dia": "28",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-04-28T21:30+02:00"
+},{
 "nom": "And One",
 "sala": "Apolo[2]",
 "hora": "19:45",
@@ -1547,6 +1592,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-04-29T19:30+02:00"
+},{
+"nom": "Los Mejillones Tigre GPS13",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "ABR.2023",
+"dia": "29",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-04-29T21:00+02:00"
 },{
 "nom": "Bon Entendeur",
 "sala": "Apolo",
@@ -1845,6 +1899,15 @@
 "ciutat": "",
 "dateTime": "2023-05-04T20:00+02:00"        
 },{
+"nom": "Merino",
+"sala": "Wolf",
+"hora": "21:30",
+"mes": "MAI.2023",
+"dia": "5",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-05T21:30+02:00"        
+},{
 "nom": "Pole",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -2007,6 +2070,15 @@
 "ciutat": "",
 "dateTime": "2023-05-10T19:00+02:00"        
 },{
+"nom": "The Blow Monkeys",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "11",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-05-11T21:00+02:00"        
+},{
 "nom": "Pol Batlle & Rita Payés",
 "sala": "Apolo",
 "hora": "20:15",
@@ -2033,6 +2105,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-05-12T20:00+02:00"        
+},{
+"nom": "Carlos Escobedo",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "12",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-12T21:00+02:00"        
 },{
 "nom": "FuturaChicaPop + Alan neil + Centauros",
 "sala": "Vol",
@@ -2069,6 +2150,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-05-12T18:00+02:00"        
+},{
+"nom": "L.A",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "13",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-13T21:00+02:00"        
 },{
 "nom": "Els Amics de les Arts",
 "sala": "Razzmatazz[1]",
@@ -2150,6 +2240,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-05-14T16:00+02:00"
+},{
+"nom": "Downfall of Mankind",
+"sala": "Wolf]",
+"hora": "20:00",
+"mes": "MAI.2023",
+"dia": "14",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-05-14T20:00+02:00"
 },{
 "nom": "Turborider + Scarecrow Avenue",
 "sala": "Razzamatazz[3]",
@@ -2267,6 +2366,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-05-19T20:00+02:00"
+},{
+"nom": "Colectivo da Silva",
+"sala": "Razzmatazz[1]",
+"hora": "21:30",
+"mes": "MAI.2023",
+"dia": "19",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-19T21:30+02:00"
 },{
 "nom": "Chica Sobresalto",
 "sala": "Razzmatazz[1]",
@@ -2450,6 +2558,15 @@
 },{
 "nom": "Dano",
 "sala": "Razzmatazz[2]",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-27T21:00+02:00"
+},{
+"nom": "Lèpoka",
+"sala": "Wolf",
 "hora": "21:00",
 "mes": "MAI.2023",
 "dia": "27",
@@ -3447,6 +3564,15 @@
 "ciutat": "",
 "dateTime": "2023-06-02T18:00+02:00"
 },{
+"nom": "Barrena + Blutaxt",
+"sala": "Wolf",
+"hora": "20:30",
+"mes": "JUN.2023",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-03T20:30+02:00"
+},{
 "nom": "Alissic",
 "sala": "PS",
 "hora": "??:??",
@@ -4113,6 +4239,15 @@
 "ciutat": "",
 "dateTime": "2023-06-08T21:00+02:00"
 },{
+"nom": "Gilipojazz",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-08T21:00+02:00"
+},{
 "nom": "Kadec Santa Ana",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -4203,6 +4338,15 @@
 "ciutat": "",
 "dateTime": "2023-06-15T20:15+02:00"
 },{
+"nom": "China Crisis",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-15T21:00+02:00"
+},{
 "nom": "Maroon 5",
 "sala": "Palau Sant Jordi",
 "hora": "21:00",
@@ -4265,6 +4409,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-06-30T21:30+02:00"
+},{
+"nom": "Marky Ramone",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "30",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-30T21:00+02:00"
 },{
 "nom": "Puscifer",
 "sala": "razzmatazz[1]",
@@ -4446,6 +4599,24 @@
 "ciutat": "",
 "dateTime": "2023-09-30T19:00+02:00"
 },{
+"nom": "Escape with Romeo",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "30",
+"textdia": "dissapte",
+"ciutat": "",
+"dateTime": "2023-09-30T21:00+02:00"
+},{
+"nom": "Loikaemie + Yugular + Tempestad",
+"sala": "Wolf",
+"hora": "20:30",
+"mes": "OCT.2023",
+"dia": "1",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-10-01T20:30+02:00"
+},{
 "nom": "Blink-182",
 "sala": "Palau Sant Jordi",
 "hora": "21:30",
@@ -4490,6 +4661,15 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-10-11T19:00+02:00"
+},{
+"nom": "FM + Dare",
+"sala": "Wolf",
+"hora": "20:30",
+"mes": "OCT.2023",
+"dia": "19",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-19T20:30+02:00"
 },{
 "nom": "Fyahbwoy",
 "sala": "Razzmatazz[2]",
@@ -4598,6 +4778,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-11-09T19:30+02:00"
+},{
+"nom": "PAWN Gang",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "NOV.2023",
+"dia": "11",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-11-11T21:00+02:00"
 },{
 "nom": "La M.O.D.A.",
 "sala": "Razzmatazz[1]",
