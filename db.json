@@ -279,6 +279,15 @@
 "ciutat": "",
 "dateTime": "2023-05-12T20:00+02:00"        
 },{
+"nom": "Ikarie + Santa Creu + Matote",
+"sala": "La Capsa (El Prat de Ll.)",
+"hora": "22:00",
+"mes": "MAI.2023",
+"dia": "12",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-12T22:00+02:00"        
+},{
 "nom": "L.A",
 "sala": "Wolf",
 "hora": "21:00",
@@ -351,7 +360,7 @@
 "ciutat": "",
 "dateTime": "2023-05-13T21:00+02:00"
 },{
-"nom": "Tribut: Oasis, David Bowie, Coldplay",
+"nom": "Versions: Oasis, David Bowie, Coldplay",
 "sala": "La Nau",
 "hora": "22:00",
 "mes": "MAI.2023",
@@ -549,6 +558,15 @@
 "ciutat": "",
 "dateTime": "2023-05-19T21:00+02:00"
 },{
+"nom": "Hofe x 4:40 + Euskoprincess + LHARA",
+"sala": "La Capsa (El Prat de Ll.)",
+"hora": "22:00",
+"mes": "MAI.2023",
+"dia": "19",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-19T22:00+02:00"
+},{
 "nom": "Hey Bulldogs",
 "sala": "Razzmatazz[3]",
 "hora": "20:30",
@@ -557,6 +575,24 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-05-20T20:30+02:00"
+},{
+"nom": "Acid Arab",
+"sala": "Razzmatazz[1]",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-20T20:30+02:00"
+},{
+"nom": "Bitxe",
+"sala": "La Capsa (El Prat de Ll.)",
+"hora": "22:00",
+"mes": "MAI.2023",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-20T22:00+02:00"
 },{
 "nom": "Belgrado + SDH + 80%Baul",
 "sala": "Razzmatazz[3]",
@@ -579,6 +615,15 @@
 "nom": "Ice Nine Kills + Skynd",
 "sala": "Razzmatazz[2]",
 "hora": "19:30",
+"mes": "MAI.2023",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-20T19:30+02:00"
+},{
+"nom": "El Santo",
+"sala": "Wolf",
+"hora": "??:??",
 "mes": "MAI.2023",
 "dia": "20",
 "textdia": "dissabte",
@@ -675,6 +720,51 @@
 "ciutat": "",
 "dateTime": "2023-05-25T21:00+02:00"
 },{
+"nom": "Cala Vento",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "26",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-26T20:30+02:00"
+},{
+"nom": "Rombo",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "26",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-26T20:30+02:00"
+},{
+"nom": "Habla de Mí en Presente",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "26",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-26T20:30+02:00"
+},{
+"nom": "Guim",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "26",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-26T20:30+02:00"
+},{
+"nom": "Bianca Steck",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "26",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-26T20:30+02:00"
+},{
 "nom": "Aristides Moreno",
 "sala": "Niu",
 "hora": "20:30",
@@ -693,9 +783,27 @@
 "ciutat": "",
 "dateTime": "2023-05-26T19:00+02:00"
 },{
+"nom": "Valentina & The Electric Post",
+"sala": "La Capsa (El Prat de Ll.)",
+"hora": "22:30",
+"mes": "MAI.2023",
+"dia": "26",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-26T19:00+02:00"
+},{
 "nom": "Obús",
 "sala": "Razzmatazz[2]",
 "hora": "20:00",
+"mes": "MAI.2023",
+"dia": "26",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-26T20:00+02:00"
+},{
+"nom": "Iskanbila",
+"sala": "Wolf",
+"hora": "??:??",
 "mes": "MAI.2023",
 "dia": "26",
 "textdia": "divendres",
@@ -750,6 +858,78 @@
 "nom": "The Sick Boys",
 "sala": "Sidecar",
 "hora": "21:00",
+"mes": "MAI.2023",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-27T21:00+02:00"
+},{
+"nom": "Pau Vallvé",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-27T21:00+02:00"
+},{
+"nom": "Karavana",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-27T21:00+02:00"
+},{
+"nom": "Ley Dj",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-27T21:00+02:00"
+},{
+"nom": "Ciutat",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-27T21:00+02:00"
+},{
+"nom": "Cucut",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-27T21:00+02:00"
+},{
+"nom": "Roserona",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-27T21:00+02:00"
+},{
+"nom": "Aldo",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
+"mes": "MAI.2023",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-05-27T21:00+02:00"
+},{
+"nom": "Sideways Dj",
+"sala": "Santa Coloma de Queralt",
+"hora": "??:??",
 "mes": "MAI.2023",
 "dia": "27",
 "textdia": "dissabte",
@@ -2151,6 +2331,15 @@
 "ciutat": "",
 "dateTime": "2023-06-03T18:00+02:00"
 },{
+"nom": "Barrrena + Blutaxt",
+"sala": "Wolf",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-03T18:00+02:00"
+},{
 "nom": "Acid Dad + The Lions Constellation",
 "sala": "upload",
 "hora": "19:30",
@@ -2502,6 +2691,15 @@
 "ciutat": "",
 "dateTime": "2023-06-14T20:00+02:00"
 },{
+"nom": "Dean Lewis",
+"sala": "Apolo",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "14",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-14T20:00+02:00"
+},{
 "nom": "Indigo Sparke",
 "sala": "Sidecar",
 "hora": "21:00",
@@ -2574,6 +2772,15 @@
 "ciutat": "",
 "dateTime": "2023-06-18T19:00+02:00"
 },{
+"nom": "Benjamin Clemente",
+"sala": "Apolo",
+"hora": "??:?",
+"mes": "JUN.2023",
+"dia": "19",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-19T19:00+02:00"
+},{
 "nom": "Rammstein",
 "sala": "Wanda Metropolitano",
 "hora": "21:00",
@@ -2582,6 +2789,15 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2023-06-23T21:00+02:00"
+},{
+"nom": "Tamino",
+"sala": "Razzmatazz",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "25",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-25T21:00+02:00"
 },{
 "nom": "La bomba de tiempo",
 "sala": "Paral·lel 62",
@@ -2757,6 +2973,15 @@
 "nom": "Benjamin Clementine",
 "sala": "Apolo",
 "hora": "20:00",
+"mes": "SET.2023",
+"dia": "19",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-09-19T20:00+02:00"
+},{
+"nom": "Dadi Freyr",
+"sala": "Apolo[2]",
+"hora": "??:??",
 "mes": "SET.2023",
 "dia": "19",
 "textdia": "dimarts",
@@ -2943,6 +3168,15 @@
 "ciutat": "",
 "dateTime": "2023-11-01T21:00+02:00"
 },{
+"nom": "Sleaford Mods",
+"sala": "Apolo",
+"hora": "??:??",
+"mes": "NOV.2023",
+"dia": "1",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-11-01T21:00+02:00"
+},{
 "nom": "Arde Bogotá",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -2997,6 +3231,15 @@
 "ciutat": "",
 "dateTime": "2023-11-18T19:30+02:00"
 },{
+"nom": "Explosions in the Sky",
+"sala": "Razzmatazz[1]",
+"hora": "??:??",
+"mes": "NOV.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-19T20:00+02:00"
+},{
 "nom": "French 79",
 "sala": "Razzmatazz[2]",
 "hora": "20:00",
@@ -3041,6 +3284,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-12-01T19:30+02:00"
+},{
+"nom": "Starcatcher",
+"sala": "Sant Jordi Club",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "3",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-12-03T19:30+02:00"
 },{
 "nom": "Nikone",
 "sala": "Bikini",
