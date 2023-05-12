@@ -972,15 +972,6 @@
 "ciutat": "",
 "dateTime": "2023-05-28T19:00+02:00"
 },{
-"nom": "Confidence Man",
-"sala": "PS",
-"hora": "??:??",
-"mes": "MAI.2023",
-"dia": "31",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-05-31T18:00+02:00"
-},{
 "nom": "Hakan Hellström",
 "sala": "Razzmatazz[1]",
 "hora": "19:00",
@@ -989,24 +980,6 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-05-31T19:00+02:00"
-},{
-"nom": "Jake Bugg",
-"sala": "PS",
-"hora": "??:??",
-"mes": "MAI.2023",
-"dia": "31",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-05-31T18:00+02:00"
-},{
-"nom": "La Paloma",
-"sala": "PS",
-"hora": "??:??",
-"mes": "MAI.2023",
-"dia": "31",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-05-31T18:00+02:00"
 },{
 "nom": "Pet Shop Boys",
 "sala": "PS",
@@ -1043,15 +1016,6 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-06-01T16:00+02:00"
-},{
-"nom": "Anyma",
-"sala": "PS",
-"hora": "??:??",
-"mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
 },{
 "nom": "Arthur Verocai (Auditori Fòrum)",
 "sala": "PS",
@@ -1106,15 +1070,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-06-02T02:20+02:00"
-},{
-"nom": "Blur",
-"sala": "PS",
-"hora": "??:??",
-"mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
 },{
 "nom": "Boris (Auditori Fòrum)",
 "sala": "PS",
@@ -1188,15 +1143,6 @@
 "ciutat": "",
 "dateTime": "2023-06-02T02:20+02:00"
 },{
-"nom": "Come",
-"sala": "PS",
-"hora": "??:??",
-"mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
-},{
 "nom": "Darkside (Slavery)",
 "sala": "PS",
 "hora": "02:05",
@@ -1214,15 +1160,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-06-01T02:10+02:00"
-},{
-"nom": "Esmeralds",
-"sala": "PS",
-"hora": "??:??",
-"mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijouss",
-"ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
 },{
 "nom": "flowerovlove (FSF)",
 "sala": "PS",
@@ -1251,8 +1188,8 @@
 "ciutat": "",
 "dateTime": "2023-06-01T23:55+02:00"
 },{
-"nom": "Salamanda",
-"sala": "PS (idiot fashion)",
+"nom": "Salamanda(idiot fashion)",
+"sala": "PS",
 "hora": "22:55",
 "mes": "JUN.2023",
 "dia": "1",
@@ -1413,15 +1350,6 @@
 "ciutat": "",
 "dateTime": "2023-06-01T03:10+02:00"
 },{
-"nom": "Maral",
-"sala": "PS",
-"hora": "??:??",
-"mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
-},{
 "nom": "NxWorries",
 "sala": "PS (republic)",
 "hora": "21:35",
@@ -1476,14 +1404,14 @@
 "ciutat": "",
 "dateTime": "2023-06-01T20:45+02:00"
 },{
-"nom": "Rema",
+"nom": "Rema (slavery)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "21:55",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T21:55+02:00"
 },{
 "nom": "Rhyw",
 "sala": "PS (valtònyc)",
@@ -1493,15 +1421,6 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-06-01T21:50+02:00"
-},{
-"nom": "Salamanda",
-"sala": "PS",
-"hora": "??:??",
-"mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
 },{
 "nom": "Self Esteem (hedonism)",
 "sala": "PS",
