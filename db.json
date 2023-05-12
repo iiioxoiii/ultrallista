@@ -1018,31 +1018,31 @@
 "dateTime": "2023-05-31T18:00+02:00"
 },{
 "nom": "Alex G",
-"sala": "PS",
-"hora": "??:??",
-"mes": "JUN.2023",
-"dia": "1",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
-},{
-"nom": "Amenra",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (Santander)",
+"hora": "19:00",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T19:00+02:00"
 },{
-"nom": "Antònim",
+"nom": "Amenra (Decadence)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "22:50",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T22:50+02:00"
+},{
+"nom": "Antònim (Slavery)",
+"sala": "PS",
+"hora": "16:00",
+"mes": "JUN.2023",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-01T16:00+02:00"
 },{
 "nom": "Anyma",
 "sala": "PS",
@@ -1053,32 +1053,59 @@
 "ciutat": "",
 "dateTime": "2023-06-01T18:00+02:00"
 },{
-"nom": "Arthur Verocal",
+"nom": "Arthur Verocai (Auditori Fòrum)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "18:20",
+"mes": "JUN.2023",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-01T18:20+02:00"
+},{
+"nom": "Come (Auditori Fòrum)",
+"sala": "PS",
+"hora": "18:50",
+"mes": "JUN.2023",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-01T18:50+02:00"
+},{
+"nom": "Black Country,NR (J.Assange)",
+"sala": "PS",
+"hora": "18:00",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-06-01T18:00+02:00"
 },{
-"nom": "Black Country, NR",
+"nom": "Emeralds (Auditori Fòrum)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "16:30",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T16:30+02:00"
 },{
 "nom": "Blackhaine",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (idiot fashion)",
+"hora": "01:15",
 "mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
+"dia": "2",
+"textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-02T01:15+02:00"
+},{
+"nom": "Abadir & Hogir live",
+"sala": "PS (idiot fashion)",
+"hora": "02:20",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-02T02:20+02:00"
 },{
 "nom": "Blur",
 "sala": "PS",
@@ -1089,18 +1116,27 @@
 "ciutat": "",
 "dateTime": "2023-06-01T18:00+02:00"
 },{
-"nom": "Boris",
+"nom": "Boris (Auditori Fòrum)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "21:30",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T21:30+02:00"
+},{
+"nom": "Heather",
+"sala": "PS (Blue Print)",
+"hora": "17:30",
+"mes": "JUN.2023",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-01T17:05+02:00"
 },{
 "nom": "Joe Satriani",
 "sala": "Paral·lel 62",
-"hora": "30:30",
+"hora": "20:30",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
@@ -1108,49 +1144,49 @@
 "dateTime": "2023-06-01T20:30+02:00"
 },{
 "nom": "Brutalismus 3000",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (valtònyc)",
+"hora": "04:20",
 "mes": "JUN.2023",
-"dia": "1",
+"dia": "2",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-02T04:20+02:00"
 },{
-"nom": "Built To Spill",
+"nom": "Built To Spill (Decadence)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "18:50",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T18:50+02:00"
 },{
-"nom": "Cabirla",
+"nom": "Cabirla (hedonism)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "16:25",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T16:25+02:00"
 },{
 "nom": "Central Cee",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (Blue Print)",
+"hora": "22:55",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T22:55+02:00"
 },{
 "nom": "Chica Gang",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (valtònyc)",
+"hora": "02:20",
 "mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
+"dia": "2",
+"textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-02T02:20+02:00"
 },{
 "nom": "Come",
 "sala": "PS",
@@ -1161,23 +1197,23 @@
 "ciutat": "",
 "dateTime": "2023-06-01T18:00+02:00"
 },{
-"nom": "Darkside",
+"nom": "Darkside (Slavery)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "02:05",
 "mes": "JUN.2023",
-"dia": "1",
+"dia": "2",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-02T02:05+02:00"
 },{
-"nom": "Drain Gang",
+"nom": "Drain Gang (hedonism)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "02:10",
 "mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
+"dia": "2",
+"textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T02:10+02:00"
 },{
 "nom": "Esmeralds",
 "sala": "PS",
@@ -1188,140 +1224,185 @@
 "ciutat": "",
 "dateTime": "2023-06-01T18:00+02:00"
 },{
-"nom": "Floweroviove",
+"nom": "flowerovlove (FSF)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "18:50",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T18:50+02:00"
 },{
-"nom": "Ghost",
+"nom": "Ghost (Slavery)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "19:35",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T19:35+02:00"
+},{
+"nom": "Alison Golfrapp (Slavery)",
+"sala": "PS",
+"hora": "23:55",
+"mes": "JUN.2023",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-01T23:55+02:00"
+},{
+"nom": "Salamanda",
+"sala": "PS (idiot fashion)",
+"hora": "22:55",
+"mes": "JUN.2023",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-01T22:00+02:00"
 },{
 "nom": "Halsey",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (Santander)",
+"hora": "00:30",
 "mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
+"dia": "2",
+"textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-02T00:30+02:00"
 },{
 "nom": "Heinali",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (idiot fashion)",
+"hora": "23:05",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T23:05+02:00"
 },{
-"nom": "Hudson Mohawke",
-"sala": "PS",
-"hora": "??:??",
+"nom": "Slauson Malone 1",
+"sala": "PS (idiot fashion)",
+"hora": "00:10",
 "mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
+"dia": "2",
+"textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-02T01:15+02:00"
+},{
+"nom": "Hudson Mohawke (hedonism)",
+"sala": "PS",
+"hora": "04:15",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-01T04:14+02:00"
 },{
 "nom": "Isabella Lovestory",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (valtònyc)",
+"hora": "19:35",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T19:35+02:00"
 },{
 "nom": "Jana Rush",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (idiot fashion)",
+"hora": "03:25",
 "mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
+"dia": "2",
+"textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T03:25+02:00"
 },{
-"nom": "Joe Crepúsculo",
+"nom": "Joe Crepúsculo (Slavery)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "17:50",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T17:50+02:00"
 },{
-"nom": "Joe Unknown",
+"nom": "Joe Unknown (Decadence)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "17:15",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T17:15+02:00"
 },{
-"nom": "Júlia Colom",
+"nom": "Júlia Colom (FSF)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "17:10",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T17:10+02:00"
 },{
 "nom": "Juliana Huxtable B2B Jasss",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (valtònyc)",
+"hora": "22:50",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T22:50+02:00"
 },{
 "nom": "Karenn",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (valtònyc)",
+"hora": "00:50",
 "mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
+"dia": "2",
+"textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T00:50+02:00"
 },{
 "nom": "Le Tigre",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (Blue Print)",
+"hora": "01:05",
 "mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
+"dia": "2",
+"textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-02T01:05+02:00"
 },{
-"nom": "Loyle Carner",
+"nom": "Loyle Carner (FSF)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "00:55",
 "mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
+"dia": "2",
+"textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-02T00:55+02:00"
 },{
-"nom": "Machine Girl",
+"nom": "Folamour (FSF)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "04:05",
 "mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
+"dia": "2",
+"textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-02T00:55+02:00"
+},{
+"nom": "Machine Girl (Decadence)",
+"sala": "PS",
+"hora": "01:05",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-02T01:05+02:00"
+},{
+"nom": "Ascendant Vierge (Decadence)",
+"sala": "PS",
+"hora": "03:10",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-01T03:10+02:00"
 },{
 "nom": "Maral",
 "sala": "PS",
@@ -1333,58 +1414,58 @@
 "dateTime": "2023-06-01T18:00+02:00"
 },{
 "nom": "NxWorries",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (santander)",
+"hora": "21:35",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T21:35+02:00"
 },{
-"nom": "OFF!",
+"nom": "OFF! (Decadence)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "20:50",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T20:50+02:00"
 },{
-"nom": "Perfume",
+"nom": "Perfume (FSF)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "22:55",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T22:55+02:00"
 },{
-"nom": "PinkPantheress",
+"nom": "PinkPantheress (hedonism)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "21:50",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T21:50+02:00"
 },{
-"nom": "Pusha T",
+"nom": "Pusha T (FSF)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "20:45",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T20:45+02:00"
 },{
 "nom": "Red Velvet",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (Blue Print)",
+"hora": "20:45",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T20:45+02:00"
 },{
 "nom": "Rema",
 "sala": "PS",
@@ -1396,13 +1477,13 @@
 "dateTime": "2023-06-01T18:00+02:00"
 },{
 "nom": "Rhyw",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (valtònyc)",
+"hora": "21:50",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T21:50+02:00"
 },{
 "nom": "Salamanda",
 "sala": "PS",
@@ -1413,36 +1494,36 @@
 "ciutat": "",
 "dateTime": "2023-06-01T18:00+02:00"
 },{
-"nom": "Self Esteem",
+"nom": "Self Esteem (hedonism)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "23:55",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T23:55+02:00"
 },{
 "nom": "Shannen SP B2B Joe Cotch",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (valtònyc)",
+"hora": "17:35",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T17:35+02:00"
 },{
-"nom": "Sudan Archives",
+"nom": "Sudan Archives (hedonism)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "19:40",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T19:40+02:00"
 },{
-"nom": "Terno Rel",
+"nom": "Terno Rei (hedonism)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "18:00",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
@@ -1450,40 +1531,58 @@
 "dateTime": "2023-06-01T18:00+02:00"
 },{
 "nom": "The Comet Is Coming",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (Blue Print)",
+"hora": "04:05",
 "mes": "JUN.2023",
-"dia": "1",
-"textdia": "dijous",
+"dia": "2",
+"textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-02T04:05+02:00"
 },{
-"nom": "Turnstile",
+"nom": "Turnstile (J. Assange)",
 "sala": "PS",
-"hora": "??:??",
+"hora": "20:20",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T20:20+02:00"
+},{
+"nom": "New Order (J. Assange)",
+"sala": "PS",
+"hora": "23:05",
+"mes": "JUN.2023",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-01T23:05+02:00"
+},{
+"nom": "Blur (J. Assange)",
+"sala": "PS",
+"hora": "02:05",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-02T02:05+02:00"
 },{
 "nom": "Verraco",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (valtònyc)",
+"hora": "20:20",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T20:20+02:00"
 },{
 "nom": "Yard Act",
-"sala": "PS",
-"hora": "??:??",
+"sala": "PS (Blue Print)",
+"hora": "18:50",
 "mes": "JUN.2023",
 "dia": "1",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-06-01T18:00+02:00"
+"dateTime": "2023-06-01T18:50+02:00"
 },{
 "nom": "Alvvays",
 "sala": "PS",
