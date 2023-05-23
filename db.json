@@ -1116,6 +1116,24 @@
 "ciutat": "",
 "dateTime": "2023-06-01T18:00+02:00"
 },{
+"nom": "Caricias",
+"sala": "Microclima",
+"hora": "19:00",
+"mes": "JUN.2023",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-01T19:00+02:00"
+},{
+"nom": "Fermi",
+"sala": "Microclima",
+"hora": "20:00",
+"mes": "JUN.2023",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-01T20:00+02:00"
+},{
 "nom": "Emeralds (Auditori Fòrum)",
 "sala": "PS",
 "hora": "16:30",
@@ -1133,6 +1151,24 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-06-02T01:15+02:00"
+},{
+"nom": "Laaza",
+"sala": "Microclima",
+"hora": "19:00",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-02T19:00+02:00"
+},{
+"nom": "Ran ran ran",
+"sala": "Microclima",
+"hora": "20:00",
+"mes": "JUN.2023",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-02T20:00+02:00"
 },{
 "nom": "Abadir & Hogir live",
 "sala": "PS (idiot fashion)",
@@ -1772,6 +1808,33 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-06-03T23:20+02:00"
+},{
+"nom": "Nando Cruz",
+"sala": "Microclima",
+"hora": "13:00",
+"mes": "JUN.2023",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-03T13:00+02:00"
+},{
+"nom": "Candela Escobar",
+"sala": "Microclima",
+"hora": "19:00",
+"mes": "JUN.2023",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-03T19:00+02:00"
+},{
+"nom": "Angeladorrrm",
+"sala": "Microclima",
+"hora": "20:00",
+"mes": "JUN.2023",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-03T20:00+02:00"
 },{
 "nom": "Gilla Band (decadence)",
 "sala": "PS",
