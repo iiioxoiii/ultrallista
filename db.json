@@ -549,6 +549,15 @@
 "ciutat": "",
 "dateTime": "2023-05-26T19:00+02:00"
 },{
+"nom": "80% Baul",
+"sala": "XXX-XXXXXX",
+"hora": "21:00",
+"mes": "MAI.2023",
+"dia": "26",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-05-26T21:00+02:00"
+},{
 "nom": "Cyril Kamer",
 "sala": "Razzmatazz[1]",
 "hora": "20:00",
@@ -2142,6 +2151,42 @@
 "ciutat": "",
 "dateTime": "2023-06-03T01:45+02:00"
 },{
+"nom": "Mandagal",
+"sala": "Casal de Roquetes",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-03T21:00+02:00"
+},{
+"nom": "Pöls",
+"sala": "Casal de Roquetes",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-03T22:00+02:00"
+},{
+"nom": "Friedrich",
+"sala": "Casal de Roquetes",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-03T23:00+02:00"
+},{
+"nom": "Mimesis",
+"sala": "Casal de Roquetes",
+"hora": "??:??",
+"mes": "JUN.2023",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-03T21:00+02:00"
+},{
 "nom": "TSHA (valtònyc)",
 "sala": "PS",
 "hora": "04:45",
@@ -3270,6 +3315,15 @@
 "nom": "Madsher + Estestor + MeteorCross",
 "sala": "Boveda",
 "hora": "20:30",
+"mes": "JUN.2023",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-09T20:30+02:00"
+},{
+"nom": "Les Salvatges",
+"sala": "Parc de la Creueta del Coll",
+"hora": "21:00",
 "mes": "JUN.2023",
 "dia": "9",
 "textdia": "divendres",
