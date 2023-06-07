@@ -1,20 +1,56 @@
-{"concerts": [
 {
+"concerts": [{
+"nom": "BHENRIK FREISCHLANDER BAND",
+"sala": "Razzmatazz Sala 3",
+"hora": "20:00",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-08T20:00+02:00"
+},{
 "nom": "Bicèfal + Project Roko Banana",
 "sala": "Vol",
 "hora": "21:00",
 "mes": "JUN.2023",
 "dia": "8",
-"textdia": "dissabte",
+"textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-06-08T21:00+02:00"
+},{
+"nom": "PELIGRO! + Desobedientes + Nöia,
+"sala": "Sidecar",
+"hora": "20:45",
+"mes": "JUN.2023",
+"dia": "8",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-08T20:45+02:00"
+},{
+"nom": "POOR TRAMIT + VINNIE KAIROS + CONVIDATS",
+"sala": "Razzmatazz Sala 3",
+"hora": "20:45",
+"mes": "JUN.2023",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-09T20:45+02:00"
+},{
+"nom": "Me siento extraña",
+"sala": "Vol",
+"hora": "20:50",
+"mes": "JUN.2023",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-09T20:50+02:00"
 },{
 "nom": "Gilipojazz",
 "sala": "Wolf",
 "hora": "21:00",
 "mes": "JUN.2023",
 "dia": "8",
-"textdia": "dissabte",
+"textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-06-08T21:00+02:00"
 },{
@@ -46,7 +82,7 @@
 "dateTime": "2023-06-09T20:30+02:00"
 },{
 "nom": "Iñigo Merino",
-"sala": "Sidecar]",
+"sala": "Sidecar",
 "hora": "21:00",
 "mes": "JUN.2023",
 "dia": "9",
