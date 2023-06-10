@@ -1,7 +1,7 @@
 {
 "concerts": [{
 "nom": "Lianna Llull",
-"sala": "Can Balmes",
+"sala": "Can Balmes,Sta Ma Palautordera",
 "hora": "18:00",
 "mes": "JUN.2023",
 "dia": "10",
@@ -10,7 +10,7 @@
 "dateTime": "2023-06-10T18:00+02:00"
 },{
 "nom": "Només tot",
-"sala": "Can Balmes",
+"sala": "Can Balmes,Sta Ma Palautordera",
 "hora": "19:00",
 "mes": "JUN.2023",
 "dia": "10",
@@ -19,7 +19,7 @@
 "dateTime": "2023-06-10T19:00+02:00"
 },{
 "nom": "Aldrin y Collins",
-"sala": "Can Balmes",
+"sala": "Can Balmes,Sta Ma Palautordera",
 "hora": "20:00",
 "mes": "JUN.2023",
 "dia": "10",
@@ -28,7 +28,7 @@
 "dateTime": "2023-06-10T20:00+02:00"
 },{
 "nom": "Prou!!!",
-"sala": "Can Balmes",
+"sala": "Can Balmes,Sta Ma Palautordera",
 "hora": "21:00",
 "mes": "JUN.2023",
 "dia": "10",
@@ -37,7 +37,7 @@
 "dateTime": "2023-06-10T21:00+02:00"
 },{
 "nom": "Nöia",
-"sala": "Can Balmes",
+"sala": "Can Balmes,Sta Ma Palautordera",
 "hora": "22:00",
 "mes": "JUN.2023",
 "dia": "10",
@@ -46,7 +46,7 @@
 "dateTime": "2023-06-10T22:00+02:00"
 },{
 "nom": "Runä",
-"sala": "Can Balmes",
+"sala": "Can Balmes,Sta Ma Palautordera",
 "hora": "23:00",
 "mes": "JUN.2023",
 "dia": "10",
@@ -55,7 +55,7 @@
 "dateTime": "2023-06-10T23:00+02:00"
 },{
 "nom": "Distant Silouettes",
-"sala": "Can Balmes",
+"sala": "Can Balmes,Sta Ma Palautordera",
 "hora": "23:59",
 "mes": "JUN.2023",
 "dia": "10",
