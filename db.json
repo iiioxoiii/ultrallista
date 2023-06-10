@@ -1,94 +1,67 @@
 {
 "concerts": [{
-"nom": "BHENRIK FREISCHLANDER BAND",
-"sala": "Razzmatazz Sala 3",
+"nom": "Lianna Llull",
+"sala": "Can Balmes",
+"hora": "18:00",
+"mes": "JUN.2023",
+"dia": "10",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-10T18:00+02:00"
+},{
+"nom": "Només tot",
+"sala": "Can Balmes",
+"hora": "19:00",
+"mes": "JUN.2023",
+"dia": "10",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-06-10T19:00+02:00"
+},{
+"nom": "Aldrin y Collins",
+"sala": "Can Balmes",
 "hora": "20:00",
 "mes": "JUN.2023",
-"dia": "8",
-"textdia": "dijous",
+"dia": "10",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-06-08T20:00+02:00"
+"dateTime": "2023-06-10T20:00+02:00"
 },{
-"nom": "Bicèfal + Project Roko Banana",
-"sala": "Vol",
+"nom": "Prou!!!",
+"sala": "Can Balmes",
 "hora": "21:00",
 "mes": "JUN.2023",
-"dia": "8",
-"textdia": "dijous",
+"dia": "10",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-06-08T21:00+02:00"
+"dateTime": "2023-06-10T21:00+02:00"
 },{
-"nom": "PELIGRO! + Desobedientes + Nöia",
-"sala": "Sidecar",
-"hora": "20:45",
+"nom": "Nöia",
+"sala": "Can Balmes",
+"hora": "22:00",
 "mes": "JUN.2023",
-"dia": "8",
-"textdia": "dijous",
+"dia": "10",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-06-08T20:45+02:00"
+"dateTime": "2023-06-10T22:00+02:00"
 },{
-"nom": "POOR TRAMIT + VINNIE KAIROS + CONVIDATS",
-"sala": "Razzmatazz Sala 3",
-"hora": "20:45",
+"nom": "Runä",
+"sala": "Can Balmes",
+"hora": "23:00",
 "mes": "JUN.2023",
-"dia": "9",
-"textdia": "divendres",
+"dia": "10",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-06-09T20:45+02:00"
+"dateTime": "2023-06-10T23:00+02:00"
 },{
-"nom": "Me siento extraña",
-"sala": "Vol",
-"hora": "20:50",
+"nom": "Distant Silouettes",
+"sala": "Can Balmes",
+"hora": "00:00",
 "mes": "JUN.2023",
-"dia": "9",
-"textdia": "divendres",
+"dia": "10",
+"textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-06-09T20:50+02:00"
-},{
-"nom": "Gilipojazz",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "8",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-06-08T21:00+02:00"
-},{
-"nom": "Kadec Santa Ana",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "JUN.2023",
-"dia": "9",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-09T19:30+02:00"
-},{
-"nom": "Madsher + Estestor + MeteorCross",
-"sala": "Boveda",
-"hora": "20:30",
-"mes": "JUN.2023",
-"dia": "9",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-09T20:30+02:00"
-},{
-"nom": "Les Salvatges",
-"sala": "Parc de la Creueta del Coll",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "9",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-09T20:30+02:00"
-},{
-"nom": "Iñigo Merino",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "9",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-09T21:00+02:00"
+"dateTime": "2023-06-10T00:00+02:00"
 },{
 "nom": "Dub Inc",
 "sala": "Razzmatazz[1]",
