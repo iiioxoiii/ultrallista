@@ -1,161 +1,35 @@
 {
 "concerts": [{
-"nom": "Lianna Llull",
-"sala": "Can Balmes,Sta Ma Palautordera",
-"hora": "18:00",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T18:00+02:00"
-},{
-"nom": "Només tot",
-"sala": "Can Balmes,Sta Ma Palautordera",
-"hora": "19:00",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T19:00+02:00"
-},{
-"nom": "Aldrin y Collins",
-"sala": "Can Balmes,Sta Ma Palautordera",
+"nom": "THUNDEROR + CRIMSON STORM - XV ANIVERSARIO ROCKSOUND",
+"sala": "Razzmatazz Sala 3",
 "hora": "20:00",
 "mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
+"dia": "11",
+"textdia": "diumenge",
 "ciutat": "",
-"dateTime": "2023-06-10T20:00+02:00"
+"dateTime": "2023-06-11T20:00+02:00"
 },{
-"nom": "Prou!!!",
-"sala": "Can Balmes,Sta Ma Palautordera",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T21:00+02:00"
-},{
-"nom": "Nöia",
-"sala": "Can Balmes,Sta Ma Palautordera",
-"hora": "22:00",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T22:00+02:00"
-},{
-"nom": "Runä",
-"sala": "Can Balmes,Sta Ma Palautordera",
-"hora": "23:00",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T23:00+02:00"
-},{
-"nom": "Distant Silouettes",
-"sala": "Can Balmes,Sta Ma Palautordera",
-"hora": "23:59",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T23:59+02:00"
-},{
-"nom": "Dub Inc",
-"sala": "Razzmatazz[1]",
+"nom": "Captain’s Brotherhood ft. Eva Santillana",
+"sala": "Jamboree",
 "hora": "19:00",
 "mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
+"dia": "12",
+"textdia": "dilluns",
 "ciutat": "",
-"dateTime": "2023-06-10T19:00+02:00"
+"dateTime": "2023-06-12T19:00+02:00"
 },{
-"nom": "Megara",
-"sala": "Razzmatazz[2]",
+"nom": "El Perro - XV ANIVERSARIO ROCKSOUND",
+"sala": "Razzmatazz Sala 3",
 "hora": "20:00",
 "mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
+"dia": "13",
+"textdia": "dimarts",
 "ciutat": "",
-"dateTime": "2023-06-10T20:00+02:00"
-},{
-"nom": "Los Invaders",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T21:00+02:00"
-},{
-"nom": "Agnostic Front",
-"sala": "Estraperlo BDN",
-"hora": "19:30",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T19:30+02:00"
-},{
-"nom": "Proudz",
-"sala": "Estraperlo BDN",
-"hora": "19:30",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T19:30+02:00"
-},{
-"nom": "Pulso",
-"sala": "Estraperlo BDN",
-"hora": "19:30",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T19:30+02:00"
-},{
-"nom": "La Guadaña",
-"sala": "Estraperlo BDN",
-"hora": "19:30",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T19:30+02:00"
-},{
-"nom": "Baixa Permanent",
-"sala": "Estraperlo BDN",
-"hora": "19:30",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T19:30+02:00"
-},{
-"nom": "Crucial",
-"sala": "Estraperlo BDN",
-"hora": "19:30",
-"mes": "JUN.2023",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-10T19:30+02:00"
+"dateTime": "2023-06-13T20:00+02:00"
 },{
 "nom": "The Who",
 "sala": "Palau Sant Jordi",
 "hora": "20:00",
-"mes": "JUN.2023",
-"dia": "14",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-06-14T20:00+02:00"
-},{
-"nom": "Dean Lewis",
-"sala": "Apolo",
-"hora": "??:??",
 "mes": "JUN.2023",
 "dia": "14",
 "textdia": "dimecres",
@@ -198,6 +72,15 @@
 "ciutat": "",
 "dateTime": "2023-06-15T21:00+02:00"
 },{
+"nom": "Puerta 104+Botijo",
+"sala": "Ceferino",
+"hora": "20:00",
+"mes": "JUN.2023",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-16T20:00+02:00"
+},{
 "nom": "Maroon 5",
 "sala": "Palau Sant Jordi",
 "hora": "21:00",
@@ -216,7 +99,7 @@
 "ciutat": "",
 "dateTime": "2023-06-16T21:00+02:00"
 },{
-"nom": "Chico Boy",
+"nom": "Chico Boy+Rey Sombra",
 "sala": "Sidecar",
 "hora": "21:00",
 "mes": "JUN.2023",
@@ -243,12 +126,30 @@
 "ciutat": "",
 "dateTime": "2023-06-19T19:00+02:00"
 },{
+"nom": "Cuarteto de Nos",
+"sala": "Razzmatazz Sala 1",
+"hora": "19:00",
+"mes": "JUN.2023",
+"dia": "21",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-21T19:00+02:00"
+},{
+"nom": "The Cult",
+"sala": "Razzmatazz Sala 1",
+"hora": "18:30",
+"mes": "JUN.2023",
+"dia": "21",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-21T18:30+02:00"
+},{
 "nom": "Rammstein",
 "sala": "Wanda Metropolitano",
 "hora": "21:00",
 "mes": "JUN.2023",
 "dia": "23",
-"textdia": "dimarts",
+"textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-06-23T21:00+02:00"
 },{
@@ -620,6 +521,15 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-07-12T21:45+02:00"
+},{
+"nom": "Dean Lewis",
+"sala": "Apolo",
+"hora": "20:00",
+"mes": "JUL.2023",
+"dia": "14",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-07-14T20:00+02:00"
 },{
 "nom": "the Weekend",
 "sala": "Estadi Olímpic",
