@@ -27,6 +27,69 @@
 "ciutat": "",
 "dateTime": "2023-06-25T19:30+02:00"
 },{
+"nom": "Blanco Palamera",
+"sala": "Razzmatazz Sala 3",
+"hora": "20:00",
+"mes": "JUN.2023",
+"dia": "25",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-06-25T20:00+02:00"
+},{
+"nom": "Marco Poingt Trio",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "JUN.2023",
+"dia": "27",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-06-27T19:00+02:00"
+},{
+"nom": "Marco Poingt Trio",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "JUN.2023",
+"dia": "27",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-06-27T20:30+02:00"
+},{
+"nom": "Aterciopelados",
+"sala": "Razzmatazz Sala 2",
+"hora": "20:00",
+"mes": "JUN.2023",
+"dia": "28",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-28T20:00+02:00"
+},{
+"nom": "Warpaint",
+"sala": "Apolo",
+"hora": "20:00",
+"mes": "JUN.2023",
+"dia": "28",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-06-28T20:00+02:00"
+},{
+"nom": "Milo J",
+"sala": "Apolo",
+"hora": "19:45",
+"mes": "JUN.2023",
+"dia": "29",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-29T19:45+02:00"
+},{
+"nom": "Duda Beat",
+"sala": "La 2 Apolo",
+"hora": "20:00",
+"mes": "JUN.2023",
+"dia": "29",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-06-29T20:00+02:00"
+},{
 "nom": "Random",
 "sala": "Bikini",
 "hora": "21:00",
@@ -45,6 +108,15 @@
 "ciutat": "",
 "dateTime": "2023-06-29T21:00+02:00"
 },{
+"nom": "DAMN MOSTAZA+AZUL",
+"sala": "Razzmatazz Sala 3",
+"hora": "20:30",
+"mes": "JUN.2023",
+"dia": "30",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-30T20:30+02:00"
+},{
 "nom": "Les Slavatges + Nus",
 "sala": "Vol",
 "hora": "21:30",
@@ -62,6 +134,123 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-06-30T21:00+02:00"
+},{
+"nom": "Orella d'ós",
+"sala": "Festa Major Terrassa",
+"hora": "20:30",
+"mes": "JUN.2023",
+"dia": "30",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-30T20:30+02:00"
+},{
+"nom": "Astro Rita",
+"sala": "Festa Major Terrassa"",
+"hora": "21:00",
+"mes": "JUN.2023",
+"dia": "30",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-30T21:00+02:00"
+},{
+"nom": "Guineu",
+"sala": "Festa Major Terrassa"",
+"hora": "21:30",
+"mes": "JUN.2023",
+"dia": "30",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-30T21:30+02:00"
+},{
+"nom": "Parquesvr",
+"sala": "Festa Major Terrassa"",
+"hora": "22:50",
+"mes": "JUN.2023",
+"dia": "30",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-30T22:50+02:00"
+},{
+"nom": "Ladilla Rusa",
+"sala": "Festa Major Terrassa"",
+"hora": "23:59",
+"mes": "JUN.2023",
+"dia": "30",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-30T23:59+02:00"
+},{
+"nom": "Rufus T. Firefly",
+"sala": "Festa Major Terrassa"",
+"hora": "23:59",
+"mes": "JUN.2023",
+"dia": "30",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-06-30T23:59+02:00"
+},{
+"nom": "Los Yolos",
+"sala": "Festa Major Terrassa"",
+"hora": "20:30",
+"mes": "JUL.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-07-01T20:30+02:00"
+},{
+"nom": "Anabel Lee",
+"sala": "Festa Major Terrassa"",
+"hora": "21:45",
+"mes": "JUL.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-07-01T21:45+02:00"
+},{
+"nom": "Triángulo de amor bizarro",
+"sala": "Festa Major Terrassa"",
+"hora": "23:00",
+"mes": "JUL.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-07-01T23:00+02:00"
+},{
+"nom": "Solea Morente",
+"sala": "Festa Major Terrassa"",
+"hora": "23:00",
+"mes": "JUL.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-07-01T23:00+02:00"
+},{
+"nom": "Nena Daconte",
+"sala": "Festa Major Terrassa"",
+"hora": "23:59",
+"mes": "JUL.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-07-01T23:59+02:00"
+},{
+"nom": "P.A.W.N. GANG",
+"sala": "Festa Major Terrassa"",
+"hora": "23:59",
+"mes": "JUL.2023",
+"dia": "1",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-07-01T23:59+02:00"
+},{
+"nom": "Queralt Lahoz",
+"sala": "Festa Major Terrassa"",
+"hora": "22:30",
+"mes": "JUL.2023",
+"dia": "2",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-07-02T22:30+02:00"
 },{
 "nom": "Puscifer",
 "sala": "razzmatazz[1]",
