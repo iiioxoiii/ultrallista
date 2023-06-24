@@ -1,229 +1,31 @@
 {
 "concerts": [{
-"nom": "Captain’s Brotherhood ft. Eva Santillana",
-"sala": "Jamboree",
-"hora": "19:00",
+"nom": "TUBIEJA+BOTIJO+KOMEMELKOÑO+HIT THE BAMBOO",
+"sala": "Estraperlo",
+"hora": "22:00",
 "mes": "JUN.2023",
-"dia": "12",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-06-12T19:00+02:00"
-},{
-"nom": "El Perro - XV ANIVERSARIO ROCKSOUND",
-"sala": "Razzmatazz Sala 3",
-"hora": "20:00",
-"mes": "JUN.2023",
-"dia": "13",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-06-13T20:00+02:00"
-},{
-"nom": "The Who",
-"sala": "Palau Sant Jordi",
-"hora": "20:00",
-"mes": "JUN.2023",
-"dia": "14",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-06-14T20:00+02:00"
-},{
-"nom": "Indigo Sparke",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "14",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-06-14T21:00+02:00"
-},{
-"nom": "China Crisis",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "15",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-06-15T21:00+02:00"
-},{
-"nom": "Madee",
-"sala": "La Nau",
-"hora": "20:15",
-"mes": "JUN.2023",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-15T20:15+02:00"
-},{
-"nom": "Puerta 104+Botijo",
-"sala": "Ceferino",
-"hora": "20:00",
-"mes": "JUN.2023",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-16T20:00+02:00"
-},{
-"nom": "DaviKKa",
-"sala": "Sala Vol",
-"hora": "21:30",
-"mes": "JUN.2023",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-16T21:30+02:00"
-},{
-"nom": "Secondbest",
-"sala": "Sala Vol",
-"hora": "21:30",
-"mes": "JUN.2023",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-16T21:30+02:00"
-},{
-"nom": "Bullitt",
-"sala": "Sala Vol",
-"hora": "21:30",
-"mes": "JUN.2023",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-16T21:30+02:00"
-},{
-"nom": "Maroon 5",
-"sala": "Palau Sant Jordi",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-16T21:00+02:00"
-},{
-"nom": "Marc Grau Jr + Cold Hands",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-16T21:00+02:00"
-},{
-"nom": "Puerta 104 + Botijo",
-"sala": "ceferino",
-"hora": "20:00",
-"mes": "JUN.2023",
-"dia": "16",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-16T20:00+02:00"
-},{
-"nom": "Dosis",
-"sala": "CSO Nabat 3",
-"hora": "22:30",
-"mes": "JUN.2023",
-"dia": "17",
+"dia": "24",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-06-17T22:30+02:00"
+"dateTime": "2023-06-25T22:00+02:00"
 },{
-"nom": "Azikate",
-"sala": "CSO Nabat 3",
-"hora": "22:30",
-"mes": "JUN.2023",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-17T22:30+02:00"
-},{
-"nom": "Turbo Rat",
-"sala": "CSO Nabat 3",
-"hora": "22:30",
-"mes": "JUN.2023",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-17T22:30+02:00"
-},{
-"nom": "Rat's Pool",
-"sala": "CSO Nabat 3",
-"hora": "22:30",
-"mes": "JUN.2023",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-17T22:30+02:00"
-},{
-"nom": "Kortocircuito",
-"sala": "CSO Nabat 3",
-"hora": "22:30",
-"mes": "JUN.2023",
-"dia": "17",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-17T22:30+02:00"
-},{
-"nom": "Chico Boy+Rey Sombra",
-"sala": "Sidecar",
+"nom": "Dunaviva+Coherence ",
+"sala": "Heliogàbal",
 "hora": "21:00",
 "mes": "JUN.2023",
-"dia": "17",
+"dia": "24",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-06-17T21:00+02:00"
-},{
-"nom": "Iron Maiden",
-"sala": "Palau Sant Jordi",
-"hora": "??:??",
-"mes": "JUN.2023",
-"dia": "18",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-06-18T19:00+02:00"
-},{
-"nom": "Benjamin Clemente",
-"sala": "Apolo",
-"hora": "??:?",
-"mes": "JUN.2023",
-"dia": "19",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-06-19T19:00+02:00"
-},{
-"nom": "Cuarteto de Nos",
-"sala": "Razzmatazz Sala 1",
-"hora": "19:00",
-"mes": "JUN.2023",
-"dia": "21",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-06-21T19:00+02:00"
-},{
-"nom": "The Cult",
-"sala": "Razzmatazz Sala 1",
-"hora": "18:30",
-"mes": "JUN.2023",
-"dia": "21",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-06-21T18:30+02:00"
-},{
-"nom": "Rammstein",
-"sala": "Wanda Metropolitano",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "23",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-23T21:00+02:00"
+"dateTime": "2023-06-25T21:00+02:00"
 },{
 "nom": "Tamino",
 "sala": "Razzmatazz",
-"hora": "??:??",
+"hora": "19:30",
 "mes": "JUN.2023",
 "dia": "25",
-"textdia": "dijous",
+"textdia": "diumenge",
 "ciutat": "",
-"dateTime": "2023-06-25T21:00+02:00"
+"dateTime": "2023-06-25T19:30+02:00"
 },{
 "nom": "Random",
 "sala": "Bikini",
