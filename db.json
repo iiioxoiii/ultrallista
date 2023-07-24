@@ -1,623 +1,47 @@
 {
 "concerts": [{
-"nom": "TUBIEJA+BOTIJO+KOMEMELKOÑO+HIT THE BAMBOO",
-"sala": "Estraperlo",
-"hora": "22:00",
-"mes": "JUN.2023",
-"dia": "24",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-24T22:00+02:00"
-},{
-"nom": "Dunaviva+Coherence ",
-"sala": "Heliogàbal",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "24",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-06-24T21:00+02:00"
-},{
-"nom": "Tamino",
-"sala": "Razzmatazz",
-"hora": "19:30",
-"mes": "JUN.2023",
-"dia": "25",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-06-25T19:30+02:00"
-},{
-"nom": "Blanco Palamera",
-"sala": "Razzmatazz Sala 3",
-"hora": "20:00",
-"mes": "JUN.2023",
-"dia": "25",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-06-25T20:00+02:00"
-},{
-"nom": "Marco Poingt Trio",
-"sala": "Jamboree",
-"hora": "19:00",
-"mes": "JUN.2023",
-"dia": "27",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-06-27T19:00+02:00"
-},{
-"nom": "Marco Poingt Trio",
-"sala": "Jamboree",
-"hora": "20:30",
-"mes": "JUN.2023",
-"dia": "27",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-06-27T20:30+02:00"
-},{
-"nom": "Aterciopelados",
-"sala": "Razzmatazz Sala 2",
-"hora": "20:00",
-"mes": "JUN.2023",
-"dia": "28",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-06-28T20:00+02:00"
-},{
-"nom": "Warpaint",
-"sala": "Apolo",
-"hora": "20:00",
-"mes": "JUN.2023",
-"dia": "28",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-06-28T20:00+02:00"
-},{
-"nom": "Milo J",
-"sala": "Apolo",
-"hora": "19:45",
-"mes": "JUN.2023",
-"dia": "29",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-06-29T19:45+02:00"
-},{
-"nom": "Duda Beat",
-"sala": "La 2 Apolo",
-"hora": "20:00",
-"mes": "JUN.2023",
-"dia": "29",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-06-29T20:00+02:00"
-},{
-"nom": "Random",
-"sala": "Bikini",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "29",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-06-29T21:00+02:00"
-},{
-"nom": "La bomba de tiempo",
-"sala": "Paral·lel 62",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "29",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-06-29T21:00+02:00"
-},{
-"nom": "DAMN MOSTAZA+AZUL",
-"sala": "Razzmatazz Sala 3",
-"hora": "20:30",
-"mes": "JUN.2023",
-"dia": "30",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-30T20:30+02:00"
-},{
-"nom": "Les Slavatges + Nus",
-"sala": "Vol",
-"hora": "21:30",
-"mes": "JUN.2023",
-"dia": "30",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-30T21:30+02:00"
-},{
-"nom": "Marky Ramone",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "30",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-30T21:00+02:00"
-},{
-"nom": "Orella d'ós",
-"sala": "Festa Major Terrassa",
-"hora": "20:30",
-"mes": "JUN.2023",
-"dia": "30",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-30T20:30+02:00"
-},{
-"nom": "Astro Rita",
-"sala": "Festa Major Terrassa",
-"hora": "21:00",
-"mes": "JUN.2023",
-"dia": "30",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-30T21:00+02:00"
-},{
-"nom": "Guineu",
-"sala": "Festa Major Terrassa",
-"hora": "21:30",
-"mes": "JUN.2023",
-"dia": "30",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-30T21:30+02:00"
-},{
-"nom": "Parquesvr",
-"sala": "Festa Major Terrassa",
-"hora": "22:50",
-"mes": "JUN.2023",
-"dia": "30",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-30T22:50+02:00"
-},{
-"nom": "Ladilla Rusa",
-"sala": "Festa Major Terrassa",
-"hora": "23:59",
-"mes": "JUN.2023",
-"dia": "30",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-30T23:59+02:00"
-},{
-"nom": "Rufus T. Firefly",
-"sala": "Festa Major Terrassa",
-"hora": "23:59",
-"mes": "JUN.2023",
-"dia": "30",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-06-30T23:59+02:00"
-},{
-"nom": "Los Yolos",
-"sala": "Festa Major Terrassa",
-"hora": "20:30",
-"mes": "JUL.2023",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-01T20:30+02:00"
-},{
-"nom": "Anabel Lee",
-"sala": "Festa Major Terrassa",
-"hora": "21:45",
-"mes": "JUL.2023",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-01T21:45+02:00"
-},{
-"nom": "Triángulo de amor bizarro",
-"sala": "Festa Major Terrassa",
-"hora": "23:00",
-"mes": "JUL.2023",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-01T23:00+02:00"
-},{
-"nom": "Solea Morente",
-"sala": "Festa Major Terrassa",
-"hora": "23:00",
-"mes": "JUL.2023",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-01T23:00+02:00"
-},{
-"nom": "Nena Daconte",
-"sala": "Festa Major Terrassa",
-"hora": "23:59",
-"mes": "JUL.2023",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-01T23:59+02:00"
-},{
-"nom": "P.A.W.N. GANG",
-"sala": "Festa Major Terrassa",
-"hora": "23:59",
-"mes": "JUL.2023",
-"dia": "1",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-01T23:59+02:00"
-},{
-"nom": "Queralt Lahoz",
-"sala": "Festa Major Terrassa",
-"hora": "22:30",
-"mes": "JUL.2023",
-"dia": "2",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-07-02T22:30+02:00"
-},{
-"nom": "Puscifer",
-"sala": "razzmatazz[1]",
-"hora": "19:00",
-"mes": "JUL.2023",
-"dia": "4",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-04T19:00+02:00"
-},{
-"nom": "Sen Senra",
-"sala": "Cruïlla",
-"hora": "20:45",
-"mes": "JUL.2023",
-"dia": "5",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-05T18:30+02:00"
-},{
-"nom": "Cruz Cafuné",
-"sala": "Cruïlla",
-"hora": "19:30",
-"mes": "JUL.2023",
-"dia": "5",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-05T18:30+02:00"
-},{
-"nom": "DeLaOssa",
-"sala": "Cruïlla",
-"hora": "17:15",
-"mes": "JUL.2023",
-"dia": "5",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-05T18:30+02:00"
-},{
-"nom": "Rusowsky",
-"sala": "Cruïlla",
-"hora": "20:15",
-"mes": "JUL.2023",
-"dia": "5",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-05T18:30+02:00"
-},{
-"nom": "La Élite",
-"sala": "Cruïlla",
-"hora": "22:30",
-"mes": "JUL.2023",
-"dia": "5",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-05T18:30+02:00"
-},{
-"nom": "Las Niñas del Corro",
-"sala": "Cruïlla",
-"hora": "18:15",
-"mes": "JUL.2023",
-"dia": "5",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-05T18:30+02:00"
-},{
-"nom": "Lia Kali",
-"sala": "cruïlla",
-"hora": "17:15",
-"mes": "JUL.2023",
-"dia": "5",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-05T18:30+02:00"
-},{
-"nom": "Triquell",
-"sala": "Cruïlla",
-"hora": "17:00",
-"mes": "JUL.2023",
-"dia": "5",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-05T18:30+02:00"
-},{
-"nom": "Tesa",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "5",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-05T18:30+02:00"
-},{
-"nom": "Tash Sultana",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "6",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-07-06T18:30+02:00"
-},{
-"nom": "Iseo & Dodosound",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "6",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-07-06T18:30+02:00"
-},{
-"nom": "Sigur Rós",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-07-07T18:30+02:00"
-},{
-"nom": "Franz Ferdinand",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-07-07T18:30+02:00"
-},{
-"nom": "Viva Suecia",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-07-07T18:30+02:00"
-},{
-"nom": "Carolina Durante",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-07-07T18:30+02:00"
-},{
-"nom": "Sidonie",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-07-07T18:30+02:00"
-},{
-"nom": "Cala Vento",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-07-07T18:30+02:00"
-},{
-"nom": "Ciudad Jara",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-07-07T18:30+02:00"
-},{
-"nom": "Victorias",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-07-07T18:30+02:00"
-},{
-"nom": "Menta",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-07-07T18:30+02:00"
-},{
-"nom": "Placebo",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-08T18:30+02:00"
-},{
-"nom": "Leiva",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-08T18:30+02:00"
-},{
-"nom": "Antònia Font",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-08T18:30+02:00"
-},{
-"nom": "Stay Homas",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-08T18:30+02:00"
-},{
-"nom": "Dani Fernández",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-08T18:30+02:00"
-},{
-"nom": "Amaia",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-08T18:30+02:00"
-},{
-"nom": "Carlangas",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-08T18:30+02:00"
-},{
-"nom": "Suu",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-08T18:30+02:00"
-},{
-"nom": "Shego",
-"sala": "Cruïlla",
-"hora": "??:??",
-"mes": "JUL.2023",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-08T18:30+02:00"
-},{
-"nom": "The Interrupters",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "JUL.2023",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-07-07T21:00+02:00"
-},{
-"nom": "Men i Trust",
-"sala": "Razzmatazz[2]",
-"hora": "19:30",
-"mes": "JUL.2023",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-08T19:30+02:00"
-},{
-"nom": "Insomnio R3cords",
-"sala": "Razzmatazz[2]",
-"hora": "16:30",
-"mes": "JUL.2023",
-"dia": "8",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-08T16:30+02:00"
-},{
-"nom": "Sticky Fingers",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "JUL.2023",
-"dia": "11",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-11T19:30+02:00"
-},{
-"nom": "Sticky Fingers",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "JUL.2023",
-"dia": "12",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-07-12T19:30+02:00"
-},{
-"nom": "Harry Styles",
-"sala": "Estadi Olímpic",
-"hora": "21:45",
-"mes": "JUL.2023",
-"dia": "12",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-12T21:45+02:00"
-},{
-"nom": "Dean Lewis",
-"sala": "Apolo",
-"hora": "20:00",
-"mes": "JUL.2023",
-"dia": "14",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-07-14T20:00+02:00"
-},{
-"nom": "the Weekend",
-"sala": "Estadi Olímpic",
-"hora": "19:15",
-"mes": "JUL.2023",
-"dia": "20",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-07-20T19:15+02:00"
-},{
-"nom": "Cuarteto de Nos",
-"sala": "Razzmatazz[1]",
-"hora": "19:00",
-"mes": "JUL.2023",
-"dia": "21",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-21T19:00+02:00"
-},{
-"nom": "The Cult",
-"sala": "razzmatazz[1]",
-"hora": "18:30",
-"mes": "JUL.2023",
-"dia": "21",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-07-21T18:30+02:00"
-},{
 "nom": "Tamino",
 "sala": "razzmatazz[1]",
 "hora": "19:00",
 "mes": "JUL.2023",
 "dia": "25",
 "textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-07-25T19:00+02:00"
+},{
+"nom": "Total Nada",
+"sala": "Deskomunal",
+"hora": "19:00",
+"mes": "JUL.2023",
+"dia": "25",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-07-25T19:00+02:00"
+},{
+"nom": "Bosque Roja",
+"sala": "Deskomunal",
+"hora": "19:00",
+"mes": "JUL.2023",
+"dia": "25",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-07-25T19:00+02:00"
+},{
+"nom": "Bodm Liquid",
+"sala": "Deskomunal",
+"hora": "19:00",
+"mes": "JUL.2023",
+"dia": "25",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-07-25T19:00+02:00"
+},{
+"nom": "Dead People",
+"sala": "Deskomunal",
+"hora": "19:00",
+"mes": "JUL.2023",
+"dia": "25",
+"textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2023-07-25T19:00+02:00"
 },{
@@ -683,6 +107,15 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2023-09-19T20:00+02:00"
+},{
+"nom": "Adán Borges i A. Foseca",
+"sala": "La Deskomunal",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T21:00+02:00"
 },{
 "nom": "Sanctuary + Halcyon Way",
 "sala": "Bóveda",
@@ -836,6 +269,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-10-27T19:45+02:00"
+},{
+"nom": "Desastre + Chatarra",
+"sala": "La Deskomunal",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "28",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-28T20:00+02:00"
 },{
 "nom": "El Columpio Asessino",
 "sala": "Razzmatazz[1]",
