@@ -216,6 +216,15 @@
 "ciutat": "",
 "dateTime": "2023-09-03T21:45+02:00"
 },{
+"nom": "Royal Hunt",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "4",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-04T21:00+02:00"
+},{
 "nom": "Vera Polozkova & Alexander Manotskov",
 "sala": "Apolo[1]",
 "hora": "19:00",
@@ -260,6 +269,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-09-08T19:00+02:00"
+},{
+"nom": "Elisa Martin + Braindrag",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T20:30+02:00"
 },{
 "nom": "Ruth Lorenzo",
 "sala": "Razzmatazz[2]",
@@ -350,6 +368,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-09-15T19:45+02:00"
+},{
+"nom": "Dreamy Winehose",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T21:00+02:00"
 },{
 "nom": "Blood Red Shoes",
 "sala": "la Nau",
@@ -1701,7 +1728,7 @@
 "ciutat": "",
 "dateTime": "2023-09-30T19:00+02:00"
 },{
-"nom": "Escape with Romeo",
+"nom": "Avida Dollars",
 "sala": "Wolf",
 "hora": "21:00",
 "mes": "SET.2023",
@@ -1863,6 +1890,15 @@
 "ciutat": "",
 "dateTime": "2023-10-05T20:30+02:00"
 },{
+"nom": "Frank Turner",
+"sala": "Wolf",
+"hora": "??:??",
+"mes": "OCT.2023",
+"dia": "5",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-05T20:30+02:00"
+},{
 "nom": "Ginebras",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -1926,6 +1962,15 @@
 "ciutat": "",
 "dateTime": "2023-10-06T20:00+02:00"
 },{
+"nom": "Cadena Perpetua + LuchO al Ataque",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "6",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-06T20:00+02:00"
+},{
 "nom": "Ilegales",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -1955,6 +2000,15 @@
 },{
 "nom": "Albert Pla",
 "sala": "Apolo[1]",
+"hora": "20:30",
+"mes": "OCT.2023",
+"dia": "7",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-07T20:30+02:00"
+},{
+"nom": "Midjungards + Erzsébet",
+"sala": "Wolf",
 "hora": "20:30",
 "mes": "OCT.2023",
 "dia": "7",
@@ -2187,6 +2241,15 @@
 "ciutat": "",
 "dateTime": "2023-10-20T20:30+02:00"
 },{
+"nom": "Paul Alone",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "20",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-20T20:00+02:00"
+},{
 "nom": "The Rubinoos + Suzy & Los Quattro",
 "sala": "Razzmatazz[3]",
 "hora": "20:00",
@@ -2385,6 +2448,15 @@
 "ciutat": "",
 "dateTime": "2023-10-27T19:45+02:00"
 },{
+"nom": "Kuve",
+"sala": "Kuve",
+"hora": "21:30",
+"mes": "OCT.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-27T21:30+02:00"
+},{
 "nom": "Desastre + Chatarra",
 "sala": "La Deskomunal",
 "hora": "20:00",
@@ -2429,6 +2501,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-10-28T20:30+02:00"
+},{
+"nom": "Kami + R de Rumba",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "OCT.2023",
+"dia": "28",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-28T21:00+02:00"
 },{
 "nom": "Kid Francescoli",
 "sala": "Razzmatazz[2]",
@@ -2574,7 +2655,25 @@
 "ciutat": "",
 "dateTime": "2023-11-03T20:00+02:00"
 },{
+"nom": "The Birra's Terror + Último Recurso",
+"sala": "Wolf",
+"hora": "20:00",
+"mes": "NOV.2023",
+"dia": "3",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-11-03T20:00+02:00"
+},{
 "nom": "Hard",
+"sala": "Razzmatazz[1]",
+"hora": "20:00",
+"mes": "NOV.2023",
+"dia": "4",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-11-04T20:00+02:00"
+},{
+"nom": "Helado Negro",
 "sala": "Razzmatazz[1]",
 "hora": "20:00",
 "mes": "NOV.2023",
@@ -2736,6 +2835,15 @@
 "ciutat": "",
 "dateTime": "2023-11-11T18:30+02:00"
 },{
+"nom": "P.A.W.N. Gang",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "NOV.2023",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-11-11T21:00+02:00"
+},{
 "nom": "Pedro Pastor",
 "sala": "Apolo[2]",
 "hora": "20:00",
@@ -2862,6 +2970,15 @@
 "ciutat": "",
 "dateTime": "2023-11-17T20:00+02:00"
 },{
+"nom": "Vecinos + Pinpilinpussies",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "NOV.2023",
+"dia": "17",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-11-17T21:00+02:00"
+},{
 "nom": "La M.O.D.A.",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -2979,6 +3096,15 @@
 "ciutat": "",
 "dateTime": "2023-11-24T19:30+02:00"
 },{
+"nom": "Al·lergiques al Pol·len",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "NOV.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-11-24T21:00+02:00"
+},{
 "nom": "Muerdo",
 "sala": "Apolo[2]",
 "hora": "20:00",
@@ -2996,6 +3122,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-11-25T19:30+02:00"
+},{
+"nom": "Sinkowe",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "NOV.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-11-25T21:00+02:00"
 },{
 "nom": "Los Rebujitos",
 "sala": "Apolo[2]",
@@ -3177,6 +3312,15 @@
 "ciutat": "",
 "dateTime": "2023-12-01T19:30+02:00"
 },{
+"nom": "Nena Daconte",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "DES.2023",
+"dia": "1",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-01T21:00+02:00"
+},{
 "nom": "Rayden",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -3248,6 +3392,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-12-07T20:30+02:00"
+},{
+"nom": "Chameleons",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "DES.2023",
+"dia": "7",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-12-07T21:00+02:00"
 },{
 "nom": "Shrek Rave",
 "sala": "Apolo[1]",
@@ -3356,6 +3509,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-16T20:00+02:00"
+},{
+"nom": "Raydibaum",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T21:00+02:00"
 },{
 "nom": "Sara Socas",
 "sala": "Apolo[2]",
@@ -3671,6 +3833,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2024-03-01T19:30+02:00"
+},{
+"nom": "Amistat",
+"sala": "Wolf",
+"hora": "21:00",
+"mes": "MAR.2024",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2024-03-24T21:00+02:00"
 },{
 "nom": "Mahmood",
 "sala": "Razzmatazz[1]",
