@@ -135,6 +135,15 @@
 "ciutat": "",
 "dateTime": "2023-08-21T20:00+02:00"
 },{
+"nom": "Marcos Valle",
+"sala": "Apolo[2]",
+"hora": "19:00",
+"mes": "AGO.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-21T21:00+02:00"
+},{
 "nom": "T&K",
 "sala": "Razzmatazz[3]",
 "hora": "18:00",
@@ -171,6 +180,24 @@
 "ciutat": "",
 "dateTime": "2023-08-30T19:00+02:00"
 },{
+"nom": "Armandinho",
+"sala": "Apolo[2]",
+"hora": "20:30",
+"mes": "AGO.2023",
+"dia": "30",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-08-30T20:30+02:00"
+},{
+"nom": "Villano Antillano",
+"sala": "Apolo[1]",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "1",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-01T20:30+02:00"
+},{
 "nom": "Conterrâneos",
 "sala": "La Nau",
 "hora": "21:45",
@@ -189,6 +216,24 @@
 "ciutat": "",
 "dateTime": "2023-09-03T21:45+02:00"
 },{
+"nom": "Vera Polozkova & Alexander Manotskov",
+"sala": "Apolo[1]",
+"hora": "19:00",
+"mes": "SET.2023",
+"dia": "6",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-06T19:00+02:00"
+},{
+"nom": "Los Bunkers",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "6",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-06T20:00+02:00"
+},{
 "nom": "Los Fabulosos Cadillacs",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -206,6 +251,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-09-08T19:15+02:00"
+},{
+"nom": "Los Mesoneros",
+"sala": "Apolo[2]",
+"hora": "19:00",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T19:00+02:00"
 },{
 "nom": "Ruth Lorenzo",
 "sala": "Razzmatazz[2]",
@@ -233,6 +287,24 @@
 "textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2023-09-11T20:00+02:00"
+},{
+"nom": "Punkmovies",
+"sala": "Apolo[2]",
+"hora": "19:00",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T19:00+02:00"
+},{
+"nom": "Sara Hebe",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T20:00+02:00"
 },{
 "nom": "Nestor en Bloque",
 "sala": "Razzamatazz[2]",
@@ -287,6 +359,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-22T21:00+02:00"
+},{
+"nom": "La Cabra Mecánica",
+"sala": "Apolo[1]",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-22T20:30+02:00"
 },{
 "nom": "Blackpanda",
 "sala": "Razzmatazz[3]",
@@ -360,6 +441,15 @@
 "ciutat": "",
 "dateTime": "2023-09-19T18:30+02:00"
 },{
+"nom": "Dadi Freyr",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "20",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-20T20:00+02:00"
+},{
 "nom": "Alejo",
 "sala": "La Nau",
 "hora": "21:00",
@@ -369,6 +459,15 @@
 "ciutat": "",
 "dateTime": "2023-09-21T20:30+02:00"
 },{
+"nom": "Squid",
+"sala": "Apolo[2]",
+"hora": "19:00",
+"mes": "SET.2023",
+"dia": "21",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-09-21T19:00+02:00"
+},{
 "nom": "Ciro y Los Persas",
 "sala": "Razzmatazz[1]",
 "hora": "19:00",
@@ -377,6 +476,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-09-21T19:00+02:00"
+},{
+"nom": "Simrit",
+"sala": "Apolo",
+"hora": "19:30",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T19:30+02:00"
 },{
 "nom": "Ile",
 "sala": "Teatre Grec (BAM)",
@@ -1141,7 +1249,7 @@
 "dia": "24",
 "textdia": "diumenge",
 "ciutat": "",
-"dateTime": "2023-09-23T01:00+02:00"
+"dateTime": "2023-09-24T01:00+02:00"
 },{
 "nom": "La Fúmiga",
 "sala": "Platja del Bogatell (BAM)",
@@ -1250,6 +1358,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-23T23:30+02:00"
+},{
+"nom": "Harry Mack",
+"sala": "Apolo[2]",
+"hora": "19:30",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T19:30+02:00"
 },{
 "nom": "Johan Papaconstantino",
 "sala": "Rlb. del Raval (BAM)",
