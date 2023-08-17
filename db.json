@@ -378,6 +378,15 @@
 "ciutat": "",
 "dateTime": "2023-09-15T21:00+02:00"
 },{
+"nom": "Ciudad Celeste + Bum Motion Club",
+"sala": "Heliogàbal",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-22T21:00+02:00"
+},{
 "nom": "Blood Red Shoes",
 "sala": "la Nau",
 "hora": "21:00",
@@ -512,6 +521,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-09-22T19:30+02:00"
+},{
+"nom": "Mon a la Cova + Maria Sevilla",
+"sala": "Heliogàbal",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T121:00+02:00"
 },{
 "nom": "Ile",
 "sala": "Teatre Grec (BAM)",
@@ -1892,6 +1910,15 @@
 },{
 "nom": "Frank Turner",
 "sala": "Wolf",
+"hora": "??:??",
+"mes": "OCT.2023",
+"dia": "5",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-05T20:30+02:00"
+},{
+"nom": "Galactic Empire",
+"sala": "Bóveda",
 "hora": "??:??",
 "mes": "OCT.2023",
 "dia": "5",
