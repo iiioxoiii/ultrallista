@@ -1,10 +1,127 @@
 {
 "concerts": [{
+"nom": "Kabum + Els Elements",
+"sala": "Plç. del Sol",
+"hora": "21:00",
+"mes": "AGO.2023",
+"dia": "17",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-08-17T21:15+02:00"
+},{
+"nom": "Monteperdido",
+"sala": "Jardins la Sedeta",
+"hora": "20:00",
+"mes": "AGO.2023",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-08-18T20:00+02:00"
+},{
+"nom": "Reynaldo & Clara",
+"sala": "Jardins la Sedeta",
+"hora": "21:00",
+"mes": "AGO.2023",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-08-18T21:00+02:00"
+},{
+"nom": "Llum",
+"sala": "Jardins la Sedeta",
+"hora": "22:00",
+"mes": "AGO.2023",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-08-18T22:00+02:00"
+},{
+"nom": "Balma",
+"sala": "Jardins la Sedeta",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-08-18T23:00+02:00"
+},{
+"nom": "Kabum + Arrels de Gràcia",
+"sala": "Plç. del Sol",
+"hora": "22:00",
+"mes": "AGO.2023",
+"dia": "18",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-08-18T22:00+02:00"
+},{
 "nom": "Bad Candy Undernight",
 "sala": "La Nau",
 "hora": "20:00",
 "mes": "AGO.2023",
 "dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T20:00+02:00"
+},{
+"nom": "Neisha",
+"sala": "Plç. de la Sedeta",
+"hora": "20:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T20:00+02:00"
+},{
+"nom": "Pantocrator",
+"sala": "Plç. de la Sedeta",
+"hora": "21:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T21:00+02:00"
+},{
+"nom": "Hologramma",
+"sala": "Plç. de la Sedeta",
+"hora": "22:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T21:00+02:00"
+},{
+"nom": "Mainline Magic Orchestra",
+"sala": "Plç. de la Sedeta",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:00+02:00"
+},{
+"nom": "La Trupe + PD Mussol",
+"sala": "Plç. del Sol",
+"hora": "22:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T22:00+02:00"
+},{
+"nom": "Kabum + Tessa i JP + PD Catcallis",
+"sala": "Plç. del Sol",
+"hora": "21:45",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T21:45+02:00"
+},{
+"nom": "Namorala Pandereiteiras + Zesc",
+"sala": "Plç. del Sol",
+"hora": "20:00",
+"mes": "AGO.2023",
+"dia": "21",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-08-19T20:00+02:00"
