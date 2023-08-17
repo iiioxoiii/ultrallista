@@ -198,6 +198,15 @@
 "ciutat": "",
 "dateTime": "2023-08-30T19:00+02:00"
 },{
+"nom": "Joliette + Murina",
+"sala": "vol,
+"hora": "20:00",
+"mes": "AGO.2023",
+"dia": "30",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-08-30T20:00+02:00"
+},{
 "nom": "Armandinho",
 "sala": "Apolo[2]",
 "hora": "20:30",
@@ -206,6 +215,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-08-30T20:30+02:00"
+},{
+"nom": "Chavalan + Edi Pou",
+"sala": "vol",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "1",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-01T21:30+02:00"
 },{
 "nom": "Villano Antillano",
 "sala": "Apolo[1]",
@@ -261,6 +279,15 @@
 "ciutat": "",
 "dateTime": "2023-09-06T20:00+02:00"
 },{
+"nom": "Nerobambola + Diamante + Negro + Fatamorgana",
+"sala": "Vol",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "7",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-09-07T20:30+02:00"
+},{
 "nom": "Los Fabulosos Cadillacs",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -279,6 +306,15 @@
 "ciutat": "",
 "dateTime": "2023-09-08T19:15+02:00"
 },{
+"nom": "Lisasinson + Fermin",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T21:30+02:00"
+},{
 "nom": "Los Mesoneros",
 "sala": "Apolo[2]",
 "hora": "19:00",
@@ -291,6 +327,15 @@
 "nom": "Elisa Martin + Braindrag",
 "sala": "Wolf",
 "hora": "20:00",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T20:30+02:00"
+},{
+"nom": "Rozi Plain",
+"sala": "Vol",
+"hora": "20:30",
 "mes": "SET.2023",
 "dia": "9",
 "textdia": "dissabte",
@@ -332,6 +377,15 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-09-13T19:00+02:00"
+},{
+"nom": "Big Brave",
+"sala": "Vol",
+"hora": "19:30",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T19:30+02:00"
 },{
 "nom": "Sara Hebe",
 "sala": "Apolo[2]",
@@ -377,6 +431,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-09-15T19:45+02:00"
+},{
+"nom": "Day of The Droids",
+"sala": "Vol",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T20:30+02:00"
 },{
 "nom": "Baglietto & Vitale",
 "sala": "Razzmatazz[2]",
@@ -440,6 +503,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-09-15T21:04+02:00"
+},{
+"nom": "Charnego + Ensaña + Salina",
+"sala": "vol",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-22T20:30+02:00"
 },{
 "nom": "Biznaga (GamBeat)",
 "sala": "Upload",
@@ -1773,6 +1845,15 @@
 "ciutat": "",
 "dateTime": "2023-09-28T20:00+02:00"
 },{
+"nom": "Hide + Forocopia + Vigilant",
+"sala": "vol",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "28",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-09-28T20:00+02:00"
+},{
 "nom": "Powfu",
 "sala": "Razzamatazz[3]",
 "hora": "20:00",
@@ -1844,6 +1925,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-30T18:00+02:00"
+},{
+"nom": "Korine + M!R!M + Body Liquid + Vacio Negro",
+"sala": "Vol",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-30T20:00+02:00"
 },{
 "nom": "The Slow Show",
 "sala": "Razzmatazz[3]",
@@ -2160,6 +2250,15 @@
 "ciutat": "",
 "dateTime": "2023-10-07T20:00+02:00"
 },{
+"nom": "Repion",
+"sala": "Vol",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "7",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-07T21:30+02:00"
+},{
 "nom": "Albert Pla",
 "sala": "Apolo[1]",
 "hora": "20:30",
@@ -2285,6 +2384,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-10-13T21:00+02:00"
+},{
+"nom": "Las Odio + Las Petunias",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "OCT.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-14T21:30+02:00"
 },{
 "nom": "Matute",
 "sala": "Razzmatazz[1]",
@@ -3140,6 +3248,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-11-11T21:00+02:00"
+},{
+"nom": "Antifan",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "NOV.2023",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-11-11T21:30+02:00"
 },{
 "nom": "Pedro Pastor",
 "sala": "Apolo[2]",
