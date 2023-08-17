@@ -1575,6 +1575,42 @@
 "ciutat": "",
 "dateTime": "2023-09-27T19:00+02:00"
 },{
+"nom": "Onda Vaga",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "27",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-27T20:00+02:00"
+},{
+"nom": "Alceu Valença",
+"sala": "Apolo[1]",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "27",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-27T20:00+02:00"
+},{
+"nom": "Laguna Pai + Shushupe",
+"sala": "Apolo[2]",
+"hora": "19:30",
+"mes": "SET.2023",
+"dia": "28",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-09-28T19:30+02:00"
+},{
+"nom": "Little Big",
+"sala": "Apolo[1]",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "28",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-09-28T20:00+02:00"
+},{
 "nom": "Powfu",
 "sala": "Razzamatazz[3]",
 "hora": "20:00",
@@ -1601,6 +1637,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-09-29T19:30+02:00"
+},{
+"nom": "Ocer & Rade",
+"sala": "Apolo[2]",
+"hora": "20:15",
+"mes": "SET.2023",
+"dia": "29",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-29T20:15+02:00"
 },{
 "nom": "Two Lanes",
 "sala": "Razzamatazz[3]",
@@ -1674,6 +1719,15 @@
 "ciutat": "",
 "dateTime": "2023-09-30T21:00+02:00"
 },{
+"nom": "Neuman",
+"sala": "Apolo[2]",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-30T20:30+02:00"
+},{
 "nom": "Loikaemie + Yugular + Tempestad",
 "sala": "Wolf",
 "hora": "20:30",
@@ -1719,6 +1773,15 @@
 "ciutat": "",
 "dateTime": "2023-10-02T20:30+02:00"
 },{
+"nom": "Quilapayún",
+"sala": "Apolo[1]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "3",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-10-03T20:00+02:00"
+},{
 "nom": "Blink-182",
 "sala": "Palau Sant Jordi",
 "hora": "21:30",
@@ -1727,6 +1790,15 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-10-04T21:30+02:00"
+},{
+"nom": "Illapu",
+"sala": "Apolo[1]",
+"hora": "19:00",
+"mes": "OCT.2023",
+"dia": "4",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-10-04T19:00+02:00"
 },{
 "nom": "The Hives",
 "sala": "Razzmatazz[1]",
@@ -1754,6 +1826,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-10-05T20:00+02:00"
+},{
+"nom": "Noi3e",
+"sala": "Apolo[1]",
+"hora": "18:00",
+"mes": "OCT.2023",
+"dia": "5",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-05T18:00+02:00"
 },{
 "nom": "Babasonicos",
 "sala": "Razzmatazz[1]",
@@ -1827,6 +1908,24 @@
 "ciutat": "",
 "dateTime": "2023-10-06T21:00+02:00"
 },{
+"nom": "IAMX",
+"sala": "Apolo[2]",
+"hora": "19:45",
+"mes": "OCT.2023",
+"dia": "6",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-06T19:45+02:00"
+},{
+"nom": "Triángulo de Amor Bizarro",
+"sala": "Apolo[1]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "6",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-06T20:00+02:00"
+},{
 "nom": "Ilegales",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -1844,6 +1943,24 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-10-07T21:00+02:00"
+},{
+"nom": "Elliot Murphy",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "7",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-07T20:00+02:00"
+},{
+"nom": "Albert Pla",
+"sala": "Apolo[1]",
+"hora": "20:30",
+"mes": "OCT.2023",
+"dia": "7",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-07T20:30+02:00"
 },{
 "nom": "Fetcher",
 "sala": "Razzmatazz[1]",
@@ -1871,6 +1988,24 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2023-10-10T19:30+02:00"
+},{
+"nom": "Soen",
+"sala": "Apolo[1]",
+"hora": "19:30",
+"mes": "OCT.2023",
+"dia": "10",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-10-10T19:30+02:00"
+},{
+"nom": "Muchapepper",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "10",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-10-10T20:00+02:00"
 },{
 "nom": "Illenium",
 "sala": "Razzmatazz[1]",
@@ -1926,6 +2061,15 @@
 "ciutat": "",
 "dateTime": "2023-10-14T19:00+02:00"
 },{
+"nom": "Bely Basarte",
+"sala": "Apolo[1]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-14T20:00+02:00"
+},{
 "nom": "Avern + Voul + Ered",
 "sala": "Razzmatazz[3]",
 "hora": "20:00",
@@ -1971,6 +2115,15 @@
 "ciutat": "",
 "dateTime": "2023-10-18T19:00+02:00"
 },{
+"nom": "Laguna",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "18",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-10-18T20:00+02:00"
+},{
 "nom": "Shout out Louds",
 "sala": "La Nau",
 "hora": "21:00",
@@ -1989,9 +2142,36 @@
 "ciutat": "",
 "dateTime": "2023-10-19T20:30+02:00"
 },{
+"nom": "Anna Andreu + Aida Oset",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "19",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-19T20:00+02:00"
+},{
+"nom": "Zeca Pagodidinho",
+"sala": "Apolo[1]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "19",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-19T20:00+02:00"
+},{
 "nom": "Funkiwis",
 "sala": "La Nau",
 "hora": "22:00",
+"mes": "OCT.2023",
+"dia": "20",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-20T20:00+02:00"
+},{
+"nom": "Cardellino",
+"sala": "Apolo[2]",
+"hora": "20:00",
 "mes": "OCT.2023",
 "dia": "20",
 "textdia": "divendres",
@@ -2015,6 +2195,24 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-10-20T20:30+02:00"
+},{
+"nom": "León Benavente",
+"sala": "Razzmatazz[1]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-21T20:00+02:00"
+},{
+"nom": "Dustin O'Halloran",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-21T20:00+02:00"
 },{
 "nom": "Highly Suspect",
 "sala": "Razzmatazz[2]",
@@ -2061,6 +2259,15 @@
 "ciutat": "",
 "dateTime": "2023-10-22T19:00+02:00"
 },{
+"nom": "Escola de Rock",
+"sala": "Apolo[2]",
+"hora": "11:00",
+"mes": "OCT.2023",
+"dia": "22",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-10-22T21:00+02:00"
+},{
 "nom": "El Noro y 1a Clase",
 "sala": "La Nau",
 "hora": "20:00",
@@ -2070,8 +2277,26 @@
 "ciutat": "",
 "dateTime": "2023-10-22T20:00+02:00"
 },{
+"nom": "Gospel Meets Flamenco",
+"sala": "Apolo[1]",
+"hora": "19:30",
+"mes": "OCT.2023",
+"dia": "22",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-10-22T19:30+02:00"
+},{
 "nom": "Lauren Mayberry",
 "sala": "La Nau",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "24",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-10-22T20:00+02:00"
+},{
+"nom": "The Murder Capital",
+"sala": "Apolo[2]",
 "hora": "20:00",
 "mes": "OCT.2023",
 "dia": "24",
@@ -2097,6 +2322,15 @@
 "ciutat": "",
 "dateTime": "2023-10-25T20:00+02:00"
 },{
+"nom": "Catupecu Machu",
+"sala": "Apolo[1]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "25",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-10-25T20:00+02:00"
+},{
 "nom": "Blind Guardian + Dawn of Extintion",
 "sala": "Razzmatazz[1]",
 "hora": "19:00",
@@ -2104,7 +2338,34 @@
 "dia": "26",
 "textdia": "dijous",
 "ciutat": "",
+"dateTime": "2023-10-26T19:00+02:00"
+},{
+"nom": "The Gramophone Allstars",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "26",
+"textdia": "dijous",
+"ciutat": "",
 "dateTime": "2023-10-26T20:00+02:00"
+},{
+"nom": "Luna",
+"sala": "Apolo[2]",
+"hora": "19:30",
+"mes": "OCT.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-27T19:30+02:00"
+},{
+"nom": "Inhaler",
+"sala": "Apolo[1]",
+"hora": "19:30",
+"mes": "OCT.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-27T19:30+02:00"
 },{
 "nom": "Thylacine",
 "sala": "Razzmatazz[2]",
@@ -2127,6 +2388,24 @@
 "nom": "Desastre + Chatarra",
 "sala": "La Deskomunal",
 "hora": "20:00",
+"mes": "SET.2023",
+"dia": "28",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-28T20:00+02:00"
+},{
+"nom": "Drab Majesty + Zanias + Days of Sorrow",
+"sala": "Apolo[2]",
+"hora": "19:00",
+"mes": "SET.2023",
+"dia": "28",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-28T19:00+02:00"
+},{
+"nom": "Canelita + Diego Morao",
+"sala": "Apolo[1]",
+"hora": "19:00",
 "mes": "SET.2023",
 "dia": "28",
 "textdia": "dissabte",
@@ -2160,6 +2439,15 @@
 "ciutat": "",
 "dateTime": "2023-10-28T19:30+02:00"
 },{
+"nom": "Weyes Blood",
+"sala": "Apolo[1]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "31",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-10-31T20:00+02:00"
+},{
 "nom": "Fazerdaze",
 "sala": "Razzmatazz[3]",
 "hora": "19:30",
@@ -2177,6 +2465,15 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2023-10-31T19:30+02:00"
+},{
+"nom": "Gustavo Cordera",
+"sala": "Apolo[2]",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "31",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-10-31T20:00+02:00"
 },{
 "nom": "Sleaford Mods",
 "sala": "Apolo",
