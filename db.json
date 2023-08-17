@@ -171,6 +171,24 @@
 "ciutat": "",
 "dateTime": "2023-08-26T19:00+02:00"
 },{
+"nom": "Bedsiders",
+"sala": "Ceferino",
+"hora": "21:00",
+"mes": "AGO.2023",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-08-25T13:00+02:00"
+},{
+"nom": "Electrikeel + Arkhos",
+"sala": "Ceferino",
+"hora": "20:00",
+"mes": "AGO.2023",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-26T20:00+02:00"
+},{
 "nom": "Kevin Kaarl",
 "sala": "Razzmatazz[2]",
 "hora": "19:00",
@@ -3824,6 +3842,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-02-17T20:00+02:00"
+},{
+"nom": "Vidal",
+"sala": "Ceferino",
+"hora": "21:00",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T21:00+02:00"
 },{
 "nom": "Ladilla Rusa + Futurachicapop",
 "sala": "Razzmatazz[1]",
