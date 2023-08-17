@@ -369,6 +369,915 @@
 "ciutat": "",
 "dateTime": "2023-09-21T19:00+02:00"
 },{
+"nom": "Ile",
+"sala": "Teatre Grec (BAM)",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T21:30+02:00"
+},{
+"nom": "Pongo",
+"sala": "Teatre Grec (BAM)",
+"hora": "23:30",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T23:30+02:00"
+},{
+"nom": "Selma Bruna",
+"sala": "Jardinets Pla i Armengol(BAM)",
+"hora": "20:15",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T20:15+02:00"
+},{
+"nom": "The Sants",
+"sala": "Menéndez i Pelayo (BAM)",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T21:30+02:00"
+},{
+"nom": "Buhos",
+"sala": "Menéndez i Pelayo (BAM)",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T23:00+02:00"
+},{
+"nom": "Meritxell Nedderman",
+"sala": "Jardinets Pla i Armengol(BAM)",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T22:00+02:00"
+},{
+"nom": "Lia Kali",
+"sala": "Jardinets Pla i Armengol(BAM)",
+"hora": "23:45",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T23:45+02:00"
+},{
+"nom": "Banda Municipal de BCN",
+"sala": "Plç. major Nou Barris(BAM)",
+"hora": "20:45",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T22:00+02:00"
+},{
+"nom": "Boye",
+"sala": "Platja del Bogatell(BAM)",
+"hora": "21:45",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T22:00+02:00"
+},{
+"nom": "Ginestà",
+"sala": "Platja del Bogatell(BAM)",
+"hora": "22:30",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T22:30+02:00"
+},{
+"nom": "Simona",
+"sala": "Moll de la Fusta (BAM)",
+"hora": "22:30",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T22:30+02:00"
+},{
+"nom": "Anika",
+"sala": "Plaça Reial (BAM)",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T21:00+02:00"
+},{
+"nom": "Odete",
+"sala": "Rambla del Rabal (BAM)",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T21:30+02:00"
+},{
+"nom": "Belgrado",
+"sala": "Plaça Reial (BAM)",
+"hora": "22:30",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T22:30+02:00"
+},{
+"nom": "Shego",
+"sala": "Plaça Reial (BAM)",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T23:00+02:00"
+},{
+"nom": "Daria Kolomiec",
+"sala": "Passeig dels Til·lers (BAM)",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T22:00+02:00"
+},{
+"nom": "L'beel",
+"sala": "Fabra i Coats (BAM)",
+"hora": "21:15",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T21:15+02:00"
+},{
+"nom": "Masta Quba",
+"sala": "Fabra i Coats (BAM)",
+"hora": "22:30",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T22:30+02:00"
+},{
+"nom": "Eu.Clides",
+"sala": "Rambla del Rabal (BAM)",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T23:00+02:00"
+},{
+"nom": "Maricas",
+"sala": "Moll de la Fusta (BAM)",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T23:59+02:00"
+},{
+"nom": "Ana Colom + Ánfeles Toledano",
+"sala": "Av. de la Catedral",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T23:59+02:00"
+},{
+"nom": "Perrate",
+"sala": "Av. de la Catedral (BAM)",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T23:59+02:00"
+},{
+"nom": "Vicco",
+"sala": "Platja del Bogatell(BAM)",
+"hora": "02:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T02:30+02:00"
+},{
+"nom": "Escola Superior del Liceu",
+"sala": "Jardins Pla i Armengol(BAM)",
+"hora": "12:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T12:30+02:00"
+},{
+"nom": "Maryana Klotchko",
+"sala": "Jardins Pla i Armengol(BAM)",
+"hora": "20:15",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T20:15+02:00"
+},{
+"nom": "Adriano Galante",
+"sala": "Jardins Pla i Armengol(BAM)",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T22:00+02:00"
+},{
+"nom": "Bikôkô",
+"sala": "Jardins Pla i Armengol(BAM)",
+"hora": "23:45",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T23:45+02:00"
+},{
+"nom": "OBC",
+"sala": "Plç. major de Nou Barris(BAM)",
+"hora": "22:45",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T22:45+02:00"
+},{
+"nom": "Sexenni",
+"sala": "Platja del Bogatell (BAM)",
+"hora": "19:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T19:30+02:00"
+},{
+"nom": "Suu",
+"sala": "Platja del Bogatell (BAM)",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T20:30+02:00"
+},{
+"nom": "Dani Fernández",
+"sala": "Platja del Bogatell (BAM)",
+"hora": "21:45",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T21:45+02:00"
+},{
+"nom": "Els Catarres",
+"sala": "Platja del Bogatell (BAM)",
+"hora": "23:25",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T23:25+02:00"
+},{
+"nom": "Edu Esteve",
+"sala": "Plç. Menéndez i Pelayo(BAM)",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T20:00+02:00"
+},{
+"nom": "Triquell",
+"sala": "Plç. Menéndez i Pelayo(BAM)",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T21:00+02:00"
+},{
+"nom": "Lildami",
+"sala": "Plç. Menéndez i Pelayo(BAM)",
+"hora": "22:15",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T22:15+02:00"
+},{
+"nom": "Rumba All Stars",
+"sala": "Av. Catedral (BAM)",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T22:00+02:00"
+},{
+"nom": "Els Senyora",
+"sala": "Passeig dels Til·lers (BAM)",
+"hora": "13:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T13:00+02:00"
+},{
+"nom": "Liraz",
+"sala": "Passeig dels Til·lers (BAM)",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T22:00+02:00"
+},{
+"nom": "Kaïro Band",
+"sala": "Fabra i Coats(BAM)",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T21:30+02:00"
+},{
+"nom": "Merina Gris",
+"sala": "Fabra i Coats(BAM)",
+"hora": "22:15",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T22:15+02:00"
+},{
+"nom": "Rodrigo Laviña y su combo",
+"sala": "Fabra i Coats(BAM)",
+"hora": "23:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T23:30+02:00"
+},{
+"nom": "Mukti",
+"sala": "Fabra i Coats [H]. (BAM)",
+"hora": "16:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T16:00+02:00"
+},{
+"nom": "Marta Knight",
+"sala": "Fabra i Coats [H]. (BAM)",
+"hora": "17:15",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T17:15+02:00"
+},{
+"nom": "Alison Darwin",
+"sala": "Fabra i Coats [H]. (BAM)",
+"hora": "18:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T18:30+02:00"
+},{
+"nom": "Ruïnosa y Las Strippers de Rahola",
+"sala": "Fabra i Coats [H]. (BAM)",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T20:00+02:00"
+},{
+"nom": "Coàgul",
+"sala": "fabra i Coats [!]. (BAM)",
+"hora": "16:45",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T16:45+02:00"
+},{
+"nom": "O'o",
+"sala": "fabra i Coats [!]. (BAM)",
+"hora": "18:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T18:00+02:00"
+},{
+"nom": "Coure",
+"sala": "fabra i Coats [!]. (BAM)",
+"hora": "19:15",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T19:15+02:00"
+},{
+"nom": "Alba Alsina Quintet",
+"sala": "Bostik(BAM)",
+"hora": "12:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T12:00+02:00"
+},{
+"nom": "The Salsa Punk Orkestra",
+"sala": "Bostik(BAM)",
+"hora": "13:30",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T13:30+02:00"
+},{
+"nom": "Dyamise Squad",
+"sala": "Bostik(BAM)",
+"hora": "15:15",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T15:15+02:00"
+},{
+"nom": "Spice Berberechos",
+"sala": "Pg. dels Til·lers(BAM)",
+"hora": "13:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T13:00+02:00"
+},{
+"nom": "HHBC + EE",
+"sala": "Pg. dels Til·lers(BAM)",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T22:00+02:00"
+},{
+"nom": "1000 veus x Victor Jara",
+"sala": "Av. Catedral(BAM)",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T22:00+02:00"
+},{
+"nom": "Dj",
+"sala": "Menéndez i Pelayo(BAM)",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T20:00+02:00"
+},{
+"nom": "Julen",
+"sala": "Menéndez i Pelayo(BAM)",
+"hora": "21:15",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T21:15+02:00"
+},{
+"nom": "Mosaic",
+"sala": "Menéndez i Pelayo(BAM)",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T23:00+02:00"
+},{
+"nom": "Portobello",
+"sala": "Menéndez i Pelayo(BAM)",
+"hora": "00:45",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T00:45+02:00"
+},{
+"nom": "Lucía Pulido",
+"sala": "Plç. Major de Nou Barris(BAM)",
+"hora": "13:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T13:00+02:00"
+},{
+"nom": "Orquestra i Cor del Liceu",
+"sala": "Plç. Major de Nou Barris(BAM)",
+"hora": "20:45",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T20:45+02:00"
+},{
+"nom": "Escola Jam Session",
+"sala": "Jardins Pla i Armengol(BAM)",
+"hora": "12:30",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T12:30+02:00"
+},{
+"nom": "Juan Quintero",
+"sala": "Jardins Pla i Armengol(BAM)",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T20:30+02:00"
+},{
+"nom": "Albert Sanz",
+"sala": "Jardins Pla i Armengol(BAM)",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T22:00+02:00"
+},{
+"nom": "Sabina Witt",
+"sala": "Jardins Pla i Armengol(BAM)",
+"hora": "23:45",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T23:45+02:00"
+},{
+"nom": "Tarta Relena-Cocanha-Los Sara Fontan",
+"sala": "Teatre Grec(BAM)",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T22:00+02:00"
+},{
+"nom": "Bala Desejo",
+"sala": "Teatre Grec(BAM)",
+"hora": "23:30",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T23:30+02:00"
+},{
+"nom": "[**i**]",
+"sala": "Moll de la Fusta(BAM)",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T20:00+02:00"
+},{
+"nom": "[**i**]",
+"sala": "Moll de la Fusta(BAM)",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T20:30+02:00"
+},{
+"nom": "[**i**]",
+"sala": "Moll de la Fusta(BAM)",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T21:00+02:00"
+},{
+"nom": "Flamenco Queer",
+"sala": "Moll de la Fusta(BAM)",
+"hora": "22:30",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T22:30+02:00"
+},{
+"nom": "La Cebolla",
+"sala": "Moll de la Fusta(BAM)",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T23:59+02:00"
+},{
+"nom": "Abundance",
+"sala": "Rambla del Raval(BAM)",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T21:30+02:00"
+},{
+"nom": "Dame are",
+"sala": "Rambla del Raval(BAM)",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T23:00+02:00"
+},{
+"nom": "Remei de ca la Fresca",
+"sala": "Ant. Fàbr. Estr.Damm(BAM)",
+"hora": "14:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T14:00+02:00"
+},{
+"nom": "Aiko, El Grupo",
+"sala": "Ant. Fàbr. Estr.Damm(BAM)",
+"hora": "15:20",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T15:20+02:00"
+},{
+"nom": "Adelaida",
+"sala": "Ant. Fàbr. Estr.Damm(BAM)",
+"hora": "16:50",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T16:50+02:00"
+},{
+"nom": "Lafrancesssa",
+"sala": "Ant. Fàbr. Estr.Damm(BAM)",
+"hora": "18:10",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T18:10+02:00"
+},{
+"nom": "Nerve Agent",
+"sala": "Ant. Fàbr. Estr.Damm(BAM)",
+"hora": "19:30",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T19:30+02:00"
+},{
+"nom": "Bad Legs",
+"sala": "Ant. Fàbr. Estr.Damm(BAM)",
+"hora": "20:35",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T20:35+02:00"
+},{
+"nom": "Queen Asher & Rehema Tajiri",
+"sala": "Rambla del Raval(BAM)",
+"hora": "00:30",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T00:30+02:00"
+},{
+"nom": "Baiuca",
+"sala": "Moll de la Fusta(BAM)",
+"hora": "01:30",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T01:30+02:00"
+},{
+"nom": "Marina y su Melao",
+"sala": "Fabra i Coats(BAM)",
+"hora": "00:45",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T00:45+02:00"
+},{
+"nom": "Lalo López Ltd. Orchestra",
+"sala": "Av. Catedral (BAM)",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T23:59+02:00"
+},{
+"nom": "Doctor Prats",
+"sala": "Plç. Menéndez i Pelayo(BAM)",
+"hora": "23:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T23:30+02:00"
+},{
+"nom": "The Tyets",
+"sala": "Plç. Menéndez i Pelayo(BAM)",
+"hora": "01:00",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-23T01:00+02:00"
+},{
+"nom": "La Fúmiga",
+"sala": "Platja del Bogatell (BAM)",
+"hora": "01:10",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T01:10+02:00"
+},{
+"nom": "Jaume Emma",
+"sala": "Moll de la Fusta(BAM)",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T20:30+02:00"
+},{
+"nom": "Mad Cartridge",
+"sala": "Moll de la Fusta(BAM)",
+"hora": "21:15",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T21:15+02:00"
+},{
+"nom": "Mushkaa",
+"sala": "Moll de la Fusta(BAM)",
+"hora": "22:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T22:30+02:00"
+},{
+"nom": "Mercury",
+"sala": "Moll de la Fusta(BAM)",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T23:59+02:00"
+},{
+"nom": "Alyona Alyona",
+"sala": "Rlb. del Raval (BAM)",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T21:30+02:00"
+},{
+"nom": "The Voodo Club",
+"sala": "Rbl. del Raval (BAM)",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T23:00+02:00"
+},{
+"nom": "Divide and Dissolve",
+"sala": "Plç. Reial (BAM)",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T20:00+02:00"
+},{
+"nom": "Heather",
+"sala": "Plç. Reial (BAM)",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T21:30+02:00"
+},{
+"nom": "The Notwist",
+"sala": "plç. Reial (BAM)",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T23:00+02:00"
+},{
+"nom": "Dakhabrakha",
+"sala": "Teatre Grec (BAM)",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T21:30+02:00"
+},{
+"nom": "Marina Herlop",
+"sala": "Teatre Grec (BAM)",
+"hora": "23:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T23:30+02:00"
+},{
+"nom": "Johan Papaconstantino",
+"sala": "Rlb. del Raval (BAM)",
+"hora": "00:30",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T00:30+02:00"
+},{
+"nom": "Anier",
+"sala": "Moll de la Fusta(BAM)",
+"hora": "01:30",
+"mes": "SET.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-24T01:30+02:00"
+},{
+"nom": "Nidia",
+"sala": "Rambla del Rabal (BAM)",
+"hora": "00:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T00:30+02:00"
+},{
+"nom": "Luna Ki",
+"sala": "Moll de la Fusta (BAM)",
+"hora": "01:30",
+"mes": "SET.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-23T01:30+02:00"
+},{
 "nom": "Adán Borges i A. Foseca",
 "sala": "La Deskomunal",
 "hora": "21:00",
@@ -413,6 +1322,96 @@
 "textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2023-09-25T19:00+02:00"
+},{
+"nom": "Verushka",
+"sala": "Ant. Fàb. Estrella Damm (BAM)",
+"hora": "14:00",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T14:00+02:00"
+},{
+"nom": "Oqbqbo",
+"sala": "Ant. Fàb. Estrella Damm (BAM)",
+"hora": "15:20",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T15:20+02:00"
+},{
+"nom": "Noia",
+"sala": "Ant. Fàb. Estrella Damm (BAM)",
+"hora": "16:40",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T16:40+02:00"
+},{
+"nom": "Pablopablo",
+"sala": "Ant. Fàb. Estrella Damm (BAM)",
+"hora": "18:00",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T18:00+02:00"
+},{
+"nom": "Claraguilar",
+"sala": "Ant. Fàb. Estrella Damm (BAM)",
+"hora": "19:20",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T19:20+02:00"
+},{
+"nom": "Poly Chain",
+"sala": "Ant. Fàb. Estrella Damm (BAM)",
+"hora": "20:25",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T20:25+02:00"
+},{
+"nom": "Taller de Músics",
+"sala": "Jardins Pla i Armengol (BAM)",
+"hora": "11:00",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T11:00+02:00"
+},{
+"nom": "ESMUC",
+"sala": "Jardins Pla i Armengol",
+"hora": "13:00",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T13:00+02:00"
+},{
+"nom": "Roly Berrio",
+"sala": "Plç. Major de Nou Barris",
+"hora": "13:00",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T13:00+02:00"
+},{
+"nom": "Vozes + Eva Fernández",
+"sala": "Plç. Major de Nou Barris",
+"hora": "19:30",
+"mes": "SET.2023",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-25T19:30+02:00"
 },{
 "nom": "Warlen E. Hodges",
 "sala": "Razzmatazz[3]",
