@@ -1579,10 +1579,37 @@
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
 "mes": "DES.2023",
-"dia": "21",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T19:30+02:00"
+},{
+"nom": "Los Cigarros",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "GEN.2024",
+"dia": "13",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-13T19:30+02:00"
+},{
+"nom": "Marc Ginale",
+"sala": "Razzmatazz[2]",
+"hora": "20:00",
+"mes": "GEN.2024",
+"dia": "17",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2024-01-17T20:00+02:00"
+},{
+"nom": "Queralt Lahoz + Cristian de Moret",
+"sala": "Razzmatazz[1]",
+"hora": "21:00",
+"mes": "GEN.2024",
+"dia": "18",
 "textdia": "dijous",
 "ciutat": "",
-"dateTime": "2023-12-21T19:30+02:00"
+"dateTime": "2024-01-18T21:00+02:00"
 },{
 "nom": "Nikone",
 "sala": "Bikini",
@@ -1593,6 +1620,24 @@
 "ciutat": "",
 "dateTime": "2024-01-19T19:30+02:00"
 },{
+"nom": "Cupido",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "GEN.2024",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-20T19:30+02:00"
+},{
+"nom": "Cano",
+"sala": "Razzmatazz[1]",
+"hora": "20:00",
+"mes": "GEN.2024",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-20T20:30+02:00"
+},{
 "nom": "Ters",
 "sala": "La Nau",
 "hora": "21:00",
@@ -1601,4 +1646,85 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2024-01-21T21:00+02:00"
+},{
+"nom": "Sidonie",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "GEN.2024",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-27T19:30+02:00"
+},{
+"nom": "Pau Vallvé",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "FEB.2024",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-02T19:30+02:00"
+},{
+"nom": "Personal Trainer",
+"sala": "Razzmatazz[3]",
+"hora": "19:30",
+"mes": "FEB.2024",
+"dia": "6",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2024-02-06T19:30+02:00"
+},{
+"nom": "La reina del pop",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "FEB.2024",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-09T19:30+02:00"
+},{
+"nom": "Greg Taro",
+"sala": "Razzmatazz[3]",
+"hora": "19:30",
+"mes": "FEB.2024",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-09T19:30+02:00"
+},{
+"nom": "Ladilla Rusa + Futurachicapop",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "FEB.2024",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-24T19:30+02:00"
+},{
+"nom": "Rayden",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "MAR.2024",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-03-01T19:30+02:00"
+},{
+"nom": "Mahmood",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "MAR.2024",
+"dia": "9",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-03-09T19:00+02:00"
+},{
+"nom": "La K'Onga",
+"sala": "Razzmatazz[1]",
+"hora": "19:15",
+"mes": "JUN.2024",
+"dia": "11",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2024-06-11T19:30+02:00"
 }]}
