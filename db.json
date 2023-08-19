@@ -72,6 +72,186 @@
 "ciutat": "",
 "dateTime": "2023-08-19T20:00+02:00"
 },{
+"nom": "Vadi (F. de Gràcia)",
+"sala": "Carrer Mozart",
+"hora": "22:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T22:00+02:00"
+},{
+"nom": "Milk (F. de Gràcia)",
+"sala": "Carrer Mozart",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T22:01+02:00"
+},{
+"nom": "Gyoza (F. de Gràcia)",
+"sala": "Carrer Mozart",
+"hora": "23:59",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T22:01+02:00"
+},{
+"nom": "Opus Pain (F. de Gràcia)",
+"sala": "Carrer Progrés",
+"hora": "22:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T22:01+02:00"
+},{
+"nom": "Mis amigas fuman (F. de Gràcia)",
+"sala": "Carrer Progrés",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T22:02+02:00"
+},{
+"nom": "DP Parra's Brothers (F. de Gràcia)",
+"sala": "Carrer Progrés",
+"hora": "23:59",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:59+02:00"
+},{
+"nom": "Montflorit (F. de Gràcia)",
+"sala": "Carrer Fraternitat de Dalt",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:00+02:00"
+},{
+"nom": "Nuala Irish Dancers (F. de Gràcia)",
+"sala": "Espai Tasta Gràcia",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:00+02:00"
+},{
+"nom": "Revolución Guapachosa (F. de Gràcia)",
+"sala": "Carrer Perill",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:00+02:00"
+},{
+"nom": "Gozalow (F. de Gràcia)",
+"sala": "Carrer Perill",
+"hora": "23:59",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:59+02:00"
+},{
+"nom": "Dani Nel·lo (F. de Gràcia)",
+"sala": "C. Joan Blanques dB",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:00+02:00"
+},{
+"nom": "BKT Brass Band (F. de Gràcia)",
+"sala": "Travessia Sant Antoni",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:00+02:00"
+},{
+"nom": "S'Temple Bar (F. de Gràcia)",
+"sala": "Carrer Puigmartí",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:00+02:00"
+},{
+"nom": "Bacoa (F. de Gràcia)",
+"sala": "Carrer Lluís Vives",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:00+02:00"
+},{
+"nom": "Sebastian Reyes(F. de Gràcia)",
+"sala": "Carrer Puigmartí",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:00+02:00"
+},{
+"nom": "The Pandemials(F. de Gràcia)",
+"sala": "Passeig Sant Joan",
+"hora": "23:00",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:00+02:00"
+},{
+"nom": "Impro con Limón (F. de Gràcia)",
+"sala": "C. Fraternitat de Baix",
+"hora": "23:59",
+"mes": "AGO.2023",
+"dia": "19",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-19T23:00+02:00"
+},{
+"nom": "Kimbery i Clark(F. de Gràcia)",
+"sala": "Fraternitat de Dalt",
+"hora": "00:30",
+"mes": "AGO.2023",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-20T00:30+02:00"
+},{
+"nom": "Ruïnosa + Stippers de Rahola(F. de Gràcia)",
+"sala": "c. la Perla",
+"hora": "00:30",
+"mes": "AGO.2023",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-20T00:30+02:00"
+},{
+"nom": "The Baptismers (F. de Gràcia)",
+"sala": "Carrer Mozart",
+"hora": "01:00",
+"mes": "AGO.2023",
+"dia": "20",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-08-20T00:01+02:00"
+},{
 "nom": "Neisha",
 "sala": "Plç. de la Sedeta",
 "hora": "20:00",
@@ -3365,15 +3545,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-11-11T20:30+02:00"
-},{
-"nom": "PAWN Gang",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "11",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-11T21:00+02:00"
 },{
 "nom": "The Sonics + Los Torontos + Sinciders",
 "sala": "Razzmatazz[2]",
