@@ -531,6 +531,33 @@
 "ciutat": "",
 "dateTime": "2023-09-08T19:00+02:00"
 },{
+"nom": "Death Row Killer Group",
+"sala": "el niu",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T20:00+02:00"
+},{
+"nom": "Les Eines",
+"sala": "el niu",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T21:00+02:00"
+},{
+"nom": "Espinoza Espinoza",
+"sala": "el niu",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T22:00+02:00"
+},{
 "nom": "Elisa Martin + Braindrag",
 "sala": "Wolf",
 "hora": "20:00",
@@ -675,6 +702,33 @@
 "ciutat": "",
 "dateTime": "2023-09-15T21:01+02:00"
 },{
+"nom": "DaDa Dance SChool",
+"sala": "El Niu",
+"hora": "19:00",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T19:00+02:00"
+},{
+"nom": "Enoch DMK",
+"sala": "El Niu",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T22:00+02:00"
+},{
+"nom": "Beat Pambelé",
+"sala": "El Niu",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T23:59+02:00"
+},{
 "nom": "Elephan Stone (GamBeat)",
 "sala": "Upload",
 "hora": "??:??",
@@ -719,6 +773,33 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-16T20:30+02:00"
+},{
+"nom": "Punji Trap",
+"sala": "El Niu",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T21:30+02:00"
+},{
+"nom": "Vicky Groovy",
+"sala": "El Niu",
+"hora": "22:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T22:30+02:00"
+},{
+"nom": "Nuria Scarp",
+"sala": "El Niu",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:59+02:00"
 },{
 "nom": "Biznaga (GamBeat)",
 "sala": "Upload",
@@ -818,6 +899,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-09-17T19:30+02:00"
+},{
+"nom": "la A minúscula",
+"sala": "El Niu",
+"hora": "12:00",
+"mes": "SET.2023",
+"dia": "17",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-17T12:00+02:00"
 },{
 "nom": "Fémina",
 "sala": "La Nau",
@@ -2376,6 +2466,24 @@
 "ciutat": "",
 "dateTime": "2023-10-06T20:30+02:00"
 },{
+"nom": "Blaine Reinenger",
+"sala": "c.c. La Sedeta (LEM)",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "6",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-06T20:00+02:00"
+},{
+"nom": "Metronome's Tales",
+"sala": "c.c. La Sedeta (LEM)",
+"hora": "21:00",
+"mes": "OCT.2023",
+"dia": "6",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-06T21:00+02:00"
+},{
 "nom": "Cobardes",
 "sala": "Razzmatazz[3]",
 "hora": "20:30",
@@ -2600,6 +2708,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-10-14T21:30+02:00"
+},{
+"nom": "Orchestra Fireluche",
+"sala": "Tradicionarius (LEM)",
+"hora": "20:30",
+"mes": "OCT.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-14T20:30+02:00"
 },{
 "nom": "Matute",
 "sala": "Razzmatazz[1]",
