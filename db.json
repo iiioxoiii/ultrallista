@@ -297,6 +297,15 @@
 "ciutat": "",
 "dateTime": "2023-08-21T19:30+02:00"
 },{
+"nom": "Dona Negra Canta",
+"sala": "C.C. Can Verdaguer",
+"hora": "19:30",
+"mes": "AGO.2023",
+"dia": "22",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-08-21T19:30+02:00"
+},{
 "nom": "Hugo Franco i Manu S. (F. Sants)",
 "sala": "C. Comptes de Bell-lloc",
 "hora": "20:00",
@@ -611,6 +620,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-08-24T23:00+02:00"
+},{
+"nom": "El Cantante del Greco",
+"sala": "C.C. Can Verdaguer",
+"hora": "19:30",
+"mes": "AGO.2023",
+"dia": "24",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-08-24T19:30+02:00"
 },{
 "nom": "New Brand Band (F. Sants)",
 "sala": "C. Vallespir de Dalt",
