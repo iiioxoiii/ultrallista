@@ -1530,6 +1530,87 @@
 "ciutat": "",
 "dateTime": "2023-09-15T21:04+02:00"
 },{
+"nom": "La Cali",
+"sala": "La Flor de Maig",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T20:00+02:00"
+},{
+"nom": "Lali Puma",
+"sala": "La Flor de Maig",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-16T21:00+02:00"
+},{
+"nom": "Xavi Mata",
+"sala": "La Flor de Maig",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-16T22:00+02:00"
+},{
+"nom": "Pinya Colada",
+"sala": "La Flor de Maig",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-16T23:00+02:00"
+},{
+"nom": "Clab de Cara",
+"sala": "La Flor de Maig",
+"hora": "20:15",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T20:15+02:00"
+},{
+"nom": "Damn Mostaza",
+"sala": "La Flor de Maig",
+"hora": "21:15",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T21:15+02:00"
+},{
+"nom": "Pararrayos",
+"sala": "la Flor de Maig",
+"hora": "22:15",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T22:15+02:00"
+},{
+"nom": "Die Krögers",
+"sala": "La Flor de Maig",
+"hora": "23:15",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:15+02:00"
+},{
+"nom": "Titin'Miles",
+"sala": "La Flor de Maig",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:59+02:00"
+},{
 "nom": "Charnego + Ensaña + Salina",
 "sala": "vol",
 "hora": "20:30",
