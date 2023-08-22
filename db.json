@@ -558,6 +558,33 @@
 "ciutat": "",
 "dateTime": "2023-08-23T20:00+02:00"
 },{
+"nom": "Los Drumonds",
+"sala": "Milano",
+"hora": "19:30",
+"mes": "AGO.2023",
+"dia": "23",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-08-23T18:30+02:00"
+},{
+"nom": "Los Drumonds",
+"sala": "Milano",
+"hora": "21:30",
+"mes": "AGO.2023",
+"dia": "23",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-08-23T21:30+02:00"
+},{
+"nom": "Emma Fernández Quarter",
+"sala": "Poble Espanyol",
+"hora": "21:15",
+"mes": "AGO.2023",
+"dia": "23",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-08-23T21:15+02:00"
+},{
 "nom": "Mery Miles",
 "sala": "Jamboree[1] ",
 "hora": "22:30",
@@ -566,6 +593,24 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-08-24T22:30+02:00"
+},{
+"nom": "Yakerty-Yak",
+"sala": "Milano ",
+"hora": "19:30",
+"mes": "AGO.2023",
+"dia": "24",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-08-24T19:30+02:00"
+},{
+"nom": "Yakerty-Yak",
+"sala": "Milano ",
+"hora": "21:30",
+"mes": "AGO.2023",
+"dia": "24",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-08-24T21:30+02:00"
 },{
 "nom": "Arrels de Gràcia (F. Sants)",
 "sala": "C. Vallespir de Dalt",
@@ -665,6 +710,24 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-08-24T20:30+02:00"
+},{
+"nom": "Balta Bordoy & co",
+"sala": "Milano ",
+"hora": "19:30",
+"mes": "AGO.2023",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-08-25T19:30+02:00"
+},{
+"nom": "Balta Bordoy & co",
+"sala": "Milano ",
+"hora": "21:30",
+"mes": "AGO.2023",
+"dia": "25",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-08-25T21:30+02:00"
 },{
 "nom": "Alvaro Torres Trio",
 "sala": "Jamboree[1] ",
@@ -900,6 +963,42 @@
 "ciutat": "",
 "dateTime": "2023-08-26T19:00+02:00"
 },{
+"nom": "Son Salao",
+"sala": "Milano ",
+"hora": "19:30",
+"mes": "AGO.2023",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-26T19:30+02:00"
+},{
+"nom": "Son Salao",
+"sala": "Milano ",
+"hora": "21:30",
+"mes": "AGO.2023",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-26T21:30+02:00"
+},{
+"nom": "Pablo Watusi",
+"sala": "Marula Café",
+"hora": "22:30",
+"mes": "AGO.2023",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-26T22:30+02:00"
+},{
+"nom": "Chino Swngslide",
+"sala": "Poble Espanyol",
+"hora": "21:15",
+"mes": "AGO.2023",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-26T21:15+02:00"
+},{
 "nom": "Rhyth&Boobs!",
 "sala": "Jamboree[3] ",
 "hora": "21:00",
@@ -1025,6 +1124,33 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-08-26T20:00+02:00"
+},{
+"nom": "Tro",
+"sala": "milano ",
+"hora": "19:30",
+"mes": "AGO.2023",
+"dia": "27",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-08-27T19:30+02:00"
+},{
+"nom": "Tro",
+"sala": "milano ",
+"hora": "21:30",
+"mes": "AGO.2023",
+"dia": "27",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-08-27T21:30+02:00"
+},{
+"nom": "Sabor de Gràcia",
+"sala": "Poble Espanyol",
+"hora": "20:30",
+"mes": "AGO.2023",
+"dia": "27",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-08-27T20:30+02:00"
 },{
 "nom": "Albert Cirera Kamarilla",
 "sala": "Jamboree[1] ",
