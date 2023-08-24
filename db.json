@@ -794,32 +794,23 @@
 },{
 "nom": "Brigada Cobalto (F. Sants)",
 "sala": "C. Galileu",
-"hora": "19:30",
+"hora": "19:45",
 "mes": "AGO.2023",
 "dia": "25",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-08-25T19:30+02:00"
+"dateTime": "2023-08-25T19:45+02:00"
 },{
 "nom": "Vollproff (F. Sants)",
 "sala": "C. Galileu",
-"hora": "20:30",
+"hora": "21:00",
 "mes": "AGO.2023",
 "dia": "25",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-08-25T20:30+02:00"
+"dateTime": "2023-08-25T21:00+02:00"
 },{
 "nom": "Puerta 104 (F. Sants)",
-"sala": "c. Galileu",
-"hora": "21:30",
-"mes": "AGO.2023",
-"dia": "25",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-08-25T21:30+02:00"
-},{
-"nom": "Sin Compromiso (F. Sants)",
 "sala": "c. Galileu",
 "hora": "22:30",
 "mes": "AGO.2023",
@@ -828,14 +819,23 @@
 "ciutat": "",
 "dateTime": "2023-08-25T22:30+02:00"
 },{
-"nom": "Metall Fort(F. Sants)",
+"nom": "Sin Compromiso (F. Sants)",
 "sala": "c. Galileu",
-"hora": "23:30",
+"hora": "23:59",
 "mes": "AGO.2023",
 "dia": "25",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2023-08-25T23:30+02:00"
+"dateTime": "2023-08-25T23:59+02:00"
+},{
+"nom": "Metall Fort(F. Sants)",
+"sala": "c. Galileu",
+"hora": "01:30",
+"mes": "AGO.2023",
+"dia": "26",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-08-26T01:30+02:00"
 },{
 "nom": "Blacksmoke(F. Sants)",
 "sala": "C. Guadiana",
