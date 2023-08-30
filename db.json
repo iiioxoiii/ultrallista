@@ -1440,7 +1440,7 @@
 "ciutat": "",
 "dateTime": "2023-09-08T19:00+02:00"
 },{
-"nom": "Death Row Killer Group",
+"nom": "Death Row Killer Groupie",
 "sala": "el niu",
 "hora": "20:00",
 "mes": "SET.2023",
@@ -1467,6 +1467,141 @@
 "ciutat": "",
 "dateTime": "2023-09-08T22:00+02:00"
 },{
+"nom": "Insershow",
+"sala": "Roc Bornat/Pallars",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T21:00+02:00"
+},{
+"nom": "Ratpenat",
+"sala": "Roc Bornat/Pallars",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T22:00+02:00"
+},{
+"nom": "Crucial",
+"sala": "Roc Bornat/Pallars",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T21:00+02:00"
+},{
+"nom": "Piketa's",
+"sala": "Parc del Centre del Pb",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T22:00+02:00"
+},{
+"nom": "Versió Zenit",
+"sala": "C. Galceran Marquet",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T21:00+02:00"
+},{
+"nom": "Ismael González",
+"sala": "Rbl. Poblenou",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T23:00+02:00"
+},{
+"nom": "Vittara",
+"sala": "Marià Aguiló",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T23:00+02:00"
+},{
+"nom": "Bemba Saoco",
+"sala": "Parc del Centre del Poblenou",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-08T21:00+02:00"
+},{
+"nom": "Al·lérgiques al Pol·len",
+"sala": "Parc del Centre del Poblenou",
+"hora": "01:30",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T01:30+02:00"
+},{
+"nom": "Rumba menuda",
+"sala": "Parc del Centre del Poblenou",
+"hora": "12:00",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T12:00+02:00"
+},{
+"nom": "Pronoms Febles",
+"sala": "c.Pellaires",
+"hora": "19:00",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T19:00+02:00"
+},{
+"nom": "Dry Men",
+"sala": "c.Pellaires",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T20:00+02:00"
+},{
+"nom": "Divide y Wenceslao",
+"sala": "c. Rocboronat/ Pallars",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T20:00+02:00"
+},{
+"nom": "Loren",
+"sala": "C. Galceran Marquet",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T23:00+02:00"
+},{
+"nom": "Mariachis",
+"sala": "C. Marià Aguiló",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T23:00+02:00"
+},{
 "nom": "Elisa Martin + Braindrag",
 "sala": "Wolf",
 "hora": "20:00",
@@ -1475,6 +1610,42 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-09T20:30+02:00"
+},{
+"nom": "Orquestra Remember",
+"sala": "Rbl. Poblenou",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T23:00+02:00"
+},{
+"nom": "The Booty Hunters",
+"sala": "c. Roc Boronat/ Pallars",
+"hora": "23:15",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T23:15+02:00"
+},{
+"nom": "Orquestra Cadillac",
+"sala": "Parc del Centre del Poblenou",
+"hora": "23:30",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T23:30+02:00"
+},{
+"nom": "37 Grados",
+"sala": "c. Pallars-Espronceda",
+"hora": "23:30",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T23:30+02:00"
 },{
 "nom": "Rozi Plain",
 "sala": "Vol",
@@ -1503,6 +1674,78 @@
 "ciutat": "",
 "dateTime": "2023-09-10T20:00+02:00"
 },{
+"nom": "Trambólicos",
+"sala": "c. Pallars-Espronceda",
+"hora": "01:30",
+"mes": "SET.2023",
+"dia": "10",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-10T01:30+02:00"
+},{
+"nom": "Faroners de Calella",
+"sala": "plç. d'Espronceda",
+"hora": "18:30",
+"mes": "SET.2023",
+"dia": "10",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-10T18:30+02:00"
+},{
+"nom": "Sukarije",
+"sala": "Parc del Centre del Poblenou",
+"hora": "19:30",
+"mes": "SET.2023",
+"dia": "10",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-10T19:30+02:00"
+},{
+"nom": "Quarks",
+"sala": "c. Marià Aguiló",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "10",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-10T22:00+02:00"
+},{
+"nom": "Icarians",
+"sala": "c. Marià Aguiló",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "10",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-10T23:00+02:00"
+},{
+"nom": "Havàname",
+"sala": "c. Marià Aguiló",
+"hora": "22:30",
+"mes": "SET.2023",
+"dia": "10",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-10T22:30+02:00"
+},{
+"nom": "Detrubias",
+"sala": "c. Marià Aguiló",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "10",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-10T23:00+02:00"
+},{
+"nom": "Calle Habana",
+"sala": "Plç. Can Saladrigas",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "10",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-10T22:00+02:00"
+},{
 "nom": "Glacier + Arts. convidat",
 "sala": "Razzamatazz[3]",
 "hora": "20:00",
@@ -1511,6 +1754,15 @@
 "textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2023-09-11T20:00+02:00"
+},{
+"nom": "Terroristas del Son",
+"sala": "c. Roc Boronat/ Pallars",
+"hora": "00:45",
+"mes": "SET.2023",
+"dia": "11",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-09-11T00:45+02:00"
 },{
 "nom": "Punkmovies",
 "sala": "Apolo[2]",
@@ -1529,6 +1781,24 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-09-13T19:30+02:00"
+},{
+"nom": "Banda Municipal de BCN",
+"sala": "Casino de l'Aliança",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T20:00+02:00"
+},{
+"nom": "Grup Musical",
+"sala": "C. Galceran Marquet",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-09-14T21:30+02:00"
 },{
 "nom": "Sara Hebe",
 "sala": "Apolo[2]",
@@ -1565,6 +1835,24 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-09-15T21:30+02:00"
+},{
+"nom": "El Pa de Cada Dia",
+"sala": "Plc. Josep Maria Huertas Claveria",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T21:30+02:00"
+},{
+"nom": "Clotie Punk",
+"sala": "Plc. Josep Maria Huertas Claveria",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T23:00+02:00"
 },{
 "nom": "Sosad.97 y Selecto Picasso",
 "sala": "Razzmatazz[3]",
@@ -1718,6 +2006,186 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-16T20:15+02:00"
+},{
+"nom": "DP",
+"sala": "La Flor de Maig",
+"hora": "00:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T00:30+02:00"
+},{
+"nom": "Beat Pamberé i Enoch DMK",
+"sala": "c. Roc Boronat/ Pallars",
+"hora": "19:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T19:00+02:00"
+},{
+"nom": "Pau Alabajos",
+"sala": "c. Badajoz 86",
+"hora": "11:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T11:00+02:00"
+},{
+"nom": "Buch",
+"sala": "c. Badajoz 86",
+"hora": "??:??",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T20:00+02:00"
+},{
+"nom": "Selectores Women of the Guetto",
+"sala": "c. Badajoz 86",
+"hora": "??:??",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T21:00+02:00"
+},{
+"nom": "Flying Hats",
+"sala": "c. Pallars-Espronceda",
+"hora": "12:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T12:00+02:00"
+},{
+"nom": "Ultramar",
+"sala": "Plç. Prim",
+"hora": "18:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T18:00+02:00"
+},{
+"nom": "Razers",
+"sala": "c.Pellaires",
+"hora": "19:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T19:00+02:00"
+},{
+"nom": "Cable Suelto",
+"sala": "c.Pellaires",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T20:00+02:00"
+},{
+"nom": "Late Again",
+"sala": "c.Pellaires",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T21:00+02:00"
+},{
+"nom": "The Martins",
+"sala": "c.Pellaires",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T22:00+02:00"
+},{
+"nom": "Pau Alabajos",
+"sala": "c. Badajoz 86",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T20:00+02:00"
+},{
+"nom": "Lo Promíscuo del Son",
+"sala": "Plç. Can Saladrigas",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:00+02:00"
+},{
+"nom": "Les Buch",
+"sala": "c. Badajoz 86",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:00+02:00"
+},{
+"nom": "Selectores Women of the Guetto",
+"sala": "c. Badajoz 86",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:00+02:00"
+},{
+"nom": "Trombólicos",
+"sala": "c. Marià Aguiló",
+"hora": "23:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:30+02:00"
+},{
+"nom": "Doble Cara",
+"sala": "Parc del Centre del Poblenou",
+"hora": "23:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:30+02:00"
+},{
+"nom": "Aguarium",
+"sala": "c. Pallars-Espronceda",
+"hora": "23:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:30+02:00"
+},{
+"nom": "Noa Guillan y Maria Costa",
+"sala": "c.Pellaires",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:00+02:00"
+},{
+"nom": "The Quacks y Daez",
+"sala": "c.Pellaires",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:59+02:00"
 },{
 "nom": "Damn Mostaza",
 "sala": "La Flor de Maig",
@@ -1880,6 +2348,33 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-09-17T19:30+02:00"
+},{
+"nom": "Migration",
+"sala": "c. Roc Boronat/ Pallars",
+"hora": "12:00",
+"mes": "SET.2023",
+"dia": "17",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-17T12:00+02:00"
+},{
+"nom": "Agustí Burriel Trio",
+"sala": "Parc del Centre del Poblenou",
+"hora": "12:30",
+"mes": "SET.2023",
+"dia": "17",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-17T12:30+02:00"
+},{
+"nom": "Port Bo",
+"sala": "Casino de l'Aliança",
+"hora": "18:30",
+"mes": "SET.2023",
+"dia": "17",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-17T18:30+02:00"
 },{
 "nom": "Coro QOM Chelaalapí & Lgartijeando",
 "sala": "Razzmatazz[1]",
