@@ -1368,7 +1368,7 @@
 "ciutat": "",
 "dateTime": "2023-09-03T21:45+02:00"
 },{
-"nom": "Royal Hunt",
+"nom": "Royal Hunt <cancel·lat>",
 "sala": "Wolf",
 "hora": "21:00",
 "mes": "SET.2023",
@@ -2374,7 +2374,7 @@
 "dia": "17",
 "textdia": "diumenge",
 "ciutat": "",
-"dateTime": "2023-09-17T18:30+02:00"
+"dateTime": "2023-09-17T18 hund:30+02:00"
 },{
 "nom": "Coro QOM Chelaalapí & Lgartijeando",
 "sala": "Razzmatazz[1]",
