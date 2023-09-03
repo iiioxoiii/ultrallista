@@ -1,185 +1,5 @@
 {
 "concerts": [{
-"nom": "Soweto Kinch",
-"sala": "Jamboree[1] ",
-"hora": "19:00",
-"mes": "AGO.2023",
-"dia": "31",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-08-31T19:00+02:00"
-},{
-"nom": "Soweto Kinch",
-"sala": "Jamboree[1] ",
-"hora": "20:30",
-"mes": "AGO.2023",
-"dia": "31",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-08-31T20:30+02:00"
-},{
-"nom": "Corto Alto",
-"sala": "Jamboree[1] ",
-"hora": "23:00",
-"mes": "AGO.2023",
-"dia": "31",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-08-31T23:00+02:00"
-},{
-"nom": "Nick June",
-"sala": "Jamboree[3] ",
-"hora": "20:30",
-"mes": "AGO.2023",
-"dia": "31",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-08-31T20:30+02:00"
-},{
-"nom": "Los Mejillones Tigre (Sindoniza)",
-"sala": "Parc Europa (Santa Coloma de G.)",
-"hora": "??:??",
-"mes": "SET.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-01T20:01+02:00"
-},{
-"nom": "Tito Ramirez (Sintoniza)",
-"sala": "Parc Europa (Santa Coloma de G.)",
-"hora": "??:??",
-"mes": "SET.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-01T20:01+02:00"
-},{
-"nom": "Sandré (Sintoniza)",
-"sala": "Parc Europa (Santa Coloma de G.)",
-"hora": "??:??",
-"mes": "SET.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-01T20:01+02:00"
-},{
-"nom": "Peinga Rayo y las Aeromozas (Sintoniza)",
-"sala": "Parc Europa (Santa Coloma de G.)",
-"hora": "??:??",
-"mes": "SET.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-01T20:01+02:00"
-},{
-"nom": "Los Bongo Beat (Sintoniza)",
-"sala": "Parc Europa (Santa Coloma de G.)",
-"hora": "??:??",
-"mes": "SET.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-01T20:01+02:00"
-},{
-"nom": "Chavalan + Edi Pou",
-"sala": "vol",
-"hora": "21:30",
-"mes": "SET.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-01T21:30+02:00"
-},{
-"nom": "Villano Antillano",
-"sala": "Apolo[1]",
-"hora": "20:30",
-"mes": "SET.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-01T20:30+02:00"
-},{
-"nom": "Grande Amore (Sintoniza)",
-"sala": "Parc Europa (Santa Coloma de G.)",
-"hora": "??:??",
-"mes": "SET.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-02T20:01+02:00"
-},{
-"nom": "Dr. Explosion (Sintoniza)",
-"sala": "Parc Europa (Santa Coloma de G.)",
-"hora": "??:??",
-"mes": "SET.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-02T20:01+02:00"
-},{
-"nom": "La Troll Band Experience",
-"sala": "ass. Musical Puerto Hurraco",
-"hora": "22:00",
-"mes": "SET.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-02T22:00+02:00"
-},{
-"nom": "The Ragtags",
-"sala": "ass. Musical Puerto Hurraco",
-"hora": "23:00",
-"mes": "SET.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-02T23:00+02:00"
-},{
-"nom": "The Piorreah!",
-"sala": "ass. Musical Puerto Hurraco",
-"hora": "23:59",
-"mes": "SET.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-02T23:59+02:00"
-},{
-"nom": "MFC Chicken (Sintoniza)",
-"sala": "Parc Europa (Santa Coloma de G.)",
-"hora": "??:??",
-"mes": "SET.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-02T20:01+02:00"
-},{
-"nom": "Los Chicos (Sintoniza)",
-"sala": "Parc Europa (Santa Coloma de G.)",
-"hora": "??:??",
-"mes": "SET.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-02T20:01+02:00"
-},{
-"nom": "Radiactivas (Sintoniza)",
-"sala": "Parc Europa (Santa Coloma de G.)",
-"hora": "??:??",
-"mes": "SET.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-02T20:01+02:00"
-},{
-"nom": "Conterrâneos",
-"sala": "La Nau",
-"hora": "21:45",
-"mes": "SET.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-02T21:45+02:00"
-},{
 "nom": "Claudio Rabeca + Jabú Morales",
 "sala": "La Nau",
 "hora": "21:45",
@@ -603,6 +423,87 @@
 "ciutat": "",
 "dateTime": "2023-09-13T19:00+02:00"
 },{
+"nom": "Los Sara Fontan",
+"sala": "Teatre R.Montanyà (Vic)",
+"hora": "11:00",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T11:00+02:00"
+},{
+"nom": "Marco Mezquida",
+"sala": "Teatre R.Montanyà (Vic)",
+"hora": "19:00",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T19:00+02:00"
+},{
+"nom": "Laboratoria",
+"sala": "Teatre R.Montanyà (Vic)",
+"hora": "21:45",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T21:45+02:00"
+},{
+"nom": "Carles Cases Strings Band",
+"sala": "Auditori J.Maideu (Vic)",
+"hora": "12:30",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T12:30+02:00"
+},{
+"nom": "Maria Hein",
+"sala": "Auditori J.Maideu (Vic)",
+"hora": "16:30",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T16:30+02:00"
+},{
+"nom": "Boye",
+"sala": "Carpa Atlàntida (Vic)",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T21:00+02:00"
+},{
+"nom": "Bia Ferreira",
+"sala": "Carpa Atlàntida (Vic)",
+"hora": "23:45",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T23:45+02:00"
+},{
+"nom": "Amorante",
+"sala": "Auditori J.Maideu (Vic)",
+"hora": "20:15",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T20:15+02:00"
+},{
+"nom": "Eva Fernández",
+"sala": "Auditori J.Maideu (Vic)",
+"hora": "22:30",
+"mes": "SET.2023",
+"dia": "13",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-13T22:30+02:00"
+},{
 "nom": "Big Brave",
 "sala": "Vol",
 "hora": "19:30",
@@ -620,6 +521,87 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-09-13T20:00+02:00"
+},{
+"nom": "Merina Gris",
+"sala": "Carpa Atlàntida (Vic)",
+"hora": "18:45",
+"mes": "SET.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-14T18:45+02:00"
+},{
+"nom": "Kalàscima",
+"sala": "Carpa Atlàntida (Vic)",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-14T22:00+02:00"
+},{
+"nom": "Boom Boom Fighters & Cookah p",
+"sala": "Carpa Atlàntida (Vic)",
+"hora": "00:15",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-14T00:15+02:00"
+},{
+"nom": "Cia. Calajo",
+"sala": "Auditori J.Maideu (Vic)",
+"hora": "12:30",
+"mes": "SET.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-14T12:30+02:00"
+},{
+"nom": "Alessio Arena & Suonno d'Ajere",
+"sala": "Auditori J.Maideu (Vic)",
+"hora": "20:45",
+"mes": "SET.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-14T20:45+02:00"
+},{
+"nom": "SÉs",
+"sala": "Auditori J.Maideu (Vic)",
+"hora": "23:30",
+"mes": "SET.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-14T23:30+02:00"
+},{
+"nom": "Alba Carmona",
+"sala": "Teatre R.Montanyà (Vic)",
+"hora": "11:00",
+"mes": "SET.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-14T11:00+02:00"
+},{
+"nom": "Marc Parrot",
+"sala": "Teatre R.Montanyà (Vic)",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-14T20:00+02:00"
+},{
+"nom": "Paula Valls",
+"sala": "Teatre R.Montanyà (Vic)",
+"hora": "22:45",
+"mes": "SET.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-14T22:45+02:00"
 },{
 "nom": "Grup Musical",
 "sala": "C. Galceran Marquet",
@@ -656,6 +638,69 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-09-14T20:00+02:00"
+},{
+"nom": "The Gramophone Allstars",
+"sala": "Teatre R.Montanyà (Vic)",
+"hora": "19:15",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-15T19:15+02:00"
+},{
+"nom": "La Vida Mía",
+"sala": "Carpa Atlàntida (Vic)",
+"hora": "18:30",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-15T18:30+02:00"
+},{
+"nom": "Tukan",
+"sala": "Carpa Atlàntida (Vic)",
+"hora": "20:45",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-15T20:45+02:00"
+},{
+"nom": "Sexenni",
+"sala": "Carpa Atlàntida (Vic)",
+"hora": "22:45",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-15T22:45+02:00"
+},{
+"nom": "Xarim Aresté",
+"sala": "Teatre R.Montanyà (Vic)",
+"hora": "12:30",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-15T12:30+02:00"
+},{
+"nom": "Clara Peya",
+"sala": "Teatre R.Montanyà (Vic)",
+"hora": "21:30",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-15T21:30+02:00"
+},{
+"nom": "La Ludwig Band",
+"sala": "Teatre R.Montanyà (Vic)",
+"hora": "23:30",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-15T23:30+02:00"
 },{
 "nom": "Zetak",
 "sala": "La Nau",
@@ -756,6 +801,51 @@
 "ciutat": "",
 "dateTime": "2023-09-15T23:59+02:00"
 },{
+"nom": "Meral Polat Trio",
+"sala": "Auditori J.Maideu (Vic)",
+"hora": "11:00",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T11:00+02:00"
+},{
+"nom": "Kakawa",
+"sala": "Auditori J.Maideu (Vic)",
+"hora": "14:00",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T14:00+02:00"
+},{
+"nom": "Cata Raybaud",
+"sala": "Auditori J.Maideu (Vic)",
+"hora": "16:30",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T16:30+02:00"
+},{
+"nom": "Jo & Swissknike",
+"sala": "Auditori J.Maideu (Vic)",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T20:00+02:00"
+},{
+"nom": "Meritxell Neddermann",
+"sala": "Auditori J.Maideu (Vic)",
+"hora": "22:15",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T22:15+02:00"
+},{
 "nom": "Elephan Stone (GamBeat)",
 "sala": "Upload",
 "hora": "??:??",
@@ -791,6 +881,78 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-09-15T21:04+02:00"
+},{
+"nom": "Dan Peralbo i el comboi",
+"sala": "Plç. Major (Vic)",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T20:30+02:00"
+},{
+"nom": "Sanisidro",
+"sala": "Jazz Cava (Vic)",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T20:00+02:00"
+},{
+"nom": "Heal",
+"sala": "Jazz Cava (Vic)",
+"hora": "21:45",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T21:45+02:00"
+},{
+"nom": "Balkan Paradise Orchestra",
+"sala": "El Sucre (Vic)",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T23:59+02:00"
+},{
+"nom": "The Tyets",
+"sala": "El Sucre (Vic)",
+"hora": "01:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T01:30+02:00"
+},{
+"nom": "Peligro!",
+"sala": "Jazz Cava (Vic)",
+"hora": "23:45",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T23:45+02:00"
+},{
+"nom": "Marala",
+"sala": "Plç. Major (Vic)",
+"hora": "21:45",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T21:45+02:00"
+},{
+"nom": "Mazoni",
+"sala": "Plç. Major (Vic)",
+"hora": "23:15",
+"mes": "SET.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-15T23:15+02:00"
 },{
 "nom": "La Cali",
 "sala": "La Flor de Maig",
@@ -836,6 +998,60 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-16T20:15+02:00"
+},{
+"nom": "Lildami",
+"sala": "El Sucre (Vic)",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:59+02:00"
+},{
+"nom": "2PricesesBarbudes",
+"sala": "Teatre R.Montanyà (Vic)",
+"hora": "11:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T11:00+02:00"
+},{
+"nom": "Dardus",
+"sala": "Carpa Atlàntida (Vic)",
+"hora": "00:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T00:30+02:00"
+},{
+"nom": "Kakawa",
+"sala": "Casino de Vic (Vic)",
+"hora": "18:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T18:30+02:00"
+},{
+"nom": "Cata Raybaud",
+"sala": "Casino de Vic (Vic)",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T20:00+02:00"
+},{
+"nom": "Xiula",
+"sala": "Carpa Atlàntida (Vic)",
+"hora": "12:00",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T12:00+02:00"
 },{
 "nom": "DP",
 "sala": "La Flor de Maig",
@@ -998,6 +1214,42 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-16T23:30+02:00"
+},{
+"nom": "Meral Polat Trio",
+"sala": "Casino de Vic (Vic)",
+"hora": "21:15",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T21:15+02:00"
+},{
+"nom": "Julieta",
+"sala": "Plç. Major (Vic)",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T20:30+02:00"
+},{
+"nom": "Ginestà",
+"sala": "Plç. Major (Vic)",
+"hora": "21:45",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T21:45+02:00"
+},{
+"nom": "Los Mambo Jambo",
+"sala": "Plç. Major (Vic)",
+"hora": "23:15",
+"mes": "SET.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-16T23:15+02:00"
 },{
 "nom": "Noa Guillan y Maria Costa",
 "sala": "c.Pellaires",
@@ -1187,6 +1439,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-09-17T12:00+02:00"
+},{
+"nom": "Tesa",
+"sala": "El Sucre (Vic)",
+"hora": "01:30",
+"mes": "SET.2023",
+"dia": "17",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-17T01:30+02:00"
 },{
 "nom": "Agustí Burriel Trio",
 "sala": "Parc del Centre del Poblenou",
