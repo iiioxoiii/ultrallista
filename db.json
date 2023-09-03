@@ -45,15 +45,6 @@
 "ciutat": "",
 "dateTime": "2023-09-07T20:30+02:00"
 },{
-"nom": "Ry Vieira",
-"sala": "Sidecar",
-"hora": "20:00",
-"mes": "SET.2023",
-"dia": "7",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-09-07T20:00+02:00"
-},{
 "nom": "Los Fabulosos Cadillacs",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -71,24 +62,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-09-08T19:15+02:00"
-},{
-"nom": "Los chivatos de Ana Frank",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T21:00+02:00"
-},{
-"nom": "El Diablo de Shanghai",
-"sala": "Sidecar",
-"hora": "22:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T22:00+02:00"
 },{
 "nom": "Lisasinson + Fermin",
 "sala": "Vol",
@@ -215,15 +188,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-09T13:00+02:00"
-},{
-"nom": "Parkes",
-"sala": "Sidecar ",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09T21:00+02:00"
 },{
 "nom": "Al·lérgiques al Pol·len",
 "sala": "Parc del Centre del Poblenou",
@@ -680,25 +644,16 @@
 "hora": "19:15",
 "mes": "SET.2023",
 "dia": "15",
-"textdia": "divendres",
+"textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-09-15T19:15+02:00"
-},{
-"nom": "Sherry Fino",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-15T21:00+02:00"
 },{
 "nom": "La Vida Mía",
 "sala": "Carpa Atlàntida (Vic)",
 "hora": "18:30",
 "mes": "SET.2023",
 "dia": "15",
-"textdia": "divendres",
+"textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-09-15T18:30+02:00"
 },{
@@ -707,7 +662,7 @@
 "hora": "20:45",
 "mes": "SET.2023",
 "dia": "15",
-"textdia": "divendres",
+"textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-09-15T20:45+02:00"
 },{
@@ -716,7 +671,7 @@
 "hora": "22:45",
 "mes": "SET.2023",
 "dia": "15",
-"textdia": "divendres",
+"textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-09-15T22:45+02:00"
 },{
@@ -725,7 +680,7 @@
 "hora": "12:30",
 "mes": "SET.2023",
 "dia": "15",
-"textdia": "divendres",
+"textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-09-15T12:30+02:00"
 },{
@@ -734,7 +689,7 @@
 "hora": "21:30",
 "mes": "SET.2023",
 "dia": "15",
-"textdia": "divendres",
+"textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-09-15T21:30+02:00"
 },{
@@ -743,7 +698,7 @@
 "hora": "23:30",
 "mes": "SET.2023",
 "dia": "15",
-"textdia": "divendres",
+"textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-09-15T23:30+02:00"
 },{
@@ -971,15 +926,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-16T01:30+02:00"
-},{
-"nom": "Vete Vete + Delespacio",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-16T21:00+02:00"
 },{
 "nom": "Peligro!",
 "sala": "Jazz Cava (Vic)",
@@ -2754,33 +2700,6 @@
 "ciutat": "",
 "dateTime": "2023-09-27T20:00+02:00"
 },{
-"nom": "Cristian Estrella",
-"sala": "Apolo[1]",
-"hora": "20:00",
-"mes": "SET.2023",
-"dia": "27",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-09-27T20:00+02:00"
-},{
-"nom": "Sila Lua+ BLKSWN + Berta Garrido",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "27",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-09-27T21:00+02:00"
-},{
-"nom": "Egon Calle",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "28",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-09-28T21:00+02:00"
-},{
 "nom": "Laguna Pai + Shushupe",
 "sala": "Apolo[2]",
 "hora": "19:30",
@@ -2835,15 +2754,6 @@
 "ciutat": "",
 "dateTime": "2023-09-29T19:30+02:00"
 },{
-"nom": "The Hangmen",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-29T21:00+02:00"
-},{
 "nom": "Ocer & Rade",
 "sala": "Apolo[2]",
 "hora": "20:15",
@@ -2888,33 +2798,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-30T18:00+02:00"
-},{
-"nom": "Vaho",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-30T21:00+02:00"
-},{
-"nom": "Mendend + Sev's",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-30T21:00+02:00"
-},{
-"nom": "Míriam Rodríguez",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-09-30T21:00+02:00"
 },{
 "nom": "Korine + M!R!M + Body Liquid + Vacio Negro",
 "sala": "Vol",
@@ -3591,15 +3474,6 @@
 "ciutat": "",
 "dateTime": "2023-10-21T19:00+02:00"
 },{
-"nom": "Kike Jambalaya",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "OCT.2023",
-"dia": "21",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-10-21T21:00+02:00"
-},{
 "nom": "African Music and Art Fest.",
 "sala": "La Nau",
 "hora": "21:00",
@@ -3727,22 +3601,13 @@
 "dateTime": "2023-10-26T20:00+02:00"
 },{
 "nom": "Luna",
-"sala": "apolo[2]",
+"sala": "Apolo[2]",
 "hora": "19:30",
 "mes": "OCT.2023",
 "dia": "27",
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-10-27T19:30+02:00"
-},{
-"nom": "Scumbag Millionaire",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "OCT.2023",
-"dia": "27",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-10-27T21:00+02:00"
 },{
 "nom": "Inhaler",
 "sala": "Apolo[1]",
@@ -3783,16 +3648,7 @@
 "nom": "Desastre + Chatarra",
 "sala": "La Deskomunal",
 "hora": "20:00",
-"mes": "OCT.2023",
-"dia": "28",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-10-28T20:00+02:00"
-},{
-"nom": "Arlanda + Exili Elba + Impacto Vudú",
-"sala": "Sidecar",
-"hora": "20:00",
-"mes": "OCT.2023",
+"mes": "SET.2023",
 "dia": "28",
 "textdia": "dissabte",
 "ciutat": "",
@@ -3801,7 +3657,7 @@
 "nom": "Drab Majesty + Zanias + Days of Sorrow",
 "sala": "Apolo[2]",
 "hora": "19:00",
-"mes": "OCT.2023",
+"mes": "SET.2023",
 "dia": "28",
 "textdia": "dissabte",
 "ciutat": "",
@@ -3810,7 +3666,7 @@
 "nom": "Canelita + Diego Morao",
 "sala": "Apolo[1]",
 "hora": "19:00",
-"mes": "OCT.2023",
+"mes": "SET.2023",
 "dia": "28",
 "textdia": "dissabte",
 "ciutat": "",
@@ -3968,15 +3824,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-11-03T20:00+02:00"
-},{
-"nom": "Santero y los Muchachos ",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "3",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-11-03T21:00+02:00"
 },{
 "nom": "Arde Bogotá",
 "sala": "Razzmatazz[1]",
@@ -4185,15 +4032,6 @@
 "ciutat": "",
 "dateTime": "2023-11-07T19:30+02:00"
 },{
-"nom": "Guitar Wolf",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "7",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-11-07T21:30+02:00"
-},{
 "nom": "Madison McFerrin",
 "sala": "Razzmatazz[3]",
 "hora": "20:00",
@@ -4293,15 +4131,6 @@
 "ciutat": "",
 "dateTime": "2023-11-10T18:30+02:00"
 },{
-"nom": "Siloé",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "10",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-11-10T21:00+02:00"
-},{
 "nom": "Cruz Cafuné",
 "sala": "Razzmatazz[1]",
 "hora": "18:30",
@@ -4374,15 +4203,6 @@
 "ciutat": "",
 "dateTime": "2023-11-14T19:30+02:00"
 },{
-"nom": "Godcaster",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "14",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-11-14T21:00+02:00"
-},{
 "nom": "Bombay Biclycle Club",
 "sala": "Apolo[1]",
 "hora": "19:00",
@@ -4410,15 +4230,6 @@
 "ciutat": "",
 "dateTime": "2023-11-16T20:00+02:00"
 },{
-"nom": "Sean Nicholas Savage",
-"sala": "Sidecar",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "16",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-16T21:00+02:00"
-},{
 "nom": "Surfin'Bichos",
 "sala": "Apolo[2]",
 "hora": "20:00",
@@ -4445,15 +4256,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-11-17T19:30+02:00"
-},{
-"nom": "Steph Strings",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "17",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-11-17T21:30+02:00"
 },{
 "nom": "B1NO + UMA",
 "sala": "Apolo[2]",
@@ -4490,15 +4292,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-11-18T19:30+02:00"
-},{
-"nom": "Victorias + Banani",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "18",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-11-18T21:00+02:00"
 },{
 "nom": "DeathStarts",
 "sala": "Apolo[2]",
@@ -4634,15 +4427,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-11-24T19:30+02:00"
-},{
-"nom": "David Rees",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "24",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-11-24T21:00+02:00"
 },{
 "nom": "Fucki'Bollocks",
 "sala": "Upload",
@@ -5040,15 +4824,6 @@
 "ciutat": "",
 "dateTime": "2023-12-14T20:00+02:00"
 },{
-"nom": "Montana",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "14",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-14T21:00+02:00"
-},{
 "nom": "Romano Aspas",
 "sala": "Apolo[2]",
 "hora": "19:00",
@@ -5057,15 +4832,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-12-15T19:00+02:00"
-},{
-"nom": "Morochos",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-15T21:00+02:00"
 },{
 "nom": "Mikel Erentxun",
 "sala": "Apolo[1]",
@@ -5084,15 +4850,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-16T20:00+02:00"
-},{
-"nom": "Flavio",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T21:00+02:00"
 },{
 "nom": "Raydibaum",
 "sala": "Wolf",
