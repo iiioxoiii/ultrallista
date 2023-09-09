@@ -146,7 +146,7 @@
 },{
 "nom": "A10X",
 "sala": "dinamo Espai",
-"hora": "1900",
+"hora": "19:00",
 "mes": "SET.2023",
 "dia": "10",
 "textdia": "diumenge",
@@ -154,13 +154,13 @@
 "dateTime": "2023-09-10T19:00+02:00"
 },{
 "nom": "Tugurio + Lili + Gorbie + Pringue",
-"sala": "dinamo Espai",
-"hora": "1900",
+"sala": "kaosavallkarka",
+"hora": "17:30",
 "mes": "SET.2023",
 "dia": "10",
 "textdia": "diumenge",
 "ciutat": "",
-"dateTime": "2023-09-10T19:00+02:00"
+"dateTime": "2023-09-10T17:30+02:00"
 },{
 "nom": "Escape with Romeo",
 "sala": "Wolf",
@@ -1332,6 +1332,15 @@
 "ciutat": "",
 "dateTime": "2023-09-17T12:00+02:00"
 },{
+"nom": "Mans o",
+"sala": "Casa Montjuïc",
+"hora": "12:00",
+"mes": "SET.2023",
+"dia": "17",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-17T12:00+02:00"
+},{
 "nom": "Fémina",
 "sala": "La Nau",
 "hora": "21:00",
@@ -1359,6 +1368,24 @@
 "ciutat": "",
 "dateTime": "2023-09-19T20:00+02:00"
 },{
+"nom": "Alfredo Costa Monteiro + BD",
+"sala": "tPK Centre d'Art",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "19",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-09-19T20:00+02:00"
+},{
+"nom": "Alpha Strategy + Merconio",
+"sala": "El Pumarejo",
+"hora": "19:30",
+"mes": "SET.2023",
+"dia": "20",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-09-20T19:30+02:00"
+},{
 "nom": "Dadi Freyr",
 "sala": "Apolo[2]",
 "hora": "??:??",
@@ -1385,6 +1412,15 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-09-20T20:00+02:00"
+},{
+"nom": "Ángel Fe Garrido",
+"sala": "Sinestesia",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "21",
+"textdia": "jueves",
+"ciutat": "",
+"dateTime": "2023-09-21T21:00+02:00"
 },{
 "nom": "Alejo",
 "sala": "La Nau",
@@ -1430,6 +1466,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-09-22T19:30+02:00"
+},{
+"nom": "Los Yolos + Daft Kant",
+"sala": "taro",
+"hora": "20:30",
+"mes": "SET.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-22T20:30+02:00"
 },{
 "nom": "Mon a la Cova + Maria Sevilla",
 "sala": "Heliogàbal",
@@ -2088,7 +2133,7 @@
 "ciutat": "",
 "dateTime": "2023-09-24T21:30+02:00"
 },{
-"nom": "Dame are",
+"nom": "Dame Area",
 "sala": "Rambla del Raval(BAM)",
 "hora": "23:00",
 "mes": "SET.2023",
@@ -2556,6 +2601,15 @@
 "ciutat": "",
 "dateTime": "2023-09-28T19:30+02:00"
 },{
+"nom": "Leiers",
+"sala": "sinestesia",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "28",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-09-28T21:00+02:00"
+},{
 "nom": "Little Big",
 "sala": "Apolo[1]",
 "hora": "20:00",
@@ -2637,6 +2691,15 @@
 "ciutat": "",
 "dateTime": "2023-09-29T21:30+02:00"
 },{
+"nom": "Alan & Jazz Doesn't like y",
+"sala": "sinestesia",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "29",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-09-29T21:00+02:00"
+},{
 "nom": "OBK",
 "sala": "Razzmatazz[2]",
 "hora": "18:00",
@@ -2645,6 +2708,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-30T18:00+02:00"
+},{
+"nom": "Jam Musico Poètica",
+"sala": "Sinestesia",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-30T21:00+02:00"
 },{
 "nom": "Korine + M!R!M + Body Liquid + Vacio Negro",
 "sala": "Vol",
@@ -2844,6 +2916,15 @@
 "ciutat": "",
 "dateTime": "2023-10-05T21:00+02:00"
 },{
+"nom": "Nuno Rebelo + Ekclectiktronik",
+"sala": "Museu de la Musica (LEM)",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "5",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-05T20:00+02:00"
+},{
 "nom": "Riders of Canyon + Marineros",
 "sala": "La Nau",
 "hora": "20:30",
@@ -2879,6 +2960,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-10-06T19:30+02:00"
+},{
+"nom": "Blaine L.R. & Georgio Valentino",
+"sala": "c.c. La Sedeta (LEM)",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "6",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-06T20:00+02:00"
 },{
 "nom": "Mda",
 "sala": "Razzmatazz[2]",
@@ -3006,6 +3096,15 @@
 "ciutat": "",
 "dateTime": "2023-10-07T21:30+02:00"
 },{
+"nom": "Katovit + Gúdar + Estrella Fugaz + Pablo Prisma",
+"sala": "Z0wie",
+"hora": "19:30",
+"mes": "OCT.2023",
+"dia": "7",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-07T19:30+02:00"
+},{
 "nom": "Albert Pla",
 "sala": "Apolo[1]",
 "hora": "20:30",
@@ -3014,6 +3113,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-10-07T20:30+02:00"
+},{
+"nom": "Pepino Pascual + Col·lectiu de SoundPainting",
+"sala": "c.c. La Sedeta (LEM)",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "7",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-07T20:00+02:00"
 },{
 "nom": "Midjungards + Erzsébet",
 "sala": "Wolf",
@@ -3096,6 +3204,15 @@
 "ciutat": "",
 "dateTime": "2023-10-11T19:00+02:00"
 },{
+"nom": "Claire Rousay + Dania",
+"sala": "Hangar",
+"hora": "20:30",
+"mes": "OCT.2023",
+"dia": "11",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-10-11T20:30+02:00"
+},{
 "nom": "Ona Mafalda",
 "sala": "Razzmatazz[3]",
 "hora": "19:00",
@@ -3113,6 +3230,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-10-12T19:30+02:00"
+},{
+"nom": "David Picó i Miquel Àngel Marín",
+"sala": "Seu GTS (LEM)",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "12",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-12T20:00+02:00"
 },{
 "nom": "Fejká",
 "sala": "Razzamatazz[3]",
@@ -3132,6 +3258,15 @@
 "ciutat": "",
 "dateTime": "2023-10-13T21:00+02:00"
 },{
+"nom": "Markus Breuss & TBC + UltraMega",
+"sala": "Paral·lel 62 (LEM)",
+"hora": "21:00",
+"mes": "OCT.2023",
+"dia": "13",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-13T21:00+02:00"
+},{
 "nom": "Las Odio + Las Petunias",
 "sala": "Vol",
 "hora": "21:30",
@@ -3141,14 +3276,14 @@
 "ciutat": "",
 "dateTime": "2023-10-14T21:30+02:00"
 },{
-"nom": "Orchestra Fireluche",
-"sala": "Tradicionarius (LEM)",
-"hora": "20:30",
+"nom": "Avern + Voul + Ered",
+"sala": "Razzamatazz[3]",
+"hora": "20:00",
 "mes": "OCT.2023",
 "dia": "14",
 "textdia": "dissabte",
 "ciutat": "",
-"dateTime": "2023-10-14T20:30+02:00"
+"dateTime": "2023-10-14T20:00+02:00"
 },{
 "nom": "Matute",
 "sala": "Razzmatazz[1]",
@@ -3357,6 +3492,60 @@
 "ciutat": "",
 "dateTime": "2023-10-20T21:00+02:00"
 },{
+"nom": "Darja Zamiria & Zura Maakharadze ",
+"sala": "Upload (DCR.2023)",
+"hora": "??:??",
+"mes": "OCT.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-20T17:00+02:00"
+},{
+"nom": "DayoFwrath",
+"sala": "Upload (DCR.2023)",
+"hora": "??:??",
+"mes": "OCT.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-20T18:00+02:00"
+},{
+"nom": "Geography of Hell",
+"sala": "Upload (DCR.2023)",
+"hora": "??:??",
+"mes": "OCT.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-20T19:00+02:00"
+},{
+"nom": "Halo Manash",
+"sala": "Upload (DCR.2023)",
+"hora": "??:??",
+"mes": "OCT.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-20T20:00+02:00"
+},{
+"nom": "Visions",
+"sala": "Upload (DCR.2023)",
+"hora": "??:??",
+"mes": "OCT.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-20T21:00+02:00"
+},{
+"nom": "Zero Karma ",
+"sala": "Upload (DCR.2023)",
+"hora": "??:??",
+"mes": "OCT.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-20T22:00+02:00"
+},{
 "nom": "Inhumankid + Inger Hannisdal",
 "sala": "antic Forn de Vallcarca",
 "hora": "19:30",
@@ -3401,6 +3590,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-10-22T19:30+02:00"
+},{
+"nom": "Master + Totengott",
+"sala": "Bóveda",
+"hora": "21:00",
+"mes": "OCT.2023",
+"dia": "26",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-26T21:30+02:00"
 },{
 "nom": "Lauren Mayberry",
 "sala": "La Nau",
@@ -4040,6 +4238,24 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-11-11T20:30+02:00"
+},{
+"nom": "Ones de Crom",
+"sala": "Auditori Castellar del Vallès",
+"hora": "18:00",
+"mes": "NOV.2023",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-11-11T18:00+02:00"
+},{
+"nom": "Toundra + Viva Belgrado + Lisabö + Lo:muêso + Monkey3",
+"sala": "paral·lel 62",
+"hora": "18:30",
+"mes": "NOV.2023",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-11-11T18:30+02:00"
 },{
 "nom": "Dao + Marioz + Couyntermarch",
 "sala": "antic Forn de Vallcarca",
