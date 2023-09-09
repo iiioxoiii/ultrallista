@@ -1,185 +1,5 @@
 {
 "concerts": [{
-"nom": "Claudio Rabeca + Jabú Morales",
-"sala": "La Nau",
-"hora": "21:45",
-"mes": "SET.2023",
-"dia": "3",
-"textdia": "diumnege",
-"ciutat": "",
-"dateTime": "2023-09-03T21:45+02:00"
-},{
-"nom": "Royal Hunt <cancel·lat>",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "4",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-09-04T21:00+02:00"
-},{
-"nom": "Vera Polozkova & Alexander Manotskov",
-"sala": "Apolo[1]",
-"hora": "19:00",
-"mes": "SET.2023",
-"dia": "6",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-09-06T19:00+02:00"
-},{
-"nom": "Los Bunkers",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "SET.2023",
-"dia": "6",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-09-06T20:00+02:00"
-},{
-"nom": "Nerobambola + Diamante + Negro + Fatamorgana",
-"sala": "Vol",
-"hora": "20:30",
-"mes": "SET.2023",
-"dia": "7",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-09-07T20:30+02:00"
-},{
-"nom": "Los Fabulosos Cadillacs",
-"sala": "Poble Espanyol",
-"hora": "19:30",
-"mes": "SET.2023",
-"dia": "7",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-09-07T19:30+02:00"
-},{
-"nom": "No te va gustar",
-"sala": "Razzmatazz[1]",
-"hora": "19:15",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T19:15+02:00"
-},{
-"nom": "Lisasinson + Fermin",
-"sala": "Vol",
-"hora": "21:30",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T21:30+02:00"
-},{
-"nom": "Los Mesoneros",
-"sala": "Apolo[2]",
-"hora": "19:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T19:00+02:00"
-},{
-"nom": "Death Row Killer Groupie",
-"sala": "el niu",
-"hora": "20:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T20:00+02:00"
-},{
-"nom": "Les Eines",
-"sala": "el niu",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T21:00+02:00"
-},{
-"nom": "Espinoza Espinoza",
-"sala": "el niu",
-"hora": "22:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T22:00+02:00"
-},{
-"nom": "Insershow",
-"sala": "Roc Bornat/Pallars",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T21:00+02:00"
-},{
-"nom": "Ratpenat",
-"sala": "Roc Bornat/Pallars",
-"hora": "22:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T22:00+02:00"
-},{
-"nom": "Crucial",
-"sala": "Roc Bornat/Pallars",
-"hora": "23:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T21:00+02:00"
-},{
-"nom": "Piketa's",
-"sala": "Parc del Centre del Pb",
-"hora": "22:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T22:00+02:00"
-},{
-"nom": "Versió Zenit",
-"sala": "C. Galceran Marquet",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T21:00+02:00"
-},{
-"nom": "Ismael González",
-"sala": "Rbl. Poblenou",
-"hora": "23:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T23:00+02:00"
-},{
-"nom": "Vittara",
-"sala": "Marià Aguiló",
-"hora": "23:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T23:00+02:00"
-},{
-"nom": "Bemba Saoco",
-"sala": "Parc del Centre del Poblenou",
-"hora": "21:00",
-"mes": "SET.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-09-08T21:00+02:00"
-},{
 "nom": "Jonston",
 "sala": "ultralocal ",
 "hora": "13:00",
@@ -279,6 +99,15 @@
 "ciutat": "",
 "dateTime": "2023-09-09T23:15+02:00"
 },{
+"nom": "Kannan + Hand + Meltem",
+"sala": "Paral·lel 62",
+"hora": "19:45",
+"mes": "SET.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-09-09T19:45+02:00"
+},{
 "nom": "Orquestra Cadillac",
 "sala": "Parc del Centre del Poblenou",
 "hora": "23:30",
@@ -314,6 +143,24 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-09-09T20:00+02:00"
+},{
+"nom": "A10X",
+"sala": "dinamo Espai",
+"hora": "1900",
+"mes": "SET.2023",
+"dia": "10",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-10T19:00+02:00"
+},{
+"nom": "Tugurio + Lili + Gorbie + Pringue",
+"sala": "dinamo Espai",
+"hora": "1900",
+"mes": "SET.2023",
+"dia": "10",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-09-10T19:00+02:00"
 },{
 "nom": "Escape with Romeo",
 "sala": "Wolf",
@@ -3141,6 +2988,15 @@
 "ciutat": "",
 "dateTime": "2023-10-07T20:00+02:00"
 },{
+"nom": "Entreolivos",
+"sala": "Antic Forn de Vallcarca",
+"hora": "19:00",
+"mes": "OCT.2023",
+"dia": "7",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-07T19:00+02:00"
+},{
 "nom": "Repion",
 "sala": "Vol",
 "hora": "20:00",
@@ -3500,6 +3356,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-10-20T21:00+02:00"
+},{
+"nom": "Inhumankid + Inger Hannisdal",
+"sala": "antic Forn de Vallcarca",
+"hora": "19:30",
+"mes": "OCT.2023",
+"dia": "21",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-20T19:30+02:00"
 },{
 "nom": "Él Mató a un Policia Motorizado",
 "sala": "Razzmatazz[1]",
@@ -4176,6 +4041,15 @@
 "ciutat": "",
 "dateTime": "2023-11-11T20:30+02:00"
 },{
+"nom": "Dao + Marioz + Couyntermarch",
+"sala": "antic Forn de Vallcarca",
+"hora": "19:30",
+"mes": "NOV.2023",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-11-11T19:30+02:00"
+},{
 "nom": "The Sonics + Los Torontos + Sinciders",
 "sala": "Razzmatazz[2]",
 "hora": "18:30",
@@ -4314,6 +4188,15 @@
 "nom": "Moritz",
 "sala": "Razzmatazz[3]",
 "hora": "20:30",
+"mes": "NOV.2023",
+"dia": "18",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-11-18T19:30+02:00"
+},{
+"nom": "Jordi Heras + Nuumu + Odi",
+"sala": "antic Forn de Vallcarca",
+"hora": "19:30",
 "mes": "NOV.2023",
 "dia": "18",
 "textdia": "dissabte",
@@ -4698,6 +4581,15 @@
 "ciutat": "",
 "dateTime": "2023-12-02T20:00+02:00"
 },{
+"nom": "Marbre Negre Festival II",
+"sala": "antic Forn de Vallcarca",
+"hora": "19:30",
+"mes": "DES.2023",
+"dia": "2",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-02T19:30+02:00"
+},{
 "nom": "Dub (Party)",
 "sala": "Razzmatazz[2]",
 "hora": "17:00",
@@ -4850,6 +4742,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-16T20:00+02:00"
+},{
+"nom": "Hamfuggi Festival II",
+"sala": "antic Forn de Vallcarca",
+"hora": "19:30",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T19:30+02:00"
 },{
 "nom": "Raydibaum",
 "sala": "Wolf",
