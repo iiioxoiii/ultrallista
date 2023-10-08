@@ -477,6 +477,15 @@
 "ciutat": "",
 "dateTime": "2023-10-14T21:30+02:00"
 },{
+"nom": "El Sicario",
+"sala": "Estraperlo (BDN)",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "14",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-14T20:00+02:00"
+},{
 "nom": "Avern + Voul + Ered",
 "sala": "Razzamatazz[3]",
 "hora": "20:00",
@@ -882,6 +891,42 @@
 "ciutat": "",
 "dateTime": "2023-10-26T20:00+02:00"
 },{
+"nom": "Zombi Pujol",
+"sala": "nau B1 (Granollers)",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "26",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-26T20:00+02:00"
+},{
+"nom": "Dead People",
+"sala": "nau B1 (Granollers)",
+"hora": "21:00",
+"mes": "OCT.2023",
+"dia": "26",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-26T21:00+02:00"
+},{
+"nom": "Runä",
+"sala": "nau B1 (Granollers)",
+"hora": "22:00",
+"mes": "OCT.2023",
+"dia": "26",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-26T22:00+02:00"
+},{
+"nom": "Snatcher",
+"sala": "Estraperlo (BDN)",
+"hora": "21:00",
+"mes": "OCT.2023",
+"dia": "26",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-26T21:00+02:00"
+},{
 "nom": "Luna",
 "sala": "apolo[2]",
 "hora": "19:30",
@@ -890,6 +935,60 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-10-27T19:30+02:00"
+},{
+"nom": "Sonic Beast",
+"sala": "nau B1 (Granollers)",
+"hora": "22:00",
+"mes": "OCT.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-27T22:00+02:00"
+},{
+"nom": "Bonestorm",
+"sala": "nau B1 (Granollers)",
+"hora": "21:00",
+"mes": "OCT.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-27T21:00+02:00"
+},{
+"nom": "Ömbra",
+"sala": "nau B1 (Granollers)",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-27T20:00+02:00"
+},{
+"nom": "Putan Club",
+"sala": "nau B1 (Granollers)",
+"hora": "23:00",
+"mes": "OCT.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-27T23:30+02:00"
+},{
+"nom": "Leby",
+"sala": "Estraperlo (BDN)",
+"hora": "21:00",
+"mes": "OCT.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-27T21:30+02:00"
+},{
+"nom": "Dea Inframous",
+"sala": "Estraperlo (BDN)",
+"hora": "22:00",
+"mes": "OCT.2023",
+"dia": "27",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-10-27T22:00+02:00"
 },{
 "nom": "Melenas + Luces Negras",
 "sala": "Upload",
@@ -935,6 +1034,51 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-10-27T21:30+02:00"
+},{
+"nom": "F/E/A",
+"sala": "estraperlo (BDN)",
+"hora": "23:59",
+"mes": "SET.2023",
+"dia": "28",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-28T23:59+02:00"
+},{
+"nom": "G.A.S Drummers",
+"sala": "estraperlo (BDN)",
+"hora": "23:00",
+"mes": "SET.2023",
+"dia": "28",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-28T23:00+02:00"
+},{
+"nom": "Gürtel Club",
+"sala": "estraperlo (BDN)",
+"hora": "22:00",
+"mes": "SET.2023",
+"dia": "28",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-28T22:00+02:00"
+},{
+"nom": "Fornaris",
+"sala": "estraperlo (BDN)",
+"hora": "21:00",
+"mes": "SET.2023",
+"dia": "28",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-28T21:00+02:00"
+},{
+"nom": "Mutant Clan",
+"sala": "estraperlo (BDN)",
+"hora": "20:00",
+"mes": "SET.2023",
+"dia": "28",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-28T20:00+02:00"
 },{
 "nom": "Desastre + Chatarra",
 "sala": "La Deskomunal",
@@ -2286,7 +2430,7 @@
 "ciutat": "",
 "dateTime": "2023-12-16T20:00+02:00"
 },{
-"nom": "Hamfuggi Festival II",
+"nom": "Alwin Van Der Linde/ Chema Pastor",
 "sala": "antic Forn de Vallcarca",
 "hora": "19:30",
 "mes": "DES.2023",
@@ -2294,6 +2438,42 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-16T19:30+02:00"
+},{
+"nom": "O.D.I",
+"sala": "antic Forn de Vallcarca",
+"hora": "20:30",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T20:30+02:00"
+},{
+"nom": "Cementery of Spendour",
+"sala": "antic Forn de Vallcarca",
+"hora": "21:30",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T21:30+02:00"
+},{
+"nom": "Bastian Katz",
+"sala": "antic Forn de Vallcarca",
+"hora": "22:30",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T22:30+02:00"
+},{
+"nom": "Juanito",
+"sala": "antic Forn de Vallcarca",
+"hora": "23:30",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T23:30+02:00"
 },{
 "nom": "Raydibaum",
 "sala": "Wolf",
