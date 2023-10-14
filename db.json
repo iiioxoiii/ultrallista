@@ -567,6 +567,15 @@
 "ciutat": "",
 "dateTime": "2023-10-15T20:00+02:00"
 },{
+"nom": "Alba Moreno + Kiki Maya",
+"sala": "Zero (Tarragona)",
+"hora": "21:30",
+"mes": "OCT.2023",
+"dia": "15",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-10-15T21:30+02:00"
+},{
 "nom": "Thy Art is Murder",
 "sala": "Razzmatazz[2]",
 "hora": "18:00",
@@ -620,6 +629,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-10-19T21:00+02:00"
+},{
+"nom": "Niña Coyote eta Chico Tornado + Urgila + Le-ra",
+"sala": "Zero (Tarragona)",
+"hora": "20:00",
+"mes": "OCT.2023",
+"dia": "19",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-10-19T20:00+02:00"
 },{
 "nom": "FM + Dare",
 "sala": "Wolf",
@@ -1530,6 +1548,15 @@
 "ciutat": "",
 "dateTime": "2023-11-03T19:30+02:00"
 },{
+"nom": "Dani Flaco",
+"sala": "Zero (Tarragona)",
+"hora": "20:30",
+"mes": "NOV.2023",
+"dia": "3",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-11-03T20:30+02:00"
+},{
 "nom": "Pantha du Prince",
 "sala": "Razzmatazz[3]",
 "hora": "19:30",
@@ -1863,6 +1890,15 @@
 "ciutat": "",
 "dateTime": "2023-11-10T21:30+02:00"
 },{
+"nom": "Between the Frost",
+"sala": "zero (Tarragona)",
+"hora": "19:00",
+"mes": "NOV.2023",
+"dia": "10",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-11-10T19:30+02:00"
+},{
 "nom": "Ciudad Jara",
 "sala": "Apolo[1]",
 "hora": "20:00",
@@ -1907,6 +1943,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-11-11T18:30+02:00"
+},{
+"nom": "Aviadror Dro",
+"sala": "zero (Tarragona)",
+"hora": "20:30",
+"mes": "NOV.2023",
+"dia": "11",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-11-11T20:30+02:00"
 },{
 "nom": "GlorySixVain + El Bugg + El Toca",
 "sala": "Sidecar",
@@ -2367,6 +2412,15 @@
 "ciutat": "",
 "dateTime": "2023-11-25T19:30+02:00"
 },{
+"nom": "Mainline Magic Orchestra",
+"sala": "Zero (Tarragona)",
+"hora": "22:30",
+"mes": "NOV.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-11-25T19:30+02:00"
+},{
 "nom": "Sinkowe",
 "sala": "Wolf",
 "hora": "21:00",
@@ -2583,6 +2637,15 @@
 "ciutat": "",
 "dateTime": "2023-12-01T19:30+02:00"
 },{
+"nom": "Triángulo de Amor Bizarro",
+"sala": "Zero (Tarragona)",
+"hora": "20:30",
+"mes": "DES.2023",
+"dia": "1",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-01T20:30+02:00"
+},{
 "nom": "Nena Daconte",
 "sala": "Wolf",
 "hora": "21:00",
@@ -2618,6 +2681,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-02T18:30+02:00"
+},{
+"nom": "Moranes",
+"sala": "Zero (Tarragona)",
+"hora": "20:30",
+"mes": "DES.2023",
+"dia": "2",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-02T20:30+02:00"
 },{
 "nom": "Hens",
 "sala": "Apolo[1]",
@@ -2664,6 +2736,15 @@
 "ciutat": "",
 "dateTime": "2023-12-03T19:30+02:00"
 },{
+"nom": "Chameleons",
+"sala": "Zero (Tarragona)",
+"hora": "21:00",
+"mes": "DES.2023",
+"dia": "6",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-12-06T21:00+02:00"
+},{
 "nom": "Paula Koops",
 "sala": "La Nau",
 "hora": "20:30",
@@ -2681,6 +2762,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-12-07T21:00+02:00"
+},{
+"nom": "Guadalupe Plata",
+"sala": "Zero (Tarragona)",
+"hora": "21:00",
+"mes": "DES.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-08T21:00+02:00"
 },{
 "nom": "Shrek Rave",
 "sala": "Apolo[1]",
@@ -2816,6 +2906,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-16T20:00+02:00"
+},{
+"nom": "Mishima",
+"sala": "Zero (Tarragona)",
+"hora": "21:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T21:00+02:00"
 },{
 "nom": "Flavio",
 "sala": "Sidecar",
@@ -3150,6 +3249,15 @@
 "ciutat": "",
 "dateTime": "2024-02-09T19:30+02:00"
 },{
+"nom": "Rise to Fall + Bloodhunter + Ancient Settlers",
+"sala": "Zero (Tarragona)",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-09T20:30+02:00"
+},{
 "nom": "Viva Suecia",
 "sala": "Sant Jordi Club",
 "hora": "21:00",
@@ -3257,6 +3365,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-03-02T21:00+02:00"
+},{
+"nom": "Marky Ramone",
+"sala": "Zero (Tarragona)",
+"hora": "21:00",
+"mes": "ABR.2024",
+"dia": "18",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-04-18T21:00+02:00"
 },{
 "nom": "Felipe Baldomir",
 "sala": "Sidecar",
