@@ -45,6 +45,15 @@
 "ciutat": "",
 "dateTime": "2023-11-23T20:00+02:00"
 },{
+"nom": "Stay Homas",
+"sala": "Razzmatazz[1]",
+"hora": "18:30",
+"mes": "NOV.2023",
+"dia": "23",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-11-23T18:30+02:00"
+},{
 "nom": "Manolo García",
 "sala": "Palau de Congressos (Tarragona)",
 "hora": "21:00",
@@ -108,6 +117,24 @@
 "ciutat": "",
 "dateTime": "2023-11-24T19:30+02:00"
 },{
+"nom": "Cráneo y Bejo",
+"sala": "Razzmatazz[2]",
+"hora": "20:00",
+"mes": "NOV.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-11-24T20:00+02:00"
+},{
+"nom": "Liher + The Capaces",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
+"mes": "NOV.2023",
+"dia": "24",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-11-24T20:00+02:00"
+},{
 "nom": "Fucki'Bollocks",
 "sala": "Upload",
 "hora": "20:00",
@@ -143,6 +170,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-11-24T19:30+02:00"
+},{
+"nom": "Löanshark + Alacrán & Star Rider",
+"sala": "Razzmatazz[3]",
+"hora": "19:00",
+"mes": "NOV.2023",
+"dia": "25",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-11-25T19:00+02:00"
 },{
 "nom": "Els Catarres",
 "sala": "Apolo[1]",
@@ -208,7 +244,7 @@
 "dateTime": "2023-11-24T20:00+02:00"
 },{
 "nom": "Samantha Hudson",
-"sala": "Razzmatazz[2]",
+"sala": "Razzmatazz[1]",
 "hora": "20:00",
 "mes": "NOV.2023",
 "dia": "25",
@@ -217,8 +253,8 @@
 "dateTime": "2023-11-25T20:00+02:00"
 },{
 "nom": "Joan Miquel Oliver",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
+"sala": "Razzmatazz[2]",
+"hora": "20:00",
 "mes": "NOV.2023",
 "dia": "25",
 "textdia": "dissabte",
@@ -233,6 +269,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-11-26T20:00+02:00"
+},{
+"nom": "Lagrimas de Sangre",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "NOV.2023",
+"dia": "26",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-11-26T19:00+02:00"
 },{
 "nom": "Lord Apex",
 "sala": "Razzmatazz[3]",
@@ -279,8 +324,8 @@
 "ciutat": "",
 "dateTime": "2023-11-27T20:00+02:00"
 },{
-"nom": "RGV",
-"sala": "Razzmatazz[3]",
+"nom": "Alice Phoebe Lou",
+"sala": "Apolo[1]",
 "hora": "19:30",
 "mes": "NOV.2023",
 "dia": "28",
@@ -288,9 +333,9 @@
 "ciutat": "",
 "dateTime": "2023-11-28T19:30+02:00"
 },{
-"nom": "Alice Phoebe Lou",
-"sala": "Apolo[1]",
-"hora": "19:30",
+"nom": "RVG",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
 "mes": "NOV.2023",
 "dia": "28",
 "textdia": "dimarts",
@@ -323,6 +368,24 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-11-30T19:30+02:00"
+},{
+"nom": "Iván Ferreiro",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "NOV.2023",
+"dia": "30",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-11-30T19:30+02:00"
+},{
+"nom": "Ce3da el Paso + Samantha Palos",
+"sala": "Razzmatazz[3]",
+"hora": "19:00",
+"mes": "NOV.2023",
+"dia": "30",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-11-30T19:00+02:00"
 },{
 "nom": "Tu Otra Bonita",
 "sala": "Sidecar",
@@ -369,6 +432,15 @@
 "ciutat": "",
 "dateTime": "2023-12-01T18:30+02:00"
 },{
+"nom": "La Zowi",
+"sala": "Razzmatazz[1]",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "1",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-01T20:00+02:00"
+},{
 "nom": "Els Pets",
 "sala": "Apolo[1]",
 "hora": "19:30",
@@ -413,6 +485,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-12-01T19:30+02:00"
+},{
+"nom": "El Canijo Pérez",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "DES.2023",
+"dia": "2",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-02T19:00+02:00"
 },{
 "nom": "Atreyu",
 "sala": "Apolo[2]",
@@ -467,6 +548,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-12-03T21:00+02:00"
+},{
+"nom": "Scorpio",
+"sala": "Razzmatazz[2]",
+"hora": "19:00",
+"mes": "DES.2023",
+"dia": "3",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-12-03T19:00+02:00"
 },{
 "nom": "Starcatcher",
 "sala": "Sant Jordi Club",
