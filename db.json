@@ -495,15 +495,6 @@
 "ciutat": "",
 "dateTime": "2023-12-01T19:30+02:00"
 },{
-"nom": "Sandré + Tigre Balsámico + Da",
-"sala": "upload",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T19:30+02:00"
-},{
 "nom": "El Canijo Pérez",
 "sala": "Razzmatazz[1]",
 "hora": "19:00",
@@ -521,15 +512,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-02T18:30+02:00"
-},{
-"nom": "Victor Rutty",
-"sala": "Wolf",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T20:30+02:00"
 },{
 "nom": "Moranes",
 "sala": "Zero (Tarragona)",
@@ -567,15 +549,6 @@
 "ciutat": "",
 "dateTime": "2023-12-03T17:00+02:00"
 },{
-"nom": "Greta Van Fleet",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "3",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-03T21:00+02:00"
-},{
 "nom": "Samuraï",
 "sala": "La Nau",
 "hora": "21:00",
@@ -612,15 +585,6 @@
 "ciutat": "",
 "dateTime": "2023-12-06T21:00+02:00"
 },{
-"nom": "Jason Derulo",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "6",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-12-06T21:00+02:00"
-},{
 "nom": "Paula Koops",
 "sala": "La Nau",
 "hora": "20:30",
@@ -629,15 +593,6 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-12-07T20:30+02:00"
-},{
-"nom": "Guadalupe Plata",
-"sala": "upload",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "7",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-07T20:00+02:00"
 },{
 "nom": "Chameleons",
 "sala": "Wolf",
@@ -665,15 +620,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-09T17:00+02:00"
-},{
-"nom": "Fin del Mundo + Black Maracas",
-"sala": "Upload",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T20:00+02:00"
 },{
 "nom": "Robot Emilio",
 "sala": "Vol",
@@ -728,15 +674,6 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2023-12-13T19:00+02:00"
-},{
-"nom": "Go_A",
-"sala": "Wolf",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "13",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-12-13T19:30+02:00"
 },{
 "nom": "Alquadrat",
 "sala": "Apolo[2]",
@@ -810,15 +747,6 @@
 "ciutat": "",
 "dateTime": "2023-12-15T20:00+02:00"
 },{
-"nom": "Frozen Plasma",
-"sala": "Wolf",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-15T20:00+02:00"
-},{
 "nom": "Los Yakis",
 "sala": "Apolo[1]",
 "hora": "20:00",
@@ -827,15 +755,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-16T20:00+02:00"
-},{
-"nom": "Age of Steel + Körgull the Exterminator + Redimodi",
-"sala": "upload",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T19:00+02:00"
 },{
 "nom": "Mishima",
 "sala": "Zero (Tarragona)",
@@ -954,24 +873,6 @@
 "ciutat": "",
 "dateTime": "2023-12-22T20:00+02:00"
 },{
-"nom": "Porretas",
-"sala": "Wolf",
-"hora": "22:30",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T22:30+02:00"
-},{
-"nom": "Ana Mena",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T21:00+02:00"
-},{
 "nom": "Lori Meyers",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -981,15 +882,6 @@
 "ciutat": "",
 "dateTime": "2023-12-23T19:00+02:00"
 },{
-"nom": "Señores Mayores + Mondo Beta",
-"sala": "Upload",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T19:30+02:00"
-},{
 "nom": "Los Mambo Jambo",
 "sala": "Apolo[1]",
 "hora": "20:15",
@@ -998,15 +890,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-12-29T10:15+02:00"
-},{
-"nom": "Maika Makovski's",
-"sala": "Upload",
-"hora": "21:31",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T21:3102:00"
 },{
 "nom": "Brighton 64",
 "sala": "Sidecar",
@@ -1071,24 +954,6 @@
 "ciutat": "",
 "dateTime": "2024-01-13T19:30+02:00"
 },{
-"nom": "Belzebong + Ground + Udol",
-"sala": "upload",
-"hora": "19:30",
-"mes": "GEN.2024",
-"dia": "13",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-13T19:30+02:00"
-},{
-"nom": "Streamer",
-"sala": "Wolf",
-"hora": "20:30",
-"mes": "GEN.2024",
-"dia": "13",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-13T20:30+02:00"
-},{
 "nom": "Marc Ginale",
 "sala": "Razzmatazz[2]",
 "hora": "20:00",
@@ -1116,15 +981,6 @@
 "ciutat": "",
 "dateTime": "2024-01-19T19:30+02:00"
 },{
-"nom": "Morad",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "GEN.2024",
-"dia": "19",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-01-19T21:30+02:00"
-},{
 "nom": "Nikone",
 "sala": "Bikini",
 "hora": "19:30",
@@ -1134,15 +990,6 @@
 "ciutat": "",
 "dateTime": "2024-01-19T19:30+02:00"
 },{
-"nom": "Saturna + Monte Vista Drive",
-"sala": "Wolf",
-"hora": "20:00",
-"mes": "GEN.2024",
-"dia": "20",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-20T20:00+02:00"
-},{
 "nom": "Tesseract + Unprocessed + Callous Daoboys",
 "sala": "Apolo[1]",
 "hora": "18:30",
@@ -1151,15 +998,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-01-20T18:30+02:00"
-},{
-"nom": "Morad",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "GEN.2024",
-"dia": "20",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-20T21:00+02:00"
 },{
 "nom": "Cupido",
 "sala": "Razzmatazz[1]",
@@ -1184,43 +1022,16 @@
 "hora": "21:00",
 "mes": "GEN.2024",
 "dia": "21",
-"textdia": "diumenge",
+"textdia": "divendres",
 "ciutat": "",
 "dateTime": "2024-01-21T21:00+02:00"
-},{
-"nom": "Morad",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "GEN.2024",
-"dia": "21",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2024-01-21T21:00+02:00"
-},{
-"nom": "Simple Plan",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "GEN.2024",
-"dia": "22",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2024-01-22T21:00+02:00"
 },{
 "nom": "Sanisidro Negro",
 "sala": "Vol",
 "hora": "21:30",
 "mes": "GEN.2024",
 "dia": "23",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2024-01-23T21:30+02:00"
-},{
-"nom": "Blaze Bayley",
-"sala": "Wolf",
-"hora": "20:30",
-"mes": "GEN.2024",
-"dia": "24",
-"textdia": "dimecres",
+"textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-01-23T21:30+02:00"
 },{
@@ -1229,7 +1040,7 @@
 "hora": "21:30",
 "mes": "GEN.2024",
 "dia": "25",
-"textdia": "dijous",
+"textdia": "dilluns",
 "ciutat": "",
 "dateTime": "2024-01-25T21:30+02:00"
 },{
@@ -1242,24 +1053,6 @@
 "ciutat": "",
 "dateTime": "2024-01-26T20:00+02:00"
 },{
-"nom": "Kidd Keo",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "GEN.2024",
-"dia": "26",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-01-26T21:00+02:00"
-},{
-"nom": "María Ruiz",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "GEN.2024",
-"dia": "26",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-01-26T21:00+02:00"
-},{
 "nom": "Sidonie",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -1268,15 +1061,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-01-27T19:30+02:00"
-},{
-"nom": "Dealma",
-"sala": "Wolf",
-"hora": "20:30",
-"mes": "GEN.2024",
-"dia": "27",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-27T20:30+02:00"
 },{
 "nom": "Bum Motion Club",
 "sala": "vol",
@@ -1323,26 +1107,8 @@
 "ciutat": "",
 "dateTime": "2024-02-02T19:30+02:00"
 },{
-"nom": "Darvaza + Arkhaeth + Saetair",
-"sala": "wolf",
-"hora": "20:30",
-"mes": "FEB.2024",
-"dia": "2",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-02-02T20:30+02:00"
-},{
 "nom": "Sen Senra",
 "sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "FEB.2024",
-"dia": "3",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-02-03T21:00+02:00"
-},{
-"nom": "Corpus Delicit + Dageist",
-"sala": "wolf",
 "hora": "21:00",
 "mes": "FEB.2024",
 "dia": "3",
@@ -1359,15 +1125,6 @@
 "ciutat": "",
 "dateTime": "2024-02-06T19:30+02:00"
 },{
-"nom": "Masego",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "FEB.2024",
-"dia": "6",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2024-02-06T21:00+02:00"
-},{
 "nom": "El Grande Toto",
 "sala": "Apolo[2]",
 "hora": "20:00",
@@ -1376,15 +1133,6 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2024-02-07T20:00+02:00"
-},{
-"nom": "Raul Clyde",
-"sala": "Wolf",
-"hora": "20:30",
-"mes": "FEB.2024",
-"dia": "7",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2024-02-07T20:30+02:00"
 },{
 "nom": "La reina del pop",
 "sala": "Razzmatazz[2]",
@@ -1439,24 +1187,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-02-10T20:00+02:00"
-},{
-"nom": "Cultura Profética",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "FEB.2024",
-"dia": "10",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-02-10T21:00+02:00"
-},{
-"nom": "Susan Santos",
-"sala": "Upload",
-"hora": "21:00",
-"mes": "FEB.2024",
-"dia": "11",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2024-02-11T21:00+02:00"
 },{
 "nom": "Thrice",
 "sala": "Apolo[1]",
@@ -1539,15 +1269,6 @@
 "ciutat": "",
 "dateTime": "2024-02-10T21:30+02:00"
 },{
-"nom": "Aphonnic",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "MAR.2024",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-03-01T21:00+02:00"
-},{
 "nom": "IDLES",
 "sala": "Sant Jordi Club",
 "hora": "21:00",
@@ -1556,105 +1277,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-03-02T21:00+02:00"
-},{
-"nom": "Un Pingüino en mi ascensor",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "MAR.2024",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-03-02T21:00+02:00"
-},{
-"nom": "Masterplan + Firewind",
-"sala": "Wolf",
-"hora": "20:30",
-"mes": "MAR.2024",
-"dia": "6",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2024-03-06T20:30+02:00"
-},{
-"nom": "Pachyman",
-"sala": "Upload",
-"hora": "20:30",
-"mes": "MAR.2024",
-"dia": "7",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-03-07T20:30+02:00"
-},{
-"nom": "Miranda",
-"sala": "Wolf",
-"hora": "20:30",
-"mes": "MAR.2024",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-03-08T20:30+02:00"
-},{
-"nom": "Las Novias + La Broma Negra",
-"sala": "Upload",
-"hora": "20:00",
-"mes": "MAR.2024",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-03-09T20:00+02:00"
-},{
-"nom": "Xaribo",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "MAR.2024",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-03-09T21:00+02:00"
-},{
-"nom": "Nia",
-"sala": "Upload",
-"hora": "19:30",
-"mes": "MAR.2024",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-03-07T19:30+02:00"
-},{
-"nom": "Supersuckers + Wicked Dog",
-"sala": "Wolf",
-"hora": "20:30",
-"mes": "MAR.2024",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-03-07T20:30+02:00"
-},{
-"nom": "Sienna",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "MAR.2024",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-03-15T21:00+02:00"
-},{
-"nom": "Al Dual",
-"sala": "Upload",
-"hora": "22:00",
-"mes": "MAR.2024",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-03-16T22:00+02:00"
-},{
-"nom": "Carla Collado",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "MAR.2024",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-03-16T21:00+02:00"
 },{
 "nom": "Marky Ramone",
 "sala": "Zero (Tarragona)",
@@ -1682,33 +1304,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2024-03-01T19:30+02:00"
-},{
-"nom": "Mother Mother",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "MAR.2024",
-"dia": "17",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2024-04-17T21:00+02:00"
-},{
-"nom": "2 Minutos",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "MAR.2024",
-"dia": "22",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-03-22T21:00+02:00"
-},{
-"nom": "Nicki Nicole",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "MAR.2024",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-03-13T21:00+02:00"
 },{
 "nom": "Francis of Delirium",
 "sala": "Vol",
@@ -1746,24 +1341,6 @@
 "ciutat": "",
 "dateTime": "2024-03-13T20:00+02:00"
 },{
-"nom": "Fletcher",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "ABR.2024",
-"dia": "4",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-04-04T21:00+02:00"
-},{
-"nom": "Event Image la H no Murió",
-"sala": "Wolf",
-"hora": "19:30",
-"mes": "ABR.2024",
-"dia": "4",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-04-04T19:30+02:00"
-},{
 "nom": "Langui",
 "sala": "Apolo[2]",
 "hora": "20:00",
@@ -1772,15 +1349,6 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2024-04-12T20:00+02:00"
-},{
-"nom": "Trisome 21",
-"sala": "Wolf",
-"hora": "20:00",
-"mes": "ABR.2024",
-"dia": "12",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-03-12T20:00+02:00"
 },{
 "nom": "Nouvelle Vague",
 "sala": "Apolo[2]",
@@ -1791,15 +1359,6 @@
 "ciutat": "",
 "dateTime": "2024-04-13T20:00+02:00"
 },{
-"nom": "Marky Ramone",
-"sala": "wolf",
-"hora": "20:00",
-"mes": "ABR.2024",
-"dia": "19",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-04-19T20:00+02:00"
-},{
 "nom": "Figa Flawas",
 "sala": "Apolo[1]",
 "hora": "20:00",
@@ -1808,42 +1367,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-04-20T20:00+02:00"
-},{
-"nom": "Andy & Lucas",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "ABR.2024",
-"dia": "27",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-04-27T21:00+02:00"
-},{
-"nom": "Ha*Ash",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "ABR.2024",
-"dia": "21",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2024-04-21T21:00+02:00"
-},{
-"nom": "Parov Stelar",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "ABR.2024",
-"dia": "25",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-04-25T21:00+02:00"
-},{
-"nom": "Massacre",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "ABR.2024",
-"dia": "25",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-04-25T21:00+02:00"
 },{
 "nom": "Las Niñas del Corro",
 "sala": "Apolo[2]",
@@ -1854,33 +1377,6 @@
 "ciutat": "",
 "dateTime": "2024-05-11T20:00+02:00"
 },{
-"nom": "Colectivo Panamera",
-"sala": "Wolf",
-"hora": "20:00",
-"mes": "MAI.2024",
-"dia": "3",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-05-03T20:00+02:00"
-},{
-"nom": "Tate Mc Rae",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "MAI.2024",
-"dia": "20",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2024-05-20T21:00+02:00"
-},{
-"nom": "Ocie Elliot",
-"sala": "wolf",
-"hora": "21:00",
-"mes": "MAI.2024",
-"dia": "31",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-05-31T21:00+02:00"
-},{
 "nom": "La K'Onga",
 "sala": "Razzmatazz[1]",
 "hora": "19:15",
@@ -1889,67 +1385,4 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2024-06-11T19:30+02:00"
-},{
-"nom": "Judas Priest",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "JUN.2024",
-"dia": "13",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-06-13T21:00+02:00"
-},{
-"nom": "Robert Jon & The Wreck",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "JUN.2024",
-"dia": "26",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2024-06-26T21:00+02:00"
-},{
-"nom": "The Tyets",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "NOV.2024",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-11-15T21:00+02:00"
-},{
-"nom": "The Tyets",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "NOV.2024",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-11-16T21:00+02:00"
-},{
-"nom": "Within Temptation",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "NOV.2024",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-11-23T21:00+02:00"
-},{
-"nom": "Arde Bogotá",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "NOV.2024",
-"dia": "27",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-11-27T21:00+02:00"
-},{
-"nom": "Arde Bogotá",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "NOV.2024",
-"dia": "28",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-11-28T21:00+02:00"
 }]}
