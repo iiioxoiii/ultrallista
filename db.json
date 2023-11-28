@@ -513,15 +513,6 @@
 "ciutat": "",
 "dateTime": "2023-12-02T19:00+02:00"
 },{
-"nom": "Dumingu",
-"sala": "Bodega la Riera",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T13:00+02:00"
-},{
 "nom": "Atreyu",
 "sala": "Apolo[2]",
 "hora": "18:30",
@@ -557,78 +548,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-02T20:00+02:00"
-},{
-"nom": "Girandula",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T14:00+02:00"
-},{
-"nom": "Sr. Sugranyes",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T14:01+02:00"
-},{
-"nom": "Andreh y Manuela",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T14:02+02:00"
-},{
-"nom": "The Gardener",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T14:03+02:00"
-},{
-"nom": "Digital Diogenes",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T14:04+02:00"
-},{
-"nom": "F.E.A",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T14:05+02:00"
-},{
-"nom": "tt u r.i",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T14:06+02:00"
-},{
-"nom": "Jarita y MRY",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T14:06+02:00"
 },{
 "nom": "Marbre Negre Festival II",
 "sala": "antic Forn de Vallcarca",
@@ -683,15 +602,6 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-12-03T19:30+02:00"
-},{
-"nom": "Elessure + Les Salvatges + Igual Vamos a Morir",
-"sala": "la Cinetika",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "4",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-12-04T19:30+02:00"
 },{
 "nom": "Chameleons",
 "sala": "Zero (Tarragona)",
@@ -782,15 +692,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-09T20:00+02:00"
-},{
-"nom": "Amelia Casibruja",
-"sala": "Bodega la Riera",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T13:00+02:00"
 },{
 "nom": "Baby",
 "sala": "Razzmatazz[1]",
@@ -926,15 +827,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-16T20:00+02:00"
-},{
-"nom": "Buff buff: Fetus,Les cruet, ...",
-"sala": "Bodega la Riera",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T13:00+02:00"
 },{
 "nom": "Age of Steel + Körgull the Exterminator + Redimodi",
 "sala": "upload",
@@ -1133,15 +1025,6 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-30T19:30+02:00"
-},{
-"nom": "NEC Organ Trio",
-"sala": "Bodega la Riera",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T13:00+02:00"
 },{
 "nom": "Tronco",
 "sala": "Vol",
