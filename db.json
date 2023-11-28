@@ -360,6 +360,15 @@
 "ciutat": "",
 "dateTime": "2023-11-29T20:00+02:00"
 },{
+"nom": "Tagua Tagua",
+"sala": "antic Forn de Vallcarca",
+"hora": "21:00",
+"mes": "NOV.2023",
+"dia": "29",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-11-29T21:00+02:00"
+},{
 "nom": "Fred de Palma",
 "sala": "Razzmatazz[2]",
 "hora": "19:30",
@@ -396,8 +405,8 @@
 "ciutat": "",
 "dateTime": "2023-11-30T21:00+02:00"
 },{
-"nom": "Sara Zozaya",
-"sala": "Linalab",
+"nom": "Sara Zozaya + Linalab",
+"sala": "Vol",
 "hora": "20:00",
 "mes": "NOV.2023",
 "dia": "30",
@@ -611,6 +620,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-09T17:00+02:00"
+},{
+"nom": "Robot Emilio",
+"sala": "Vol",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-09T12:00+02:00"
 },{
 "nom": "JP Cooper",
 "sala": "Apolo[2]",
@@ -891,6 +909,15 @@
 "ciutat": "",
 "dateTime": "2023-12-30T19:30+02:00"
 },{
+"nom": "Tronco",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "GEN.2024",
+"dia": "6",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-06T21:30+02:00"
+},{
 "nom": "Abbath + Toxic Holocaust + Hellripper",
 "sala": "Salamandra",
 "hora": "19:30",
@@ -908,6 +935,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2024-01-12T20:00+02:00"
+},{
+"nom": "Aloha Bennets + Sonic Anaconda + Angulos Muertos",
+"sala": "vol",
+"hora": "21:00",
+"mes": "GEN.2024",
+"dia": "12",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-01-12T21:00+02:00"
 },{
 "nom": "Los Cigarros",
 "sala": "Razzmatazz[1]",
@@ -990,6 +1026,24 @@
 "ciutat": "",
 "dateTime": "2024-01-21T21:00+02:00"
 },{
+"nom": "Sanisidro Negro",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "GEN.2024",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-23T21:30+02:00"
+},{
+"nom": "Valiu",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "GEN.2024",
+"dia": "25",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2024-01-25T21:30+02:00"
+},{
 "nom": "Da Souza",
 "sala": "Apolo[1]",
 "hora": "20:00",
@@ -1007,6 +1061,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-01-27T19:30+02:00"
+},{
+"nom": "Bum Motion Club",
+"sala": "vol",
+"hora": "21:30",
+"mes": "GEN.2024",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-27T21:30+02:00"
 },{
 "nom": "Jo Crepúsculo",
 "sala": "Apolo[2]",
@@ -1134,6 +1197,15 @@
 "ciutat": "",
 "dateTime": "2024-02-13T19:30+02:00"
 },{
+"nom": "Of the Wand and the Moon",
+"sala": "Vol",
+"hora": "21:00",
+"mes": "FEB.2024",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-15T21:00+02:00"
+},{
 "nom": "Ravi Ram",
 "sala": "Apolo[1]",
 "hora": "19:30",
@@ -1188,6 +1260,15 @@
 "ciutat": "",
 "dateTime": "2024-02-24T20:00+02:00"
 },{
+"nom": "Unsalto",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "FEB.2024",
+"dia": "10",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-10T21:30+02:00"
+},{
 "nom": "IDLES",
 "sala": "Sant Jordi Club",
 "hora": "21:00",
@@ -1223,6 +1304,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2024-03-01T19:30+02:00"
+},{
+"nom": "Francis of Delirium",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "MAR.2024",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-03-23T21:30+02:00"
 },{
 "nom": "Amistat",
 "sala": "Wolf",
