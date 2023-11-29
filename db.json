@@ -558,6 +558,15 @@
 "ciutat": "",
 "dateTime": "2023-12-02T18:00+02:00"
 },{
+"nom": "Sr Wilson + Griffi",
+"sala": "Laut",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "2",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-02T20:00+02:00"
+},{
 "nom": "Andreh y Manuela",
 "sala": "Can Batlló",
 "hora": "??:??",
@@ -666,6 +675,15 @@
 "ciutat": "",
 "dateTime": "2023-12-06T21:00+02:00"
 },{
+"nom": "Zeballos",
+"sala": "Laut",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "6",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-12-06T20:00+02:00"
+},{
 "nom": "Paula Koops",
 "sala": "La Nau",
 "hora": "20:30",
@@ -693,6 +711,15 @@
 "ciutat": "",
 "dateTime": "2023-12-08T21:00+02:00"
 },{
+"nom": "Lucas Colman",
+"sala": "Laut",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "8",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-08T20:00+02:00"
+},{
 "nom": "Shrek Rave",
 "sala": "Apolo[1]",
 "hora": "17:00",
@@ -701,6 +728,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-09T17:00+02:00"
+},{
+"nom": "Rivers & Suns",
+"sala": "Laut",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-09T20:00+02:00"
 },{
 "nom": "Blessure",
 "sala": "La Cinetika",
@@ -783,6 +819,15 @@
 "ciutat": "",
 "dateTime": "2023-12-12T18:30+02:00"
 },{
+"nom": "Malibú",
+"sala": "Laut",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "12",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-12T20:00+02:00"
+},{
 "nom": "Roosevelt",
 "sala": "Apolo[1]",
 "hora": "19:00",
@@ -830,6 +875,15 @@
 },{
 "nom": "Medalla + La Sagrera",
 "sala": "Upload",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-15T20:00+02:00"
+},{
+"nom": "Rikas + Penelope",
+"sala": "Laut",
 "hora": "20:00",
 "mes": "DES.2023",
 "dia": "15",
@@ -945,6 +999,15 @@
 "ciutat": "",
 "dateTime": "2023-12-16T23:30+02:00"
 },{
+"nom": "Las Furias + Sex Shop Boyz + Endora y sus vicios",
+"sala": "Estraperlo",
+"hora": "22:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T22:00+02:00"
+},{
 "nom": "Raydibaum",
 "sala": "Wolf",
 "hora": "21:00",
@@ -953,6 +1016,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-16T21:00+02:00"
+},{
+"nom": "Simon Taibi",
+"sala": "Laut",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "17",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-12-17T20:00+02:00"
 },{
 "nom": "Sara Socas",
 "sala": "Apolo[2]",
@@ -971,6 +1043,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-12-21T19:00+02:00"
+},{
+"nom": "Extasis + Esquina Finlandia",
+"sala": "Laut",
+"hora": "19:00",
+"mes": "DES.2023",
+"dia": "21",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-12-21T20:00+02:00"
 },{
 "nom": "Zarza + Tano! + Cala Vento + Pinpilinpussies",
 "sala": "sidecar",
