@@ -504,6 +504,15 @@
 "ciutat": "",
 "dateTime": "2023-12-02T19:00+02:00"
 },{
+"nom": "Dumingu",
+"sala": "Bodega la Riera",
+"hora": "13:00",
+"mes": "DES.2023",
+"dia": "2",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-02T13:00+02:00"
+},{
 "nom": "Atreyu",
 "sala": "Apolo[2]",
 "hora": "18:30",
@@ -629,6 +638,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-09T12:00+02:00"
+},{
+"nom": "Amella Casibruja",
+"sala": "Bodega la Riera",
+"hora": "13:00",
+"mes": "DES.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-09T13:00+02:00"
 },{
 "nom": "JP Cooper",
 "sala": "Apolo[2]",
@@ -764,6 +782,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-16T21:00+02:00"
+},{
+"nom": "Fetus, Zesc, Les Cruet, Minbús Intergalàctic, Les Salvatges, La Cosa Pública",
+"sala": "Bodega la Riera",
+"hora": "13:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T13:00+02:00"
 },{
 "nom": "Flavio",
 "sala": "Sidecar",
@@ -908,6 +935,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-30T19:30+02:00"
+},{
+"nom": "Nec Organ Trio",
+"sala": "Bodega la Riera",
+"hora": "13:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T13:00+02:00"
 },{
 "nom": "Tronco",
 "sala": "Vol",
