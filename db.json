@@ -1,437 +1,5 @@
 {
 "concerts": [{
-"nom": "Agar agar",
-"sala": "Razzmatazz[2]",
-"hora": "20:30",
-"mes": "NOV.2023",
-"dia": "22",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-09-22T20:30+02:00"
-},{
-"nom": "Holy Wave",
-"sala": "Upload",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "22",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-10-22T20:00+02:00"
-},{
-"nom": "El Plan Mariposa",
-"sala": "Apolo[2]",
-"hora": "19:30",
-"mes": "NOV.2023",
-"dia": "22",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-10-22T19:30+02:00"
-},{
-"nom": "Luidji",
-"sala": "La Nau",
-"hora": "20:30",
-"mes": "NOV.2023",
-"dia": "22",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-09-22T20:30+02:00"
-},{
-"nom": "French 79",
-"sala": "Razzmatazz[2]",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "23",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-23T20:00+02:00"
-},{
-"nom": "Stay Homas",
-"sala": "Razzmatazz[1]",
-"hora": "18:30",
-"mes": "NOV.2023",
-"dia": "23",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-23T18:30+02:00"
-},{
-"nom": "Manolo García",
-"sala": "Palau de Congressos (Tarragona)",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "23",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-23T21:00+02:00"
-},{
-"nom": "Dàmaris Gelabert",
-"sala": "Tarraco Arena (Tarragona)",
-"hora": "19:00",
-"mes": "NOV.2023",
-"dia": "23",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-23T19:00+02:00"
-},{
-"nom": "Grex",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "23",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-23T21:00+02:00"
-},{
-"nom": "S7G",
-"sala": "sidecar",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "23",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-23T21:00+02:00"
-},{
-"nom": "Malevolence",
-"sala": "Razzmatazz[2]",
-"hora": "19:30",
-"mes": "NOV.2023",
-"dia": "23",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-23T19:30+02:00"
-},{
-"nom": "Els Catarres",
-"sala": "Razzmatazz[2]",
-"hora": "19:30",
-"mes": "NOV.2023",
-"dia": "23",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-23T19:30+02:00"
-},{
-"nom": "Els Catarres",
-"sala": "Apolo[1]",
-"hora": "19:30",
-"mes": "NOV.2023",
-"dia": "24",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-11-24T19:30+02:00"
-},{
-"nom": "Cráneo y Bejo",
-"sala": "Razzmatazz[2]",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "24",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-11-24T20:00+02:00"
-},{
-"nom": "Liher + The Capaces",
-"sala": "Razzmatazz[3]",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "24",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-11-24T20:00+02:00"
-},{
-"nom": "Fucki'Bollocks",
-"sala": "Upload",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "24",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-11-24T20:00+02:00"
-},{
-"nom": "Al·lergiques al Pol·len",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "24",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-11-24T21:00+02:00"
-},{
-"nom": "Muerdo",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "24",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-11-24T20:00+02:00"
-},{
-"nom": "Napalm Death + Escuela Grind",
-"sala": "Salamandra",
-"hora": "19:30",
-"mes": "NOV.2023",
-"dia": "24",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-11-24T19:30+02:00"
-},{
-"nom": "Löanshark + Alacrán & Star Rider",
-"sala": "Razzmatazz[3]",
-"hora": "19:00",
-"mes": "NOV.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-11-25T19:00+02:00"
-},{
-"nom": "Els Catarres",
-"sala": "Apolo[1]",
-"hora": "19:30",
-"mes": "NOV.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-11-25T19:30+02:00"
-},{
-"nom": "Mainline Magic Orchestra",
-"sala": "Zero (Tarragona)",
-"hora": "22:30",
-"mes": "NOV.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-11-25T19:30+02:00"
-},{
-"nom": "Sinkowe",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-11-25T21:00+02:00"
-},{
-"nom": "Fulcanelli + Driive",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-11-25T20:00+02:00"
-},{
-"nom": "Los Rebujitos",
-"sala": "Apolo[2]",
-"hora": "20:30",
-"mes": "NOV.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-11-25T20:30+02:00"
-},{
-"nom": "Cráneo y Bejo",
-"sala": "Razzmatazz[2]",
-"hora": "20:30",
-"mes": "NOV.2023",
-"dia": "24",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-11-24T20:30+02:00"
-},{
-"nom": "Ralphi Choo",
-"sala": "La Nau",
-"hora": "20:30",
-"mes": "NOV.2023",
-"dia": "24",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-24T20:00+02:00"
-},{
-"nom": "Samantha Hudson",
-"sala": "Razzmatazz[1]",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-11-25T20:00+02:00"
-},{
-"nom": "Joan Miquel Oliver",
-"sala": "Razzmatazz[2]",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "25",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-11-25T19:30+02:00"
-},{
-"nom": "Nick Waterhouse",
-"sala": "La Nau",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-11-26T20:00+02:00"
-},{
-"nom": "Lagrimas de Sangre",
-"sala": "Razzmatazz[1]",
-"hora": "19:00",
-"mes": "NOV.2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-11-26T19:00+02:00"
-},{
-"nom": "Lord Apex",
-"sala": "Razzmatazz[3]",
-"hora": "19:30",
-"mes": "NOV.2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-11-26T19:30+02:00"
-},{
-"nom": "Lágrimas de Sangre",
-"sala": "Razzmatazz[1]",
-"hora": "19:00",
-"mes": "NOV.2023",
-"dia": "26",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-11-26T19:00+02:00"
-},{
-"nom": "Insomnium",
-"sala": "Razzmatazz[2]",
-"hora": "18:30",
-"mes": "NOV.2023",
-"dia": "27",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-11-27T18:30+02:00"
-},{
-"nom": "Els Pets",
-"sala": "Apolo[1]",
-"hora": "19:00",
-"mes": "NOV.2023",
-"dia": "27",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-11-27T19:00+02:00"
-},{
-"nom": "Dream Wife",
-"sala": "Razzmatazz[3]",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "27",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-11-27T20:00+02:00"
-},{
-"nom": "Alice Phoebe Lou",
-"sala": "Apolo[1]",
-"hora": "19:30",
-"mes": "NOV.2023",
-"dia": "28",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-11-28T19:30+02:00"
-},{
-"nom": "RVG",
-"sala": "Razzmatazz[3]",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "28",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-11-28T19:30+02:00"
-},{
-"nom": "The Screamin' Cheetah Wheelies + The SteepWater Band",
-"sala": "Apolo[1]",
-"hora": "19:30",
-"mes": "NOV.2023",
-"dia": "29",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-11-29T19:30+02:00"
-},{
-"nom": "Boogie Belgique",
-"sala": "La Nau",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "29",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-11-29T20:00+02:00"
-},{
-"nom": "Tagua Tagua",
-"sala": "antic Forn de Vallcarca",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "29",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-11-29T21:00+02:00"
-},{
-"nom": "Fred de Palma",
-"sala": "Razzmatazz[2]",
-"hora": "19:30",
-"mes": "NOV.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-30T19:30+02:00"
-},{
-"nom": "Iván Ferreiro",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "NOV.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-30T19:30+02:00"
-},{
-"nom": "Ce3da el Paso + Samantha Palos",
-"sala": "Razzmatazz[3]",
-"hora": "19:00",
-"mes": "NOV.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-30T19:00+02:00"
-},{
-"nom": "Tu Otra Bonita",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "NOV.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-30T21:00+02:00"
-},{
-"nom": "Sara Zozaya + Linalab",
-"sala": "Vol",
-"hora": "20:00",
-"mes": "NOV.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-30T20:00+02:00"
-},{
-"nom": "Halestorm + Black Veil Brides",
-"sala": "Apolo[1]",
-"hora": "19:00",
-"mes": "NOV.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-30T19:00+02:00"
-},{
-"nom": "Soleá Morente",
-"sala": "Apolo[2]",
-"hora": "20:30",
-"mes": "NOV.2023",
-"dia": "30",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-11-30T20:30+02:00"
-},{
 "nom": "The Slavers + Halloween + Kiss of Death",
 "sala": "Razzmatazz[2]",
 "hora": "18:30",
@@ -1269,6 +837,15 @@
 "ciutat": "",
 "dateTime": "2023-12-30T13:00+02:00"
 },{
+"nom": "Abul Mogard",
+"sala": "Casa Montjuïc",
+"hora": "20:30",
+"mes": "GEN.2024",
+"dia": "5",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-01-05T20:00+02:00"
+},{
 "nom": "Tronco",
 "sala": "Vol",
 "hora": "21:30",
@@ -1458,6 +1035,15 @@
 "ciutat": "",
 "dateTime": "2024-02-01T20:00+02:00"
 },{
+"nom": "Sofie Birch",
+"sala": "Casa Montjuïc",
+"hora": "20:00",
+"mes": "FEB.2024",
+"dia": "2",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-01T20:00+02:00"
+},{
 "nom": "Pau Vallvé",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -1638,6 +1224,15 @@
 "ciutat": "",
 "dateTime": "2024-02-10T21:30+02:00"
 },{
+"nom": "Dylan Henner",
+"sala": "Casa Montjuïc",
+"hora": "21:00",
+"mes": "MAR.2024",
+"dia": "1",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-03-01T20:00+02:00"
+},{
 "nom": "IDLES",
 "sala": "Sant Jordi Club",
 "hora": "21:00",
@@ -1718,6 +1313,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2024-04-12T20:00+02:00"
+},{
+"nom": "Ssaliva",
+"sala": "Casa Montjuïc",
+"hora": "20:00",
+"mes": "ABR.2024",
+"dia": "5",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-04-05T20:00+02:00"
 },{
 "nom": "Nouvelle Vague",
 "sala": "Apolo[2]",
