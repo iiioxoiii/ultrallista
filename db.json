@@ -306,6 +306,15 @@
 "ciutat": "",
 "dateTime": "2023-12-07T20:30+02:00"
 },{
+"nom": "Guadalupe Plata",
+"sala": "Upload",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "7",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-12-07T20:00+02:00"
+},{
 "nom": "Chameleons",
 "sala": "Wolf",
 "hora": "21:00",
@@ -341,6 +350,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-09T17:00+02:00"
+},{
+"nom": "Fin del Mundo + Black Maracas",
+"sala": "Upload",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-09T20:00+02:00"
 },{
 "nom": "Luis le Nuit",
 "sala": "Taro",
@@ -549,6 +567,15 @@
 "ciutat": "",
 "dateTime": "2023-12-16T20:00+02:00"
 },{
+"nom": "Age Of Steel + Körgull the exterminator + Redimoni",
+"sala": "Upload",
+"hora": "19:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T19:00+02:00"
+},{
 "nom": "Mishima",
 "sala": "Zero (Tarragona)",
 "hora": "21:00",
@@ -756,6 +783,15 @@
 "ciutat": "",
 "dateTime": "2023-12-23T19:00+02:00"
 },{
+"nom": "Señores Mayores + Mondo Beta",
+"sala": "Upload",
+"hora": "19:30",
+"mes": "DES.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-23T19:30+02:00"
+},{
 "nom": "Luis Costa",
 "sala": "Taro",
 "hora": "23:00",
@@ -818,6 +854,15 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-12-29T21:00+02:00"
+},{
+"nom": "Maika Makovski",
+"sala": "Upload",
+"hora": "21:30",
+"mes": "DES.2023",
+"dia": "29",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-29T21:30+02:00"
 },{
 "nom": "Morgan",
 "sala": "Razzmatazz[1]",
@@ -891,6 +936,15 @@
 "ciutat": "",
 "dateTime": "2024-01-13T19:30+02:00"
 },{
+"nom": "Betzebong + Ground + Udol",
+"sala": "upload",
+"hora": "19:30",
+"mes": "GEN.2024",
+"dia": "13",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-13T19:30+02:00"
+},{
 "nom": "Marc Ginale",
 "sala": "Razzmatazz[2]",
 "hora": "20:00",
@@ -899,6 +953,15 @@
 "textdia": "dimecres",
 "ciutat": "",
 "dateTime": "2024-01-17T20:00+02:00"
+},{
+"nom": "Susan Santos",
+"sala": "Upload",
+"hora": "21:00",
+"mes": "GEN.2024",
+"dia": "17",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2024-01-17T21:00+02:00"
 },{
 "nom": "Queralt Lahoz + Cristian de Moret",
 "sala": "Razzmatazz[1]",
@@ -1260,6 +1323,15 @@
 "ciutat": "",
 "dateTime": "2024-03-02T21:30+02:00"
 },{
+"nom": "Pachiman",
+"sala": "Upload",
+"hora": "20:30",
+"mes": "MAR.2024",
+"dia": "7",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-03-07T20:30+02:00"
+},{
 "nom": "Rayden",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -1267,7 +1339,34 @@
 "dia": "9",
 "textdia": "divendres",
 "ciutat": "",
-"dateTime": "2024-03-01T19:30+02:00"
+"dateTime": "2024-03-09T19:30+02:00"
+},{
+"nom": "Las Novias + La Borma Negra",
+"sala": "Upload",
+"hora": "20:00",
+"mes": "MAR.2024",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-03-09T20:00+02:00"
+},{
+"nom": "Nia",
+"sala": "Upload",
+"hora": "19:30",
+"mes": "MAR.2024",
+"dia": "10",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-03-10T19:30+02:00"
+},{
+"nom": "Al Dual",
+"sala": "Upload",
+"hora": "22:00",
+"mes": "MAR.2024",
+"dia": "17",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2024-03-17T22:00+02:00"
 },{
 "nom": "Francis of Delirium",
 "sala": "Vol",
