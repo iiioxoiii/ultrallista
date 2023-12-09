@@ -585,6 +585,15 @@
 "ciutat": "",
 "dateTime": "2023-12-15T20:00+02:00"
 },{
+"nom": "Núria Garcia",
+"sala": "Plç. Gal·la Placidia",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T18:00+02:00"
+},{
 "nom": "Los Yakis",
 "sala": "Apolo[1]",
 "hora": "20:00",
@@ -909,6 +918,15 @@
 "ciutat": "",
 "dateTime": "2023-12-22T18:00+02:00"
 },{
+"nom": "Intana",
+"sala": "Plç. Gal·la Placídia",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-22T18:00+02:00"
+},{
 "nom": "Rastachai",
 "sala": "Upload",
 "hora": "20:00",
@@ -962,6 +980,24 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-23T12:00+02:00"
+},{
+"nom": "The Crab Apples",
+"sala": "Plç. Vila de Gràcia",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-23T12:00+02:00"
+},{
+"nom": "Selva Nua",
+"sala": "Plç. Virreina",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-23T18:00+02:00"
 },{
 "nom": "Reaggae per Xics",
 "sala": "Plç. Catalunya",
@@ -1161,6 +1197,24 @@
 "ciutat": "",
 "dateTime": "2023-12-29T13:00+02:00"
 },{
+"nom": "Les Testarudes",
+"sala": "Plç. del Raspall",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "29",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-29T18:00+02:00"
+},{
+"nom": "Mariana També",
+"sala": "Plç. Gal·la Placídia",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "29",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-29T18:00+02:00"
+},{
 "nom": "Los Mambo Jambo",
 "sala": "Apolo[1]",
 "hora": "20:15",
@@ -1233,6 +1287,15 @@
 "ciutat": "",
 "dateTime": "2023-12-30T18:00+02:00"
 },{
+"nom": "Paula Peso",
+"sala": "Jardinets de Gràcia",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T18:00+02:00"
+},{
 "nom": "Morgan",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -1269,6 +1332,15 @@
 "ciutat": "",
 "dateTime": "2024-01-02T18:00+02:00"
 },{
+"nom": "Raval Flamenco Jazz Group",
+"sala": "Jardinets de Gràcia",
+"hora": "18:00",
+"mes": "GEN.2024",
+"dia": "2",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2024-01-02T18:00+02:00"
+},{
 "nom": "Ssissterss",
 "sala": "Pg. Sant Joan / Provença",
 "hora": "18:00",
@@ -1277,6 +1349,15 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2024-01-02T18:00+02:00"
+},{
+"nom": "Nara is Neus",
+"sala": "Plç. Vila de Gràcia",
+"hora": "18:00",
+"mes": "GEN.2024",
+"dia": "3",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2024-01-03T18:00+02:00"
 },{
 "nom": "Ssissterss",
 "sala": "Plç. Vila de Madrid",
