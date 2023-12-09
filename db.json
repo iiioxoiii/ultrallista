@@ -774,6 +774,15 @@
 "ciutat": "",
 "dateTime": "2023-12-16T20:30+02:00"
 },{
+"nom": "Oaks & Fahia ",
+"sala": "Diputacio /Tarragona",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T12:00+02:00"
+},{
 "nom": "Tarta Relena",
 "sala": "Plç. Universitat",
 "hora": "21:00",
@@ -863,6 +872,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2023-12-21T20:00+02:00"
+},{
+"nom": "Paula Peso",
+"sala": "Plc. Santa Madrona",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "21",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-12-21T18:00+02:00"
 },{
 "nom": "Goa",
 "sala": "Taro",
@@ -1118,6 +1136,15 @@
 },{
 "nom": "Aesis Quintet",
 "sala": "Jardins del Baix Guinardó",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-23T12:00+02:00"
+},{
+"nom": "Intana",
+"sala": "Plc. Santa Madrona",
 "hora": "12:00",
 "mes": "DES.2023",
 "dia": "23",
@@ -1530,8 +1557,26 @@
 "ciutat": "",
 "dateTime": "2023-12-29T21:30+02:00"
 },{
+"nom": "Selma Bruna",
+"sala": "Plça. Santa Madrona",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T18:00+02:00"
+},{
 "nom": "Corcs Drum&Organ",
 "sala": "Pg. de Gràcia,18",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T12:00+02:00"
+},{
+"nom": "The Crab Apples",
+"sala": "Mercat de la Marina",
 "hora": "12:00",
 "mes": "DES.2023",
 "dia": "30",
@@ -1719,6 +1764,15 @@
 "ciutat": "",
 "dateTime": "2024-01-03T18:00+02:00"
 },{
+"nom": "Ssissterss",
+"sala": "Diputacio /Tarragona",
+"hora": "18:00",
+"mes": "GEN.2024",
+"dia": "3",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-01-03T18:00+02:00"
+},{
 "nom": "Gènesi Quartet",
 "sala": "Xavier Nogués, 41",
 "hora": "18:00",
@@ -1748,6 +1802,15 @@
 },{
 "nom": "Spread Latin Trio",
 "sala": "Plç. Maragall",
+"hora": "18:00",
+"mes": "GEN.2024",
+"dia": "4",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-01-04T18:00+02:00"
+},{
+"nom": "Júlia Blum",
+"sala": "Diputacio /Tarragona",
 "hora": "18:00",
 "mes": "GEN.2024",
 "dia": "4",
