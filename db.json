@@ -810,6 +810,24 @@
 "ciutat": "",
 "dateTime": "2023-12-16T22:30+02:00"
 },{
+"nom": "Aesis Quintet",
+"sala": "Plç. Joaquim Folguera",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T12:00+02:00"
+},{
+"nom": "Gumbo Jass Band",
+"sala": "Mercat de les Tres Torres",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T12:00+02:00"
+},{
 "nom": "Juanito",
 "sala": "antic Forn de Vallcarca",
 "hora": "23:30",
@@ -936,6 +954,15 @@
 "ciutat": "",
 "dateTime": "2023-12-21T20:00+02:00"
 },{
+"nom": "Mariana També",
+"sala": "Mercat de Sant Gervasi",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "21",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-12-21T18:00+02:00"
+},{
 "nom": "Tarta Relena",
 "sala": "Plç. Universitat",
 "hora": "20:00",
@@ -1019,6 +1046,15 @@
 },{
 "nom": "Swing Cooking Trio",
 "sala": "Plc. Francesc Lairet",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-22T18:00+02:00"
+},{
+"nom": "Sara Aldana",
+"sala": "Plç. de Sarrià",
 "hora": "18:00",
 "mes": "DES.2023",
 "dia": "22",
@@ -1143,8 +1179,26 @@
 "ciutat": "",
 "dateTime": "2023-12-23T12:00+02:00"
 },{
+"nom": "Eva Fernández",
+"sala": "Plç. Joaquim Folguera",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-23T12:00+02:00"
+},{
 "nom": "Intana",
 "sala": "Plc. Santa Madrona",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-23T12:00+02:00"
+},{
+"nom": "The Gramaphone AllStars Big Band",
+"sala": "Plç. de Sarrià",
 "hora": "12:00",
 "mes": "DES.2023",
 "dia": "23",
@@ -1440,6 +1494,15 @@
 "ciutat": "",
 "dateTime": "2023-12-29T18:00+02:00"
 },{
+"nom": "Swing Cooking Trio",
+"sala": "Plç. de Sarrià",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "29",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-29T18:00+02:00"
+},{
 "nom": "Memi Sillah",
 "sala": "Pg. de Gràcia,35",
 "hora": "18:00",
@@ -1593,6 +1656,15 @@
 "ciutat": "",
 "dateTime": "2023-12-30T12:00+02:00"
 },{
+"nom": "Gènesi Quartet",
+"sala": "Turó Park",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T12:00+02:00"
+},{
 "nom": "Duo Enxebre",
 "sala": "Mercat del Ninot",
 "hora": "12:00",
@@ -1656,6 +1728,15 @@
 "ciutat": "",
 "dateTime": "2023-12-30T18:00+02:00"
 },{
+"nom": "Duo Enxebre",
+"sala": "Turó Park",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T18:00+02:00"
+},{
 "nom": "Gots de Tuba",
 "sala": "Mercat de la Trinitat",
 "hora": "12:00",
@@ -1703,6 +1784,15 @@
 },{
 "nom": "Selma Bruna",
 "sala": "Plç. Pastrana",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "31",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-12-31T12:00+02:00"
+},{
+"nom": "Quartet Fiora",
+"sala": "Plç. de Sarrià",
 "hora": "12:00",
 "mes": "DES.2023",
 "dia": "31",
