@@ -369,6 +369,24 @@
 "ciutat": "",
 "dateTime": "2023-12-09T18:00+02:00"
 },{
+"nom": "Gumbo Jass Band",
+"sala": "Mercat del Besòs",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-09T12:00+02:00"
+},{
+"nom": "Spread Latin Trio",
+"sala": "Mercat del Clot",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "9",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-09T18:00+02:00"
+},{
 "nom": "Fin del Mundo + Black Maracas",
 "sala": "Upload",
 "hora": "20:00",
@@ -1134,6 +1152,15 @@
 "ciutat": "",
 "dateTime": "2023-12-23T13:00+02:00"
 },{
+"nom": "Núria Garcia",
+"sala": "Mercat del Clot",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-23T12:00+02:00"
+},{
 "nom": "Adelaida",
 "sala": "Placeta Montcada",
 "hora": "18:00",
@@ -1251,6 +1278,24 @@
 "ciutat": "",
 "dateTime": "2023-12-24T12:00+02:00"
 },{
+"nom": "Veus de Nadal",
+"sala": "Rbla. Poblenou / Pallars",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-12-24T12:00+02:00"
+},{
+"nom": "Intana",
+"sala": "Rbla. Poblenou / Pallars",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "29",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-12-29T18:00+02:00"
+},{
 "nom": "Marco Roehrich + Montblanc",
 "sala": "Taro",
 "hora": "23:30",
@@ -1352,6 +1397,15 @@
 },{
 "nom": "Selma Bruna",
 "sala": "Plç. Francesc Layret",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "29",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-29T18:00+02:00"
+},{
+"nom": "Nara is Neus",
+"sala": "Plç. de la Oca",
 "hora": "18:00",
 "mes": "DES.2023",
 "dia": "29",
@@ -1512,6 +1566,15 @@
 "ciutat": "",
 "dateTime": "2023-12-30T12:00+02:00"
 },{
+"nom": "Paula Peso",
+"sala": "Plç. de la Palmera",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T12:00+02:00"
+},{
 "nom": "Delickites",
 "sala": "Plç. del Garrigó",
 "hora": "12:00",
@@ -1656,6 +1719,15 @@
 "ciutat": "",
 "dateTime": "2024-01-03T18:00+02:00"
 },{
+"nom": "Gènesi Quartet",
+"sala": "Xavier Nogués, 41",
+"hora": "18:00",
+"mes": "GEN.2024",
+"dia": "3",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2023-01-03T18:00+02:00"
+},{
 "nom": "Quartet Fiora",
 "sala": "Rbla. Onze de Setembre / Sant Mateu",
 "hora": "18:00",
@@ -1685,6 +1757,15 @@
 },{
 "nom": "Paula Peso",
 "sala": "Mercat del Ninot",
+"hora": "18:00",
+"mes": "GEN.2024",
+"dia": "4",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-01-04T18:00+02:00"
+},{
+"nom": "Quartet Fiora",
+"sala": "Xavier Nogués, 41",
 "hora": "18:00",
 "mes": "GEN.2024",
 "dia": "4",
