@@ -549,6 +549,15 @@
 "ciutat": "",
 "dateTime": "2023-12-14T20:00+02:00"
 },{
+"nom": "Pol Miró & The Blues Gamblers",
+"sala": "La Báscula",
+"hora": "20:30",
+"mes": "DES.2023",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-12-14T20:30+02:00"
+},{
 "nom": "Montana",
 "sala": "Sidecar",
 "hora": "21:00",
@@ -561,6 +570,15 @@
 "nom": "Medalla + La Sagrera",
 "sala": "Upload",
 "hora": "20:00",
+"mes": "DES.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-15T20:00+02:00"
+},{
+"nom": "El Pàl·lid",
+"sala": "La Bàscula",
+"hora": "20:30",
 "mes": "DES.2023",
 "dia": "15",
 "textdia": "divendres",
