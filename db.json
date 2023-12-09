@@ -558,6 +558,15 @@
 "ciutat": "",
 "dateTime": "2023-12-15T20:00+02:00"
 },{
+"nom": "Gumbo Jass Band",
+"sala": "Mercat de Montserrat",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-15T18:00+02:00"
+},{
 "nom": "Morochos",
 "sala": "Sidecar",
 "hora": "21:00",
@@ -593,6 +602,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-16T18:00+02:00"
+},{
+"nom": "Sara Aldana",
+"sala": "Plc. Paul Claudel",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T12:00+02:00"
 },{
 "nom": "Los Yakis",
 "sala": "Apolo[1]",
@@ -891,6 +909,15 @@
 "ciutat": "",
 "dateTime": "2023-12-21T20:00+02:00"
 },{
+"nom": "Duo Enxebre",
+"sala": "Plç. del Garrigó",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "21",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-12-21T18:00+02:00"
+},{
 "nom": "Fetus",
 "sala": "Apolo[2]",
 "hora": "20:00",
@@ -929,6 +956,15 @@
 },{
 "nom": "Eva Fernández",
 "sala": "Pg. Sant Joan / Provença",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-22T18:00+02:00"
+},{
+"nom": "Swing Cooking Trio",
+"sala": "Plc. Francesc Lairet",
 "hora": "18:00",
 "mes": "DES.2023",
 "dia": "22",
@@ -1019,6 +1055,15 @@
 },{
 "nom": "Gènesi Quartet",
 "sala": "Plç. les Corts",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "23",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-23T12:00+02:00"
+},{
+"nom": "Raval Flamenco Jazz Group",
+"sala": "Mercat de la Guineueta",
 "hora": "12:00",
 "mes": "DES.2023",
 "dia": "23",
@@ -1143,6 +1188,15 @@
 "ciutat": "",
 "dateTime": "2023-12-24T18:00+02:00"
 },{
+"nom": "Oaks & Fahia",
+"sala": "Plç. del Garrigó",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "24",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-12-24T12:00+02:00"
+},{
 "nom": "Reaggae per Xics",
 "sala": "Plç. Catalunya",
 "hora": "13:00",
@@ -1206,6 +1260,15 @@
 "ciutat": "",
 "dateTime": "2023-12-28T13:00+02:00"
 },{
+"nom": "Eva Fernández",
+"sala": "Plç. Paul Claudel",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "28",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2023-12-28T18:00+02:00"
+},{
 "nom": "Mariana També",
 "sala": "Plç. Sanllehy",
 "hora": "18:00",
@@ -1250,6 +1313,15 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2023-12-29T12:00+02:00"
+},{
+"nom": "Selma Bruna",
+"sala": "Plç. Francesc Layret",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "29",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-29T18:00+02:00"
 },{
 "nom": "Memi Sillah",
 "sala": "Pg. de Gràcia,35",
@@ -1395,6 +1467,15 @@
 "ciutat": "",
 "dateTime": "2023-12-30T12:00+02:00"
 },{
+"nom": "Delickites",
+"sala": "Plç. del Garrigó",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T12:00+02:00"
+},{
 "nom": "The Gramaphone AllStars Big Band",
 "sala": "Gran Via Carles II / Av. de Madrid",
 "hora": "12:00",
@@ -1421,6 +1502,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-30T18:00+02:00"
+},{
+"nom": "Gots de Tuba",
+"sala": "Mercat de la Trinitat",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T12:00+02:00"
 },{
 "nom": "Paula Peso",
 "sala": "Jardinets de Gràcia",
@@ -1460,6 +1550,15 @@
 },{
 "nom": "Selma Bruna",
 "sala": "Plç. Pastrana",
+"hora": "12:00",
+"mes": "DES.2023",
+"dia": "31",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-12-31T12:00+02:00"
+},{
+"nom": "Spread Latin Trio",
+"sala": "Mercat de la Guineueta",
 "hora": "12:00",
 "mes": "DES.2023",
 "dia": "31",
