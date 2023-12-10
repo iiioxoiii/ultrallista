@@ -567,6 +567,15 @@
 "ciutat": "",
 "dateTime": "2023-12-14T21:00+02:00"
 },{
+"nom": "Halldor&Toni&Friends",
+"sala": "hangar 05",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "14",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2023-12-14T20:00+02:00"
+},{
 "nom": "Medalla + La Sagrera",
 "sala": "Upload",
 "hora": "20:00",
@@ -1106,6 +1115,33 @@
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2023-12-22T18:00+02:00"
+},{
+"nom": "Aspanya + Los Pintaos",
+"sala": "vol",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-22T18:00+02:00"
+},{
+"nom": "La Llama + Amnesia Alcohólica",
+"sala": "vol",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-22T18:01+02:00"
+},{
+"nom": "AndyWhells + Maggiek",
+"sala": "vol",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "22",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2023-12-22T18:02+02:00"
 },{
 "nom": "Eva Fernández",
 "sala": "Pg. Sant Joan / Provença",
@@ -1799,6 +1835,42 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2023-12-30T12:00+02:00"
+},{
+"nom": "Las Bragas (R&A)",
+"sala": "Sala Padro",
+"hora": "19:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T19:00+02:00"
+},{
+"nom": "Gafes del Oficio (R&A)",
+"sala": "Sala Padro",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T20:00+02:00"
+},{
+"nom": "Ginesthai (R&A)",
+"sala": "Sala Padro",
+"hora": "21:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T21:00+02:00"
+},{
+"nom": "La Maravillosa Cabeza Parlante (R&A)",
+"sala": "Sala Padro",
+"hora": "22:00",
+"mes": "DES.2023",
+"dia": "30",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-30T22:00+02:00"
 },{
 "nom": "Gènesi Quartet",
 "sala": "Turó Park",
