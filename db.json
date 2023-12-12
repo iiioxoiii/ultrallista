@@ -691,7 +691,7 @@
 "dia": "16",
 "textdia": "dimarts",
 "ciutat": "",
-"dateTime": "2024-12-16T18:00+02:00"
+"dateTime": "2023-12-16T18:00+02:00"
 },{
 "nom": "The Gramaphone AllStars Big Band",
 "sala": "Ronda del Guinardó, 49",
@@ -700,7 +700,88 @@
 "dia": "16",
 "textdia": "dimarts",
 "ciutat": "",
-"dateTime": "2024-12-02T18:00+02:00"
+"dateTime": "2023-12-16T18:00+02:00"
+},{
+"nom": "Non Servium (BT)",
+"sala": "La Farga (L'Hospitalet)",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-16T18:00+02:00"
+},{
+"nom": "Soziedad ALkoholika (BT)",
+"sala": "La Farga (L'Hospitalet)",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-16T18:01+02:00"
+},{
+"nom": "Segismundo Toxicómano (BT)",
+"sala": "La Farga (L'Hospitalet)",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-16T18:02+02:00"
+},{
+"nom": "Narco (BT)",
+"sala": "La Farga (L'Hospitalet)",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-16T18:03+02:00"
+},{
+"nom": "Boikot (BT)",
+"sala": "La Farga (L'Hospitalet)",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-16T18:04+02:00"
+},{
+"nom": "La Élite (BT)",
+"sala": "La Farga (L'Hospitalet)",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-16T18:03+02:00"
+},{
+"nom": "Envidia Kotxina (BT)",
+"sala": "La Farga (L'Hospitalet)",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-16T18:04+02:00"
+},{
+"nom": "Josetxu Piperrak (BT)",
+"sala": "La Farga (L'Hospitalet)",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-16T18:05+02:00"
+},{
+"nom": "Periferia (BT)",
+"sala": "La Farga (L'Hospitalet)",
+"hora": "??:??",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2023-12-16T18:06+02:00"
 },{
 "nom": "The Gramaphone AllStars Big Band",
 "sala": "Plç. Catalunya",
@@ -2033,6 +2114,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2023-12-31T12:00+02:00"
+},{
+"nom": "Ciment + Smegma",
+"sala": "c/ Mercadal 24 (Martorell)",
+"hora": "18:00",
+"mes": "DES.2023",
+"dia": "31",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-12-31T18:00+02:00"
 },{
 "nom": "Nara is Neus",
 "sala": "Plç. Vila de Madrid",
