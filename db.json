@@ -891,6 +891,51 @@
 "ciutat": "",
 "dateTime": "2023-12-16T17:30+02:00"
 },{
+"nom": "Crida Salvatge",
+"sala": "cso Nabat c.Rodés,60 (L'H)",
+"hora": "19:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T19:00+02:00"
+},{
+"nom": "Animal Farm",
+"sala": "cso Nabat c.Rodés,60 (L'H)",
+"hora": "20:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T20:00+02:00"
+},{
+"nom": "Fox Systems",
+"sala": "cso Nabat c.Rodés,60 (L'H)",
+"hora": "21:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T21:00+02:00"
+},{
+"nom": "Los Txutas",
+"sala": "cso Nabat c.Rodés,60 (L'H)",
+"hora": "21:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T21:00+02:00"
+},{
+"nom": "Runä",
+"sala": "cso Nabat c.Rodés,60 (L'H)",
+"hora": "22:00",
+"mes": "DES.2023",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2023-12-16T22:00+02:00"
+},{
 "nom": "Tus Colegas",
 "sala": "Kasal Jove de Roquetes",
 "hora": "18:30",
