@@ -1071,6 +1071,33 @@
 "ciutat": "",
 "dateTime": "2023-12-17T13:00+02:00"
 },{
+"nom": "Malestat",
+"sala": "Meteoro",
+"hora": "18:30",
+"mes": "DES.2023",
+"dia": "17",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-12-17T18:30+02:00"
+},{
+"nom": "Pulso",
+"sala": "Meteoro",
+"hora": "19:30",
+"mes": "DES.2023",
+"dia": "17",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-12-17T19:30+02:00"
+},{
+"nom": "En-Brut",
+"sala": "Meteoro",
+"hora": "20:30",
+"mes": "DES.2023",
+"dia": "17",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2023-12-17T20:30+02:00"
+},{
 "nom": "Tarquim",
 "sala": "Plç. Catalunya",
 "hora": "19:00",
