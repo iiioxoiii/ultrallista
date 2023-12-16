@@ -2421,6 +2421,33 @@
 "ciutat": "",
 "dateTime": "2024-01-13T19:30+02:00"
 },{
+"nom": "Estertor",
+"sala": "La Capsa",
+"hora": "22:00",
+"mes": "GEN.2024",
+"dia": "13",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-13T22:00+02:00"
+},{
+"nom": "Morbid Flesh",
+"sala": "La Capsa",
+"hora": "23:00",
+"mes": "GEN.2024",
+"dia": "13",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-13T23:00+02:00"
+},{
+"nom": "Orinicous",
+"sala": "La Capsa",
+"hora": "23:590",
+"mes": "GEN.2024",
+"dia": "13",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-13T23:59+02:00"
+},{
 "nom": "Marc Ginale",
 "sala": "Razzmatazz[2]",
 "hora": "20:00",
