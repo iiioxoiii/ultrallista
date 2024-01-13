@@ -1,2409 +1,6 @@
 {
 "concerts": [{
-"nom": "The Slavers + Halloween + Kiss of Death",
-"sala": "Razzmatazz[2]",
-"hora": "18:30",
-"mes": "DES.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-01T18:30+02:00"
-},{
-"nom": "La Zowi",
-"sala": "Razzmatazz[1]",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-01T20:00+02:00"
-},{
-"nom": "Els Pets",
-"sala": "Apolo[1]",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-01T19:30+02:00"
-},{
-"nom": "Triángulo de Amor Bizarro",
-"sala": "Zero (Tarragona)",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-01T20:30+02:00"
-},{
-"nom": "Nena Daconte",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-01T21:00+02:00"
-},{
-"nom": "Cabolco + Da Rocha",
-"sala": "Taro",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-01T20:00+02:00"
-},{
-"nom": "Triptòfana",
-"sala": "Taro",
-"hora": "23:00",
-"mes": "DES.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-01T21:00+02:00"
-},{
-"nom": "Rayden",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-01T19:30+02:00"
-},{
-"nom": "Costa",
-"sala": "Bikini",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "1",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-01T19:30+02:00"
-},{
-"nom": "Vicha Club",
-"sala": "taro",
-"hora": "23:00",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T23:00+02:00"
-},{
-"nom": "El Canijo Pérez",
-"sala": "Razzmatazz[1]",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T19:00+02:00"
-},{
-"nom": "Dumingu",
-"sala": "Bodega la Riera",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T13:00+02:00"
-},{
-"nom": "Atreyu",
-"sala": "Apolo[2]",
-"hora": "18:30",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T18:30+02:00"
-},{
-"nom": "Moranes",
-"sala": "Zero (Tarragona)",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T20:30+02:00"
-},{
-"nom": "Hens",
-"sala": "Apolo[1]",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T20:00+02:00"
-},{
-"nom": "Girándula",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T17:00+02:00"
-},{
-"nom": "Sr. Sugranyes",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T18:00+02:00"
-},{
-"nom": "Sr Wilson + Griffi",
-"sala": "Laut",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T20:00+02:00"
-},{
-"nom": "Andreh y Manuela",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T19:00+02:00"
-},{
-"nom": "The Gardener",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T20:00+02:00"
-},{
-"nom": "Digital Diogenes",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T21:00+02:00"
-},{
-"nom": "F.E.A",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T22:00+02:00"
-},{
-"nom": "tt u.r.i",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T23:00+02:00"
-},{
-"nom": "Jarita y MRY",
-"sala": "Can Batlló",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T23:00+02:00"
-},{
-"nom": "Marbre Negre Festival II",
-"sala": "antic Forn de Vallcarca",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "2",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-02T19:30+02:00"
-},{
-"nom": "Dub (Party)",
-"sala": "Razzmatazz[2]",
-"hora": "17:00",
-"mes": "DES.2023",
-"dia": "3",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-03T17:00+02:00"
-},{
-"nom": "Samuraï",
-"sala": "La Nau",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "3",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-03T21:00+02:00"
-},{
-"nom": "Scorpio",
-"sala": "Razzmatazz[2]",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "3",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-03T19:00+02:00"
-},{
-"nom": "Starcatcher",
-"sala": "Sant Jordi Club",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "3",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-03T19:30+02:00"
-},{
-"nom": "Therese ha + Montblanc",
-"sala": "Taro",
-"hora": "23:00",
-"mes": "DES.2023",
-"dia": "5",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-05T23:00+02:00"
-},{
-"nom": "4x4 German Chocero",
-"sala": "Taro",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "6",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-12-06T19:00+02:00"
-},{
-"nom": "Chameleons",
-"sala": "Zero (Tarragona)",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "6",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-12-06T21:00+02:00"
-},{
-"nom": "Zeballos",
-"sala": "Laut",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "6",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-12-06T20:00+02:00"
-},{
-"nom": "Paula Koops",
-"sala": "La Nau",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "7",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-07T20:30+02:00"
-},{
-"nom": "Guadalupe Plata",
-"sala": "Upload",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "7",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-07T20:00+02:00"
-},{
-"nom": "Chameleons",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "7",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-07T21:00+02:00"
-},{
-"nom": "Guadalupe Plata",
-"sala": "Zero (Tarragona)",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-08T21:00+02:00"
-},{
-"nom": "Lucas Colman",
-"sala": "Laut",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "8",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-08T20:00+02:00"
-},{
-"nom": "Shrek Rave",
-"sala": "Apolo[1]",
-"hora": "17:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T17:00+02:00"
-},{
-"nom": "Raval Flamenco Jazz Group",
-"sala": "Av. Portal de l'Angel",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T17:00+02:00"
-},{
-"nom": "Oaks & Fahia ",
-"sala": "Plç. de sant Pere",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T18:00+02:00"
-},{
-"nom": "Gumbo Jass Band",
-"sala": "Mercat del Besòs",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T12:00+02:00"
-},{
-"nom": "Spread Latin Trio",
-"sala": "Mercat del Clot",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T18:00+02:00"
-},{
-"nom": "Fin del Mundo + Black Maracas",
-"sala": "Upload",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T20:00+02:00"
-},{
-"nom": "Swing Cooking Trio",
-"sala": "Jardinets de Gràcia",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T12:00+02:00"
-},{
-"nom": "Luis le Nuit",
-"sala": "Taro",
-"hora": "23:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T23:00+02:00"
-},{
-"nom": "Rivers & Suns",
-"sala": "Laut",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T20:00+02:00"
-},{
-"nom": "Blessure",
-"sala": "La Cinetika",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T17:00+02:00"
-},{
-"nom": "Les Salvatges",
-"sala": "La Cinetika",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T18:00+02:00"
-},{
-"nom": "Igual nos vamos a morir",
-"sala": "La Cinetika",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T19:00+02:00"
-},{
-"nom": "Robot Emilio",
-"sala": "Vol",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T12:00+02:00"
-},{
-"nom": "Amella Casibruja",
-"sala": "Bodega la Riera",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T13:00+02:00"
-},{
-"nom": "JP Cooper",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "9",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-09T20:00+02:00"
-},{
-"nom": "Baby",
-"sala": "Razzmatazz[1]",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "10",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-10T19:00+02:00"
-},{
-"nom": "Joker Out",
-"sala": "Razzmatazz[2]",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "10",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-10T19:00+02:00"
-},{
-"nom": "Lil Yachty",
-"sala": "Razzmatazz[1]",
-"hora": "18:30",
-"mes": "DES.2023",
-"dia": "12",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-12T18:30+02:00"
-},{
-"nom": "Malibú",
-"sala": "Laut",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "12",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-12T20:00+02:00"
-},{
-"nom": "Roosevelt",
-"sala": "Apolo[1]",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "13",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-12-13T19:00+02:00"
-},{
-"nom": "Alquadrat",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "13",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-12-13T20:00+02:00"
-},{
-"nom": "Karia la Voz",
-"sala": "Razzmatazz[2]",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "14",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-14T20:00+02:00"
-},{
-"nom": "Julieta",
-"sala": "Apolo[1]",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "14",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-14T20:00+02:00"
-},{
-"nom": "Pol Miró & The Blues Gamblers",
-"sala": "La Báscula",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "14",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-14T20:30+02:00"
-},{
-"nom": "Montana",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "14",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-14T21:00+02:00"
-},{
-"nom": "Halldor&Toni&Friends",
-"sala": "hangar 05",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "14",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-14T20:00+02:00"
-},{
-"nom": "Medalla + La Sagrera",
-"sala": "Upload",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-15T20:00+02:00"
-},{
-"nom": "El Pàl·lid",
-"sala": "La Bàscula",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-15T20:00+02:00"
-},{
-"nom": "Rikas + Penelope",
-"sala": "Laut",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-15T20:00+02:00"
-},{
-"nom": "Gumbo Jass Band",
-"sala": "Mercat de Montserrat",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-15T18:00+02:00"
-},{
-"nom": "Morochos",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-15T21:00+02:00"
-},{
-"nom": "Romano Aspas",
-"sala": "Apolo[2]",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-15T19:00+02:00"
-},{
-"nom": "Mikel Erentxun",
-"sala": "Apolo[1]",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "15",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-15T20:00+02:00"
-},{
-"nom": "Núria Garcia",
-"sala": "Plç. Gal·la Placidia",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T18:00+02:00"
-},{
-"nom": "Sara Aldana",
-"sala": "Plc. Paul Claudel",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T12:00+02:00"
-},{
-"nom": "Los Yakis",
-"sala": "Apolo[1]",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T20:00+02:00"
-},{
-"nom": "Mariana També",
-"sala": "Apolo[1]",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T18:00+02:00"
-},{
-"nom": "Reaggae per Xics",
-"sala": "Plç. Catalunya",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T13:00+02:00"
-},{
-"nom": "Selva Nua",
-"sala": "Plç. Eivissa",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-16T18:00+02:00"
-},{
-"nom": "The Gramaphone AllStars Big Band",
-"sala": "Ronda del Guinardó, 49",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-16T18:00+02:00"
-},{
-"nom": "Non Servium (BT)",
-"sala": "La Farga (L'Hospitalet)",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-16T18:00+02:00"
-},{
-"nom": "Soziedad ALkoholika (BT)",
-"sala": "La Farga (L'Hospitalet)",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-16T18:01+02:00"
-},{
-"nom": "Segismundo Toxicómano (BT)",
-"sala": "La Farga (L'Hospitalet)",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-16T18:02+02:00"
-},{
-"nom": "Narco (BT)",
-"sala": "La Farga (L'Hospitalet)",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-16T18:03+02:00"
-},{
-"nom": "Boikot (BT)",
-"sala": "La Farga (L'Hospitalet)",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-16T18:04+02:00"
-},{
-"nom": "La Élite (BT)",
-"sala": "La Farga (L'Hospitalet)",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-16T18:03+02:00"
-},{
-"nom": "Envidia Kotxina (BT)",
-"sala": "La Farga (L'Hospitalet)",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-16T18:04+02:00"
-},{
-"nom": "Josetxu Piperrak (BT)",
-"sala": "La Farga (L'Hospitalet)",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-16T18:05+02:00"
-},{
-"nom": "Periferia (BT)",
-"sala": "La Farga (L'Hospitalet)",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-16T18:06+02:00"
-},{
-"nom": "The Gramaphone AllStars Big Band",
-"sala": "Plç. Catalunya",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-16T13:00+02:00"
-},{
-"nom": "Age Of Steel + Körgull the exterminator + Redimoni",
-"sala": "Upload",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T19:00+02:00"
-},{
-"nom": "Mishima",
-"sala": "Zero (Tarragona)",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T21:00+02:00"
-},{
-"nom": "Lewsberg + Occir",
-"sala": "taro",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T21:00+02:00"
-},{
-"nom": "Fetus, Zesc, Les Cruet, Minbús Intergalàctic, Les Salvatges, La Cosa Pública",
-"sala": "Bodega la Riera",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T13:00+02:00"
-},{
-"nom": "Flavio",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T21:00+02:00"
-},{
-"nom": "Corcs Drum&Organ",
-"sala": "Pg. de Gràcia,43",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T12:00+02:00"
-},{
-"nom": "Gots de Tuba",
-"sala": "Mercat de la Sagrada Família",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T12:00+02:00"
-},{
-"nom": "Marina BB Face",
-"sala": "Pg. de Gràcia,94",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T12:00+02:00"
-},{
-"nom": "Alwin Van Der Linde/ Chema Pastor",
-"sala": "antic Forn de Vallcarca",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T19:30+02:00"
-},{
-"nom": "Orquestacions Dissonants Internes",
-"sala": "antic Forn de Vallcarca",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T20:30+02:00"
-},{
-"nom": "Podré tocar los dientes de la noche",
-"sala": "Kasal Jove de Roquetes",
-"hora": "17:30",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T17:30+02:00"
-},{
-"nom": "Crida Salvatge",
-"sala": "cso Nabat c.Rodés,60 (L'H)",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T19:00+02:00"
-},{
-"nom": "Animal Farm",
-"sala": "cso Nabat c.Rodés,60 (L'H)",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T20:00+02:00"
-},{
-"nom": "Fox Systems",
-"sala": "cso Nabat c.Rodés,60 (L'H)",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T21:00+02:00"
-},{
-"nom": "Los Txutas",
-"sala": "cso Nabat c.Rodés,60 (L'H)",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T21:00+02:00"
-},{
-"nom": "Runä",
-"sala": "cso Nabat c.Rodés,60 (L'H)",
-"hora": "22:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T22:00+02:00"
-},{
-"nom": "Tus Colegas",
-"sala": "Kasal Jove de Roquetes",
-"hora": "18:30",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T18:30+02:00"
-},{
-"nom": "FCKMYLIKE",
-"sala": "Kasal Jove de Roquetes",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T19:30+02:00"
-},{
-"nom": "Forogore Glix del Sistema",
-"sala": "Kasal Jove de Roquetes",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T20:30+02:00"
-},{
-"nom": "O.D.I",
-"sala": "antic Forn de Vallcarca",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T20:30+02:00"
-},{
-"nom": "Oaks & Fahia ",
-"sala": "Diputacio /Tarragona",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T12:00+02:00"
-},{
-"nom": "Tarta Relena",
-"sala": "Plç. Universitat",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T21:00+02:00"
-},{
-"nom": "Cementery of Spendour",
-"sala": "antic Forn de Vallcarca",
-"hora": "21:30",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T21:30+02:00"
-},{
-"nom": "Bastian Katz",
-"sala": "antic Forn de Vallcarca",
-"hora": "22:30",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T22:30+02:00"
-},{
-"nom": "Aesis Quintet",
-"sala": "Plç. Joaquim Folguera",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T12:00+02:00"
-},{
-"nom": "Gumbo Jass Band",
-"sala": "Mercat de les Tres Torres",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T12:00+02:00"
-},{
-"nom": "Juanito",
-"sala": "antic Forn de Vallcarca",
-"hora": "23:30",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T23:30+02:00"
-},{
-"nom": "Las Furias + Sex Shop Boyz + Endora y sus vicios",
-"sala": "Estraperlo",
-"hora": "22:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T22:00+02:00"
-},{
-"nom": "Mazoni",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T19:00+02:00"
-},{
-"nom": "Raydibaum",
-"sala": "Wolf",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "16",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-16T21:00+02:00"
-},{
-"nom": "Reaggae per Xics",
-"sala": "Plç. Catalunya",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "17",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-17T13:00+02:00"
-},{
-"nom": "Malestat",
-"sala": "Meteoro",
-"hora": "18:30",
-"mes": "DES.2023",
-"dia": "17",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-17T18:30+02:00"
-},{
-"nom": "Pulso",
-"sala": "Meteoro",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "17",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-17T19:30+02:00"
-},{
-"nom": "En-Brut",
-"sala": "Meteoro",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "17",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-17T20:30+02:00"
-},{
-"nom": "Tarquim",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "17",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-17T19:00+02:00"
-},{
-"nom": "Simon Taibi",
-"sala": "Laut",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "17",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-17T20:00+02:00"
-},{
-"nom": "Saphie Wells",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "18",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-12-18T19:00+02:00"
-},{
-"nom": "Saphie Wells",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "19",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-12-19T19:00+02:00"
-},{
-"nom": "Sara Socas",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "20",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-12-20T20:00+02:00"
-},{
-"nom": "Alba Armengou Quintet",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "20",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-12-20T19:00+02:00"
-},{
-"nom": "Alba Armengou Quintet",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T19:00+02:00"
-},{
-"nom": "Besacato Goblin",
-"sala": "Taro",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T20:00+02:00"
-},{
-"nom": "Paula Peso",
-"sala": "Plc. Santa Madrona",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T18:00+02:00"
-},{
-"nom": "Goa",
-"sala": "Taro",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T20:30+02:00"
-},{
-"nom": "Recycled J",
-"sala": "Razzmatazz[1]",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T19:00+02:00"
-},{
-"nom": "Carles Viarnès + Los Fumeros",
-"sala": "Palau Robert",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T18:00+02:00"
-},{
-"nom": "Selma Bruna",
-"sala": "Plç. de la Mercè",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T18:00+02:00"
-},{
-"nom": "Extasis + Esquina Finlandia",
-"sala": "Laut",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T20:00+02:00"
-},{
-"nom": "Zarza + Tano! + Cala Vento + Pinpilinpussies",
-"sala": "sidecar",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T20:00+02:00"
-},{
-"nom": "Mariana També",
-"sala": "Mercat de Sant Gervasi",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T18:00+02:00"
-},{
-"nom": "Tarta Relena",
-"sala": "Plç. Universitat",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T20:00+02:00"
-},{
-"nom": "Duo Enxebre",
-"sala": "Plç. del Garrigó",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T18:00+02:00"
-},{
-"nom": "Fetus",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T20:00+02:00"
-},{
-"nom": "Delickites",
-"sala": "Gran de Sant Andreu / Joan Torras",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T18:00+02:00"
-},{
-"nom": "Selva Nua",
-"sala": "Mercat de Sant Antoni",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T21:00+02:00"
-},{
-"nom": "Júlia Blum",
-"sala": "C. Benavent / Felipe de Paz",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "21",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-21T18:00+02:00"
-},{
-"nom": "Alba Careta",
-"sala": "Pg. de Gràcia,80",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T18:00+02:00"
-},{
-"nom": "Júlia Blum",
-"sala": "Jardins d'Elx",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T18:00+02:00"
-},{
-"nom": "Aspanya + Los Pintaos",
-"sala": "vol",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T18:00+02:00"
-},{
-"nom": "La Llama + Amnesia Alcohólica",
-"sala": "vol",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T18:01+02:00"
-},{
-"nom": "AndyWhells + Maggiek",
-"sala": "vol",
-"hora": "??:??",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T18:02+02:00"
-},{
-"nom": "Eva Fernández",
-"sala": "Pg. Sant Joan / Provença",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T18:00+02:00"
-},{
-"nom": "Swing Cooking Trio",
-"sala": "Plc. Francesc Lairet",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T18:00+02:00"
-},{
-"nom": "Tarquim",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T19:00+02:00"
-},{
-"nom": "Sara Aldana",
-"sala": "Plç. de Sarrià",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T18:00+02:00"
-},{
-"nom": "Kora",
-"sala": "Plç. Eivissa",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T18:00+02:00"
-},{
-"nom": "Hip Hons Brass Collective",
-"sala": "Pg. de Gràcia,4",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T18:00+02:00"
-},{
-"nom": "Intana",
-"sala": "Plç. Gal·la Placídia",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T18:00+02:00"
-},{
-"nom": "Rastachai",
-"sala": "Upload",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T20:00+02:00"
-},{
-"nom": "Veus de Nadal",
-"sala": "Mercat de la Barceloneta",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T18:00+02:00"
-},{
-"nom": "Reaggae per Xics",
-"sala": "Plç. Catalunya",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-22T13:00+02:00"
-},{
-"nom": "Sonido de Veldá",
-"sala": "Taro",
-"hora": "23:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-22T23:00+02:00"
-},{
-"nom": "The Dransons + The Quacks + Hot Priest",
-"sala": "Can Riccard",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "22",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-22T22:00+02:00"
-},{
-"nom": "Alba Careta",
-"sala": "Pg. de Gràcia,68",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T12:00+02:00"
-},{
-"nom": "Dani Nel·lo & Organ Trio",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T19:00+02:00"
-},{
-"nom": "Gènesi Quartet",
-"sala": "Plç. les Corts",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T12:00+02:00"
-},{
-"nom": "Veus de Nadal",
-"sala": "mercat del Bon Pastor",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T12:00+02:00"
-},{
-"nom": "Raval Flamenco Jazz Group",
-"sala": "Mercat de la Guineueta",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T12:00+02:00"
-},{
-"nom": "Aesis Quintet",
-"sala": "Jardins del Baix Guinardó",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T12:00+02:00"
-},{
-"nom": "Eva Fernández",
-"sala": "Plç. Joaquim Folguera",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T12:00+02:00"
-},{
-"nom": "Intana",
-"sala": "Plc. Santa Madrona",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T12:00+02:00"
-},{
-"nom": "The Gramaphone AllStars Big Band",
-"sala": "Plç. de Sarrià",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T12:00+02:00"
-},{
-"nom": "The Crab Apples",
-"sala": "Plç. Vila de Gràcia",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T12:00+02:00"
-},{
-"nom": "Selva Nua",
-"sala": "Plç. Virreina",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T18:00+02:00"
-},{
-"nom": "Reaggae per Xics",
-"sala": "Plç. Catalunya",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T13:00+02:00"
-},{
-"nom": "Núria Garcia",
-"sala": "Mercat del Clot",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T12:00+02:00"
-},{
-"nom": "Adelaida",
-"sala": "Placeta Montcada",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T18:00+02:00"
-},{
-"nom": "Núria Garcia",
-"sala": "Av.del Portal de l'Àngel",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T18:00+02:00"
-},{
-"nom": "Hip Horns Brass Collective",
-"sala": "Pg. de Gràcia, 99",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T12:00+02:00"
-},{
-"nom": "Delickites",
-"sala": "Mercat de Sant Antoni",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T18:00+02:00"
-},{
-"nom": "Lori Meyers",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T19:00+02:00"
-},{
-"nom": "Señores Mayores + Mondo Beta",
-"sala": "Upload",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T19:30+02:00"
-},{
-"nom": "Luis Costa",
-"sala": "Taro",
-"hora": "23:00",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T23:00+02:00"
-},{
-"nom": "David Read",
-"sala": "Taro",
-"hora": "20:30",
-"mes": "DES.2023",
-"dia": "23",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-23T20:30+02:00"
-},{
-"nom": "Swing Cooking Trio",
-"sala": "Plç. del Congrés",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "24",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-24T12:00+02:00"
-},{
-"nom": "Carles Viarnès + Los Fumeros",
-"sala": "Recinte Sant Pau",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "24",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-24T18:00+02:00"
-},{
-"nom": "Oaks & Fahia",
-"sala": "Plç. del Garrigó",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "24",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-24T12:00+02:00"
-},{
-"nom": "Reaggae per Xics",
-"sala": "Plç. Catalunya",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "24",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-24T13:00+02:00"
-},{
-"nom": "Spread Latin Trio",
-"sala": "C. Benavent / Felipe de Paz",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "24",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-24T12:00+02:00"
-},{
-"nom": "Veus de Nadal",
-"sala": "Rbla. Poblenou / Pallars",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "24",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-24T12:00+02:00"
-},{
-"nom": "Intana",
-"sala": "Rbla. Poblenou / Pallars",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-29T18:00+02:00"
-},{
-"nom": "Marco Roehrich + Montblanc",
-"sala": "Taro",
-"hora": "23:30",
-"mes": "DES.2023",
-"dia": "24",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-24T23:30+02:00"
-},{
-"nom": "Eva Fernández",
-"sala": "Plç. Sanllehy",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "24",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-24T12:00+02:00"
-},{
-"nom": "Magalí Datzira",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "24",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-24T19:00+02:00"
-},{
-"nom": "Magalí Datzira",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "25",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-12-25T19:00+02:00"
-},{
-"nom": "Bingo Musical",
-"sala": "Taro",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "25",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2023-12-25T20:00+02:00"
-},{
-"nom": "La Maria",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "26",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2023-12-26T19:00+02:00"
-},{
-"nom": "Dani Nel·lo & Organ Trio",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "27",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-12-27T19:00+02:00"
-},{
-"nom": "Reaggae per Xics",
-"sala": "Plç. Catalunya",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "27",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-27T13:00+02:00"
-},{
-"nom": "Reaggae per Xics",
-"sala": "Plç. Catalunya",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "28",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-28T13:00+02:00"
-},{
-"nom": "Núria Graham",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "28",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-28T19:00+02:00"
-},{
-"nom": "Núria Graham",
-"sala": "Plç. Catalunya",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T19:00+02:00"
-},{
-"nom": "Eva Fernández",
-"sala": "Plç. Paul Claudel",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "28",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-28T18:00+02:00"
-},{
-"nom": "Mariana També",
-"sala": "Plç. Sanllehy",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "28",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-28T18:00+02:00"
-},{
-"nom": "Júlia Blum",
-"sala": "Pg. Sant Joan / Provença",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "28",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-28T18:00+02:00"
-},{
-"nom": "Selva Nua",
-"sala": "Plç. de la Barceloneta",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "28",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-28T18:00+02:00"
-},{
-"nom": "Duo Enxebre",
-"sala": "Plç. de Comas",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "28",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-28T18:00+02:00"
-},{
-"nom": "Marina BB Face",
-"sala": "Pg. de Gràcia,75",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T12:00+02:00"
-},{
-"nom": "Selma Bruna",
-"sala": "Plç. Francesc Layret",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T18:00+02:00"
-},{
-"nom": "Nara is Neus",
-"sala": "Plç. de la Oca",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T18:00+02:00"
-},{
-"nom": "Swing Cooking Trio",
-"sala": "Plç. de Sarrià",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T18:00+02:00"
-},{
-"nom": "Memi Sillah",
-"sala": "Pg. de Gràcia,35",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T18:00+02:00"
-},{
-"nom": "New Age Lovers",
-"sala": "Taro",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "28",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-28T21:00+02:00"
-},{
-"nom": "Aesis Quintet",
-"sala": "Plç. del Comerç",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "28",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2023-12-28T18:00+02:00"
-},{
-"nom": "The Crab Apples",
-"sala": "C. Consell de Cent/Girona",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T18:00+02:00"
-},{
-"nom": "Reaggae per Xics",
-"sala": "Plç. Catalunya",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T13:00+02:00"
-},{
-"nom": "Les Testarudes",
-"sala": "Plç. del Raspall",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T18:00+02:00"
-},{
-"nom": "Mariana També",
-"sala": "Plç. Gal·la Placídia",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T18:00+02:00"
-},{
-"nom": "Núria Garcia",
-"sala": "Jardins de Magalí",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T18:00+02:00"
-},{
-"nom": "Delickites",
-"sala": "Plç. Eivissa",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T18:00+02:00"
-},{
-"nom": "Los Mambo Jambo",
-"sala": "Apolo[1]",
-"hora": "20:15",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T10:15+02:00"
-},{
-"nom": "Brighton 64",
-"sala": "Sidecar",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T21:00+02:00"
-},{
-"nom": "Boozan Dukes",
-"sala": "Mercat de Santa Caterina",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T18:00+02:00"
-},{
-"nom": "Maika Makovski",
-"sala": "Upload",
-"hora": "21:30",
-"mes": "DES.2023",
-"dia": "29",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2023-12-29T21:30+02:00"
-},{
-"nom": "Selma Bruna",
-"sala": "Plça. Santa Madrona",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T18:00+02:00"
-},{
-"nom": "Corcs Drum&Organ",
-"sala": "Pg. de Gràcia,18",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T12:00+02:00"
-},{
-"nom": "The Crab Apples",
-"sala": "Mercat de la Marina",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T12:00+02:00"
-},{
-"nom": "Sara Aldana",
-"sala": "Plç. Pastrana",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T12:00+02:00"
-},{
-"nom": "Las Bragas (R&A)",
-"sala": "Sala Padro",
-"hora": "19:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T19:00+02:00"
-},{
-"nom": "Gafes del Oficio (R&A)",
-"sala": "Sala Padro",
-"hora": "20:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T20:00+02:00"
-},{
-"nom": "Ginesthai (R&A)",
-"sala": "Sala Padro",
-"hora": "21:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T21:00+02:00"
-},{
-"nom": "La Maravillosa Cabeza Parlante (R&A)",
-"sala": "Sala Padro",
-"hora": "22:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T22:00+02:00"
-},{
-"nom": "Gènesi Quartet",
-"sala": "Turó Park",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T12:00+02:00"
-},{
-"nom": "Duo Enxebre",
-"sala": "Mercat del Ninot",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T12:00+02:00"
-},{
-"nom": "Quartet Fiora",
-"sala": "Plç. de Comas",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T12:00+02:00"
-},{
-"nom": "Paula Peso",
-"sala": "Plç. de la Palmera",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T12:00+02:00"
-},{
-"nom": "Delickites",
-"sala": "Plç. del Garrigó",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T12:00+02:00"
-},{
-"nom": "The Gramaphone AllStars Big Band",
-"sala": "Gran Via Carles II / Av. de Madrid",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T12:00+02:00"
-},{
-"nom": "Miranda Fernández",
-"sala": "Pg. de Gràcia,101",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T12:00+02:00"
-},{
-"nom": "Intana",
-"sala": "C. Consell de Cent/Girona",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T18:00+02:00"
-},{
-"nom": "Duo Enxebre",
-"sala": "Turó Park",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T18:00+02:00"
-},{
-"nom": "Gots de Tuba",
-"sala": "Mercat de la Trinitat",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T12:00+02:00"
-},{
-"nom": "Paula Peso",
-"sala": "Jardinets de Gràcia",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T18:00+02:00"
-},{
-"nom": "Morgan",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T19:30+02:00"
-},{
-"nom": "The Crab Apples",
-"sala": "Plç. de la Mercè",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T18:00+02:00"
-},{
-"nom": "Nec Organ Trio",
-"sala": "Bodega la Riera",
-"hora": "13:00",
-"mes": "DES.2023",
-"dia": "30",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2023-12-30T13:00+02:00"
-},{
-"nom": "Selma Bruna",
-"sala": "Plç. Pastrana",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "31",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-31T12:00+02:00"
-},{
-"nom": "Quartet Fiora",
-"sala": "Plç. de Sarrià",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "31",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-31T12:00+02:00"
-},{
-"nom": "Spread Latin Trio",
-"sala": "Mercat de la Guineueta",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "31",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-31T12:00+02:00"
-},{
-"nom": "Sara Aldana",
-"sala": "Plç. de la Trinitat",
-"hora": "12:00",
-"mes": "DES.2023",
-"dia": "31",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-31T12:00+02:00"
-},{
-"nom": "Ciment + Smegma",
-"sala": "c/ Mercadal 24 (Martorell)",
-"hora": "18:00",
-"mes": "DES.2023",
-"dia": "31",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2023-12-31T18:00+02:00"
-},{
-"nom": "Nara is Neus",
-"sala": "Plç. Vila de Madrid",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "2",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2024-01-02T18:00+02:00"
-},{
-"nom": "Raval Flamenco Jazz Group",
-"sala": "Jardinets de Gràcia",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "2",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2024-01-02T18:00+02:00"
-},{
-"nom": "Ssissterss",
-"sala": "Pg. Sant Joan / Provença",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "2",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2024-01-02T18:00+02:00"
-},{
-"nom": "Nara is Neus",
-"sala": "Plç. Vila de Gràcia",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "3",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2024-01-03T18:00+02:00"
-},{
-"nom": "Ssissterss",
-"sala": "Diputacio /Tarragona",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "3",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-01-03T18:00+02:00"
-},{
-"nom": "Gènesi Quartet",
-"sala": "Xavier Nogués, 41",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "3",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2023-01-03T18:00+02:00"
-},{
-"nom": "Quartet Fiora",
-"sala": "Rbla. Onze de Setembre / Sant Mateu",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "3",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2024-01-03T18:00+02:00"
-},{
-"nom": "Ssissterss",
-"sala": "Plç. Vila de Madrid",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "4",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-01-04T18:00+02:00"
-},{
-"nom": "Spread Latin Trio",
-"sala": "Plç. Maragall",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "4",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-01-04T18:00+02:00"
-},{
-"nom": "Júlia Blum",
-"sala": "Diputacio /Tarragona",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "4",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-01-04T18:00+02:00"
-},{
-"nom": "Paula Peso",
-"sala": "Mercat del Ninot",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "4",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-01-04T18:00+02:00"
-},{
-"nom": "Quartet Fiora",
-"sala": "Xavier Nogués, 41",
-"hora": "18:00",
-"mes": "GEN.2024",
-"dia": "4",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-01-04T18:00+02:00"
-},{
-"nom": "Orfeó de Nadal",
-"sala": "Plç. del Rei",
-"hora": "19:30",
-"mes": "GEN.2024",
-"dia": "4",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-01-04T19:30+02:00"
-},{
-"nom": "Abul Mogard",
-"sala": "Casa Montjuïc",
-"hora": "20:30",
-"mes": "GEN.2024",
-"dia": "5",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-01-05T20:00+02:00"
-},{
-"nom": "Tronco",
-"sala": "Vol",
-"hora": "21:30",
-"mes": "GEN.2024",
-"dia": "6",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-06T21:30+02:00"
-},{
-"nom": "Abbath + Toxic Holocaust + Hellripper",
-"sala": "Salamandra",
-"hora": "19:30",
-"mes": "GEN.2024",
-"dia": "9",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2024-01-09T19:30+02:00"
-},{
-"nom": "Israel B",
-"sala": "Razzmatazz[1]",
-"hora": "20:00",
-"mes": "GEN.2024",
-"dia": "12",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-01-12T20:00+02:00"
-},{
-"nom": "Aloha Bennets + Sonic Anaconda + Angulos Muertos",
-"sala": "vol",
-"hora": "21:00",
-"mes": "GEN.2024",
-"dia": "12",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-01-12T21:00+02:00"
-},{
-"nom": "Los Cigarros",
+"nom": "Los Zigarros",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
 "mes": "GEN.2024",
@@ -2411,6 +8,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-01-13T19:30+02:00"
+},{
+"nom": "Spike",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
+"mes": "GEN.2024",
+"dia": "13",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-13T20:00+02:00"
 },{
 "nom": "Betzebong + Ground + Udol",
 "sala": "upload",
@@ -2458,6 +64,15 @@
 "dateTime": "2024-01-17T20:00+02:00"
 },{
 "nom": "Susan Santos",
+"sala": "Razzmatazz[2]",
+"hora": "20:00",
+"mes": "GEN.2024",
+"dia": "17",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2024-01-17T20:00+02:00"
+},{
+"nom": "Lou Fresco / Marc Ginale",
 "sala": "Upload",
 "hora": "21:00",
 "mes": "GEN.2024",
@@ -2466,14 +81,14 @@
 "ciutat": "",
 "dateTime": "2024-01-17T21:00+02:00"
 },{
-"nom": "Queralt Lahoz + Cristian de Moret",
-"sala": "Razzmatazz[1]",
+"nom": "Jp Fernandez",
+"sala": "Razzmatazz[3]",
 "hora": "21:00",
 "mes": "GEN.2024",
-"dia": "18",
-"textdia": "dijous",
+"dia": "19",
+"textdia": "divendres",
 "ciutat": "",
-"dateTime": "2024-01-18T21:00+02:00"
+"dateTime": "2024-01-21T21:00+02:00"
 },{
 "nom": "Marwán",
 "sala": "Apolo[1]",
@@ -2502,6 +117,15 @@
 "ciutat": "",
 "dateTime": "2024-01-20T18:30+02:00"
 },{
+"nom": "Endurance",
+"sala": "Razzmatazz[1]",
+"hora": "19:15",
+"mes": "GEN.2024",
+"dia": "20",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-20T19:30+02:00"
+},{
 "nom": "Cupido",
 "sala": "Razzmatazz[1]",
 "hora": "19:30",
@@ -2525,7 +149,16 @@
 "hora": "21:00",
 "mes": "GEN.2024",
 "dia": "21",
-"textdia": "divendres",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2024-01-21T21:00+02:00"
+},{
+"nom": "Orphaned Land + Zteca + Royal Rage + Rain of Gyges",
+"sala": "Razzmatazz[2]",
+"hora": "17:30",
+"mes": "GEN.2024",
+"dia": "21",
+"textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2024-01-21T21:00+02:00"
 },{
@@ -2534,21 +167,66 @@
 "hora": "21:30",
 "mes": "GEN.2024",
 "dia": "23",
-"textdia": "dissabte",
+"textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2024-01-23T21:30+02:00"
+},{
+"nom": "Noah and the Loners",
+"sala": "Razzmatazz[3]",
+"hora": "21:00",
+"mes": "GEN.2024",
+"dia": "23",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2024-01-23T20:00+02:00"
+},{
+"nom": "Soulwax",
+"sala": "Razzmatazz[1]",
+"hora": "20:30",
+"mes": "GEN.2024",
+"dia": "24",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2024-01-24T20:30+02:00"
 },{
 "nom": "Valiu",
 "sala": "Vol",
 "hora": "21:30",
 "mes": "GEN.2024",
 "dia": "25",
-"textdia": "dilluns",
+"textdia": "dijous",
 "ciutat": "",
 "dateTime": "2024-01-25T21:30+02:00"
 },{
+"nom": "Abhir",
+"sala": "Razzmatazz[2]",
+"hora": "20:00",
+"mes": "GEN.2024",
+"dia": "25",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-01-25T20:00+02:00"
+},{
+"nom": "Cano",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "GEN.2024",
+"dia": "25",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-01-25T19:30+02:00"
+},{
 "nom": "Da Souza",
 "sala": "Apolo[1]",
+"hora": "20:00",
+"mes": "GEN.2024",
+"dia": "26",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-01-26T20:00+02:00"
+},{
+"nom": "Cano",
+"sala": "Razzmatazz[1]",
 "hora": "20:00",
 "mes": "GEN.2024",
 "dia": "26",
@@ -2583,6 +261,24 @@
 "ciutat": "",
 "dateTime": "2024-01-27T19:00+02:00"
 },{
+"nom": "Drugos + Bertt que todo Arde",
+"sala": "Razzmatazz[3]",
+"hora": "19:00",
+"mes": "GEN.2024",
+"dia": "27",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-01-27T19:00+02:00"
+},{
+"nom": "Sidonie + Dan Peralbo",
+"sala": "Razzmatazz[1]",
+"hora": "20:00",
+"mes": "GEN.2024",
+"dia": "28",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2024-01-28T20:00+02:00"
+},{
 "nom": "Mushkaa",
 "sala": "Apolo[1]",
 "hora": "20:00",
@@ -2591,6 +287,15 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2024-02-01T20:00+02:00"
+},{
+"nom": "Blaumut",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "FEB.2024",
+"dia": "1",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-01T19:30+02:00"
 },{
 "nom": "Mushkaa",
 "sala": "Apolo[1]",
@@ -2619,14 +324,32 @@
 "ciutat": "",
 "dateTime": "2024-02-02T19:30+02:00"
 },{
+"nom": "Hoke x 4:40",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
+"mes": "FEB.2024",
+"dia": "2",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-02T20:00+02:00"
+},{
 "nom": "Bullit + Eric Fuentes",
-"sala": "Estraperlo",
+"sala": "estraperlo",
 "hora": "21:00",
 "mes": "FEB.2024",
 "dia": "3",
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-02-03T21:00+02:00"
+},{
+"nom": "Sergio Contreras",
+"sala": "Razzmatazz[2]",
+"hora": "20:15",
+"mes": "FEB.2024",
+"dia": "3",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-03T20:15+02:00"
 },{
 "nom": "Sen Senra",
 "sala": "Sant Jordi Club",
@@ -2636,6 +359,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-02-03T21:00+02:00"
+},{
+"nom": "Slowdive",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "FEB.2024",
+"dia": "5",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2024-02-05T19:30+02:00"
 },{
 "nom": "Personal Trainer",
 "sala": "Razzmatazz[3]",
@@ -2709,6 +441,42 @@
 "ciutat": "",
 "dateTime": "2024-02-10T20:00+02:00"
 },{
+"nom": "Neverland Bari",
+"sala": "Razzmatazz[3]",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "10",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-10T20:30+02:00"
+},{
+"nom": "Mujeres",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "FEB.2024",
+"dia": "10",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-10T19:30+02:00"
+},{
+"nom": "Irepelusa",
+"sala": "Razzmatazz[2]",
+"hora": "19:00",
+"mes": "FEB.2024",
+"dia": "11",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2024-02-11T19:00+02:00"
+},{
+"nom": "Nils Hoffmann",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
+"mes": "FEB.2024",
+"dia": "14",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2024-02-14T20:00+02:00"
+},{
 "nom": "Thrice",
 "sala": "Apolo[1]",
 "hora": "19:30",
@@ -2726,6 +494,69 @@
 "textdia": "dijous",
 "ciutat": "",
 "dateTime": "2024-02-15T21:00+02:00"
+},{
+"nom": "Coucou Chloe + BabyMorocco",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "FEB.2024",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-15T19:30+02:00"
+},{
+"nom": "Apashe",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "FEB.2024",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-15T19:00+02:00"
+},{
+"nom": "DEM",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T19:30+02:00"
+},{
+"nom": "Crystal Fighters",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T19:00+02:00"
+},{
+"nom": "Stingers + Alejandria + The Night Prowlers",
+"sala": "Razzmatazz[2]",
+"hora": "18:30",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T18:30+02:00"
+},{
+"nom": "Parkineos + The Whistlers + Amygdala + GEA",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T19:00+02:00"
+},{
+"nom": "Soyla + Alarmantiks",
+"sala": "Razzmatazz[3]",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T20:30+02:00"
 },{
 "nom": "Ravi Ram",
 "sala": "Apolo[1]",
@@ -2754,6 +585,87 @@
 "ciutat": "",
 "dateTime": "2024-02-17T21:00+02:00"
 },{
+"nom": "Dead Poet Society",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
+"mes": "FEB.2024",
+"dia": "18",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2024-02-18T20:00+02:00"
+},{
+"nom": "Harp Twins",
+"sala": "Razzmatazz[3]",
+"hora": "19:30",
+"mes": "FEB.2024",
+"dia": "21",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2024-02-21T19:30+02:00"
+},{
+"nom": "C.R.O.",
+"sala": "Razzmatazz[2]",
+"hora": "19:30",
+"mes": "FEB.2024",
+"dia": "21",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2024-02-21T19:30+02:00"
+},{
+"nom": "The Pickturebooks",
+"sala": "Razzmatazz[3]",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "22",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-22T20:30+02:00"
+},{
+"nom": "Swans + Maria W Horn",
+"sala": "Razzmatazz[2]",
+"hora": "18:00",
+"mes": "FEB.2024",
+"dia": "21",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2024-02-21T18:00+02:00"
+},{
+"nom": "Los Sex + Grazzland Sinners",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
+"mes": "FEB.2024",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-23T20:00+02:00"
+},{
+"nom": "Antilópez",
+"sala": "Razzmatazz[2]",
+"hora": "20:00",
+"mes": "FEB.2024",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-23T20:00+02:00"
+},{
+"nom": "Miss Caffeina",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "FEB.2024",
+"dia": "23",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-23T19:30+02:00"
+},{
+"nom": "Sebastián Cortés",
+"sala": "Razzmatazz[2]",
+"hora": "20:00",
+"mes": "FEB.2024",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-24T20:00+02:00"
+},{
 "nom": "Ladilla Rusa + Futurachicapop",
 "sala": "Razzmatazz[1]",
 "hora": "19:00",
@@ -2762,6 +674,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-02-24T19:30+02:00"
+},{
+"nom": "Javi Medina",
+"sala": "Razzmatazz[3]",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "24",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-24T20:30+02:00"
 },{
 "nom": "Mazoni",
 "sala": "Apolo[2]",
@@ -2781,6 +702,42 @@
 "ciutat": "",
 "dateTime": "2024-02-24T20:00+02:00"
 },{
+"nom": "Los Fundamentalistas del Aire acondicionado",
+"sala": "Razzmatazz[1]",
+"hora": "18:30",
+"mes": "FEB.2024",
+"dia": "27",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2024-02-27T18:30+02:00"
+},{
+"nom": "Nothing but Thieves",
+"sala": "Razzmatazz[1]",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "29",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-29T20:30+02:00"
+},{
+"nom": "Dystinct",
+"sala": "Razzmatazz[2]",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "29",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-29T20:30+02:00"
+},{
+"nom": "Nathan Fake",
+"sala": "Razzmatazz[3]",
+"hora": "20:00",
+"mes": "FEB.2024",
+"dia": "29",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-29T20:00+02:00"
+},{
 "nom": "Unsalto",
 "sala": "Vol",
 "hora": "21:30",
@@ -2789,6 +746,15 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-02-10T21:30+02:00"
+},{
+"nom": "Rayden",
+"sala": "Razzmatazz[1]",
+"hora": "19:30",
+"mes": "MAR.2024",
+"dia": "1",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-03-01T19:30+02:00"
 },{
 "nom": "Dylan Henner",
 "sala": "Casa Montjuïc",
@@ -2870,6 +836,15 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2024-03-17T22:00+02:00"
+},{
+"nom": "Queralt Lahoz + Cristian de Moret",
+"sala": "Paral·lel 62",
+"hora": "21:00",
+"mes": "MAR.2024",
+"dia": "21",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-03-21T21:00+02:00"
 },{
 "nom": "Francis of Delirium",
 "sala": "Vol",
