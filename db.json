@@ -1,392 +1,5 @@
 {
 "concerts": [{
-"nom": "Los Zigarros",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "GEN.2024",
-"dia": "13",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-13T19:30+02:00"
-},{
-"nom": "Spike",
-"sala": "Razzmatazz[3]",
-"hora": "20:00",
-"mes": "GEN.2024",
-"dia": "13",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-13T20:00+02:00"
-},{
-"nom": "Betzebong + Ground + Udol",
-"sala": "upload",
-"hora": "19:30",
-"mes": "GEN.2024",
-"dia": "13",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-13T19:30+02:00"
-},{
-"nom": "Estertor",
-"sala": "La Capsa",
-"hora": "22:00",
-"mes": "GEN.2024",
-"dia": "13",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-13T22:00+02:00"
-},{
-"nom": "Morbid Flesh",
-"sala": "La Capsa",
-"hora": "23:00",
-"mes": "GEN.2024",
-"dia": "13",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-13T23:00+02:00"
-},{
-"nom": "Orinicous",
-"sala": "La Capsa",
-"hora": "23:590",
-"mes": "GEN.2024",
-"dia": "13",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-13T23:59+02:00"
-},{
-"nom": "Marc Ginale",
-"sala": "Razzmatazz[2]",
-"hora": "20:00",
-"mes": "GEN.2024",
-"dia": "17",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2024-01-17T20:00+02:00"
-},{
-"nom": "Susan Santos",
-"sala": "Razzmatazz[2]",
-"hora": "20:00",
-"mes": "GEN.2024",
-"dia": "17",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2024-01-17T20:00+02:00"
-},{
-"nom": "Lou Fresco / Marc Ginale",
-"sala": "Upload",
-"hora": "21:00",
-"mes": "GEN.2024",
-"dia": "17",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2024-01-17T21:00+02:00"
-},{
-"nom": "Jp Fernandez",
-"sala": "Razzmatazz[3]",
-"hora": "21:00",
-"mes": "GEN.2024",
-"dia": "19",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-01-21T21:00+02:00"
-},{
-"nom": "Marwán",
-"sala": "Apolo[1]",
-"hora": "19:30",
-"mes": "GEN.2024",
-"dia": "19",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-01-19T19:30+02:00"
-},{
-"nom": "Nikone",
-"sala": "Bikini",
-"hora": "19:30",
-"mes": "GEN.2024",
-"dia": "19",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-01-19T19:30+02:00"
-},{
-"nom": "Tesseract + Unprocessed + Callous Daoboys",
-"sala": "Apolo[1]",
-"hora": "18:30",
-"mes": "GEN.2024",
-"dia": "20",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-20T18:30+02:00"
-},{
-"nom": "Endurance",
-"sala": "Razzmatazz[1]",
-"hora": "19:15",
-"mes": "GEN.2024",
-"dia": "20",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-20T19:30+02:00"
-},{
-"nom": "Cupido",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "GEN.2024",
-"dia": "20",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-20T19:30+02:00"
-},{
-"nom": "Cano",
-"sala": "Razzmatazz[1]",
-"hora": "20:00",
-"mes": "GEN.2024",
-"dia": "20",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-20T20:30+02:00"
-},{
-"nom": "Ters",
-"sala": "La Nau",
-"hora": "21:00",
-"mes": "GEN.2024",
-"dia": "21",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2024-01-21T21:00+02:00"
-},{
-"nom": "Orphaned Land + Zteca + Royal Rage + Rain of Gyges",
-"sala": "Razzmatazz[2]",
-"hora": "17:30",
-"mes": "GEN.2024",
-"dia": "21",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2024-01-21T21:00+02:00"
-},{
-"nom": "Sanisidro Negro",
-"sala": "Vol",
-"hora": "21:30",
-"mes": "GEN.2024",
-"dia": "23",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2024-01-23T21:30+02:00"
-},{
-"nom": "Noah and the Loners",
-"sala": "Razzmatazz[3]",
-"hora": "21:00",
-"mes": "GEN.2024",
-"dia": "23",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2024-01-23T20:00+02:00"
-},{
-"nom": "Soulwax",
-"sala": "Razzmatazz[1]",
-"hora": "20:30",
-"mes": "GEN.2024",
-"dia": "24",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2024-01-24T20:30+02:00"
-},{
-"nom": "Valiu",
-"sala": "Vol",
-"hora": "21:30",
-"mes": "GEN.2024",
-"dia": "25",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-01-25T21:30+02:00"
-},{
-"nom": "Abhir",
-"sala": "Razzmatazz[2]",
-"hora": "20:00",
-"mes": "GEN.2024",
-"dia": "25",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-01-25T20:00+02:00"
-},{
-"nom": "Cano",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "GEN.2024",
-"dia": "25",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-01-25T19:30+02:00"
-},{
-"nom": "Da Souza",
-"sala": "Apolo[1]",
-"hora": "20:00",
-"mes": "GEN.2024",
-"dia": "26",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-01-26T20:00+02:00"
-},{
-"nom": "Cano",
-"sala": "Razzmatazz[1]",
-"hora": "20:00",
-"mes": "GEN.2024",
-"dia": "26",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-01-26T20:00+02:00"
-},{
-"nom": "Sidonie",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "GEN.2024",
-"dia": "27",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-27T19:30+02:00"
-},{
-"nom": "Bum Motion Club",
-"sala": "vol",
-"hora": "21:30",
-"mes": "GEN.2024",
-"dia": "27",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-27T21:30+02:00"
-},{
-"nom": "Jo Crepúsculo",
-"sala": "Apolo[2]",
-"hora": "19:00",
-"mes": "GEN.2024",
-"dia": "27",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-27T19:00+02:00"
-},{
-"nom": "Drugos + Bertt que todo Arde",
-"sala": "Razzmatazz[3]",
-"hora": "19:00",
-"mes": "GEN.2024",
-"dia": "27",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-01-27T19:00+02:00"
-},{
-"nom": "Sidonie + Dan Peralbo",
-"sala": "Razzmatazz[1]",
-"hora": "20:00",
-"mes": "GEN.2024",
-"dia": "28",
-"textdia": "diumenge",
-"ciutat": "",
-"dateTime": "2024-01-28T20:00+02:00"
-},{
-"nom": "Mushkaa",
-"sala": "Apolo[1]",
-"hora": "20:00",
-"mes": "FEB.2024",
-"dia": "1",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-02-01T20:00+02:00"
-},{
-"nom": "Blaumut",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "FEB.2024",
-"dia": "1",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-02-01T19:30+02:00"
-},{
-"nom": "Mushkaa",
-"sala": "Apolo[1]",
-"hora": "20:00",
-"mes": "FEB.2024",
-"dia": "2",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-02-01T20:00+02:00"
-},{
-"nom": "Sofie Birch",
-"sala": "Casa Montjuïc",
-"hora": "20:00",
-"mes": "FEB.2024",
-"dia": "2",
-"textdia": "dijous",
-"ciutat": "",
-"dateTime": "2024-02-01T20:00+02:00"
-},{
-"nom": "Pau Vallvé",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "FEB.2024",
-"dia": "2",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-02-02T19:30+02:00"
-},{
-"nom": "Hoke x 4:40",
-"sala": "Razzmatazz[3]",
-"hora": "20:00",
-"mes": "FEB.2024",
-"dia": "2",
-"textdia": "divendres",
-"ciutat": "",
-"dateTime": "2024-02-02T20:00+02:00"
-},{
-"nom": "Bullit + Eric Fuentes",
-"sala": "estraperlo",
-"hora": "21:00",
-"mes": "FEB.2024",
-"dia": "3",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-02-03T21:00+02:00"
-},{
-"nom": "Sergio Contreras",
-"sala": "Razzmatazz[2]",
-"hora": "20:15",
-"mes": "FEB.2024",
-"dia": "3",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-02-03T20:15+02:00"
-},{
-"nom": "Sen Senra",
-"sala": "Sant Jordi Club",
-"hora": "21:00",
-"mes": "FEB.2024",
-"dia": "3",
-"textdia": "dissabte",
-"ciutat": "",
-"dateTime": "2024-02-03T21:00+02:00"
-},{
-"nom": "Slowdive",
-"sala": "Razzmatazz[1]",
-"hora": "19:30",
-"mes": "FEB.2024",
-"dia": "5",
-"textdia": "dilluns",
-"ciutat": "",
-"dateTime": "2024-02-05T19:30+02:00"
-},{
-"nom": "Personal Trainer",
-"sala": "Razzmatazz[3]",
-"hora": "19:30",
-"mes": "FEB.2024",
-"dia": "6",
-"textdia": "dimarts",
-"ciutat": "",
-"dateTime": "2024-02-06T19:30+02:00"
-},{
-"nom": "El Grande Toto",
-"sala": "Apolo[2]",
-"hora": "20:00",
-"mes": "FEB.2024",
-"dia": "7",
-"textdia": "dimecres",
-"ciutat": "",
-"dateTime": "2024-02-07T20:00+02:00"
-},{
 "nom": "La reina del pop",
 "sala": "Razzmatazz[2]",
 "hora": "19:30",
@@ -468,6 +81,33 @@
 "ciutat": "",
 "dateTime": "2024-02-11T19:00+02:00"
 },{
+"nom": "jam",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "FEB.2024",
+"dia": "12",
+"textdia": "dilluns",
+"ciutat": "",
+"dateTime": "2024-02-12T19:00+02:00"
+},{
+"nom": "Toni Saigi Trio (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "FEB.2024",
+"dia": "13",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2024-02-13T19:00+02:00"
+},{
+"nom": "Toni Saigi Trio (II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "13",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2024-02-13T20:30+02:00"
+},{
 "nom": "Nils Hoffmann",
 "sala": "Razzmatazz[3]",
 "hora": "20:00",
@@ -477,7 +117,7 @@
 "ciutat": "",
 "dateTime": "2024-02-14T20:00+02:00"
 },{
-"nom": "Thrice",
+"nom": "Thrice + Town Portal",
 "sala": "Apolo[1]",
 "hora": "19:30",
 "mes": "FEB.2024",
@@ -485,6 +125,132 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2024-02-13T19:30+02:00"
+},{
+"nom": "Alba Careta i Henrio",
+"sala": "L'Auditori BCN",
+"hora": "20:00",
+"mes": "FEB.2024",
+"dia": "13",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2024-02-13T20:00+02:00"
+},{
+"nom": "Beneficiència a Xamfrà",
+"sala": "Paral·lel 62",
+"hora": "21:00",
+"mes": "FEB.2024",
+"dia": "13",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2024-02-13T21:00+02:00"
+},{
+"nom": "Manouche",
+"sala": "Soda Acústic",
+"hora": "21:30",
+"mes": "FEB.2024",
+"dia": "13",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2024-02-13T21:30+02:00"
+},{
+"nom": "jam",
+"sala": "Harlem Jazz Club",
+"hora": "22:30",
+"mes": "FEB.2024",
+"dia": "13",
+"textdia": "dimarts",
+"ciutat": "",
+"dateTime": "2024-02-13T22:30+02:00"
+},{
+"nom": "The Dominics",
+"sala": "Luz de Gas",
+"hora": "21:00",
+"mes": "FEB.2024",
+"dia": "14",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2024-02-14T21:00+02:00"
+},{
+"nom": "jam",
+"sala": "Soda Acústic",
+"hora": "21:30",
+"mes": "FEB.2024",
+"dia": "14",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2024-02-14T21:00+02:00"
+},{
+"nom": "Santa salut",
+"sala": "Apolo[2]",
+"hora": "21:00",
+"mes": "FEB.2024",
+"dia": "14",
+"textdia": "dimecres",
+"ciutat": "",
+"dateTime": "2024-02-14T21:00+02:00"
+},{
+"nom": "Clarence Bekker Band (I)",
+"sala": "Jamboree",
+"hora": "19:00",
+"mes": "FEB.2024",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-15T19:00+02:00"
+},{
+"nom": "Clarence Bekker Band (II)",
+"sala": "Jamboree",
+"hora": "21:00",
+"mes": "FEB.2024",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-15T21:00+02:00"
+},{
+"nom": "Persefone + Hypno5E + Stellar Circuits + Lampr3A",
+"sala": "La Nau",
+"hora": "19:00",
+"mes": "FEB.2024",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-15T19:00+02:00"
+},{
+"nom": "Strongboi",
+"sala": "Wolf",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-15T20:30+02:00"
+},{
+"nom": "The Rock Killers",
+"sala": "Luz de Gas",
+"hora": "21:00",
+"mes": "FEB.2024",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-15T21:00+02:00"
+},{
+"nom": "Mr Shingles Soul",
+"sala": "Harlem Jazz Club",
+"hora": "22:30",
+"mes": "FEB.2024",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-15T22:30+02:00"
+},{
+"nom": "Jam",
+"sala": "Soda Acústic",
+"hora": "22:30",
+"mes": "FEB.2024",
+"dia": "15",
+"textdia": "dijous",
+"ciutat": "",
+"dateTime": "2024-02-15T22:30+02:00"
 },{
 "nom": "Of the Wand and the Moon",
 "sala": "Vol",
@@ -522,14 +288,158 @@
 "ciutat": "",
 "dateTime": "2024-02-16T19:30+02:00"
 },{
-"nom": "Crystal Fighters",
-"sala": "Razzmatazz[1]",
+"nom": "André Villeger Quartet(I)",
+"sala": "Jamboree",
 "hora": "19:00",
 "mes": "FEB.2024",
 "dia": "16",
 "textdia": "divendres",
 "ciutat": "",
 "dateTime": "2024-02-16T19:00+02:00"
+},{
+"nom": "André Villeger Quartet(II)",
+"sala": "Jamboree",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T20:30+02:00"
+},{
+"nom": "Jay-Jay Johanson (I)",
+"sala": "La Nau",
+"hora": "20:00",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T20:00+02:00"
+},{
+"nom": "Jay Ciru",
+"sala": "Slow",
+"hora": "21:30",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T21:30+02:00"
+},{
+"nom": "Rebeka Brown",
+"sala": "Luz de Gas",
+"hora": "21:00",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T21:00+02:00"
+},{
+"nom": "Jimena Amarillo + Lusillón",
+"sala": "Salamandra (L'H)",
+"hora": "20:00",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T20:00+02:00"
+},{
+"nom": "Pablo Volt6 & JGG + Galeria Interior",
+"sala": "Vol",
+"hora": "21:30",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T21:30+02:00"
+},{
+"nom": "Ummo",
+"sala": "La Deskomunal",
+"hora": "21:30",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T21:30+02:00"
+},{
+"nom": "Night Train",
+"sala": "Soda Acústic",
+"hora": "22:00",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T22:00+02:00"
+},{
+"nom": "Gigi McFarlane & co",
+"sala": "Jamboree",
+"hora": "22:30",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T22:30+02:00"
+},{
+"nom": "Gran Torino Blues Company",
+"sala": "Marula Café",
+"hora": "22:30",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T22:30+02:00"
+},{
+"nom": "Virgina & The Woolfs",
+"sala": "Harlem Jazz Club",
+"hora": "23:00",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T23:00+02:00"
+},{
+"nom": "Jay-Jay Johanson (II)",
+"sala": "La Nau",
+"hora": "23:00",
+"mes": "FEB.2024",
+"dia": "16",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-02-16T23:00+02:00"
+},{
+"nom": "Marco Mezquida (I)",
+"sala": "JAMBOREE",
+"hora": "19:00",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T19:00+02:00"
+},{
+"nom": "Marco Mezquida (II)",
+"sala": "JAMBOREE",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T20:30+02:00"
+},{
+"nom": "Bratia (I)",
+"sala": "jamboree",
+"hora": "19:05",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T20:00+02:00"
+},{
+"nom": "Bratia (II)",
+"sala": "jamboree",
+"hora": "21:00",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T21:00+02:00"
 },{
 "nom": "Stingers + Alejandria + The Night Prowlers",
 "sala": "Razzmatazz[2]",
@@ -585,6 +495,24 @@
 "ciutat": "",
 "dateTime": "2024-02-17T21:00+02:00"
 },{
+"nom": "La Ludwig Band + Remei de Ca la Fresca",
+"sala": "Salamandra (L'H)",
+"hora": "20:00",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T20:00+02:00"
+},{
+"nom": "A Dark Reborn + Blaze Out + Whitedemon",
+"sala": "La Mirona (Girona)",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T20:00+02:00"
+},{
 "nom": "Dead Poet Society",
 "sala": "Razzmatazz[3]",
 "hora": "20:00",
@@ -593,6 +521,60 @@
 "textdia": "diumenge",
 "ciutat": "",
 "dateTime": "2024-02-18T20:00+02:00"
+},{
+"nom": "Dirty Rockets",
+"sala": "Barbara Ann",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T20:30+02:00"
+},{
+"nom": "Galgo Diamante + Ameba Soup",
+"sala": "Slow",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T20:30+02:00"
+},{
+"nom": "The Beat",
+"sala": "Wolf",
+"hora": "20:30",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T20:30+02:00"
+},{
+"nom": "Vicente Monera + Aitor Irayzoz",
+"sala": "antic Forn de Vallcarca",
+"hora": "19:00",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T19:00+02:00"
+},{
+"nom": "Midas Alonso",
+"sala": "La Nau",
+"hora": "21:00",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T21:00+02:00"
+},{
+"nom": "Afrosideral",
+"sala": "Jamboree",
+"hora": "22:30",
+"mes": "FEB.2024",
+"dia": "17",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-02-17T22:30+02:00"
 },{
 "nom": "Harp Twins",
 "sala": "Razzmatazz[3]",
@@ -810,6 +792,15 @@
 "ciutat": "",
 "dateTime": "2024-03-09T19:30+02:00"
 },{
+"nom": "Experiments al Forn",
+"sala": "antic Forn de Vallcarca",
+"hora": "19:00",
+"mes": "MAR.2024",
+"dia": "9",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-03-09T19:00+02:00"
+},{
 "nom": "Las Novias + La Borma Negra",
 "sala": "Upload",
 "hora": "20:00",
@@ -827,6 +818,24 @@
 "textdia": "dissabte",
 "ciutat": "",
 "dateTime": "2024-03-10T19:30+02:00"
+},{
+"nom": "Musica Naranja",
+"sala": "antic Forn de Vallcarca",
+"hora": "20:00",
+"mes": "MAR.2024",
+"dia": "15",
+"textdia": "divendres",
+"ciutat": "",
+"dateTime": "2024-03-15T20:00+02:00"
+},{
+"nom": "Hamfuggi Fest II ",
+"sala": "antic Forn de Vallcarca",
+"hora": "19:00",
+"mes": "MAR.2024",
+"dia": "16",
+"textdia": "dissabte",
+"ciutat": "",
+"dateTime": "2024-03-15T19:00+02:00"
 },{
 "nom": "Al Dual",
 "sala": "Upload",
@@ -980,4 +989,13 @@
 "textdia": "dimarts",
 "ciutat": "",
 "dateTime": "2024-06-11T19:30+02:00"
+},{
+"nom": "Crystal Fighters",
+"sala": "Razzmatazz[1]",
+"hora": "19:00",
+"mes": "OCT.2024",
+"dia": "20",
+"textdia": "diumenge",
+"ciutat": "",
+"dateTime": "2024-10-20T19:00+02:00"
 }]}
