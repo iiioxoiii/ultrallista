@@ -1,6 +1,15 @@
 {
 "concerts": [
 {
+            "nom": "FESTA METRO CLUB",
+            "sala": "Almo2bar",
+            "hora": "18:30",
+            "mes": "SET",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2024-08-14T18:30+02:00"
+},
+{
 	"nom": "ROYAL BLOOD",
 	"sala": "Razzmatazz[1]",
 	"hora": "19:00",
