@@ -1,6 +1,106 @@
 {
 "concerts": [
 {
+            "nom": "MISANTROPICAL TAKES OVER NEA FEST ",
+            "sala": "Vol",
+            "hora": "22:30",
+            "mes": "JUL.2024",
+            "dia": "19",
+            "ciutat": "",
+            "dateTime": "2024-07-19T22:30+02:00"
+        },
+        {
+            "nom": "Femme is Nasty: MaatkaraFire AffairFfeytStacey Cute ",
+            "sala": "Vol",
+            "hora": "21:00",
+            "mes": "JUL.2024",
+            "dia": "20",
+            "ciutat": "",
+            "dateTime": "2024-07-20T21:00+02:00"
+        },
+        {
+            "nom": "Les SalvatgesMINIBS INTERGALCTIC ",
+            "sala": "Vol",
+            "hora": "20:30",
+            "mes": "JUL.2024",
+            "dia": "25",
+            "ciutat": "",
+            "dateTime": "2024-07-25T20:30+02:00"
+        },
+        {
+            "nom": "Sin Sync Party ",
+            "sala": "Vol",
+            "hora": "22:00",
+            "mes": "JUL.2024",
+            "dia": "26",
+            "ciutat": "",
+            "dateTime": "2024-07-26T22:00+02:00"
+        },
+        {
+            "nom": "SalvanaLeavsSTAY IN NOTHING ",
+            "sala": "Vol",
+            "hora": "20:30",
+            "mes": "SET.2024",
+            "dia": "13",
+            "ciutat": "",
+            "dateTime": "2024-09-13T20:30+02:00"
+        },
+        {
+            "nom": "Lip Critic ",
+            "sala": "Vol",
+            "hora": "20:30",
+            "mes": "SET.2024",
+            "dia": "25",
+            "ciutat": "",
+            "dateTime": "2024-09-25T20:30+02:00"
+        },
+        {
+            "nom": "Jane Weaver ",
+            "sala": "Vol",
+            "hora": "21:00",
+            "mes": "OCT.2024",
+            "dia": "2",
+            "ciutat": "",
+            "dateTime": "2024-10-02T21:00+02:00"
+        },
+        {
+            "nom": "Filipin Yess ",
+            "sala": "Vol",
+            "hora": "20:30",
+            "mes": "OCT.2024",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2024-10-04T20:30+02:00"
+        },
+        {
+            "nom": "Parsnip ",
+            "sala": "Vol",
+            "hora": "21:30",
+            "mes": "OCT.2024",
+            "dia": "12",
+            "ciutat": "",
+            "dateTime": "2024-10-12T21:30+02:00"
+        },
+        {
+            "nom": "EZEZEZ ",
+            "sala": "Vol",
+            "hora": "21:30",
+            "mes": "OCT.2024",
+            "dia": "25",
+            "ciutat": "",
+            "dateTime": "2024-10-25T21:30+02:00"
+        },
+        {
+            "nom": "MedallaLas Tristes ",
+            "sala": "Vol",
+            "hora": "21:30",
+            "mes": "DES.2024",
+            "dia": "14",
+            "ciutat": "",
+            "dateTime": "2024-12-14T21:30+02:00"
+        },
+	
+{
             "nom": "PISTOLA + HOLLOW EMPTY MINDS + NO REST FOR THE ENEMY",
             "sala": "laDeskomunal",
             "hora": "19:30",
