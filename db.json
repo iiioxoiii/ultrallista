@@ -1,5 +1,165 @@
 {
 "concerts": [
+	{
+            "nom": "PISTOLA + HOLLOW EMPTY MINDS + NO REST FOR THE ENEMY",
+            "sala": "laDeskomunal",
+            "hora": "19:30",
+            "mes": "AGO",
+            "dia": "19",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2024-07-19T19:30+02:00"
+        },
+        {
+            "nom": "EL SONIDO DE VELD",
+            "sala": "laDeskomunal",
+            "hora": "23:45",
+            "mes": "AGO",
+            "dia": "19",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2024-07-19T23:45+02:00"
+        },
+        {
+            "nom": "FUNDACIN FRANCISCO FRANKENSTEIN + SACRAMENTOS",
+            "sala": "laDeskomunal",
+            "hora": "20:00",
+            "mes": "AGO",
+            "dia": "20",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2024-07-20T20:00+02:00"
+        },
+        {
+            "nom": "MAKE WAR + KELOIDROP + DALLA",
+            "sala": "laDeskomunal",
+            "hora": "20:00",
+            "mes": "AGO",
+            "dia": "23",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2024-07-23T20:00+02:00"
+        },
+        {
+            "nom": "FLUX + MACHA KIDDO",
+            "sala": "laDeskomunal",
+            "hora": "19:30",
+            "mes": "AGO",
+            "dia": "24",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2024-07-24T19:30+02:00"
+        },
+        {
+            "nom": "OBLICUA JALEA",
+            "sala": "laDeskomunal",
+            "hora": "22:00",
+            "mes": "AGO",
+            "dia": "26",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2024-07-26T22:00+02:00"
+        },
+        {
+            "nom": "AGAINSTERS + TORAZINAS + RATPENADES",
+            "sala": "laDeskomunal",
+            "hora": "20:00",
+            "mes": "AGO",
+            "dia": "27",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2024-07-27T20:00+02:00"
+        },
+        {
+            "nom": "LOS FASTIDIOS",
+            "sala": "laDeskomunal",
+            "hora": "20:30",
+            "mes": "OCT",
+            "dia": "6",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2024-09-06T20:30+02:00"
+        },
+        {
+            "nom": "BlackBlaze Collective",
+            "sala": "laDeskomunal",
+            "hora": "20:00",
+            "mes": "OCT",
+            "dia": "12",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2024-09-12T20:00+02:00"
+        },
+        {
+            "nom": "BAD MUSIC SESSIONS: NEW OLD SCHOOL + THE ABANDONADOS",
+            "sala": "laDeskomunal",
+            "hora": "20:30",
+            "mes": "OCT",
+            "dia": "13",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2024-09-13T20:30+02:00"
+        },
+        {
+            "nom": "LAS MANOS DE FILIPPI + BATXA",
+            "sala": "laDeskomunal",
+            "hora": "20:00",
+            "mes": "OCT",
+            "dia": "19",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2024-09-19T20:00+02:00"
+        },
+        {
+            "nom": "ROCK-A-FONDIANS vs. RICKY GIL & BISCUIT",
+            "sala": "laDeskomunal",
+            "hora": "21:00",
+            "mes": "OCT",
+            "dia": "21",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2024-09-21T21:00+02:00"
+        },
+        {
+            "nom": "HETZE + BAIT + MESTIZA",
+            "sala": "laDeskomunal",
+            "hora": "21:00",
+            "mes": "OCT",
+            "dia": "26",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2024-09-26T21:00+02:00"
+        },
+        {
+            "nom": "THE ESKARALLAS + MALA BESTIA",
+            "sala": "laDeskomunal",
+            "hora": "20:30",
+            "mes": "NOV",
+            "dia": "4",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2024-10-04T20:30+02:00"
+        },
+        {
+            "nom": "THE TOASTERS",
+            "sala": "laDeskomunal",
+            "hora": "20:30",
+            "mes": "NOV",
+            "dia": "18",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2024-10-18T20:30+02:00"
+        },
+        {
+            "nom": "MALA HIERBA + OPUS PAIN",
+            "sala": "laDeskomunal",
+            "hora": "20:30",
+            "mes": "DES",
+            "dia": "16",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2024-11-16T20:30+02:00"
+        },
 {
         "nom": "FESTA METRO CLUB",
         "sala": "Almo2bar",
