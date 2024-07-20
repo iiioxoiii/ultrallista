@@ -3,7 +3,7 @@
 	{
             "nom": "Regna + B.A.D + Rockstacular + Killed By G",
             "sala": "Upload",
-            "hora": "19",
+            "hora": "19:00",
             "mes": "JUL.2024",
             "dia": "20",
             "textdia": "diumenge",
@@ -13,7 +13,7 @@
         {
             "nom": "Night Beats + Morganita",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:00",
             "mes": "JUL.2024",
             "dia": "26",
             "textdia": "dissabte",
@@ -23,7 +23,7 @@
         {
             "nom": "Sardina Fest Tiburona + Rotten Mind + Lie Detectors...",
             "sala": "Upload",
-            "hora": "18",
+            "hora": "18:00",
             "mes": "JUL.2024",
             "dia": "27",
             "textdia": "diumenge",
@@ -33,7 +33,7 @@
         {
             "nom": "At War + NERVOCHAOS",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:00",
             "mes": "AGO.2024",
             "dia": "4",
             "textdia": "dilluns",
@@ -43,7 +43,7 @@
         {
             "nom": "Sheer Mag Homefront + Enemic Interior + Patrol",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:00",
             "mes": "AGO.2024",
             "dia": "22",
             "textdia": "divendres",
@@ -53,7 +53,7 @@
         {
             "nom": "Heathen + \u00c1ngel Negro",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:00",
             "mes": "AGO.2024",
             "dia": "26",
             "textdia": "dimarts",
@@ -63,7 +63,7 @@
         {
             "nom": "Inerth + Avern + Puerko",
             "sala": "Upload",
-            "hora": "19",
+            "hora": "19:30",
             "mes": "SET.2024",
             "dia": "6",
             "textdia": "dissabte",
@@ -83,7 +83,7 @@
         {
             "nom": "Lysistrata + It It Anita",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:00",
             "mes": "SET.2024",
             "dia": "18",
             "textdia": "dijous",
@@ -93,7 +93,7 @@
         {
             "nom": "General Knas",
             "sala": "Upload",
-            "hora": "21",
+            "hora": "21:00",
             "mes": "SET.2024",
             "dia": "20",
             "textdia": "dissabte",
@@ -103,7 +103,7 @@
         {
             "nom": "Gigolo Aunts",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:30",
             "mes": "SET.2024",
             "dia": "24",
             "textdia": "dimecres",
@@ -113,7 +113,7 @@
         {
             "nom": "Acid Tongue",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:00",
             "mes": "SET.2024",
             "dia": "25",
             "textdia": "dijous",
@@ -123,7 +123,7 @@
         {
             "nom": "Camera Obscura",
             "sala": "Upload",
-            "hora": "21",
+            "hora": "??:??",
             "mes": "SET.2024",
             "dia": "28",
             "textdia": "diumenge",
@@ -133,7 +133,7 @@
         {
             "nom": "Bodega",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:00",
             "mes": "OCT.2024",
             "dia": "8",
             "textdia": "dimecres",
@@ -143,7 +143,7 @@
         {
             "nom": "The Pioneers + Boss Capone and Patsy + DJs",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:30",
             "mes": "OCT.2024",
             "dia": "11",
             "textdia": "dissabte",
@@ -153,7 +153,7 @@
         {
             "nom": "Sr Chinarro",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:30",
             "mes": "OCT.2024",
             "dia": "12",
             "textdia": "diumenge",
@@ -173,7 +173,7 @@
         {
             "nom": "Viaje a 800",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:30",
             "mes": "OCT.2024",
             "dia": "18",
             "textdia": "dissabte",
@@ -203,7 +203,7 @@
         {
             "nom": "Zeke + The Capaces",
             "sala": "Upload",
-            "hora": "21",
+            "hora": "??:??",
             "mes": "OCT.2024",
             "dia": "29",
             "textdia": "dimecres",
@@ -213,7 +213,7 @@
         {
             "nom": "Nocturna Festival 2024",
             "sala": "Upload",
-            "hora": "19",
+            "hora": "19:30",
             "mes": "OCT.2024",
             "dia": "31",
             "textdia": "divendres",
@@ -223,7 +223,7 @@
         {
             "nom": "Festival Bello: Axolotes Mexicanos",
             "sala": "Upload",
-            "hora": "21",
+            "hora": "21:00",
             "mes": "NOV.2024",
             "dia": "2",
             "textdia": "diumenge",
@@ -233,7 +233,7 @@
         {
             "nom": "The Tubs",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:00",
             "mes": "NOV.2024",
             "dia": "6",
             "textdia": "dijous",
@@ -251,9 +251,9 @@
             "dateTime": "2024-11-20T19:30+02:00"
         },
         {
-            "nom": "La Inquisici\u00f3n",
+            "nom": "La Inquisición",
             "sala": "Upload",
-            "hora": "21",
+            "hora": "21:09",
             "mes": "NOV.2024",
             "dia": "22",
             "textdia": "dissabte",
@@ -263,7 +263,7 @@
         {
             "nom": "Mourn",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:00",
             "mes": "NOV.2024",
             "dia": "29",
             "textdia": "dissabte",
@@ -273,7 +273,7 @@
         {
             "nom": "Dead Boys",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:00",
             "mes": "MAR.2025",
             "dia": "5",
             "textdia": "dijous",
@@ -283,7 +283,7 @@
         {
             "nom": "Actors",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:00",
             "mes": "MAR.2025",
             "dia": "21",
             "textdia": "dissabte",
@@ -293,7 +293,7 @@
         {
             "nom": "TRAITRS + Twin Noir",
             "sala": "Upload",
-            "hora": "20",
+            "hora": "20:00",
             "mes": "ABR.2025",
             "dia": "21",
             "textdia": "dimarts",
