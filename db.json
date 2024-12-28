@@ -1,2706 +1,1924 @@
 {
 "concerts": [
 	{
-            "nom": "Regna + B.A.D + Rockstacular + Killed By G",
-            "sala": "Upload",
-            "hora": "19:00",
-            "mes": "JUL.2024",
-            "dia": "20",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2024-07-20T19:00+02:00"
-        },
-        {
-            "nom": "Night Beats + Morganita",
-            "sala": "Upload",
-            "hora": "20:00",
-            "mes": "JUL.2024",
-            "dia": "26",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-07-26T20:00+02:00"
-        },
-        {
-            "nom": "Sardina Fest Tiburona + Rotten Mind + Lie Detectors...",
-            "sala": "Upload",
-            "hora": "18:00",
-            "mes": "JUL.2024",
-            "dia": "27",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2024-07-27T18:00+02:00"
-        },
-        {
-            "nom": "At War + NERVOCHAOS",
-            "sala": "Upload",
-            "hora": "20:00",
-            "mes": "AGO.2024",
-            "dia": "4",
-            "textdia": "dilluns",
-            "ciutat": "",
-            "dateTime": "2024-08-04T20:00+02:00"
-        },
-        {
-            "nom": "Sheer Mag Homefront + Enemic Interior + Patrol",
-            "sala": "Upload",
-            "hora": "20:00",
-            "mes": "AGO.2024",
-            "dia": "22",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2024-08-22T20:00+02:00"
-        },
-        {
-            "nom": "Heathen + \u00c1ngel Negro",
-            "sala": "Upload",
-            "hora": "20:00",
-            "mes": "AGO.2024",
-            "dia": "26",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2024-08-26T20:00+02:00"
-        },
-        {
-            "nom": "Inerth + Avern + Puerko",
-            "sala": "Upload",
-            "hora": "19:30",
-            "mes": "SET.2024",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-09-06T19:30+02:00"
-        },
-        {
-            "nom": "Gambeat Weekend 2024 The Gories + Rata Negra + Meatbodies + ...",
-            "sala": "Upload",
-            "hora": "21",
-            "mes": "DES.2024",
-            "dia": "28",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2024-12-28T21:12+02:00"
-        },
-        {
-            "nom": "Lysistrata + It It Anita",
-            "sala": "Upload",
-            "hora": "20:00",
-            "mes": "SET.2024",
-            "dia": "18",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2024-09-18T20:00+02:00"
-        },
-        {
-            "nom": "General Knas",
-            "sala": "Upload",
-            "hora": "21:00",
-            "mes": "SET.2024",
-            "dia": "20",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-09-20T21:00+02:00"
-        },
-        {
-            "nom": "Gigolo Aunts",
-            "sala": "Upload",
-            "hora": "20:30",
-            "mes": "SET.2024",
-            "dia": "24",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2024-09-24T20:30+02:00"
-        },
-        {
-            "nom": "Acid Tongue",
-            "sala": "Upload",
-            "hora": "20:00",
-            "mes": "SET.2024",
-            "dia": "25",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2024-09-25T20:00+02:00"
-        },
-        {
-            "nom": "Camera Obscura",
-            "sala": "Upload",
-            "hora": "??:??",
-            "mes": "SET.2024",
-            "dia": "28",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2024-09-28T21:09+02:00"
-        },
-        {
-            "nom": "Bodega",
-            "sala": "Upload",
-            "hora": "20:00",
-            "mes": "OCT.2024",
-            "dia": "8",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2024-10-08T20:00+02:00"
-        },
-        {
-            "nom": "The Pioneers + Boss Capone and Patsy + DJs",
-            "sala": "Upload",
-            "hora": "20:30",
-            "mes": "OCT.2024",
-            "dia": "11",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-10-11T20:30+02:00"
-        },
-        {
-            "nom": "Sr Chinarro",
-            "sala": "Upload",
-            "hora": "20:30",
-            "mes": "OCT.2024",
-            "dia": "12",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2024-10-12T20:30+02:00"
-        },
-        {
-            "nom": "Shakra + Leyenda",
-            "sala": "Upload",
-            "hora": "20",
-            "mes": "OCT.2024",
-            "dia": "17",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2024-10-17T20:00+02:00"
-        },
-        {
-            "nom": "Viaje a 800",
-            "sala": "Upload",
-            "hora": "20:30",
-            "mes": "OCT.2024",
-            "dia": "18",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-10-18T20:30+02:00"
-        },
-        {
-            "nom": "Festival Bello: La Plata",
-            "sala": "Upload",
-            "hora": "21",
-            "mes": "OCT.2024",
-            "dia": "19",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2024-10-19T21:00+02:00"
-        },
-        {
-            "nom": "GHOSTWOMAN",
-            "sala": "Upload",
-            "hora": "20",
-            "mes": "OCT.2024",
-            "dia": "28",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2024-10-28T20:00+02:00"
-        },
-        {
-            "nom": "Zeke + The Capaces",
-            "sala": "Upload",
-            "hora": "??:??",
-            "mes": "OCT.2024",
-            "dia": "29",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2024-10-29T21:09+02:00"
-        },
-        {
-            "nom": "Nocturna Festival 2024",
-            "sala": "Upload",
-            "hora": "19:30",
-            "mes": "OCT.2024",
-            "dia": "31",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2024-10-31T19:30+02:00"
-        },
-        {
-            "nom": "Festival Bello: Axolotes Mexicanos",
-            "sala": "Upload",
-            "hora": "21:00",
-            "mes": "NOV.2024",
-            "dia": "2",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2024-11-02T21:00+02:00"
-        },
-        {
-            "nom": "The Tubs",
-            "sala": "Upload",
-            "hora": "20:00",
-            "mes": "NOV.2024",
-            "dia": "6",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2024-11-06T20:00+02:00"
-        },
-        {
-            "nom": "Thee Sinseers + The Altons",
-            "sala": "Upload",
-            "hora": "19",
-            "mes": "NOV.2024",
-            "dia": "20",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2024-11-20T19:30+02:00"
-        },
-        {
-            "nom": "La Inquisición",
-            "sala": "Upload",
-            "hora": "21:09",
-            "mes": "NOV.2024",
-            "dia": "22",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-11-22T21:09+02:00"
-        },
-        {
-            "nom": "Mourn",
-            "sala": "Upload",
-            "hora": "20:00",
-            "mes": "NOV.2024",
-            "dia": "29",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-11-29T20:30+02:00"
-        },
-        {
-            "nom": "Dead Boys",
-            "sala": "Upload",
-            "hora": "20:00",
-            "mes": "MAR.2025",
-            "dia": "5",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2025-03-05T20:00+02:00"
-        },
-        {
-            "nom": "Actors",
-            "sala": "Upload",
-            "hora": "20:00",
-            "mes": "MAR.2025",
-            "dia": "21",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-03-21T20:30+02:00"
-        },
-        {
-            "nom": "TRAITRS + Twin Noir",
-            "sala": "Upload",
-            "hora": "20:00",
-            "mes": "ABR.2025",
-            "dia": "21",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2025-04-21T20:15+02:00"
-        },
+		"nom": "ILL PEKEO & ERGO PRO",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "DES.2024",
+		"dia": "27",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2024-12-27T19:30+02:00"
+	},
 	{
-            "nom": "Kinky",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "SET.2024",
-            "textdia": "divendres",
-            "dia": "5",
-            "ciutat": "",
-            "dateTime": "2024-9-05T21:00+02:00"
-        },
-        {
-            "nom": "Twin Tribes + Wingtips ",
-            "sala": "Wolf",
-            "hora": "??:??",
-            "mes": "SET.2024",
-            "textdia": "dissabte",
-            "dia": "6",
-            "ciutat": "",
-            "dateTime": "2024-9-06T20:02+02:00"
-        },
-        {
-            "nom": " KAIZOKU BAND + HALLOWED BE THE BEAST",
-            "sala": "Wolf",
-            "hora": "20:15",
-            "mes": "SET.2024",
-            "textdia": "diumenge",
-            "dia": "7",
-            "ciutat": "",
-            "dateTime": "2024-9-07T20:15+02:00"
-        },
-        {
-            "nom": "CORDOVAS - (VI Rootsound Fest)",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "SET.2024",
-            "textdia": "dijous",
-            "dia": "11",
-            "ciutat": "",
-            "dateTime": "2024-9-11T21:00+02:00"
-        },
-        {
-            "nom": "STILL CORNERS",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "SET.2024",
-            "textdia": "divendres",
-            "dia": "12",
-            "ciutat": "",
-            "dateTime": "2024-9-12T21:00+02:00"
-        },
-        {
-            "nom": " The Essence +Sigmund Wilder",
-            "sala": "Wolf",
-            "hora": "20:30",
-            "mes": "SET.2024",
-            "textdia": "dissabte",
-            "dia": "13",
-            "ciutat": "",
-            "dateTime": "2024-9-13T20:30+02:00"
-        },
-        {
-            "nom": "Lime Cordiale +  PAT BURGENER.",
-            "sala": "Wolf",
-            "hora": "20:30",
-            "mes": "SET.2024",
-            "textdia": "dimarts",
-            "dia": "16",
-            "ciutat": "",
-            "dateTime": "2024-9-16T20:30+02:00"
-        },
-        {
-            "nom": "Pacífica",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "SET.2024",
-            "textdia": "dissabte",
-            "dia": "27",
-            "ciutat": "",
-            "dateTime": "2024-9-27T21:00+02:00"
-        },
-        {
-            "nom": "Easy Cure - The Cure tribut + Floorshow - tribut a Sisters of Mercy ",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "SET.2024",
-            "textdia": "diumenge",
-            "dia": "28",
-            "ciutat": "",
-            "dateTime": "2024-9-28T21:00+02:00"
-        },
-        {
-            "nom": "Massacre ",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "SET.2024",
-            "textdia": "dilluns",
-            "dia": "29",
-            "ciutat": "",
-            "dateTime": "2024-9-29T21:00+02:00"
-        },
-        {
-            "nom": "POL 3.14 ",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "textdia": "dissabte",
-            "dia": "4",
-            "ciutat": "",
-            "dateTime": "2024-10-04T21:00+02:00"
-        },
-        {
-            "nom": "METALLIJAM",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "textdia": "diumenge",
-            "dia": "5",
-            "ciutat": "",
-            "dateTime": "2024-10-05T21:00+02:00"
-        },
-        {
-            "nom": "MARUJA ",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "textdia": "dissabte",
-            "dia": "11",
-            "ciutat": "",
-            "dateTime": "2024-10-11T21:00+02:00"
-        },
-        {
-            "nom": "DE/VISION",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "textdia": "diumenge",
-            "dia": "12",
-            "ciutat": "",
-            "dateTime": "2024-10-12T21:00+02:00"
-        },
-        {
-            "nom": "Tre Allegri Ragazzi Morti",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "textdia": "dijous",
-            "dia": "16",
-            "ciutat": "",
-            "dateTime": "2024-10-16T21:00+02:00"
-        },
-        {
-            "nom": "Bradley Simpson",
-            "sala": "Wolf",
-            "hora": "20:30",
-            "mes": "OCT.2024",
-            "textdia": "divendres",
-            "dia": "17",
-            "ciutat": "",
-            "dateTime": "2024-10-17T20:30+02:00"
-        },
-        {
-            "nom": "FUCK OFF ",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "textdia": "diumenge",
-            "dia": "19",
-            "ciutat": "",
-            "dateTime": "2024-10-19T21:00+02:00"
-        },
-        {
-            "nom": "FM",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "textdia": "divendres",
-            "dia": "24",
-            "ciutat": "",
-            "dateTime": "2024-10-24T21:00+02:00"
-        },
-        {
-            "nom": "HDN ",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "textdia": "dissabte",
-            "dia": "25",
-            "ciutat": "",
-            "dateTime": "2024-10-25T21:00+02:00"
-        },
-        {
-            "nom": "CAMELLOS - 26È FESTIVAL MIL·LENNI",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "textdia": "diumenge",
-            "dia": "26",
-            "ciutat": "",
-            "dateTime": "2024-10-26T21:00+02:00"
-        },
-        {
-            "nom": "Márama",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "textdia": "dilluns",
-            "dia": "27",
-            "ciutat": "",
-            "dateTime": "2024-10-27T21:00+02:00"
-        },
-        {
-            "nom": "WHISPERING SONS",
-            "sala": "Wolf",
-            "hora": "21:45",
-            "mes": "NOV.2024",
-            "textdia": "dijous",
-            "dia": "6",
-            "ciutat": "",
-            "dateTime": "2024-11-06T21:45+02:00"
-        },
-        {
-            "nom": "Antony Z",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "NOV.2024",
-            "textdia": "dissabte",
-            "dia": "8",
-            "ciutat": "",
-            "dateTime": "2024-11-08T21:00+02:00"
-        },
-        {
-            "nom": "STOP STOP! y WHITE TYGËR",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "NOV.2024",
-            "textdia": "diumenge",
-            "dia": "9",
-            "ciutat": "",
-            "dateTime": "2024-11-09T21:00+02:00"
-        },
-        {
-            "nom": "LABERISO",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "NOV.2024",
-            "textdia": "dilluns",
-            "dia": "10",
-            "ciutat": "",
-            "dateTime": "2024-11-10T21:00+02:00"
-        },
-        {
-            "nom": "IMMACULATE FOOLS - 40th Anniversary Tour",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "NOV.2024",
-            "textdia": "diumenge",
-            "dia": "23",
-            "ciutat": "",
-            "dateTime": "2024-11-23T21:00+02:00"
-        },
-        {
-            "nom": " RIOT V + AZRAEL",
-            "sala": "Wolf",
-            "hora": "20:00",
-            "mes": "NOV.2024",
-            "textdia": "dilluns",
-            "dia": "24",
-            "ciutat": "",
-            "dateTime": "2024-11-24T20:00+02:00"
-        },
-        {
-            "nom": "ULTRALIGERA ",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "NOV.2024",
-            "textdia": "dissabte",
-            "dia": "29",
-            "ciutat": "",
-            "dateTime": "2024-11-29T21:00+02:00"
-        },
-        {
-            "nom": "P.A.W.N GANG",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "GEN.2025",
-            "textdia": "dissabte",
-            "dia": "17",
-            "ciutat": "",
-            "dateTime": "2025-01-17T21:00+02:00"
-        },
-{
-            "nom": "MISANTROPICAL TAKES OVER NEA FEST ",
-            "sala": "Vol",
-            "hora": "22:30",
-            "mes": "JUL.2024",
-            "textdia": "dissabte",
-            "dia": "19",
-            "ciutat": "",
-            "dateTime": "2024-07-19T22:30+02:00"
-        },
-        {
-            "nom": "Femme is Nasty: MaatkaraFire AffairFfeytStacey Cute ",
-            "sala": "Vol",
-            "hora": "21:00",
-            "mes": "JUL.2024",
-            "textdia": "diumenge",
-            "dia": "20",
-            "ciutat": "",
-            "dateTime": "2024-07-20T21:00+02:00"
-        },
-        {
-            "nom": "Les SalvatgesMINIBS INTERGALCTIC ",
-            "sala": "Vol",
-            "hora": "20:30",
-            "mes": "JUL.2024",
-            "textdia": "divendres",
-            "dia": "25",
-            "ciutat": "",
-            "dateTime": "2024-07-25T20:30+02:00"
-        },
-        {
-            "nom": "Sin Sync Party ",
-            "sala": "Vol",
-            "hora": "22:00",
-            "mes": "JUL.2024",
-            "textdia": "dissabte",
-            "dia": "26",
-            "ciutat": "",
-            "dateTime": "2024-07-26T22:00+02:00"
-        },
-        {
-            "nom": "SalvanaLeavsSTAY IN NOTHING ",
-            "sala": "Vol",
-            "hora": "20:30",
-            "mes": "SET.2024",
-            "textdia": "dissabte",
-            "dia": "13",
-            "ciutat": "",
-            "dateTime": "2024-09-13T20:30+02:00"
-        },
-        {
-            "nom": "Lip Critic ",
-            "sala": "Vol",
-            "hora": "20:30",
-            "mes": "SET.2024",
-            "textdia": "dijous",
-            "dia": "25",
-            "ciutat": "",
-            "dateTime": "2024-09-25T20:30+02:00"
-        },
-        {
-            "nom": "Jane Weaver ",
-            "sala": "Vol",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "textdia": "dijous",
-            "dia": "2",
-            "ciutat": "",
-            "dateTime": "2024-10-02T21:00+02:00"
-        },
-        {
-            "nom": "Filipin Yess ",
-            "sala": "Vol",
-            "hora": "20:30",
-            "mes": "OCT.2024",
-            "textdia": "dissabte",
-            "dia": "4",
-            "ciutat": "",
-            "dateTime": "2024-10-04T20:30+02:00"
-        },
-        {
-            "nom": "Parsnip ",
-            "sala": "Vol",
-            "hora": "21:30",
-            "mes": "OCT.2024",
-            "textdia": "diumenge",
-            "dia": "12",
-            "ciutat": "",
-            "dateTime": "2024-10-12T21:30+02:00"
-        },
-        {
-            "nom": "EZEZEZ ",
-            "sala": "Vol",
-            "hora": "21:30",
-            "mes": "OCT.2024",
-            "textdia": "dissabte",
-            "dia": "25",
-            "ciutat": "",
-            "dateTime": "2024-10-25T21:30+02:00"
-        },
-        {
-            "nom": "MedallaLas Tristes ",
-            "sala": "Vol",
-            "hora": "21:30",
-            "mes": "DES.2024",
-            "textdia": "diumenge",
-            "dia": "14",
-            "ciutat": "",
-            "dateTime": "2024-12-14T21:30+02:00"
-        },
-	
-{
-            "nom": "PISTOLA + HOLLOW EMPTY MINDS + NO REST FOR THE ENEMY",
-            "sala": "laDeskomunal",
-            "hora": "19:30",
-            "mes": "AGO.2024",
-            "dia": "19",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-07-19T19:30+02:00"
-        },
-        {
-            "nom": "EL SONIDO DE VELD",
-            "sala": "laDeskomunal",
-            "hora": "23:45",
-            "mes": "AGO.2024",
-            "dia": "19",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-07-19T23:45+02:00"
-        },
-        {
-            "nom": "FUNDACIN FRANCISCO FRANKENSTEIN + SACRAMENTOS",
-            "sala": "laDeskomunal",
-            "hora": "20:00",
-            "mes": "AGO.2024",
-            "dia": "20",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2024-07-20T20:00+02:00"
-        },
-        {
-            "nom": "MAKE WAR + KELOIDROP + DALLA",
-            "sala": "laDeskomunal",
-            "hora": "20:00",
-            "mes": "AGO.2024",
-            "dia": "23",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2024-07-23T20:00+02:00"
-        },
-        {
-            "nom": "FLUX + MACHA KIDDO",
-            "sala": "laDeskomunal",
-            "hora": "19:30",
-            "mes": "AGO.2024",
-            "dia": "24",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2024-07-24T19:30+02:00"
-        },
-        {
-            "nom": "OBLICUA JALEA",
-            "sala": "laDeskomunal",
-            "hora": "22:00",
-            "mes": "AGO.2024",
-            "dia": "26",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-07-26T22:00+02:00"
-        },
-        {
-            "nom": "AGAINSTERS + TORAZINAS + RATPENADES",
-            "sala": "laDeskomunal",
-            "hora": "20:00",
-            "mes": "AGO.2024",
-            "dia": "27",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2024-07-27T20:00+02:00"
-        },
-        {
-            "nom": "LOS FASTIDIOS",
-            "sala": "laDeskomunal",
-            "hora": "20:30",
-            "mes": "OCT.2024",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-09-06T20:30+02:00"
-        },
-        {
-            "nom": "BlackBlaze Collective",
-            "sala": "laDeskomunal",
-            "hora": "20:00",
-            "mes": "OCT.2024",
-            "dia": "12",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2024-09-12T20:00+02:00"
-        },
-        {
-            "nom": "BAD MUSIC SESSIONS: NEW OLD SCHOOL + THE ABANDONADOS",
-            "sala": "laDeskomunal",
-            "hora": "20:30",
-            "mes": "OCT.2024",
-            "dia": "13",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-09-13T20:30+02:00"
-        },
-        {
-            "nom": "LAS MANOS DE FILIPPI + BATXA",
-            "sala": "laDeskomunal",
-            "hora": "20:00",
-            "mes": "OCT.2024",
-            "dia": "19",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2024-09-19T20:00+02:00"
-        },
-        {
-            "nom": "ROCK-A-FONDIANS vs. RICKY GIL & BISCUIT",
-            "sala": "laDeskomunal",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "dia": "21",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2024-09-21T21:00+02:00"
-        },
-        {
-            "nom": "HETZE + BAIT + MESTIZA",
-            "sala": "laDeskomunal",
-            "hora": "21:00",
-            "mes": "OCT.2024",
-            "dia": "26",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2024-09-26T21:00+02:00"
-        },
-        {
-            "nom": "THE ESKARALLAS + MALA BESTIA",
-            "sala": "laDeskomunal",
-            "hora": "20:30",
-            "mes": "NOV.2024",
-            "dia": "4",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-10-04T20:30+02:00"
-        },
-        {
-            "nom": "THE TOASTERS",
-            "sala": "laDeskomunal",
-            "hora": "20:30",
-            "mes": "NOV.2024",
-            "dia": "18",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2024-10-18T20:30+02:00"
-        },
-        {
-            "nom": "MALA HIERBA + OPUS PAIN",
-            "sala": "laDeskomunal",
-            "hora": "20:30",
-            "mes": "DES.2024",
-            "dia": "16",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2024-11-16T20:30+02:00"
-        },
-	
-{
-        "nom": "FESTA METRO CLUB",
-        "sala": "Almo2bar",
-        "hora": "18:30",
-        "mes": "SET.2024",
-	"dia": "14",
-        "textdia": "dijous",
-	"ciutat": "",
-        "dateTime": "2024-08-14T18:30+02:00"
-},
-{
-	"nom": "ROYAL BLOOD",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "JUL.2024",
-	"dia": "15",
-	"textdia": "dilluns",
-	"ciutat": "",
-	"dateTime": "2024-07-15T19:00+02:00"
-},
-{
-	"nom": "PAULO LONDRA",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "JUL.2024",
-	"dia": "17",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-07-17T19:30+02:00"
-},
-{
-	"nom": "JERRY RIVERA",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "JUL.2024",
-	"dia": "18",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-07-18T19:00+02:00"
-},
-{
-	"nom": "PAREN LA MANO - ONE NIGHT ONLY WORLD TOUR",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:00",
-	"mes": "JUL.2024",
-	"dia": "19",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-07-19T19:00+02:00"
-},
-{
-	"nom": "Kasablanca",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "JUL.2024",
-	"dia": "19",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-07-19T20:00+02:00"
-},
-{
-	"nom": "THE TESKEY BROTHERS",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "JUL.2024",
-	"dia": "20",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-07-20T19:30+02:00"
-},
-{
-	"nom": "POL CALVO",
-	"sala": "Razzmatazz[3]",
-	"hora": "18:00",
-	"mes": "JUL.2024",
-	"dia": "20",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-07-20T18:00+02:00"
-},
-{
-	"nom": "MON LAFERTE",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "JUL.2024",
-	"dia": "23",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-07-23T21:21+02:00"
-},
-{
-	"nom": "PIXIES",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "JUL.2024",
-	"dia": "24",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-07-24T19:00+02:00"
-},
-{
-	"nom": "A WILHELM SCREAM + DALLA + BRUC",
-	"sala": "Razzmatazz[3]",
-	"hora": "19:30",
-	"mes": "JUL.2024",
-	"dia": "25",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-07-25T19:30+02:00"
-},
-{
-	"nom": "LUCK RA",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "JUL.2024",
-	"dia": "25",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-07-25T19:00+02:00"
-},
-{
-	"nom": "Fat Freddy's Drop",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "AGO.2024",
-	"dia": "1",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-08-01T19:00+02:00"
-},
-{
-	"nom": "THE OMNIFIC",
-	"sala": "Razzmatazz[3]",
-	"hora": "19:30",
-	"mes": "AGO.2024",
-	"dia": "1",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-08-01T19:30+02:00"
-},
-{
-	"nom": "EL ZAR",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "AGO.2024",
-	"dia": "3",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-08-03T20:00+02:00"
-},
-{
-	"nom": "BLACK MOUNTAIN",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:30",
-	"mes": "AGO.2024",
-	"dia": "6",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-08-06T20:30+02:00"
-},
-{
-	"nom": "MIRANDA!",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "AGO.2024",
-	"dia": "23",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-08-23T19:30+02:00"
-},
-{
-	"nom": "CURTIS HARDING",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:00",
-	"mes": "AGO.2024",
-	"dia": "25",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-08-25T19:00+02:00"
-},
-{
-	"nom": "TRAVIS",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "AGO.2024",
-	"dia": "28",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-08-28T19:30+02:00"
-},
-{
-	"nom": "ECKO",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "SET.2024",
-	"dia": "4",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-09-04T20:00+02:00"
-},
-{
-	"nom": "JORDAN RAKEI ",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:45",
-	"mes": "SET.2024",
-	"dia": "5",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-09-05T19:45+02:00"
-},
-{
-	"nom": "THE WAVE PICTURES",
-	"sala": "Razzmatazz[3]",
-	"hora": "19:30",
-	"mes": "SET.2024",
-	"dia": "5",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-09-05T19:30+02:00"
-},
-{
-	"nom": "LOS AUTNTICOS DECADENTES",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "SET.2024",
-	"dia": "5",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-09-05T19:30+02:00"
-},
-{
-	"nom": "LEN LARREGUI",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:30",
-	"mes": "SET.2024",
-	"dia": "6",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-09-06T19:30+02:00"
-},
-{
-	"nom": "LA JOAQUI",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "SET.2024",
-	"dia": "6",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-09-06T19:00+02:00"
-},
-{
-	"nom": "SOFIA GABANNA",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "SET.2024",
-	"dia": "6",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-09-06T20:00+02:00"
-},
-{
-	"nom": "BANDALOS CHINOS",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "SET.2024",
-	"dia": "7",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-09-07T19:30+02:00"
-},
-{
-	"nom": "KAPANGA",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "SET.2024",
-	"dia": "7",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-09-07T20:00+02:00"
-},
-{
-	"nom": "Grandmaster Flash + DJ2D2",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "SET.2024",
-	"dia": "8",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-09-08T19:00+02:00"
-},
-{
-	"nom": "MUDHONEY",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:00",
-	"mes": "SET.2024",
-	"dia": "9",
-	"textdia": "dilluns",
-	"ciutat": "",
-	"dateTime": "2024-09-09T19:00+02:00"
-},
-{
-	"nom": "DISOBEY",
-	"sala": "Razzmatazz[2]",
-	"hora": "21:21",
-	"mes": "SET.2024",
-	"dia": "12",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-09-12T21:21+02:00"
-},
-{
-	"nom": "FLOW",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "SET.2024",
-	"dia": "13",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-09-13T19:30+02:00"
-},
-{
-	"nom": "JAMES VIECO BAND + SLTHS",
-	"sala": "Razzmatazz[3]",
-	"hora": "19:30",
-	"mes": "SET.2024",
-	"dia": "13",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-09-13T19:30+02:00"
-},
-{
-	"nom": "THE PSYCHEDELIC FURS",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:00",
-	"mes": "SET.2024",
-	"dia": "14",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-09-14T19:00+02:00"
-},
-{
-	"nom": "THE DRIVER ERA",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "SET.2024",
-	"dia": "18",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-09-18T21:21+02:00"
-},
-{
-	"nom": "AZAHRIAH",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "SET.2024",
-	"dia": "19",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-09-19T20:00+02:00"
-},
-{
-	"nom": "CIRO Y LOS PERSAS",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "SET.2024",
-	"dia": "20",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-09-20T19:00+02:00"
-},
-{
-	"nom": "ADRIAN VANDENBERG - SPAIN TOUR 2024",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "SET.2024",
-	"dia": "21",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-09-21T20:00+02:00"
-},
-{
-	"nom": "EL KUELGUE",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "SET.2024",
-	"dia": "21",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-09-21T19:30+02:00"
-},
-{
-	"nom": "KING DUDE",
-	"sala": "Razzmatazz[3]",
-	"hora": "19:30",
-	"mes": "SET.2024",
-	"dia": "22",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-09-22T19:30+02:00"
-},
-{
-	"nom": "JXDN",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "SET.2024",
-	"dia": "24",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-09-24T21:21+02:00"
-},
-{
-	"nom": "THE MISSION",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:00",
-	"mes": "SET.2024",
-	"dia": "25",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-09-25T19:00+02:00"
-},
-{
-	"nom": "THE HU",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "SET.2024",
-	"dia": "25",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-09-25T21:21+02:00"
-},
-{
-	"nom": "MOJO THUNDER",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:30",
-	"mes": "SET.2024",
-	"dia": "25",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-09-25T20:30+02:00"
-},
-{
-	"nom": "RONALD BORJAS",
-	"sala": "Razzmatazz[1]",
-	"hora": "20:30",
-	"mes": "SET.2024",
-	"dia": "26",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-09-26T20:30+02:00"
-},
-{
-	"nom": "THE CHRISTIANS - GIRA \"WORDS\" ESPAA 2024",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:30",
-	"mes": "SET.2024",
-	"dia": "26",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-09-26T19:30+02:00"
-},
-{
-	"nom": " STEVE ROTHERY BAND",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "SET.2024",
-	"dia": "27",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-09-27T20:00+02:00"
-},
-{
-	"nom": "STEVE ROTHERY BAND",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "SET.2024",
-	"dia": "28",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-09-28T20:00+02:00"
-},
-{
-	"nom": "CARRION GODBLE$$",
-	"sala": "Razzmatazz[3]",
-	"hora": "21:00",
-	"mes": "SET.2024",
-	"dia": "28",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-09-28T21:00+02:00"
-},
-{
-	"nom": "Joshua Bassett: The Golden Years Tour",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "OCT.2024",
-	"dia": "1",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-10-01T19:00+02:00"
-},
-{
-	"nom": "PICTURE THIS",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "OCT.2024",
-	"dia": "2",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-10-02T21:21+02:00"
-},
-{
-	"nom": "SONATA ARCTICA",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:00",
-	"mes": "OCT.2024",
-	"dia": "3",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-10-03T19:00+02:00"
-},
-{
-	"nom": "SEVILLA DISTORSIN",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "3",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-10-03T20:00+02:00"
-},
-{
-	"nom": "KILLING MACHINE + OZZY SOLUTION",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "4",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-10-04T19:30+02:00"
-},
-{
-	"nom": "NAFTA",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "4",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-10-04T19:30+02:00"
-},
-{
-	"nom": "JOHNNY GARSO",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:30",
-	"mes": "OCT.2024",
-	"dia": "4",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-10-04T20:30+02:00"
-},
-{
-	"nom": "Samantha Hudson",
-	"sala": "Razzmatazz[1]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "5",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-10-05T20:00+02:00"
-},
-{
-	"nom": "KAMASI WASHINGTON - \"FEARLESS MOVEMENT EUROPE TOUR 2024\"",
-	"sala": "Razzmatazz[1]",
-	"hora": "18:30",
-	"mes": "OCT.2024",
-	"dia": "6",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-10-06T18:30+02:00"
-},
-{
-	"nom": "LOS ESPRITUS - GIRA EUROPA 2024",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "6",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-10-06T20:00+02:00"
-},
-{
-	"nom": "MONTESCO",
-	"sala": "Razzmatazz[3]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "6",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-10-06T19:30+02:00"
-},
-{
-	"nom": "TAN BIONICA",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "OCT.2024",
-	"dia": "7",
-	"textdia": "dilluns",
-	"ciutat": "",
-	"dateTime": "2024-10-07T19:00+02:00"
-},
-{
-	"nom": "BILLY WOODS",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:30",
-	"mes": "OCT.2024",
-	"dia": "7",
-	"textdia": "dilluns",
-	"ciutat": "",
-	"dateTime": "2024-10-07T20:30+02:00"
-},
-{
-	"nom": "EL KUELGUE (FIN DE GIRA)",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "8",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-10-08T19:30+02:00"
-},
-{
-	"nom": "LOS PLANETAS ",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "9",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-10-09T19:30+02:00"
-},
-{
-	"nom": "ELSA Y ELMAR",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "9",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-10-09T20:00+02:00"
-},
-{
-	"nom": "LOS PLANETAS",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "10",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-10-10T19:30+02:00"
-},
-{
-	"nom": "TIM",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "10",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-10-10T20:00+02:00"
-},
-{
-	"nom": "SOPHISTICATED POP TOUR:",
-	"sala": "Razzmatazz[1]",
-	"hora": "18:00",
-	"mes": "OCT.2024",
-	"dia": "11",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-10-11T18:00+02:00"
-},
-{
-	"nom": "ENCANTO DE LOCO",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:45",
-	"mes": "OCT.2024",
-	"dia": "11",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-10-11T19:45+02:00"
-},
-{
-	"nom": "LOS PLANETAS - 30 ANIVERSARIO SUPER 8 (NUEVA FECHA)",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "11",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-10-11T19:30+02:00"
-},
-{
-	"nom": "NIOS MUTANTES - 30 ANIVERSARIO - CONCIERTO DESPEDIDA",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "12",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-10-12T19:30+02:00"
-},
-{
-	"nom": "VENTURI",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "12",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-10-12T20:00+02:00"
-},
-{
-	"nom": "LA VIDA BOHME",
-	"sala": "Razzmatazz[2]",
-	"hora": "21:21",
-	"mes": "OCT.2024",
-	"dia": "13",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-10-13T21:21+02:00"
-},
-{
-	"nom": "WALLS",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "OCT.2024",
-	"dia": "13",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-10-13T21:21+02:00"
-},
-{
-	"nom": "DIRTY SUC",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:30",
-	"mes": "OCT.2024",
-	"dia": "13",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-10-13T20:30+02:00"
-},
-{
-	"nom": "NAHKO",
-	"sala": "Razzmatazz[3]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "16",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-10-16T19:30+02:00"
-},
-{
-	"nom": "THE LIGHTNING SEEDS",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "16",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-10-16T20:00+02:00"
-},
-{
-	"nom": "FRUKO Y SUS TESOS",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "16",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-10-16T19:30+02:00"
-},
-{
-	"nom": "DEADLETTER",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "17",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-10-17T20:00+02:00"
-},
-{
-	"nom": "CEPEDA",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "17",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-10-17T19:30+02:00"
-},
-{
-	"nom": "GOD SAVE THE QUEEN",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "OCT.2024",
-	"dia": "17",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-10-17T19:00+02:00"
-},
-{
-	"nom": "CHRISTOPHER",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "18",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-10-18T20:00+02:00"
-},
-{
-	"nom": "ST. VINCENT",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "OCT.2024",
-	"dia": "18",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-10-18T21:21+02:00"
-},
-{
-	"nom": "MAESTROS DEL ROCK XL",
-	"sala": "Razzmatazz[1]",
-	"hora": "18:00",
-	"mes": "OCT.2024",
-	"dia": "19",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-10-19T18:00+02:00"
-},
-{
-	"nom": "CRYSTAL FIGHTERS ",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "OCT.2024",
-	"dia": "20",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-10-20T19:00+02:00"
-},
-{
-	"nom": "ALEJANDRO LERNER",
-	"sala": "Razzmatazz[3]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "20",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-10-20T19:30+02:00"
-},
-{
-	"nom": "WALK OFF THE EARTH",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "22",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-10-22T19:30+02:00"
-},
-{
-	"nom": "ACCEPT",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "OCT.2024",
-	"dia": "23",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-10-23T19:00+02:00"
-},
-{
-	"nom": "THE BLACK HALOS",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "OCT.2024",
-	"dia": "23",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-10-23T21:21+02:00"
-},
-{
-	"nom": "GUILT TRIP",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "24",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-10-24T20:00+02:00"
-},
-{
-	"nom": "CHRISTIAN MEIER",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "24",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-10-24T19:30+02:00"
-},
-{
-	"nom": "SIMN GROSSMAN",
-	"sala": "Razzmatazz[2]",
-	"hora": "21:21",
-	"mes": "OCT.2024",
-	"dia": "24",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-10-24T21:21+02:00"
-},
-{
-	"nom": "RAFAEL RUIZ - EL BOMBA",
-	"sala": "Razzmatazz[3]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "25",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-10-25T19:30+02:00"
-},
-{
-	"nom": "gREAT sTRAITS",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "OCT.2024",
-	"dia": "25",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-10-25T19:00+02:00"
-},
-{
-	"nom": "VCTOR RUTTY",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "25",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-10-25T20:00+02:00"
-},
-{
-	"nom": "ARTMS ",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "26",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-10-26T19:30+02:00"
-},
-{
-	"nom": "APROXIMACIONES: CANCIONES DE PEREZA",
-	"sala": "Razzmatazz[3]",
-	"hora": "19:45",
-	"mes": "OCT.2024",
-	"dia": "26",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-10-26T19:45+02:00"
-},
-{
-	"nom": "XTASIS",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "26",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-10-26T20:00+02:00"
-},
-{
-	"nom": "THE GEMS - PHOENIX TOUR 2024",
-	"sala": "Razzmatazz[3]",
-	"hora": "19:30",
-	"mes": "OCT.2024",
-	"dia": "27",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-10-27T19:30+02:00"
-},
-{
-	"nom": "SWIT EME",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:45",
-	"mes": "OCT.2024",
-	"dia": "27",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-10-27T19:45+02:00"
-},
-{
-	"nom": "KIM CHURCHILL",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "OCT.2024",
-	"dia": "29",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-10-29T20:00+02:00"
-},
-{
-	"nom": "THE MARIAS",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "OCT.2024",
-	"dia": "29",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-10-29T19:00+02:00"
-},
-{
-	"nom": "ISAAC DELUSION",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:00",
-	"mes": "OCT.2024",
-	"dia": "31",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-10-31T19:00+02:00"
-},
-{
-	"nom": "L'IMPRATRICE",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "OCT.2024",
-	"dia": "31",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-10-31T19:00+02:00"
-},
-{
-	"nom": "IREPELUSA",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:00",
-	"mes": "NOV.2024",
-	"dia": "1",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-11-01T19:00+02:00"
-},
-{
-	"nom": "KAYDY CAIN - FUEGO LIVE!",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "1",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-11-01T19:30+02:00"
-},
-{
-	"nom": "TATTA & DENSO + ETXEPE + MUTIKO ",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "NOV.2024",
-	"dia": "2",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-11-02T20:00+02:00"
-},
-{
-	"nom": "MASTER PEACE",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "NOV.2024",
-	"dia": "3",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-11-03T20:00+02:00"
-},
-{
-	"nom": "THE GHOST INSIDE",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "NOV.2024",
-	"dia": "5",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-11-05T21:21+02:00"
-},
-{
-	"nom": "LAGOS",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "NOV.2024",
-	"dia": "5",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-11-05T20:00+02:00"
-},
-{
-	"nom": "JACK BOTTS",
-	"sala": "Razzmatazz[3]",
-	"hora": "21:21",
-	"mes": "NOV.2024",
-	"dia": "6",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-11-06T21:21+02:00"
-},
-{
-	"nom": "KALEO PAYBACK TOUR",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "NOV.2024",
-	"dia": "6",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-11-06T19:00+02:00"
-},
-{
-	"nom": "FRANK CARTER & THE RATTLESNAKES",
-	"sala": "Razzmatazz[2]",
-	"hora": "21:21",
-	"mes": "NOV.2024",
-	"dia": "7",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-11-07T21:21+02:00"
-},
-{
-	"nom": "AMBKOR - ROCKETMAN TOUR",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "8",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-11-08T19:30+02:00"
-},
-{
-	"nom": "HAZLETT",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "NOV.2024",
-	"dia": "8",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-11-08T20:00+02:00"
-},
-{
-	"nom": "CHELSEA WOLFE + MARY JANE DUNPHE",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:00",
-	"mes": "NOV.2024",
-	"dia": "8",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-11-08T19:00+02:00"
-},
-{
-	"nom": "ISMAEL GONZLEZ",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "NOV.2024",
-	"dia": "9",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-11-09T20:00+02:00"
-},
-{
-	"nom": "ELYELLA",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "9",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-11-09T19:30+02:00"
-},
-{
-	"nom": "NEW MODEL ARMY",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "10",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-11-10T19:30+02:00"
-},
-{
-	"nom": "ANGELINA MANGO",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "11",
-	"textdia": "dilluns",
-	"ciutat": "",
-	"dateTime": "2024-11-11T19:30+02:00"
-},
-{
-	"nom": "DPR",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "NOV.2024",
-	"dia": "12",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-11-12T21:21+02:00"
-},
-{
-	"nom": "CARAMELOS DE CIANURO",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "13",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-11-13T19:30+02:00"
-},
-{
-	"nom": "CHIARA OLIVER",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "13",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-11-13T19:30+02:00"
-},
-{
-	"nom": "MVRK",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "NOV.2024",
-	"dia": "14",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-11-14T20:00+02:00"
-},
-{
-	"nom": "WORAKLS ORCHESTRA",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "14",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-11-14T19:30+02:00"
-},
-{
-	"nom": "SILO",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:30",
-	"mes": "NOV.2024",
-	"dia": "15",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-11-15T20:30+02:00"
-},
-{
-	"nom": "REBUJITOS",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "15",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-11-15T19:30+02:00"
-},
-{
-	"nom": "GIZMO VARILLAS",
-	"sala": "Razzmatazz[3]",
-	"hora": "21:21",
-	"mes": "NOV.2024",
-	"dia": "17",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-11-17T21:21+02:00"
-},
-{
-	"nom": "MOUNT KIMBIE",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "NOV.2024",
-	"dia": "17",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-11-17T20:00+02:00"
-},
-{
-	"nom": "APOCALYPTICA 'PLAYS METALLICA VOL. 2 TOUR 2024'",
-	"sala": "Razzmatazz[1]",
-	"hora": "18:00",
-	"mes": "NOV.2024",
-	"dia": "19",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-11-19T18:00+02:00"
-},
-{
-	"nom": "Alcal Norte",
-	"sala": "Razzmatazz[2]",
-	"hora": "21:21",
-	"mes": "NOV.2024",
-	"dia": "20",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-11-20T21:21+02:00"
-},
-{
-	"nom": "GUANO APES",
-	"sala": "Razzmatazz[1]",
-	"hora": "18:30",
-	"mes": "NOV.2024",
-	"dia": "21",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-11-21T18:30+02:00"
-},
-{
-	"nom": "ELLIOTT MURPHY & BAND",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "22",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-11-22T19:30+02:00"
-},
-{
-	"nom": "GREEN VALLEY",
-	"sala": "Razzmatazz[2]",
-	"hora": "21:21",
-	"mes": "NOV.2024",
-	"dia": "23",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-11-23T21:21+02:00"
-},
-{
-	"nom": "GERTRUDIS - CRULLA TARDOR 2024!",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "23",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-11-23T19:30+02:00"
-},
-{
-	"nom": "TURF",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "NOV.2024",
-	"dia": "24",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-11-24T20:00+02:00"
-},
-{
-	"nom": "WALTER TROUT",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "26",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-11-26T19:30+02:00"
-},
-{
-	"nom": "ANGARA",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "NOV.2024",
-	"dia": "28",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-11-28T20:00+02:00"
-},
-{
-	"nom": "LA SRA. TOMASA",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "NOV.2024",
-	"dia": "29",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-11-29T19:30+02:00"
-},
-{
-	"nom": "ELIO TOFFANA",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "NOV.2024",
-	"dia": "29",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-11-29T20:00+02:00"
-},
-{
-	"nom": "MIGUEL CAMPELLO",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "NOV.2024",
-	"dia": "30",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-11-30T19:00+02:00"
-},
-{
-	"nom": "REYKO",
-	"sala": "Razzmatazz[3]",
-	"hora": "21:00",
-	"mes": "NOV.2024",
-	"dia": "30",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-11-30T21:00+02:00"
-},
-{
-	"nom": " BROTHERS IN BAND The Very Best of dIRE sTRAITS",
-	"sala": "Razzmatazz[1]",
-	"hora": "18:30",
-	"mes": "DES.2024",
-	"dia": "1",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-12-01T18:30+02:00"
-},
-{
-	"nom": "SLSTAFIR + ORANSSI PAZUZU + HELGA",
-	"sala": "Razzmatazz[2]",
-	"hora": "18:00",
-	"mes": "DES.2024",
-	"dia": "1",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-12-01T18:00+02:00"
-},
-{
-	"nom": "SAN TOSIELO",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "DES.2024",
-	"dia": "1",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-12-01T20:00+02:00"
-},
-{
-	"nom": "GRIFF \" WORLD VERTIGO TOUR\"",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "DES.2024",
-	"dia": "2",
-	"textdia": "dilluns",
-	"ciutat": "",
-	"dateTime": "2024-12-02T21:21+02:00"
-},
-{
-	"nom": "CUARTETO DE NOS",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "DES.2024",
-	"dia": "4",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2024-12-04T21:21+02:00"
-},
-{
-	"nom": "CA7RIEL & PACO AMOROSO",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "DES.2024",
-	"dia": "5",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-12-05T20:00+02:00"
-},
-{
-	"nom": "As I Lay Dying + Decapitated + Caliban + Left To Suffer",
-	"sala": "Razzmatazz[1]",
-	"hora": "17:30",
-	"mes": "DES.2024",
-	"dia": "5",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-12-05T17:30+02:00"
-},
-{
-	"nom": " ORPHANED LAND + DIRTY SHIT + ROYAL RAGE + RING OF GYGES + STRLE",
-	"sala": "Razzmatazz[2]",
-	"hora": "17:30",
-	"mes": "DES.2024",
-	"dia": "8",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-12-08T17:30+02:00"
-},
-{
-	"nom": "BLUES PILLS & DANIEL ROMANO'S OUTFIT",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:30",
-	"mes": "DES.2024",
-	"dia": "10",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2024-12-10T19:30+02:00"
-},
-{
-	"nom": "KAZY LAMBIST",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:00",
-	"mes": "DES.2024",
-	"dia": "12",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2024-12-12T19:00+02:00"
-},
-{
-	"nom": "TRINGULO DE AMOR BIZARRO: GIRA XX20 AOS DEL TRINGULO",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "DES.2024",
-	"dia": "13",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-12-13T20:00+02:00"
-},
-{
-	"nom": "XAVI SARRI",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "DES.2024",
-	"dia": "14",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-12-14T21:21+02:00"
-},
-{
-	"nom": "La Milagrosa",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "DES.2024",
-	"dia": "14",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-12-14T20:00+02:00"
-},
-{
-	"nom": "THE OTHER SIDE",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "DES.2024",
-	"dia": "20",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-12-20T19:00+02:00"
-},
-{
-	"nom": "LOS INVADERS",
-	"sala": "Razzmatazz[3]",
-	"hora": "21:00",
-	"mes": "DES.2024",
-	"dia": "21",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2024-12-21T21:00+02:00"
-},
-{
-	"nom": "MAYO",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "DES.2024",
-	"dia": "22",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2024-12-22T20:00+02:00"
-},
-{
-	"nom": "ILL PEKEO & ERGO PRO",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "DES.2024",
-	"dia": "27",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-12-27T21:21+02:00"
-},
-{
-	"nom": "DANI FLACO",
-	"sala": "Razzmatazz[2]",
-	"hora": "21:21",
-	"mes": "DES.2024",
-	"dia": "27",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2024-12-27T21:21+02:00"
-},
-{
-	"nom": "CRISTIAN DE MORET",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:00",
-	"mes": "GEN.2025",
-	"dia": "3",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2025-01-03T20:00+02:00"
-},
-{
-	"nom": "PIRATAS RUMBVERSIONS",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "GEN.2025",
-	"dia": "3",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2025-01-03T20:00+02:00"
-},
-{
-	"nom": "SAMURA",
-	"sala": "Razzmatazz[1]",
-	"hora": "20:00",
-	"mes": "GEN.2025",
-	"dia": "16",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2025-01-16T20:00+02:00"
-},
-{
-	"nom": "ALCHEMY PROJECT",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:30",
-	"mes": "GEN.2025",
-	"dia": "17",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2025-01-17T19:30+02:00"
-},
-{
-	"nom": "DEPEDRO",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "GEN.2025",
-	"dia": "24",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2025-01-24T19:30+02:00"
-},
-{
-	"nom": "ROLLING QUARTZ",
-	"sala": "Razzmatazz[2]",
-	"hora": "21:21",
-	"mes": "GEN.2025",
-	"dia": "28",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2025-01-28T21:21+02:00"
-},
-{
-	"nom": "PERSONAL TRAINER",
-	"sala": "Razzmatazz[3]",
-	"hora": "19:30",
-	"mes": "GEN.2025",
-	"dia": "31",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2025-01-31T19:30+02:00"
-},
-{
-	"nom": "FOYONE - DEMONI TOUR",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "FEB.2025",
-	"dia": "1",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2025-02-01T19:30+02:00"
-},
-{
-	"nom": "MOTIONLESS IN WHITE",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "FEB.2025",
-	"dia": "4",
-	"textdia": "dimarts",
-	"ciutat": "",
-	"dateTime": "2025-02-04T21:21+02:00"
-},
-{
-	"nom": "SILO",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:30",
-	"mes": "FEB.2025",
-	"dia": "8",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2025-02-08T20:30+02:00"
-},
-{
-	"nom": "ALAN WALKER",
-	"sala": "Razzmatazz[1]",
-	"hora": "20:30",
-	"mes": "MAR.2025",
-	"dia": "6",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2025-03-06T20:30+02:00"
-},
-{
-	"nom": "CHIARA OLIVER",
-	"sala": "Razzmatazz[1]",
-	"hora": "21:21",
-	"mes": "MAR.2025",
-	"dia": "12",
-	"textdia": "dimecres",
-	"ciutat": "",
-	"dateTime": "2025-03-12T21:21+02:00"
-},
-{
-	"nom": "TOKIO HOTEL",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "MAR.2025",
-	"dia": "13",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2025-03-13T19:00+02:00"
-},
-{
-	"nom": "EMBUSTEROS",
-	"sala": "Razzmatazz[3]",
-	"hora": "20:30",
-	"mes": "MAR.2025",
-	"dia": "15",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2025-03-15T20:30+02:00"
-},
-{
-	"nom": "BUHOS",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "MAR.2025",
-	"dia": "15",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2025-03-15T19:30+02:00"
-},
-{
-	"nom": "NEMO  BREAK THE CODE EUROPE TOUR 2025",
-	"sala": "Razzmatazz[2]",
-	"hora": "21:21",
-	"mes": "MAR.2025",
-	"dia": "20",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2025-03-20T21:21+02:00"
-},
-{
-	"nom": "CHINESE MAN",
-	"sala": "Razzmatazz[1]",
-	"hora": "20:00",
-	"mes": "MAR.2025",
-	"dia": "20",
-	"textdia": "dijous",
-	"ciutat": "",
-	"dateTime": "2025-03-20T20:00+02:00"
-},
-{
-	"nom": "DIRKSCHNEIDER - \"BALLS TO THE WALL\" 40TH ANNIVERSARY TOUR ",
-	"sala": "Razzmatazz[2]",
-	"hora": "19:00",
-	"mes": "MAR.2025",
-	"dia": "23",
-	"textdia": "diumenge",
-	"ciutat": "",
-	"dateTime": "2025-03-23T19:00+02:00"
-},
-{
-	"nom": "KARAVANA - BANCO MEDIOLANUM 26 FESTIVAL MILLENNI",
-	"sala": "Razzmatazz[2]",
-	"hora": "20:00",
-	"mes": "ABR.2025",
-	"dia": "4",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2025-04-04T20:00+02:00"
-},
-{
-	"nom": "Baby Lasagna - Meow Back Tour Spring 2025",
-	"sala": "Razzmatazz[2]",
-	"hora": "21:21",
-	"mes": "ABR.2025",
-	"dia": "7",
-	"textdia": "dilluns",
-	"ciutat": "",
-	"dateTime": "2025-04-07T21:21+02:00"
-},
-{
-	"nom": "BARN ROJO - 45 ANIVERSARIO",
-	"sala": "Razzmatazz[1]",
-	"hora": "18:30",
-	"mes": "MAI.2025",
-	"dia": "10",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2025-05-10T18:30+02:00"
-},
-{
-	"nom": "EL CHOJIN - GIRA 25 ANIVERSARIO",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:00",
-	"mes": "MAI.2025",
-	"dia": "16",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2025-05-16T19:00+02:00"
-},
-{
-	"nom": "OBK",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "MAI.2025",
-	"dia": "17",
-	"textdia": "dissabte",
-	"ciutat": "",
-	"dateTime": "2025-05-17T19:30+02:00"
-},
-{
-	"nom": "LIA KALI",
-	"sala": "Razzmatazz[1]",
-	"hora": "19:30",
-	"mes": "MAI.2025",
-	"dia": "23",
-	"textdia": "divendres",
-	"ciutat": "",
-	"dateTime": "2025-05-23T19:30+02:00"
-}
+		"nom": "DANI FLACO",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "DES.2024",
+		"dia": "27",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2024-12-27T20:00+02:00"
+	},
+	{
+		"nom": "LOCUS",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:30",
+		"mes": "DES.2024",
+		"dia": "28",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2024-12-28T20:30+02:00"
+	},
+	{
+		"nom": "LOS ZIGARROS",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "DES.2024",
+		"dia": "28",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2024-12-28T19:00+02:00"
+	},
+	{
+		"nom": "X-BASS: CHANNEL ONE SOUND SYSTEM + JAEL + GREENLIGHT SOUND SYSTEM",
+		"sala": "Razzmatazz[2]",
+		"hora": "17:00",
+		"mes": "DES.2024",
+		"dia": "28",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2024-12-28T17:00+02:00"
+	},
+	{
+		"nom": "X-BASS: SR. WILSON + GREENLIGHT SOUND SYSTEM",
+		"sala": "Razzmatazz[2]",
+		"hora": "17:00",
+		"mes": "DES.2024",
+		"dia": "29",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2024-12-29T17:00+02:00"
+	},
+	{
+		"nom": "CRISTIAN DE MORET",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "GEN.2025",
+		"dia": "3",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-01-03T20:00+02:00"
+	},
+	{
+		"nom": "PIRATAS RUMBVERSIONS",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "GEN.2025",
+		"dia": "3",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-01-03T20:00+02:00"
+	},
+	{
+		"nom": "EDUARD INIESTA",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:30",
+		"mes": "GEN.2025",
+		"dia": "4",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-01-04T20:30+02:00"
+	},
+	{
+		"nom": "Lecocq + Yaunest",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "GEN.2025",
+		"dia": "9",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-01-09T20:00+02:00"
+	},
+	{
+		"nom": "LOVE OF LESBIAN",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "GEN.2025",
+		"dia": "10",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-01-10T19:30+02:00"
+	},
+	{
+		"nom": "CHICA SOBRESALTO - GIRA 2024-25 2.0",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:30",
+		"mes": "GEN.2025",
+		"dia": "10",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-01-10T20:30+02:00"
+	},
+	{
+		"nom": "RESTOS",
+		"sala": "Razzmatazz[3]",
+		"hora": "21:21",
+		"mes": "GEN.2025",
+		"dia": "10",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-01-10T21:21+02:00"
+	},
+	{
+		"nom": "LOVE OF LESBIAN",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "GEN.2025",
+		"dia": "11",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-01-11T19:30+02:00"
+	},
+	{
+		"nom": "HOMENAJE MECANO \"ME CUESTA TANTO OLVIDARTE\"",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:00",
+		"mes": "GEN.2025",
+		"dia": "11",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-01-11T19:00+02:00"
+	},
+	{
+		"nom": "MELTEM",
+		"sala": "Razzmatazz[3]",
+		"hora": "19:30",
+		"mes": "GEN.2025",
+		"dia": "11",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-01-11T19:30+02:00"
+	},
+	{
+		"nom": "DARK FUNERAL - \"LET THE DEVIL IN\" TOUR 2025",
+		"sala": "Razzmatazz[2]",
+		"hora": "17:30",
+		"mes": "GEN.2025",
+		"dia": "12",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-01-12T17:30+02:00"
+	},
+	{
+		"nom": "BAND OF FRIENDS",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "GEN.2025",
+		"dia": "14",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-01-14T20:00+02:00"
+	},
+	{
+		"nom": "SAMURA",
+		"sala": "Razzmatazz[1]",
+		"hora": "20:00",
+		"mes": "GEN.2025",
+		"dia": "16",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-01-16T20:00+02:00"
+	},
+	{
+		"nom": "ALCHEMY PROJECT",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:30",
+		"mes": "GEN.2025",
+		"dia": "17",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-01-17T19:30+02:00"
+	},
+	{
+		"nom": "KYOTTO - HANAHAKI TOUR",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:45",
+		"mes": "GEN.2025",
+		"dia": "17",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-01-17T20:45+02:00"
+	},
+	{
+		"nom": "BAIUCA",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "GEN.2025",
+		"dia": "17",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-01-17T19:30+02:00"
+	},
+	{
+		"nom": "Los Punsetes",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "GEN.2025",
+		"dia": "18",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-01-18T20:00+02:00"
+	},
+	{
+		"nom": "VARRY BRAVA",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "GEN.2025",
+		"dia": "18",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-01-18T19:30+02:00"
+	},
+	{
+		"nom": "BUFFALO NICHOLS TOUR 2025",
+		"sala": "Razzmatazz[3]",
+		"hora": "19:00",
+		"mes": "GEN.2025",
+		"dia": "22",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-01-22T19:00+02:00"
+	},
+	{
+		"nom": "CARCASS + BRUJERA + ROTTEN SOUND",
+		"sala": "Razzmatazz[1]",
+		"hora": "18:30",
+		"mes": "GEN.2025",
+		"dia": "23",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-01-23T18:30+02:00"
+	},
+	{
+		"nom": "DEPEDRO",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "GEN.2025",
+		"dia": "24",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-01-24T19:30+02:00"
+	},
+	{
+		"nom": "DERIVAS",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:30",
+		"mes": "GEN.2025",
+		"dia": "24",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-01-24T19:30+02:00"
+	},
+	{
+		"nom": "TARQUE & LA ASOCIACIN DEL RIFF",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "GEN.2025",
+		"dia": "25",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-01-25T19:30+02:00"
+	},
+	{
+		"nom": "PEDRO PASTOR Y LOS LOCOS DESCALZOS",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "GEN.2025",
+		"dia": "25",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-01-25T20:00+02:00"
+	},
+	{
+		"nom": "NO FUN AT ALL",
+		"sala": "Razzmatazz[3]",
+		"hora": "21:21",
+		"mes": "GEN.2025",
+		"dia": "25",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-01-25T21:21+02:00"
+	},
+	{
+		"nom": "ROLLING QUARTZ",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "GEN.2025",
+		"dia": "28",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-01-28T21:21+02:00"
+	},
+	{
+		"nom": "STICK TO YOUR GUNS + GUESTS",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "GEN.2025",
+		"dia": "29",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-01-29T21:21+02:00"
+	},
+	{
+		"nom": "LUCHO RK",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "GEN.2025",
+		"dia": "30",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-01-30T19:30+02:00"
+	},
+	{
+		"nom": "IVAN HERZOG",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:45",
+		"mes": "GEN.2025",
+		"dia": "30",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-01-30T19:45+02:00"
+	},
+	{
+		"nom": "PERSONAL TRAINER",
+		"sala": "Razzmatazz[3]",
+		"hora": "19:30",
+		"mes": "GEN.2025",
+		"dia": "31",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-01-31T19:30+02:00"
+	},
+	{
+		"nom": "GINEBRAS",
+		"sala": "Razzmatazz[1]",
+		"hora": "21:21",
+		"mes": "GEN.2025",
+		"dia": "31",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-01-31T21:21+02:00"
+	},
+	{
+		"nom": "FOYONE - DEMONI TOUR",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "1",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-02-01T19:30+02:00"
+	},
+	{
+		"nom": "SANTAX",
+		"sala": "Razzmatazz[3]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "2",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-02-02T19:30+02:00"
+	},
+	{
+		"nom": "MOTIONLESS IN WHITE",
+		"sala": "Razzmatazz[1]",
+		"hora": "21:21",
+		"mes": "FEB.2025",
+		"dia": "4",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-02-04T21:21+02:00"
+	},
+	{
+		"nom": "DROELOE",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "6",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-02-06T20:00+02:00"
+	},
+	{
+		"nom": "METRIKA",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "6",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-02-06T20:00+02:00"
+	},
+	{
+		"nom": "SANTERO Y LOS MUCHACHOS",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "7",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-02-07T20:00+02:00"
+	},
+	{
+		"nom": "SILO",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:30",
+		"mes": "FEB.2025",
+		"dia": "8",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-02-08T20:30+02:00"
+	},
+	{
+		"nom": "PALEFACE SWISS",
+		"sala": "Razzmatazz[3]",
+		"hora": "21:21",
+		"mes": "FEB.2025",
+		"dia": "8",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-02-08T21:21+02:00"
+	},
+	{
+		"nom": "HOKE",
+		"sala": "Razzmatazz[1]",
+		"hora": "21:21",
+		"mes": "FEB.2025",
+		"dia": "8",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-02-08T21:21+02:00"
+	},
+	{
+		"nom": "THE CACTUS BLOSSOMS",
+		"sala": "Razzmatazz[3]",
+		"hora": "21:21",
+		"mes": "FEB.2025",
+		"dia": "9",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-02-09T21:21+02:00"
+	},
+	{
+		"nom": "DESTROY BOYS",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "FEB.2025",
+		"dia": "11",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-02-11T21:21+02:00"
+	},
+	{
+		"nom": "LION'S LAW  + MESS  + CLAIMED CHOICE ",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "11",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-02-11T20:00+02:00"
+	},
+	{
+		"nom": "MATISSE",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "FEB.2025",
+		"dia": "12",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-02-12T21:21+02:00"
+	},
+	{
+		"nom": "POLO & PAN",
+		"sala": "Razzmatazz[1]",
+		"hora": "21:21",
+		"mes": "FEB.2025",
+		"dia": "12",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-02-12T21:21+02:00"
+	},
+	{
+		"nom": "LOVE YI - FUEGO LIVE!",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "13",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-02-13T20:00+02:00"
+	},
+	{
+		"nom": "Amateur",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "13",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-02-13T20:00+02:00"
+	},
+	{
+		"nom": "EL BUGG",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "14",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-02-14T20:00+02:00"
+	},
+	{
+		"nom": "tarchi",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "14",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-02-14T20:00+02:00"
+	},
+	{
+		"nom": "Alcal Norte",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "14",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-02-14T19:30+02:00"
+	},
+	{
+		"nom": "Alizzz - Gira Temeraria",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "15",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-02-15T19:30+02:00"
+	},
+	{
+		"nom": "BLACK/ICE - BEST AC/DC SHOW - 50th ANNIVERSARY TOUR",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "15",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-02-15T19:30+02:00"
+	},
+	{
+		"nom": "OMAR RUDBERG",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "FEB.2025",
+		"dia": "16",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-02-16T21:21+02:00"
+	},
+	{
+		"nom": "FRANZ FERDINAND",
+		"sala": "Razzmatazz[1]",
+		"hora": "21:21",
+		"mes": "FEB.2025",
+		"dia": "18",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-02-18T21:21+02:00"
+	},
+	{
+		"nom": "RALPHIE CHOO",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "19",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-02-19T19:30+02:00"
+	},
+	{
+		"nom": "LIANA FLORES",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "20",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-02-20T20:00+02:00"
+	},
+	{
+		"nom": "RALPHIE CHOO",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "20",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-02-20T19:30+02:00"
+	},
+	{
+		"nom": "SHINOVA",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "21",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-02-21T19:30+02:00"
+	},
+	{
+		"nom": "NERVE AGENT",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "21",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-02-21T20:00+02:00"
+	},
+	{
+		"nom": "SHINOVA",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "22",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-02-22T19:30+02:00"
+	},
+	{
+		"nom": "LA REINA DEL POP",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "22",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-02-22T20:00+02:00"
+	},
+	{
+		"nom": "GILIPOJAZZ",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "22",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-02-22T20:00+02:00"
+	},
+	{
+		"nom": "RATONES PARANOICOS",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "FEB.2025",
+		"dia": "24",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-02-24T19:00+02:00"
+	},
+	{
+		"nom": "JULIE",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "25",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-02-25T20:00+02:00"
+	},
+	{
+		"nom": "TEENAGE DREAM",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "25",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-02-25T19:30+02:00"
+	},
+	{
+		"nom": "NADA SURF",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "26",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-02-26T20:00+02:00"
+	},
+	{
+		"nom": "Fades",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "FEB.2025",
+		"dia": "26",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-02-26T20:00+02:00"
+	},
+	{
+		"nom": "JUDELINE",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "27",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-02-27T19:30+02:00"
+	},
+	{
+		"nom": "CARIO",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "28",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-02-28T19:30+02:00"
+	},
+	{
+		"nom": "THE PAINS OF BEING PURE AT HEART",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:30",
+		"mes": "FEB.2025",
+		"dia": "28",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-02-28T19:30+02:00"
+	},
+	{
+		"nom": "SOZIEDAD ALKOHOLIKA + RAT-ZINGER",
+		"sala": "Razzmatazz[1]",
+		"hora": "18:30",
+		"mes": "MAR.2025",
+		"dia": "1",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-03-01T18:30+02:00"
+	},
+	{
+		"nom": "CIUTAT",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "MAR.2025",
+		"dia": "1",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-03-01T20:00+02:00"
+	},
+	{
+		"nom": "ALMOST MONDAY - THE DIVE TOUR",
+		"sala": "Razzmatazz[3]",
+		"hora": "21:21",
+		"mes": "MAR.2025",
+		"dia": "2",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-03-02T21:21+02:00"
+	},
+	{
+		"nom": "GREEN LUNG + UNTO OTHERS + SATAN'S SATYRS",
+		"sala": "Razzmatazz[2]",
+		"hora": "18:30",
+		"mes": "MAR.2025",
+		"dia": "2",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-03-02T18:30+02:00"
+	},
+	{
+		"nom": "SKUNK ANANSIE",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "MAR.2025",
+		"dia": "4",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-03-04T19:30+02:00"
+	},
+	{
+		"nom": "ALEC BENJAMIN",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAR.2025",
+		"dia": "5",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-03-05T19:00+02:00"
+	},
+	{
+		"nom": "GIN LADY",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "MAR.2025",
+		"dia": "5",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-03-05T20:00+02:00"
+	},
+	{
+		"nom": "ALAN WALKER",
+		"sala": "Razzmatazz[1]",
+		"hora": "20:30",
+		"mes": "MAR.2025",
+		"dia": "6",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-03-06T20:30+02:00"
+	},
+	{
+		"nom": "EL PLAN DE LA MARIPOSA",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:00",
+		"mes": "MAR.2025",
+		"dia": "6",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-03-06T19:00+02:00"
+	},
+	{
+		"nom": "CALIFORNICATORS",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "MAR.2025",
+		"dia": "7",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-03-07T20:00+02:00"
+	},
+	{
+		"nom": "DERBY MOTORETA'S BURRITO KACHIMBA",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "MAR.2025",
+		"dia": "7",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-03-07T19:30+02:00"
+	},
+	{
+		"nom": "DOLLAR SELMOUNI",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:30",
+		"mes": "MAR.2025",
+		"dia": "7",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-03-07T20:30+02:00"
+	},
+	{
+		"nom": "LINKOLN PARK",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "MAR.2025",
+		"dia": "8",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-03-08T19:30+02:00"
+	},
+	{
+		"nom": "CHIARA OLIVER",
+		"sala": "Razzmatazz[1]",
+		"hora": "21:21",
+		"mes": "MAR.2025",
+		"dia": "12",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-03-12T21:21+02:00"
+	},
+	{
+		"nom": "TOKIO HOTEL",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAR.2025",
+		"dia": "13",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-03-13T19:00+02:00"
+	},
+	{
+		"nom": "AMORE",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "MAR.2025",
+		"dia": "13",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-03-13T20:00+02:00"
+	},
+	{
+		"nom": "LA PANTERA",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:30",
+		"mes": "MAR.2025",
+		"dia": "13",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-03-13T20:30+02:00"
+	},
+	{
+		"nom": "LABLACKIE",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "MAR.2025",
+		"dia": "14",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-03-14T20:00+02:00"
+	},
+	{
+		"nom": "MIRIAM RODRGUEZ",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "MAR.2025",
+		"dia": "14",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-03-14T20:00+02:00"
+	},
+	{
+		"nom": "EL CANIJO DE JEREZ Y LA BANDA MAGNTICA",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAR.2025",
+		"dia": "14",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-03-14T19:00+02:00"
+	},
+	{
+		"nom": "EMBUSTEROS",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:30",
+		"mes": "MAR.2025",
+		"dia": "15",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-03-15T20:30+02:00"
+	},
+	{
+		"nom": "BUHOS",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAR.2025",
+		"dia": "15",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-03-15T19:00+02:00"
+	},
+	{
+		"nom": "ESTADOS DE NIMO",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "MAR.2025",
+		"dia": "15",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-03-15T20:00+02:00"
+	},
+	{
+		"nom": "BUHOS",
+		"sala": "Razzmatazz[1]",
+		"hora": "18:00",
+		"mes": "MAR.2025",
+		"dia": "16",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-03-16T18:00+02:00"
+	},
+	{
+		"nom": "PORRIDGE RADIO",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:30",
+		"mes": "MAR.2025",
+		"dia": "17",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-03-17T19:30+02:00"
+	},
+	{
+		"nom": "OXXXYMIRON",
+		"sala": "Razzmatazz[1]",
+		"hora": "18:30",
+		"mes": "MAR.2025",
+		"dia": "18",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-03-18T18:30+02:00"
+	},
+	{
+		"nom": "ARCHITECTS",
+		"sala": "Razzmatazz[1]",
+		"hora": "21:21",
+		"mes": "MAR.2025",
+		"dia": "19",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-03-19T21:21+02:00"
+	},
+	{
+		"nom": "NEMO  BREAK THE CODE EUROPE TOUR 2025",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "MAR.2025",
+		"dia": "20",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-03-20T21:21+02:00"
+	},
+	{
+		"nom": "CHINESE MAN",
+		"sala": "Razzmatazz[1]",
+		"hora": "20:00",
+		"mes": "MAR.2025",
+		"dia": "20",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-03-20T20:00+02:00"
+	},
+	{
+		"nom": "IQ - LIVE IN '25",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:30",
+		"mes": "MAR.2025",
+		"dia": "21",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-03-21T19:30+02:00"
+	},
+	{
+		"nom": "NOAN",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "MAR.2025",
+		"dia": "22",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-03-22T20:00+02:00"
+	},
+	{
+		"nom": "BRIGADE LOCO + GROGGY RUDE + DEMENCIALS",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "MAR.2025",
+		"dia": "22",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-03-22T21:21+02:00"
+	},
+	{
+		"nom": "SERGIO VARGAS",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAR.2025",
+		"dia": "22",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-03-22T19:00+02:00"
+	},
+	{
+		"nom": "KAMASI WASHINGTON - \"FEARLESS MOVEMENT EUROPE TOUR 2024\"",
+		"sala": "Razzmatazz[1]",
+		"hora": "18:30",
+		"mes": "MAR.2025",
+		"dia": "23",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-03-23T18:30+02:00"
+	},
+	{
+		"nom": "DIRKSCHNEIDER - \"BALLS TO THE WALL\" 40TH ANNIVERSARY TOUR ",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:00",
+		"mes": "MAR.2025",
+		"dia": "23",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-03-23T19:00+02:00"
+	},
+	{
+		"nom": "SERIOUS BLACK + AUTUMN BRIDE + DRAGONY",
+		"sala": "Razzmatazz[3]",
+		"hora": "19:00",
+		"mes": "MAR.2025",
+		"dia": "24",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-03-24T19:00+02:00"
+	},
+	{
+		"nom": "Axel Rudi Pell ",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:00",
+		"mes": "MAR.2025",
+		"dia": "25",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-03-25T19:00+02:00"
+	},
+	{
+		"nom": "RUSLANA - GNESIS TOUR 2025",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAR.2025",
+		"dia": "26",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-03-26T19:00+02:00"
+	},
+	{
+		"nom": "LOS MESONEROS",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "MAR.2025",
+		"dia": "26",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-03-26T20:00+02:00"
+	},
+	{
+		"nom": "BIGFLO & OLI",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAR.2025",
+		"dia": "27",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-03-27T19:00+02:00"
+	},
+	{
+		"nom": "THE PICTUREBOOKS + LOW VOLTS",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "MAR.2025",
+		"dia": "27",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-03-27T20:00+02:00"
+	},
+	{
+		"nom": "ZEAL & ARDOR",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:30",
+		"mes": "MAR.2025",
+		"dia": "28",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-03-28T19:30+02:00"
+	},
+	{
+		"nom": "NIKLAS PASCHBURG",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "MAR.2025",
+		"dia": "28",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-03-28T20:00+02:00"
+	},
+	{
+		"nom": "SUU - GUITAR BCN 25",
+		"sala": "Razzmatazz[1]",
+		"hora": "21:21",
+		"mes": "MAR.2025",
+		"dia": "28",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-03-28T21:21+02:00"
+	},
+	{
+		"nom": "GUILLEM GISBERT",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "MAR.2025",
+		"dia": "29",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-03-29T19:30+02:00"
+	},
+	{
+		"nom": "THE LIMIANAS + EXNOVIOS",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:00",
+		"mes": "MAR.2025",
+		"dia": "29",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-03-29T19:00+02:00"
+	},
+	{
+		"nom": "LIN CORTS",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:30",
+		"mes": "MAR.2025",
+		"dia": "30",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-03-30T19:30+02:00"
+	},
+	{
+		"nom": "KHEA",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "ABR.2025",
+		"dia": "3",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-04-03T19:00+02:00"
+	},
+	{
+		"nom": "KARAVANA - BANCO MEDIOLANUM 26 FESTIVAL MILLENNI",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "ABR.2025",
+		"dia": "4",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-04-04T20:00+02:00"
+	},
+	{
+		"nom": "CALIFATO ",
+		"sala": "Razzmatazz[1]",
+		"hora": "21:21",
+		"mes": "ABR.2025",
+		"dia": "4",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-04-04T21:21+02:00"
+	},
+	{
+		"nom": "FESTIVAL GRUNGE XXL",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:00",
+		"mes": "ABR.2025",
+		"dia": "5",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-04-05T19:00+02:00"
+	},
+	{
+		"nom": "MARLENA",
+		"sala": "Razzmatazz[1]",
+		"hora": "21:21",
+		"mes": "ABR.2025",
+		"dia": "5",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-04-05T21:21+02:00"
+	},
+	{
+		"nom": "Baby Lasagna - Meow Back Tour Spring 2025",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "ABR.2025",
+		"dia": "7",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-04-07T21:21+02:00"
+	},
+	{
+		"nom": "THE KENNETH BRIAN BAND",
+		"sala": "Razzmatazz[3]",
+		"hora": "21:21",
+		"mes": "ABR.2025",
+		"dia": "8",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-04-08T21:21+02:00"
+	},
+	{
+		"nom": "NONPALIDECE",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:00",
+		"mes": "ABR.2025",
+		"dia": "9",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-04-09T19:00+02:00"
+	},
+	{
+		"nom": "Queen Extravaganza: Celebrating 50 years of Bohemian Rhapsody",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "ABR.2025",
+		"dia": "10",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-04-10T19:00+02:00"
+	},
+	{
+		"nom": "ISRAEL B",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "ABR.2025",
+		"dia": "10",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-04-10T20:00+02:00"
+	},
+	{
+		"nom": "Avantasia \"Here Be Dragons Tour 2025\"",
+		"sala": "Razzmatazz[1]",
+		"hora": "17:00",
+		"mes": "ABR.2025",
+		"dia": "11",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-04-11T17:00+02:00"
+	},
+	{
+		"nom": "LEO RIZZI",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "ABR.2025",
+		"dia": "11",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-04-11T21:21+02:00"
+	},
+	{
+		"nom": "THE HIGH LLAMAS",
+		"sala": "Razzmatazz[3]",
+		"hora": "19:00",
+		"mes": "ABR.2025",
+		"dia": "11",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-04-11T19:00+02:00"
+	},
+	{
+		"nom": "ILEGALES",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "ABR.2025",
+		"dia": "12",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-04-12T19:30+02:00"
+	},
+	{
+		"nom": "JACK & JACK - EUROPEAN TOUR 2025",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:30",
+		"mes": "ABR.2025",
+		"dia": "13",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-04-13T19:30+02:00"
+	},
+	{
+		"nom": "DIEGO TORRES",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "ABR.2025",
+		"dia": "14",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-04-14T21:21+02:00"
+	},
+	{
+		"nom": "KROVOSTOK",
+		"sala": "Razzmatazz[1]",
+		"hora": "18:00",
+		"mes": "ABR.2025",
+		"dia": "18",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-04-18T18:00+02:00"
+	},
+	{
+		"nom": "JP FERNANDEZ",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "ABR.2025",
+		"dia": "19",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-04-19T20:00+02:00"
+	},
+	{
+		"nom": "INHALER",
+		"sala": "Razzmatazz[1]",
+		"hora": "21:21",
+		"mes": "ABR.2025",
+		"dia": "22",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-04-22T21:21+02:00"
+	},
+	{
+		"nom": "ODDLIQUOR",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:30",
+		"mes": "ABR.2025",
+		"dia": "24",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-04-24T20:30+02:00"
+	},
+	{
+		"nom": "RODRIGO CUEVAS",
+		"sala": "Razzmatazz[1]",
+		"hora": "21:21",
+		"mes": "ABR.2025",
+		"dia": "25",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-04-25T21:21+02:00"
+	},
+	{
+		"nom": "Agusfortnite2008+ Stiffy",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "ABR.2025",
+		"dia": "25",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-04-25T20:00+02:00"
+	},
+	{
+		"nom": "MARTA SOTO",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:30",
+		"mes": "ABR.2025",
+		"dia": "26",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-04-26T20:30+02:00"
+	},
+	{
+		"nom": "SERGIO CONTRERAS",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "ABR.2025",
+		"dia": "26",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-04-26T20:00+02:00"
+	},
+	{
+		"nom": "CARAMELOS DE CIANURO",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "ABR.2025",
+		"dia": "27",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-04-27T19:30+02:00"
+	},
+	{
+		"nom": "SWALLOW THE SUN - SHINING OVER EUROPE tour 2025",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "ABR.2025",
+		"dia": "27",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-04-27T21:21+02:00"
+	},
+	{
+		"nom": "ESPRIT D'AIR",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:00",
+		"mes": "ABR.2025",
+		"dia": "28",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-04-28T19:00+02:00"
+	},
+	{
+		"nom": "THE MURDER CAPITAL",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "MAI.2025",
+		"dia": "3",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-05-03T20:00+02:00"
+	},
+	{
+		"nom": "RATA BLANCA",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAI.2025",
+		"dia": "4",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-05-04T19:00+02:00"
+	},
+	{
+		"nom": "ABORTED",
+		"sala": "Razzmatazz[2]",
+		"hora": "17:30",
+		"mes": "MAI.2025",
+		"dia": "4",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-05-04T17:30+02:00"
+	},
+	{
+		"nom": "LAS PASTILLAS DEL ABUELO",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "MAI.2025",
+		"dia": "5",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-05-05T19:30+02:00"
+	},
+	{
+		"nom": "MIEL DE MONTAGNE",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "MAI.2025",
+		"dia": "6",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-05-06T20:00+02:00"
+	},
+	{
+		"nom": "EDDY SMITH & THE 507",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "MAI.2025",
+		"dia": "7",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-05-07T20:00+02:00"
+	},
+	{
+		"nom": "MARINA RECHE",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAI.2025",
+		"dia": "8",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-05-08T19:00+02:00"
+	},
+	{
+		"nom": "SALISTRE",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "MAI.2025",
+		"dia": "8",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-05-08T20:00+02:00"
+	},
+	{
+		"nom": "LIAM MOUR",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "MAI.2025",
+		"dia": "9",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-05-09T20:00+02:00"
+	},
+	{
+		"nom": "BARN ROJO - 45 ANIVERSARIO",
+		"sala": "Razzmatazz[1]",
+		"hora": "18:30",
+		"mes": "MAI.2025",
+		"dia": "10",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-05-10T18:30+02:00"
+	},
+	{
+		"nom": "ANAKENA",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "MAI.2025",
+		"dia": "10",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-05-10T20:00+02:00"
+	},
+	{
+		"nom": "STEREOPHONICS",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAI.2025",
+		"dia": "12",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-05-12T19:00+02:00"
+	},
+	{
+		"nom": "THE COMANCHEROS",
+		"sala": "Razzmatazz[3]",
+		"hora": "21:21",
+		"mes": "MAI.2025",
+		"dia": "12",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-05-12T21:21+02:00"
+	},
+	{
+		"nom": "MARK AMBOR - ROCKWOOD TOUR 2025 ",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "MAI.2025",
+		"dia": "14",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-05-14T21:21+02:00"
+	},
+	{
+		"nom": "EL CHOJIN - GIRA 25 ANIVERSARIO",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAI.2025",
+		"dia": "16",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-05-16T19:00+02:00"
+	},
+	{
+		"nom": "LA TROUPE",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "MAI.2025",
+		"dia": "16",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-05-16T20:00+02:00"
+	},
+	{
+		"nom": "MIDAS ALONSO",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "MAI.2025",
+		"dia": "16",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-05-16T20:00+02:00"
+	},
+	{
+		"nom": "OBK",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "MAI.2025",
+		"dia": "17",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-05-17T19:30+02:00"
+	},
+	{
+		"nom": "JP HARRIS & THE TOUGH CHOICES",
+		"sala": "Razzmatazz[3]",
+		"hora": "20:00",
+		"mes": "MAI.2025",
+		"dia": "19",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-05-19T20:00+02:00"
+	},
+	{
+		"nom": "LA FEMME",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAI.2025",
+		"dia": "20",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-05-20T19:00+02:00"
+	},
+	{
+		"nom": "LIA KALI",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAI.2025",
+		"dia": "22",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-05-22T19:00+02:00"
+	},
+	{
+		"nom": "LIA KALI",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "MAI.2025",
+		"dia": "23",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-05-23T19:30+02:00"
+	},
+	{
+		"nom": "AIKO",
+		"sala": "Razzmatazz[3]",
+		"hora": "19:30",
+		"mes": "MAI.2025",
+		"dia": "23",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-05-23T19:30+02:00"
+	},
+	{
+		"nom": "MALM 040",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "MAI.2025",
+		"dia": "24",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-05-24T19:30+02:00"
+	},
+	{
+		"nom": "HEAVY LUNGS",
+		"sala": "Razzmatazz[3]",
+		"hora": "19:00",
+		"mes": "MAI.2025",
+		"dia": "28",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-05-28T19:00+02:00"
+	},
+	{
+		"nom": "KIASMOS",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "MAI.2025",
+		"dia": "28",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-05-28T19:00+02:00"
+	},
+	{
+		"nom": "MGO DE OZ",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "MAI.2025",
+		"dia": "30",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-05-30T19:30+02:00"
+	},
+	{
+		"nom": "ELS CATARRES",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "MAI.2025",
+		"dia": "31",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-05-31T19:30+02:00"
+	},
+	{
+		"nom": "EAGLES OF DEATH METAL",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "JUN.2025",
+		"dia": "24",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-06-24T21:21+02:00"
+	},
+	{
+		"nom": "MAYA HAWKE",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "JUL.2025",
+		"dia": "8",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-07-08T21:21+02:00"
+	},
+	{
+		"nom": "WEEZER",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "JUL.2025",
+		"dia": "9",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-07-09T19:00+02:00"
+	},
+	{
+		"nom": "DAMIANO DAVID",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "SET.2025",
+		"dia": "21",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-09-21T19:30+02:00"
+	},
+	{
+		"nom": "BLEED FROM WITHIN - THE ZENITH TOUR ",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "OCT.2025",
+		"dia": "5",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-10-05T21:21+02:00"
+	},
+	{
+		"nom": "DIRE STRAITS LEGACY",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "OCT.2025",
+		"dia": "9",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-10-09T19:30+02:00"
+	},
+	{
+		"nom": "GOD IS AN ASTRONAUT",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "OCT.2025",
+		"dia": "11",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-10-11T21:21+02:00"
+	},
+	{
+		"nom": "EL DUENDE CALLEJERO",
+		"sala": "Razzmatazz[2]",
+		"hora": "20:00",
+		"mes": "OCT.2025",
+		"dia": "17",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-10-17T20:00+02:00"
+	},
+	{
+		"nom": "ANNISOKAY",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "OCT.2025",
+		"dia": "23",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-10-23T21:21+02:00"
+	},
+	{
+		"nom": "THE WATCH - TRIBUT A GENESIS",
+		"sala": "Razzmatazz[2]",
+		"hora": "21:21",
+		"mes": "NOV.2025",
+		"dia": "5",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-11-05T21:21+02:00"
+	},
+	{
+		"nom": "NEW MODEL ARMY",
+		"sala": "Razzmatazz[2]",
+		"hora": "19:30",
+		"mes": "NOV.2025",
+		"dia": "9",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-11-09T19:30+02:00"
+	},
+	{
+		"nom": "LARKIN POE",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:00",
+		"mes": "NOV.2025",
+		"dia": "15",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-11-15T19:00+02:00"
+	},
+	{
+		"nom": "GUANO APES",
+		"sala": "Razzmatazz[1]",
+		"hora": "18:30",
+		"mes": "DES.2025",
+		"dia": "5",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-12-05T18:30+02:00"
+	},
+	{
+		"nom": "FUEGO LIVE! J ABECIA",
+		"sala": "Razzmatazz[1]",
+		"hora": "19:30",
+		"mes": "DES.2025",
+		"dia": "12",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-12-12T19:30+02:00"
+	}
 ]
 }
