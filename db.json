@@ -1,6 +1,36 @@
 {
 "concerts": [
 	{
+		"nom": "Nocturna Discoria(LEM)",
+		"sala": "Soda Acústic",
+		"hora": "20:00",
+		"mes": "MAI.2025",
+		"textdia": "dijous",
+		"dia": "22",
+		"ciutat": "",
+		"dateTime": "2025-05-22T20:00+02:00"
+	},
+	{
+		"nom": "Cibrán + Laura Llaneli(LEM)",
+		"sala": "LaKontra de Gràcia",
+		"hora": "20:00",
+		"mes": "MAI.2025",
+		"textdia": "divendres",
+		"dia": "23",
+		"ciutat": "",
+		"dateTime": "2025-05-23T20:00+02:00"
+	},
+	{
+		"nom": "Art Quartet + Electric Totems(LEM)",
+		"sala": "La Sedeta",
+		"hora": "19:00",
+		"mes": "MAI.2025",
+		"textdia": "dissabte",
+		"dia": "23",
+		"ciutat": "",
+		"dateTime": "2025-05-23T20:00+02:00"
+	},
+	{
 		"nom": "Frise Lumiere + Pinastri!",
 		"sala": "L'Antic Forn de Vallcarca",
 		"hora": "19:00",
