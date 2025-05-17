@@ -1,14 +1,24 @@
 {
 "concerts": [
 	{
-		"nom": "Ajornat fins el 24/1! PerroVecinos ",
-		"sala": "Vol",
-		"hora": "21:30",
-		"mes": "DES.2024",
-		"textdia": "diumenge",
-		"dia": "28",
+		"nom": "Frise Lumiere + Pinastri!",
+		"sala": "L'Antic Forn de Vallcarca",
+		"hora": "19:00",
+		"mes": "MAI.2025",
+		"textdia": "dissabte",
+		"dia": "24",
 		"ciutat": "",
-		"dateTime": "2024-12-28T21:30+02:00"
+		"dateTime": "2025-05-24T19:00+02:00"
+	},
+	{
+		"nom": "Dry Town",
+		"sala": "L'Antic Forn de Vallcarca",
+		"hora": "20:00",
+		"mes": "MAI.2025",
+		"textdia": "dimecres",
+		"dia": "23",
+		"ciutat": "",
+		"dateTime": "2025-05-23T20:00+02:00"
 	},
 	{
 		"nom": "CAP D'ANY BOU NKH REK: Jokkoo + Nea Onnim ",
