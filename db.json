@@ -5,7 +5,6 @@
             "sala": "Almo2bar",
             "hora": "18:30",
             "mes": "JUN",
-	    "dia":"25",
             "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-05-25T18:30+02:00"
@@ -15,7 +14,6 @@
             "sala": "Almo2bar",
             "hora": "21:30",
             "mes": "JUN",
-	    "dia": "31"
             "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-05-31T21:30+02:00"
@@ -25,7 +23,6 @@
             "sala": "Almo2bar",
             "hora": "20:30",
             "mes": "JUL",
-	    "dia":"6",
             "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-06-06T20:30+02:00"
@@ -35,7 +32,6 @@
             "sala": "Almo2bar",
             "hora": "20:30",
             "mes": "JUL",
-	    "dia":"07",
             "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-06-07T20:30+02:00"
@@ -45,7 +41,6 @@
             "sala": "Almo2bar",
             "hora": "21:00",
             "mes": "JUL",
-	    "dia": "13",
             "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-06-13T21:00+02:00"
@@ -55,7 +50,6 @@
             "sala": "Almo2bar",
             "hora": "20:30",
             "mes": "JUL",
-	    "dia": "27",
             "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-06-21T20:30+02:00"
@@ -75,7 +69,6 @@
             "hora": "21:00",
             "mes": "JUL",
             "textdia": "diumenge",
-	    "dia": "28", 
             "ciutat": "",
             "dateTime": "2025-06-28T21:00+02:00"
         },
@@ -84,7 +77,6 @@
             "sala": "Almo2bar",
             "hora": "20:30",
             "mes": "DES",
-	    "dia":"29",
             "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-29T20:30+02:00"
@@ -93,7 +85,7 @@
 		"nom": "EAGLES OF DEATH METAL",
 		"sala": "Razzmatazz[2]",
 		"hora": "21:21",
-		"mes": "JUN",
+		"mes": "JUN.2025",
 		"dia": "24",
 		"textdia": "dimarts",
 		"ciutat": "",
