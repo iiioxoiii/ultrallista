@@ -1,6 +1,96 @@
 {
 "concerts": [
 	{
+            "nom": "Metro Club presenta: \u201cDEPECHE MODE PARTY\u201d",
+            "sala": "Almo2bar",
+            "hora": "18:30",
+            "mes": "JUN.2025",
+            "textdia": "dilluns",
+            "dia": "25",
+            "ciutat": "",
+            "dateTime": "2025-05-25T18:30+02:00"
+        },
+        {
+            "nom": "AITOR AGUILAR",
+            "sala": "Almo2bar",
+            "hora": "21:30",
+            "mes": "JUN.2025",
+            "textdia": "diumenge",
+            "dia": "31",
+            "ciutat": "",
+            "dateTime": "2025-05-31T21:30+02:00"
+        },
+        {
+            "nom": "OSCAR MIR-MIR",
+            "sala": "Almo2bar",
+            "hora": "20:30",
+            "mes": "JUL.2025",
+            "textdia": "dissabte",
+            "dia": "06",
+            "ciutat": "",
+            "dateTime": "2025-06-06T20:30+02:00"
+        },
+        {
+            "nom": "BLACKMORE\u2019S RISING \u201cRitchie Blackmore\u2019s Legacy Tribute\u201d",
+            "sala": "Almo2bar",
+            "hora": "20:30",
+            "mes": "JUL.2025",
+            "textdia": "diumenge",
+            "dia": "07",
+            "ciutat": "",
+            "dateTime": "2025-06-07T20:30+02:00"
+        },
+        {
+            "nom": "Bis Festival presenta FERMI + CORAZ\u00d3N & PABLO PRISMA",
+            "sala": "Almo2bar",
+            "hora": "21:00",
+            "mes": "JUL.2025",
+            "textdia": "dissabte",
+            "dia": "13",
+            "ciutat": "",
+            "dateTime": "2025-06-13T21:00+02:00"
+        },
+        {
+            "nom": "BALTASAR COMOTTO + VUELO DESPIERTO",
+            "sala": "Almo2bar",
+            "hora": "20:30",
+            "mes": "JUL.2025",
+            "textdia": "diumenge",
+            "dia": "21",
+            "ciutat": "",
+            "dateTime": "2025-06-21T20:30+02:00"
+        },
+        {
+            "nom": "LES RENCARDS",
+            "sala": "Almo2bar",
+            "hora": "21:30",
+            "mes": "JUL.2025",
+            "textdia": "dissabte",
+            "dia": "27",
+            "ciutat": "",
+            "dateTime": "2025-06-27T21:30+02:00"
+        },
+        {
+            "nom": "LOS MONOS VOLADORES del Sr. Burns",
+            "sala": "Almo2bar",
+            "hora": "21:00",
+            "mes": "JUL.2025",
+            "textdia": "diumenge",
+            "dia": "28",
+            "ciutat": "",
+            "dateTime": "2025-06-28T21:00+02:00"
+        },
+        {
+            "nom": "LEGENDS IN CONCERT: ELVIS & ROY",
+            "sala": "Almo2bar",
+            "hora": "20:30",
+            "mes": "DES.2025",
+            "textdia": "diumenge",
+            "dia": "29",
+            "ciutat": "",
+            "dateTime": "2025-11-29T20:30+02:00"
+        },
+	{
 		"nom": "Nocturna Discoria(LEM)",
 		"sala": "Soda Acústic",
 		"hora": "20:00",
