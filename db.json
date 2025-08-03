@@ -40,6 +40,47 @@
             "ciutat": "",
             "dateTime": "2025-09-23T23:00+02:00"
         },
+	{
+            "nom": "SPACE AFRICA",
+            "sala": "Teatre Grec",
+            "hora": "23:59",
+            "mes": "SET.2025",
+            "textdia": "dimarts",
+            "dia": "23",
+            "ciutat": "",
+            "dateTime": "2025-09-23T23:59+02:00"
+        },
+	{
+            "nom": "LIDO PIMIENTA",
+            "sala": "Moll de la Fusta",
+            "hora": "23:59",
+            "mes": "SET.2025",
+            "textdia": "dimarts",
+            "dia": "23",
+            "ciutat": "",
+            "dateTime": "2025-09-23T23:59+02:00"
+        },
+	{
+            "nom": "MUQAWAMA",
+            "sala": "Rambla del Raval",
+            "hora": "00:30",
+            "mes": "SET.2025",
+            "textdia": "dimecres",
+            "dia": "24",
+            "ciutat": "",
+            "dateTime": "2025-09-24T00:30+02:00"
+        },
+	{
+            "nom": "KIDDY SMILE",
+            "sala": "Moll de la Fusta",
+            "hora": "01:30",
+            "mes": "SET.2025",
+            "textdia": "dimecres",
+            "dia": "24",
+            "ciutat": "",
+            "dateTime": "2025-09-24T01:30+02:00"
+        },
+	
         {
             "nom": "Catalunya Freestyle",
             "sala": "Plç Catalunya",
@@ -101,154 +142,274 @@
             "dateTime": "2025-09-26T22:30+02:00"
 	},
 	{
-		"nom": "Cibrán + Laura Llaneli(LEM)",
-		"sala": "LaKontra de Gràcia",
-		"hora": "20:00",
-		"mes": "MAI.2025",
-		"textdia": "divendres",
-		"dia": "23",
-		"ciutat": "",
-		"dateTime": "2025-05-23T20:00+02:00"
+	    "nom": "DIS FIG",
+            "sala": "Rambla del Raval",
+            "hora": "23:30",
+            "mes": "SET.2025",
+            "textdia": "divendres",
+            "dia": "26",
+            "ciutat": "",
+            "dateTime": "2025-09-26T23:30+02:00"
+	},
+
+	{
+	    "nom": "MARTHA DA'ro",
+            "sala": "Moll de la Fusta",
+            "hora": "23:59",
+            "mes": "SET.2025",
+            "textdia": "divendres",
+            "dia": "26",
+            "ciutat": "",
+            "dateTime": "2025-09-26T23:59+02:00"
+	},
+
+	{
+	    "nom": "\u03B5tella",
+            "sala": "Plç Catalunya",
+            "hora": "23:59",
+            "mes": "SET.2025",
+            "textdia": "divendres",
+            "dia": "26",
+            "ciutat": "",
+            "dateTime": "2025-09-26T23:59+02:00"
+	},
+
+	{
+	    "nom": "CHILDEN OF ZEUS",
+            "sala": "Plç Catalunya",
+            "hora": "00:30",
+            "mes": "SET.2025",
+            "textdia": "dissabte",
+            "dia": "27",
+            "ciutat": "",
+            "dateTime": "2025-09-27T00:30+02:00"
 	},
 	{
-		"nom": "Art Quartet + Electric Totems(LEM)",
-		"sala": "La Sedeta",
-		"hora": "19:00",
-		"mes": "MAI.2025",
-		"textdia": "dissabte",
-		"dia": "23",
-		"ciutat": "",
-		"dateTime": "2025-05-23T20:00+02:00"
+	    "nom": "VILLANO ANTILLANO",
+            "sala": "Moll de la Fusta",
+            "hora": "01:30",
+            "mes": "SET.2025",
+            "textdia": "dissabte",
+            "dia": "27",
+            "ciutat": "",
+            "dateTime": "2025-09-27T01:30+02:00"
+	},
+
+	{
+	    "nom": "SVSTO",
+            "sala": "Plç Catalunya",
+            "hora": "01:30",
+            "mes": "SET.2025",
+            "textdia": "dissabte",
+            "dia": "27",
+            "ciutat": "",
+            "dateTime": "2025-09-27T01:30+02:00"
+	},
+
+	
+	{
+	    "nom": "Ven'nus",
+            "sala": "Antiga Fàbrica Dammm",
+            "hora": "13:15",
+            "mes": "SET.2025",
+            "textdia": "dissabte",
+            "dia": "27",
+            "ciutat": "",
+            "dateTime": "2025-09-27T13:15+02:00"
 	},
 	{
-		"nom": "Frise Lumiere + Pinastri!",
-		"sala": "L'Antic Forn de Vallcarca",
-		"hora": "19:00",
-		"mes": "MAI.2025",
-		"textdia": "dissabte",
-		"dia": "24",
-		"ciutat": "",
-		"dateTime": "2025-05-24T19:00+02:00"
+	    "nom": "CHICA ACOSTA B2B PHAN",
+            "sala": "Antiga Fàbrica Dammm",
+            "hora": "14:15",
+            "mes": "SET.2025",
+            "textdia": "dissabte",
+            "dia": "27",
+            "ciutat": "",
+            "dateTime": "2025-09-27T14:15+02:00"
 	},
 	{
-		"nom": "Dry Town",
-		"sala": "L'Antic Forn de Vallcarca",
-		"hora": "20:00",
-		"mes": "MAI.2025",
-		"textdia": "dimecres",
-		"dia": "23",
-		"ciutat": "",
-		"dateTime": "2025-05-23T20:00+02:00"
+		"nom": "ULTRALONE",
+            "sala": "Antiga Fàbrica Dammm",
+            "hora": "16:15",
+            "mes": "SET.2025",
+            "textdia": "dissabte",
+            "dia": "27",
+            "ciutat": "",
+            "dateTime": "2025-09-27T16:15+02:00"
+
 	},
 	{
-		"nom": "CAP D'ANY BOU NKH REK: Jokkoo + Nea Onnim ",
-		"sala": "Vol",
-		"hora": "01:00",
-		"mes": "DES.2024",
-		"textdia": "dimecres",
-		"dia": "31",
-		"ciutat": "",
-		"dateTime": "2024-12-31T01:00+02:00"
+	"nom": "HADREN",
+        "sala": "Antiga Fàbrica Dammm",
+        "hora": "17:40",
+        "mes": "SET.2025",
+        "textdia": "dissabte",
+        "dia": "27",
+        "ciutat": "",
+        "dateTime": "2025-09-27T17:40+02:00"
 	},
 	{
-		"nom": "Can't Play Kanter  ",
-		"sala": "Vol",
-		"hora": "20:30",
-		"mes": "GEN.2025",
-		"textdia": "dissabte",
-		"dia": "3",
-		"ciutat": "",
-		"dateTime": "2025-01-03T20:30+02:00"
+	"nom": "FILLAS DE CASSANDRA",
+        "sala": "Antiga Fàbrica Dammm",
+        "hora": "18:50",
+        "mes": "SET.2025",
+        "textdia": "dissabte",
+        "dia": "27",
+        "ciutat": "",
+        "dateTime": "2025-09-27T18:50+02:00"
 	},
 	{
-		"nom": "TroncoCandela Escobar ",
-		"sala": "Vol",
-		"hora": "20:30",
-		"mes": "GEN.2025",
-		"textdia": "diumenge",
-		"dia": "4",
-		"ciutat": "",
-		"dateTime": "2025-01-04T20:30+02:00"
+	"nom": "GRECOTEHCNO",
+        "sala": "Antiga Fàbrica Dammm",
+        "hora": "21:15",
+        "mes": "SET.2025",
+        "textdia": "dissabte",
+        "dia": "27",
+        "ciutat": "",
+        "dateTime": "2025-09-27T21:15+02:00"
 	},
 	{
-		"nom": "Fava Fest ",
-		"sala": "Vol",
-		"hora": "20:30",
-		"mes": "GEN.2025",
-		"textdia": "dilluns",
-		"dia": "5",
-		"ciutat": "",
-		"dateTime": "2025-01-05T20:30+02:00"
+	"nom": "GIRLS 96",
+        "sala": "Rambla del Raval",
+        "hora": "21:30",
+        "mes": "SET.2025",
+        "textdia": "dissabte",
+        "dia": "27",
+        "ciutat": "",
+        "dateTime": "2025-09-27T21:30+02:00"
 	},
 	{
-		"nom": "Ani in the Hall Adrianna JornetDJ Besito ",
-		"sala": "Vol",
-		"hora": "21:30",
-		"mes": "GEN.2025",
-		"textdia": "dissabte",
-		"dia": "10",
-		"ciutat": "",
-		"dateTime": "2025-01-10T21:30+02:00"
+	"nom": "GAZELLA",
+        "sala": "Rambla del Raval",
+        "hora": "22:30",
+        "mes": "SET.2025",
+        "textdia": "dissabte",
+        "dia": "27",
+        "ciutat": "",
+        "dateTime": "2025-09-27T22:30+02:00"
 	},
 	{
-		"nom": "FromFotos de la Novia ",
-		"sala": "Vol",
-		"hora": "21:30",
-		"mes": "GEN.2025",
-		"textdia": "diumenge",
-		"dia": "11",
-		"ciutat": "",
-		"dateTime": "2025-01-11T21:30+02:00"
+	"nom": "ELSAS",
+        "sala": "Moll de la Fusta",
+        "hora": "22:30",
+        "mes": "SET.2025",
+        "textdia": "dissabte",
+        "dia": "27",
+        "ciutat": "",
+        "dateTime": "2025-09-27T22:30+02:00"
 	},
 	{
-		"nom": "Me and the BeesThe Lions constellation ",
-		"sala": "Vol",
-		"hora": "21:30",
-		"mes": "GEN.2025",
-		"textdia": "dissabte",
-		"dia": "17",
-		"ciutat": "",
-		"dateTime": "2025-01-17T21:30+02:00"
+	"nom": "DJ LYCOX",
+        "sala": "Rambla del Raval",
+        "hora": "23:00",
+        "mes": "SET.2025",
+        "textdia": "dissabte",
+        "dia": "27",
+        "ciutat": "",
+        "dateTime": "2025-09-27T23:30+02:00"
 	},
 	{
-		"nom": "OsserpPulmonary FibrosisSanctuariumYatrogenia ",
-		"sala": "Vol",
-		"hora": "20:30",
-		"mes": "GEN.2025",
-		"textdia": "diumenge",
-		"dia": "18",
-		"ciutat": "",
-		"dateTime": "2025-01-18T20:30+02:00"
+	"nom": "DJ ALVILDA",
+        "sala": "Plç Catalunya",
+        "hora": "23:59",
+        "mes": "SET.2025",
+        "textdia": "dissabte",
+        "dia": "27",
+        "ciutat": "",
+        "dateTime": "2025-09-27T23:59+02:00"
 	},
 	{
-		"nom": "PerroVecinos ",
-		"sala": "Vol",
-		"hora": "21:30",
-		"mes": "GEN.2025",
-		"textdia": "dissabte",
-		"dia": "24",
-		"ciutat": "",
-		"dateTime": "2025-01-24T21:30+02:00"
+	"nom": "FIDJU KITXORA",
+        "sala": "Rambla del Raval",
+        "hora": "00:30",
+        "mes": "SET.2025",
+        "textdia": "diumenge",
+        "dia": "28",
+        "ciutat": "",
+        "dateTime": "2025-09-28T00:30+02:00"
+	},
+
+	{
+	"nom": "BIZANGA",
+        "sala": "Plç Catalunya",
+        "hora": "01:30",
+        "mes": "SET.2025",
+        "textdia": "diumenge",
+        "dia": "28",
+        "ciutat": "",
+        "dateTime": "2025-09-28T01:30+02:00"
+	},
+
+	{
+	"nom": "SAFEty Trance",
+        "sala": "Moll de la Fusta",
+        "hora": "01:30",
+        "mes": "SET.2025",
+        "textdia": "diumenge",
+        "dia": "28",
+        "ciutat": "",
+        "dateTime": "2025-09-28T01:30+02:00"
+	},
+	
+	{
+	"nom": "ST. FRANCES",
+        "sala": "Antiga Fàbrica Damm",
+        "hora": "13:15",
+        "mes": "SET.2025",
+        "textdia": "diumenge",
+        "dia": "28",
+        "ciutat": "",
+        "dateTime": "2025-09-28T13:15+02:00"
 	},
 	{
-		"nom": "Sndrome TxicoGenerador ",
-		"sala": "Vol",
-		"hora": "21:30",
-		"mes": "GEN.2025",
-		"textdia": "diumenge",
-		"dia": "25",
-		"ciutat": "",
-		"dateTime": "2025-01-25T21:30+02:00"
+	"nom": "POLYGLOT SOUND SYSTEM",
+        "sala": "Antiga Fàbrica Damm",
+        "hora": "14:15",
+        "mes": "SET.2025",
+        "textdia": "diumenge",
+        "dia": "28",
+        "ciutat": "",
+        "dateTime": "2025-09-28T14:15:30+02:00"
 	},
 	{
-		"nom": "Islea Antumalen ",
-		"sala": "Vol",
-		"hora": "21:30",
-		"mes": "GEN.2025",
-		"textdia": "dissabte",
-		"dia": "31",
-		"ciutat": "",
-		"dateTime": "2025-01-31T21:30+02:00"
+	"nom": "SOFIA",
+        "sala": "Antiga Fàbrica Damm",
+        "hora": "16:30",
+        "mes": "SET.2025",
+        "textdia": "diumenge",
+        "dia": "28",
+        "ciutat": "",
+        "dateTime": "2025-09-28T16:30+02:00"
+	},
+	{
+	"nom": "GIRI ROS",
+        "sala": "Antiga Fàbrica Damm",
+        "hora": "17:40",
+        "mes": "SET.2025",
+        "textdia": "diumenge",
+        "dia": "28",
+        "ciutat": "",
+        "dateTime": "2025-09-28T17:40+02:00"
+	},
+	{
+	"nom": "ANI IN THE HALL",
+        "sala": "Antiga Fàbrica Damm",
+        "hora": "18:50",
+        "mes": "SET.2025",
+        "textdia": "diumenge",
+        "dia": "28",
+        "ciutat": "",
+        "dateTime": "2025-09-28T18:50+02:00"
+	},
+	{
+	"nom": "VERDE PRATO",
+        "sala": "Antiga Fàbrica Damm",
+        "hora": "20:15",
+        "mes": "SET.2025",
+        "textdia": "diumenge",
+        "dia": "28",
+        "ciutat": "",
+        "dateTime": "2025-09-28T20:15+02:00"
 	},
 	{
 		"nom": "MendraOfiuca Nunca ",
