@@ -1,104 +1,104 @@
 {
 "concerts": [
 	{
-            "nom": "Metro Club presenta: \u201cDEPECHE MODE PARTY\u201d",
-            "sala": "Almo2bar",
-            "hora": "18:30",
-            "mes": "MAI.2025",
-            "textdia": "dilluns",
-            "dia": "25",
-            "ciutat": "",
-            "dateTime": "2025-05-25T18:30+02:00"
-        },
-        {
-            "nom": "AITOR AGUILAR",
-            "sala": "Almo2bar",
+            "nom": "Companyia Les Solidaries",
+            "sala": "Rambla del Raval",
             "hora": "21:30",
-            "mes": "MAI.2025",
-            "textdia": "diumenge",
-            "dia": "31",
+            "mes": "SET.2025",
+            "textdia": "dimarts",
+            "dia": "23",
             "ciutat": "",
-            "dateTime": "2025-05-31T21:30+02:00"
+            "dateTime": "2025-09-23T21:30+02:00"
         },
         {
-            "nom": "OSCAR MIR-MIR",
-            "sala": "Almo2bar",
+            "nom": "Tarta Relena",
+            "sala": "Teatre Grec",
+            "hora": "22:00",
+            "mes": "SET.2025",
+            "textdia": "dimarts",
+            "dia": "23",
+            "ciutat": "",
+            "dateTime": "2025-09-23T22:00+02:00"
+        },
+        {
+            "nom": "Asia",
+            "sala": "Moll de la Fusta",
+            "hora": "22:30",
+            "mes": "SET.2025",
+            "textdia": "dimarts",
+            "dia": "23",
+            "ciutat": "",
+            "dateTime": "2025-09-23T22:30+02:00"
+        },
+        {
+            "nom": "The Ex",
+            "sala": "La Rambla del Raval",
+            "hora": "23:00",
+            "mes": "SET.2025",
+            "textdia": "dimarts",
+            "dia": "23",
+            "ciutat": "",
+            "dateTime": "2025-09-23T23:00+02:00"
+        },
+        {
+            "nom": "Catalunya Freestyle",
+            "sala": "Plç Catalunya",
+            "hora": "17:00",
+            "mes": "SET.2025",
+            "textdia": "dimecres",
+            "dia": "24",
+            "ciutat": "",
+            "dateTime": "2025-09-24T17:00+02:00"
+        },
+        {
+            "nom": "Potser dimarts",
+            "sala": "Plç Catalunya",
             "hora": "20:30",
-            "mes": "JUN.2025",
-            "textdia": "dissabte",
-            "dia": "06",
+            "mes": "SET.2025",
+            "textdia": "divendres",
+            "dia": "26",
             "ciutat": "",
-            "dateTime": "2025-06-06T20:30+02:00"
+            "dateTime": "2025-09-26T20:30+02:00"
         },
         {
-            "nom": "BLACKMORE\u2019S RISING \u201cRitchie Blackmore\u2019s Legacy Tribute\u201d",
-            "sala": "Almo2bar",
-            "hora": "20:31",
-            "mes": "JUN.2025",
-            "textdia": "diumenge",
-            "dia": "07",
+            "nom": "Samuel Nagati",
+            "sala": "Plç Catalunya",
+            "hora": "21:15",
+            "mes": "SET.2025",
+            "textdia": "divendres",
+            "dia": "26",
             "ciutat": "",
-            "dateTime": "2025-06-07T20:30+02:00"
+            "dateTime": "2025-09-26T21:15+02:00"
         },
         {
-            "nom": "Bis Festival presenta FERMI + CORAZ\u00d3N & PABLO PRISMA",
-            "sala": "Almo2bar",
-            "hora": "21:00",
-            "mes": "JUN.2025",
-            "textdia": "dissabte",
-            "dia": "13",
-            "ciutat": "",
-            "dateTime": "2025-06-13T21:00+02:00"
-        },
-        {
-            "nom": "BALTASAR COMOTTO + VUELO DESPIERTO",
-            "sala": "Almo2bar",
-            "hora": "20:30",
-            "mes": "JUN.2025",
-            "textdia": "diumenge",
-            "dia": "21",
-            "ciutat": "",
-            "dateTime": "2025-06-21T20:30+02:00"
-        },
-        {
-            "nom": "LES RENCARDS",
-            "sala": "Almo2bar",
+            "nom": "cabezadenego",
+            "sala": "Rambla del Raval",
             "hora": "21:30",
-            "mes": "JUN.2025",
-            "textdia": "dissabte",
-            "dia": "27",
+            "mes": "SET.2025",
+            "textdia": "divendres",
+            "dia": "26",
             "ciutat": "",
-            "dateTime": "2025-06-27T21:30+02:00"
+            "dateTime": "2025-09-26T21:30+02:00"
         },
         {
-            "nom": "LOS MONOS VOLADORES del Sr. Burns",
-            "sala": "Almo2bar",
-            "hora": "21:00",
-            "mes": "JUN.2025",
-            "textdia": "diumenge",
-            "dia": "28",
+            "nom": "La Tania",
+            "sala": "Moll de la Fusta",
+            "hora": "22:30",
+            "mes": "SET.2025",
+            "textdia": "divendres",
+            "dia": "26",
             "ciutat": "",
-            "dateTime": "2025-06-28T21:00+02:00"
-        },
-        {
-            "nom": "LEGENDS IN CONCERT: ELVIS & ROY",
-            "sala": "Almo2bar",
-            "hora": "20:30",
-            "mes": "DES.2025",
-            "textdia": "diumenge",
-            "dia": "29",
-            "ciutat": "",
-            "dateTime": "2025-11-29T20:30+02:00"
+            "dateTime": "2025-09-26T22:30+02:00"
         },
 	{
-		"nom": "Nocturna Discoria(LEM)",
-		"sala": "Soda Acústic",
-		"hora": "20:00",
-		"mes": "MAI.2025",
-		"textdia": "dijous",
-		"dia": "22",
-		"ciutat": "",
-		"dateTime": "2025-05-22T20:00+02:00"
+	    "nom": "Anna Andreu, Mar Pujol Ferran Palau i Bruna González",
+            "sala": "Plç Catalunya",
+            "hora": "22:30",
+            "mes": "SET.2025",
+            "textdia": "divendres",
+            "dia": "26",
+            "ciutat": "",
+            "dateTime": "2025-09-26T22:30+02:00"
 	},
 	{
 		"nom": "Cibrán + Laura Llaneli(LEM)",
