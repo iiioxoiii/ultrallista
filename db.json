@@ -240,6 +240,166 @@
 		"dateTime": "2025-10-30T20:30+02:00"
 	},
 	{
+		"nom": "STRANGER COLE",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "NOV.2025",
+		"dia": "01",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-11-01T20:30+02:00"
+	},
+	{
+		"nom": "BROKE CARREY & ELMALAMÍA",
+		"sala": "upload",
+		"hora": "19:30",
+		"mes": "NOV.2025",
+		"dia": "02",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-11-01T19:30+02:00"
+	},
+	{
+		"nom": "BRANT BJORK TRIO",
+		"sala": "upload",
+		"hora": "19:30",
+		"mes": "NOV.2025",
+		"dia": "04",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-11-04T19:30+02:00"
+	},
+	{
+		"nom": "CARLOS ESCOBEDO + ROMANTHICA",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "NOV.2025",
+		"dia": "08",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-11-04T20:00+02:00"
+	},
+	{
+		"nom": "LORNA",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "NOV.2025",
+		"dia": "12",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-11-12T20:00+02:00"
+	},
+	{
+		"nom": "MINARMI DEUTSCH",
+		"sala": "Upload",
+		"hora": "20:00",
+		"mes": "NOV.2025",
+		"dia": "16",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-11-16T20:00+02:00"
+	},
+	{
+		"nom": "ODEZENNE",
+		"sala": "upload",
+		"hora": "20:30",
+		"mes": "NOV.2025",
+		"dia": "20",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-11-20T20:30+02:00"
+	},
+	{
+		"nom": "YAWNERS",
+		"sala": "upload",
+		"hora": "20:30",
+		"mes": "NOV.2025",
+		"dia": "21",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-11-21T20:30+02:00"
+	},
+	{
+		"nom": "GREENLEAF",
+		"sala": "upload",
+		"hora": "19:30",
+		"mes": "NOV.2025",
+		"dia": "25",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-11-25T19:30+02:00"
+	},
+	{
+		"nom": "CASSIE RAMONE",
+		"sala": "upload",
+		"hora": "20:30",
+		"mes": "NOV.2025",
+		"dia": "28",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-11-28T20:30+02:00"
+	},
+	{
+		"nom": "PANIC SHACK",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "DES.2025",
+		"dia": "20",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-12-01T20:00+02:00"
+	},
+	{
+		"nom": "WATER FROM YOUR EYES",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "DES.2025",
+		"dia": "05",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-12-05T20:00+02:00"
+	},
+	{
+		"nom": "THE HIDDEN CAMERAS",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "DES.2025",
+		"dia": "10",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-12-10T20:00+02:00"
+	},
+	{
+		"nom": "CHARIF MEGARBANE & ROGÉR FAKHR",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "DES.2025",
+		"dia": "13",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-12-13T20:00+02:00"
+	},
+	{
+		"nom": "WAVVES",
+		"sala": "upload",
+		"hora": "19:00",
+		"mes": "DES.2025",
+		"dia": "26",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-12-26T19:00+02:00"
+	},
+	{
+		"nom": "PRIEST + DEAD LIGHTS",
+		"sala": "Upload",
+		"hora": "19:00",
+		"mes": "MAI.2026",
+		"dia": "08",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2026-05-08T19:00+02:00"
+	},
+	{
 		"nom": "Companyia Les Solidaries",
 		"sala": "Rambla del Raval",
 		"hora": "21:30",
