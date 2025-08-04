@@ -1,7 +1,7 @@
 {
 "concerts": [
 	{
-		"nom": "EARTHELL + (heavy Trip)",
+		"nom": "EARTHELL + HEAVY TRIP",
 		"sala": "upload",
 		"hora": "19:30",
 		"mes": "AGO.2025",
@@ -11,7 +11,7 @@
 		"dateTime": "2025-08-05T19:30+02:00"
 	},
 	{
-		"nom": "IGNEA + (Ancient Settlers)",
+		"nom": "IGNEA + ANCIENT SETTLERS",
 		"sala": "upload",
 		"hora": "20:00",
 		"mes": "AGO.2025",
@@ -21,7 +21,7 @@
 		"dateTime": "2025-08-27T20:00+02:00"
 	},
 	{
-		"nom": "THE NEW CRIST + (La Secta)",
+		"nom": "THE NEW CRIST + LA SECTA",
 		"sala": "upload",
 		"hora": "20:00",
 		"mes": "SET.2025",
