@@ -10,6 +10,15 @@
 		"ciutat": "",
 		"dateTime": "2025-09-05T19:30+02:00"
 	},{
+		"nom": "PERMALOVE ",
+		"sala": "estraperlo",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "05",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-09-05T19:30+02:00"
+	},{
 		"nom": "SPITFIRE SCREAM",
 		"sala": "Estraperlo",
 		"hora": "??:??",
@@ -641,6 +650,79 @@
 		"dateTime": "2025-09-23T23:59+02:00"
 	},
 	{
+		"nom": "PORIJ",
+		"sala": "Jardins Dr. Pla i Armengol",
+		"hora": "23:15",
+		"mes": "SET.2025",
+		"textdia": "dimarts",
+		"dia": "23",
+		"ciutat": "",
+		"dateTime": "2025-09-23T23:15+02:00"
+	},{
+		"nom": "EL NIÑO DE ELCHE",
+		"sala": "Av. de la Catedral",
+		"hora": "23:59",
+		"mes": "SET.2025",
+		"textdia": "dimarts",
+		"dia": "23",
+		"ciutat": "",
+		"dateTime": "2025-09-23T23:59+02:00"
+	},
+	{
+		"nom": "Liceu BLAM Collective",
+		"sala": "Jardins Dr. Pla i Armengol",
+		"hora": "11:30",
+		"mes": "SET.2025",
+		"textdia": "dimecres",
+		"dia": "24",
+		"ciutat": "",
+		"dateTime": "2025-09-24T11:30+02:00"
+	},
+	{
+		"nom": "XXL Taller de Músics",
+		"sala": "Jardins Dr. Pla i Armengol",
+		"hora": "13:00",
+		"mes": "SET.2025",
+		"textdia": "dimecres",
+		"dia": "24",
+		"ciutat": "",
+		"dateTime": "2025-09-24T13:00+02:00"
+	},	
+	{
+		"nom": "El PESCAILLA centenari",
+		"sala": "Av. de la Catedral",
+		"hora": "20:00",
+		"mes": "SET.2025",
+		"textdia": "dimecres",
+		"dia": "24",
+		"ciutat": "",
+		"dateTime": "2025-09-24T20:00+02:00"
+	},	
+	{
+		"nom": "Orquesta VOZES + LA MARIA",
+		"sala": "Plç. Major de Nou Barris,1",
+		"hora": "20:45",
+		"mes": "SET.2025",
+		"textdia": "dimecres",
+		"dia": "24",
+		"ciutat": "",
+		"dateTime": "2025-09-24T20:45+02:00"
+	},
+
+
+
+	{
+		"nom": "XAMFRÀ musica del Raval",
+		"sala": "Jardins Dr. Pla i Armengol",
+		"hora": "19:00",
+		"mes": "SET.2025",
+		"textdia": "dimecres",
+		"dia": "24",
+		"ciutat": "",
+		"dateTime": "2025-09-24T19:00+02:00"
+	},
+
+	{
 		"nom": "MUQAWAMA",
 		"sala": "Rambla del Raval",
 		"hora": "00:30",
@@ -671,6 +753,16 @@
 		"dateTime": "2025-09-24T17:00+02:00"
 	},
 	{
+		"nom": "SUU",
+		"sala": "Av. Maria Cristina",
+		"hora": "20:00",
+		"mes": "SET.2025",
+		"textdia": "divendres",
+		"dia": "26",
+		"ciutat": "",
+		"dateTime": "2025-09-26T20:00+02:00"
+	},
+	{
 		"nom": "Potser dimarts",
 		"sala": "Plç Catalunya",
 		"hora": "20:30",
@@ -681,6 +773,56 @@
 		"dateTime": "2025-09-26T20:30+02:00"
 	},
 	{
+		"nom": "ORQUESTRA I COR del Liceu",
+		"sala": "Plç. Major de Nou Barris,1",
+		"hora": "20:45",
+		"mes": "SET.2025",
+		"textdia": "divendres",
+		"dia": "26",
+		"ciutat": "",
+		"dateTime": "2025-09-26T20:45+02:00"
+	},
+	{
+		"nom": "MARIA MAZZOTA",
+		"sala": "Jardins Dr. Pla i Armengol",
+		"hora": "21:00",
+		"mes": "SET.2025",
+		"textdia": "divendres",
+		"dia": "26",
+		"ciutat": "",
+		"dateTime": "2025-09-26T21:00+02:00"
+	},
+	{
+		"nom": "AL CORAZÓN DE MARTA VALDÉS",
+		"sala": "Grec",
+		"hora": "21:00",
+		"mes": "SET.2025",
+		"textdia": "divendres",
+		"dia": "26",
+		"ciutat": "",
+		"dateTime": "2025-09-26T21:00+02:00"
+	},
+	{
+		"nom": "MUSHKA",
+		"sala": "Platja del Bogatell",
+		"hora": "21:00",
+		"mes": "SET.2025",
+		"textdia": "divendres",
+		"dia": "26",
+		"ciutat": "",
+		"dateTime": "2025-09-26T21:00+02:00"
+	},
+	{
+		"nom": "BUHOS",
+		"sala": "Av. Maria Cristina",
+		"hora": "21:15",
+		"mes": "SET.2025",
+		"textdia": "divendres",
+		"dia": "26",
+		"ciutat": "",
+		"dateTime": "2025-09-26T21:15+02:00"
+	},
+	{
 		"nom": "Samuel Nagati",
 		"sala": "Plç Catalunya",
 		"hora": "21:15",
@@ -689,6 +831,91 @@
 		"dia": "26",
 		"ciutat": "",
 		"dateTime": "2025-09-26T21:15+02:00"
+	},
+	{
+		"nom": "CHLOE SLATER",
+		"sala": "Av. de la Catedral",
+		"hora": "22:00",
+		"mes": "SET.2025",
+		"textdia": "divendres",
+		"dia": "26",
+		"ciutat": "",
+		"dateTime": "2025-09-26T22:00+02:00"
+	},
+	{
+		"nom": "GINESTA",
+		"sala": "Av. de la Catedral",
+		"hora": "22:35",
+		"mes": "SET.2025",
+		"textdia": "divendres",
+		"dia": "26",
+		"ciutat": "",
+		"dateTime": "2025-09-26T22:35+02:00"
+	},
+	{
+		"nom": "Rigoberta Bandini",
+		"sala": "Platja del Bogatell",
+		"hora": "23:00",
+		"mes": "SET.2025",
+		"textdia": "divendres",
+		"dia": "26",
+		"ciutat": "",
+		"dateTime": "2025-09-26T23:00+02:00"
+	},
+	{
+		"nom": "MYRIAM SWANSON",
+		"sala": "Jardins Dr. Pla i Armengol",
+		"hora": "23:15",
+		"mes": "SET.2025",
+		"textdia": "divendres",
+		"dia": "26",
+		"ciutat": "",
+		"dateTime": "2025-09-26T23:15+02:00"
+	},{
+		"nom": "BONGEZIWE MABANDLA",
+		"sala": "Teatre Grec",
+		"hora": "23:30",
+		"mes": "SET.2025",
+		"textdia": "divendres",
+		"dia": "26",
+		"ciutat": "",
+		"dateTime": "2025-09-26T23:30+02:00"
+	},{
+		"nom": "QUERALT LAHOZ & WERKHA",
+		"sala": "Av. de la Catedral",
+		"hora": "23:59",
+		"mes": "SET.2025",
+		"textdia": "divendres",
+		"dia": "26",
+		"ciutat": "",
+		"dateTime": "2025-09-26T23:59+02:00"
+	},{
+		"nom": "FIGA FLAWAS",
+		"sala": "Av. Maria Cristina",
+		"hora": "00:30",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T00:30+02:00"
+	},{
+		"nom": "LIA KALI",
+		"sala": "Platja del Bogatell",
+		"hora": "01:00",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T01:00+02:00"
+	},{
+		"nom": "TRIQUELL",
+		"sala": "Av. Maria Cristina",
+		"hora": "01:30",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T01:30+02:00"
 	},
 	{
 		"nom": "cabezadenego",
@@ -779,6 +1006,259 @@
 		"dia": "27",
 		"ciutat": "",
 		"dateTime": "2025-09-27T01:30+02:00"
+	},
+	{
+		"nom": "JAMMATION Big Band",
+		"sala": "Jardins Dr. Pla i Armengol",
+		"hora": "12:00",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T12:00+02:00"
+	},{
+		"nom": "Banda Simfònica Roquetes & co.",
+		"sala": "Plç. Major de Nou Barris,1",
+		"hora": "13:00",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T13:00+02:00"
+	},{
+		"nom": "JUAN ANDRÉS COSPINA & co ",
+		"sala": "Parc de la Ciutadella",
+		"hora": "13:00",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T13:00+02:00"
+	},{
+		"nom": "MARTA GARRETT",
+		"sala": "L'Harmonia ",
+		"hora": "17:00",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T17:00+02:00"
+	},{
+		"nom": "ÖLIVIAS",
+		"sala": "Fabra i Coats",
+		"hora": "17:50",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T17:50+02:00"
+	},{
+		"nom": "DAMARE!",
+		"sala": "Fabra i Coats",
+		"hora": "18:40",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T18:40+02:00"
+	},{
+		"nom": "SYD DEPALMA",
+		"sala": "Fabra i Coats",
+		"hora": "19:30",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T19:30+02:00"
+	},{
+		"nom": "ÖLIVIAS",
+		"sala": "Fabra i Coats",
+		"hora": "17:50",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T17:50+02:00"
+	},{
+		"nom": "MAMA DOUSHA",
+		"sala": "Platja del Bogatell",
+		"hora": "20:00",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T20:00+02:00"
+	},{
+		"nom": "INDAR",
+		"sala": "Fabra i Coats",
+		"hora": "20:20",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T20:20+02:00"
+	},{
+		"nom": "ORQUESTRA Simfònica de BCN",
+		"sala": "Plç. Major de Nou Barris,1",
+		"hora": "20:45",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T20:45+02:00"
+	},{
+		"nom": "CLASSE B",
+		"sala": "Av. Maria Cristina",
+		"hora": "21:00",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T21:00+02:00"
+	},{
+		"nom": "DOCTOR PRATS",
+		"sala": "Platja del Bogatell",
+		"hora": "21:05",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T21:05+02:00"
+	},{
+		"nom": "ANNA FERRER",
+		"sala": "Jardins Dr. Pla i Armengol",
+		"hora": "21:30",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T21:30+02:00"
+	},{
+		"nom": "BIGWÉ",
+		"sala": "Can Fabra",
+		"hora": "21:30",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T21:30+02:00"
+	},{
+		"nom": "MARIA ARNAL",
+		"sala": "Teatre Grec",
+		"hora": "22:00",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T22:00+02:00"
+	},{
+		"nom": "SIDONIE",
+		"sala": "Av. de la Catedral",
+		"hora": "22:00",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T22:00+02:00"
+	},{
+		"nom": "31 FAM",
+		"sala": "Av. Maria Cristina",
+		"hora": "22:15",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T22:15+02:00"
+	},{
+		"nom": "KOKOSCHCA",
+		"sala": "Parc de la Ciutadella",
+		"hora": "22:30",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T22:30+02:00"
+	},{
+		"nom": "CARMEN XÍA",
+		"sala": "Can Fabra",
+		"hora": "22:50",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T22:50+02:00"
+	},{
+		"nom": "MITO Y COMADRE",
+		"sala": "Jardins Dr. Pla i Armengol",
+		"hora": "23:15",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T22:15+02:00"
+	},{
+		"nom": "MARLENA",
+		"sala": "Av. Maria Cristina",
+		"hora": "23:45",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T23:45+02:00"
+	},{
+		"nom": "SEWARD",
+		"sala": "Av. de la Catedral",
+		"hora": "23:59",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T23:59+02:00"
+	},{
+		"nom": "Dj Set - MERCA BAE",
+		"sala": "Av. de la Catedral",
+		"hora": "23:59",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T23:59+02:00"
+	},{
+		"nom": "THELEE",
+		"sala": "Can Fabra",
+		"hora": "23:59",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T23:59+02:00"
+	},{
+		"nom": "THE TYETS",
+		"sala": "Platja del Bogatell",
+		"hora": "23:59",
+		"mes": "SET.2025",
+		"textdia": "dissabte",
+		"dia": "27",
+		"ciutat": "",
+		"dateTime": "2025-09-27T23:59+02:00"
+	},{
+		"nom": "LA LA LOVE YOU",
+		"sala": "Av. Maria Cristina",
+		"hora": "01:15",
+		"mes": "SET.2025",
+		"textdia": "diumenge",
+		"dia": "28",
+		"ciutat": "",
+		"dateTime": "2025-09-28T01:15+02:00"
+	},{
+		"nom": "VICCO",
+		"sala": "Platja del Bogatell",
+		"hora": "01:45",
+		"mes": "SET.2025",
+		"textdia": "diumenge",
+		"dia": "28",
+		"ciutat": "",
+		"dateTime": "2025-09-27T01:45+02:00"
 	},
 	{
 		"nom": "Ven'nus",
@@ -881,7 +1361,7 @@
 		"dateTime": "2025-09-27T23:30+02:00"
 	},
 	{
-		"nom": "DJ ALVILDA",
+		"nom": "ALVILDA",
 		"sala": "Plç Catalunya",
 		"hora": "23:59",
 		"mes": "SET.2025",
@@ -929,8 +1409,97 @@
 		"dia": "28",
 		"ciutat": "",
 		"dateTime": "2025-09-28T13:15+02:00"
-	},
-	{
+	},{
+		"nom": "ESMUC BAND",
+		"sala": "Jardins Dr. Pla i Armengol",
+		"hora": "12:00",
+		"mes": "SET.2025",
+		"textdia": "diumenge",
+		"dia": "28",
+		"ciutat": "",
+		"dateTime": "2025-09-28T12:00+02:00"
+	},{
+		"nom": "IKRAM ESSAGHIR",
+		"sala": "Can Fabra",
+		"hora": "13:00",
+		"mes": "SET.2025",
+		"textdia": "diumenge",
+		"dia": "28",
+		"ciutat": "",
+		"dateTime": "2025-09-28T13:00+02:00"
+	},{
+		"nom": "RIOGHNACH CONNOLLY & co",
+		"sala": "Parc de la Ciutadella",
+		"hora": "13:00",
+		"mes": "SET.2025",
+		"textdia": "diumenge",
+		"dia": "28",
+		"ciutat": "",
+		"dateTime": "2025-09-28T13:00+02:00"
+	},{
+		"nom": "LA OTRA RUMBA",
+		"sala": "Can Fabra",
+		"hora": "14:00",
+		"mes": "SET.2025",
+		"textdia": "diumenge",
+		"dia": "28",
+		"ciutat": "",
+		"dateTime": "2025-09-28T14:00+02:00"
+	},{
+		"nom": "PACO PECADO",
+		"sala": "Can Fabra",
+		"hora": "16:00",
+		"mes": "SET.2025",
+		"textdia": "diumenge",
+		"dia": "28",
+		"ciutat": "",
+		"dateTime": "2025-09-28T16:00+02:00"
+	},{
+		"nom": "ESMUC BAND",
+		"sala": "Jardins Dr. Pla i Armengol",
+		"hora": "12:00",
+		"mes": "SET.2025",
+		"textdia": "diumenge",
+		"dia": "28",
+		"ciutat": "",
+		"dateTime": "2025-09-28T12:00+02:00"
+	},{
+		"nom": "SONIDO SAN FRANCISCO",
+		"sala": "Can Fabra",
+		"hora": "17:30",
+		"mes": "SET.2025",
+		"textdia": "diumenge",
+		"dia": "28",
+		"ciutat": "",
+		"dateTime": "2025-09-28T17:30+02:00"
+	},{
+		"nom": "ALBÈRICAS",
+		"sala": "Plç Sant Jaume",
+		"hora": "19:30",
+		"mes": "SET.2025",
+		"textdia": "diumenge",
+		"dia": "28",
+		"ciutat": "",
+		"dateTime": "2025-09-28T19:30+02:00"
+	},{
+		"nom": "SEHAR GUL KHAN",
+		"sala": "Parc de la Ciutadella",
+		"hora": "19:30",
+		"mes": "SET.2025",
+		"textdia": "diumenge",
+		"dia": "28",
+		"ciutat": "",
+		"dateTime": "2025-09-28T19:30+02:00"
+	},{
+		"nom": "HAVANERES",
+		"sala": "Plç Sant Jaume",
+		"hora": "21:30",
+		"mes": "SET.2025",
+		"textdia": "diumenge",
+		"dia": "28",
+		"ciutat": "",
+		"dateTime": "2025-09-28T21:30+02:00"
+	},{
 		"nom": "POLYGLOT SOUND SYSTEM",
 		"sala": "Antiga Fàbrica Damm",
 		"hora": "14:15",
