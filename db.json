@@ -1,6 +1,245 @@
 {
 "concerts": [
 	{
+		"nom": "EARTHELL + (heavy Trip)",
+		"sala": "upload",
+		"hora": "19:30",
+		"mes": "AGO.2025",
+		"dia": "05",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-08-05T19:30+02:00"
+	},
+	{
+		"nom": "IGNEA + (Ancient Settlers)",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "AGO.2025",
+		"dia": "27",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-08-27T20:00+02:00"
+	},
+	{
+		"nom": "THE NEW CRIST + (La Secta)",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "SET.2025",
+		"dia": "02",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-09-02T20:00+02:00"
+	},
+	{
+		"nom": "MEATBODIES",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "SET.2025",
+		"dia": "03",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-09-03T20:00+02:00"
+	},
+	{
+		"nom": "HENGE",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "SET.2025",
+		"dia": "09",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-09-09T20:00+02:00"
+	},
+	{
+		"nom": "C.O.F.F.I.N (GAMBEAT)",
+		"sala": "upload",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "13",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-13T11:00+02:00"
+	},
+	{
+		"nom": "L.A.Witch (GAMBEAT)",
+		"sala": "upload",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "13",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-13T12:00+02:00"
+	},
+	{
+		"nom": "Crocodiles (GAMBEAT)",
+		"sala": "upload",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "13",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-13T13:00+02:00"
+	},
+	{
+		"nom": " Error97 (GAMBEAT)",
+		"sala": "upload",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "13",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-13T14:00+02:00"
+	},
+	{
+		"nom": "Aurora Roja (GAMBEAT)",
+		"sala": "upload",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "13",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-13T15:00+02:00"
+	},
+	{
+		"nom": "LEIF VOLLEBEKK",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "SET.2025",
+		"dia": "20",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-20T20:00+02:00"
+	},
+	{
+		"nom": "HAYDEN PEDIGO",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "SET.2025",
+		"dia": "22",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-09-22T20:00+02:00"
+	},{
+		"nom": "JODIE CASH + SERGI ESTELLA",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "SET.2025",
+		"dia": "27",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-09-27T20:00+02:00"
+	},
+	{
+		"nom": "KO SHIN MOON",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "SET.2025",
+		"dia": "28",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-09-28T20:00+02:00"
+	},
+	{
+		"nom": "JONNY KAPLAN",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "OCT.2025",
+		"dia": "02",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-10-02T20:00+02:00"
+	},
+	{
+		"nom": "THE MORLOCKS",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "OCT.2025",
+		"dia": "07",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-10-07T20:00+02:00"
+	},
+	{
+		"nom": "EMMA-JEAN THACKRAY",
+		"sala": "upload",
+		"hora": "21:00",
+		"mes": "OCT.2025",
+		"dia": "08",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-10-08T20:00+02:00"
+	},
+	{
+		"nom": "TRAMHAUS",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "OCT.2025",
+		"dia": "11",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-10-11T20:00+02:00"
+	},
+	{
+		"nom": "ROULETTE + HORA LÍMITE",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "OCT.2025",
+		"dia": "15",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-10-15T20:00+02:00"
+	},
+	{
+		"nom": "RAMBALAYA",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "OCT.2025",
+		"dia": "18",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-10-18T20:45+02:00"
+	},
+	{
+		"nom": "LA LUZ + THE MIFFS",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "OCT.2025",
+		"dia": "21",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-10-21T20:45+02:00"
+	},
+	{
+		"nom": "OVAL: WILLIAM LEWIS",
+		"sala": "upload",
+		"hora": "20:00",
+		"mes": "OCT.2025",
+		"dia": "24",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-10-24T20:30+02:00"
+	},
+	{
+		"nom": "VULVARINE",
+		"sala": "upload",
+		"hora": "19:30",
+		"mes": "OCT.2025",
+		"dia": "28",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-10-28T20:30+02:00"
+	},
+	{
+		"nom": "CASTLE RAT",
+		"sala": "upload",
+		"hora": "19:00",
+		"mes": "OCT.2025",
+		"dia": "30",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-10-30T20:30+02:00"
+	},
+	{
 		"nom": "Companyia Les Solidaries",
 		"sala": "Rambla del Raval",
 		"hora": "21:30",
