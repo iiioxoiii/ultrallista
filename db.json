@@ -1,6 +1,187 @@
 {
 "concerts": [
 	{
+		"nom": "PERMALOVE ",
+		"sala": "estraperlo",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "05",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-09-05T19:30+02:00"
+	},{
+		"nom": "SPITFIRE SCREAM",
+		"sala": "Estraperlo",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "12",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-09-12T19:30+02:00"
+	},{
+		"nom": "THE HOLY SINNERS",
+		"sala": "Estraperlo",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "12",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-09-12T19:31+02:00"
+	},{
+		"nom": "THE VIL VEINS",
+		"sala": "Estraperlo",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "12",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-09-12T19:32+02:00"
+	},{
+		"nom": "DINOSAURIO",
+		"sala": "Estraperlo",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "12",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-09-12T19:33+02:00"
+	},{
+		"nom": "WE ARE MONO",
+		"sala": "Estraperlo",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "13",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-13T19:30+02:00"
+	},{
+		"nom": "WUOLJA",
+		"sala": "Estraperlo",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "13",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-13T19:31+02:00"
+	},{
+		"nom": "ERRANDS",
+		"sala": "Estraperlo",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "13",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-13T19:31+02:00"
+	},{
+		"nom": "SAVVA",
+		"sala": "Estraperlo",
+		"hora": "??:??",
+		"mes": "SET.2025",
+		"dia": "13",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-13T19:32+02:00"
+	},{
+		"nom": "WET CACTUS + LITURGIA",
+		"sala": "estraperlo",
+		"hora": "19:30",
+		"mes": "SET.2025",
+		"dia": "14",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-09-14T19:30+02:00"
+	},{
+		"nom": "ENEMY INSIDE",
+		"sala": "estraperlo",
+		"hora": "20:00",
+		"mes": "SET.2025",
+		"dia": "14",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-09-14T20:00+02:00"
+	},{
+		"nom": "PUTAN CLUB + CEFALO ZERO",
+		"sala": "Estraperlo",
+		"hora": "22:00",
+		"mes": "SET.2025",
+		"dia": "19",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-09-19T22:00+02:00"
+	},{
+		"nom": "SISTER COOKIE + DOC & MADS",
+		"sala": "estraperlo",
+		"hora": "21:30",
+		"mes": "SET.2025",
+		"dia": "27",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-09-14T22:00+02:00"
+	},{
+		"nom": "CAPSULA + LIZARD AND LAGARTIJOS",
+		"sala": "estraperlo",
+		"hora": "20:30",
+		"mes": "OCT.2025",
+		"dia": "09",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-10-09T20:30+02:00"
+	},{
+		"nom": "QUIMI PORTET",
+		"sala": "Estraperlo",
+		"hora": "21:30",
+		"mes": "OCT.2025",
+		"dia": "09",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-10-09T21:30+02:00"
+	},{
+		"nom": "ARTILLERY + VINODIUM + APOTRONAICO",
+		"sala": "estraperlo",
+		"hora": "19:30",
+		"mes": "OCT.2025",
+		"dia": "29",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-10-29T19:30+02:00"
+	},{
+		"nom": "MARC RIBOT",
+		"sala": "Estraperlo",
+		"hora": "20:30",
+		"mes": "OCT.2025",
+		"dia": "31",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-10-31T20:30+02:00"
+	},{
+		"nom": "BOB MOULT",
+		"sala": "estraperlo",
+		"hora": "21:00",
+		"mes": "NOV.2025",
+		"dia": "31",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-11-31T21:00+02:00"
+	},{
+		"nom": "MALDITO METAL FEST",
+		"sala": "estraperlo",
+		"hora": "??:??",
+		"mes": "NOV.2025",
+		"dia": "14",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-11-14T20:00+02:00"
+	},{
+		"nom": "MALDITO METAL FEST",
+		"sala": "estraperlo",
+		"hora": "??:??",
+		"mes": "NOV.2025",
+		"dia": "15",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-11-15T20:00+02:00"
+	},
+	{
 		"nom": "EARTHELL + HEAVY TRIP",
 		"sala": "upload",
 		"hora": "19:30",
