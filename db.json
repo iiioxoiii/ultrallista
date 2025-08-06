@@ -59,17 +59,47 @@
 		"textdia": "dijous",
 		"ciutat": "",
 		"dateTime": "2025-09-21T22:00+02:00"
-	},
-	{
-		"nom": "PERMALOVE ",
-		"sala": "estraperlo",
-		"hora": "??:??",
+	},{
+		"nom": "Karölinox",
+		"sala": "C. Pellaires",
+		"hora": "20:00",
 		"mes": "SET.2025",
 		"dia": "05",
-		"textdia": "divendres",
+		"textdia": "dissabte",
 		"ciutat": "",
-		"dateTime": "2025-09-05T19:30+02:00"
-	},{
+		"dateTime": "2025-09-05T20:00+02:00"
+	},
+	{
+		"nom": "Smoke Machine",
+		"sala": "C. Pellaires",
+		"hora": "21:00",
+		"mes": "SET.2025",
+		"dia": "05",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-05T21:00+02:00"
+	},
+	{
+		"nom": "Tribut G&R",
+		"sala": "C. Pellaires",
+		"hora": "22:00",
+		"mes": "SET.2025",
+		"dia": "05",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-05T22:00+02:00"
+	},
+	{
+		"nom": "Bandes Joves",
+		"sala": "C. Pellaires",
+		"hora": "19:00",
+		"mes": "SET.2025",
+		"dia": "13",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-13T19:00+02:00"
+	},
+	{
 		"nom": "PERMALOVE ",
 		"sala": "estraperlo",
 		"hora": "??:??",
