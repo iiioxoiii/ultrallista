@@ -1,6 +1,66 @@
 {
 "concerts": [
 	{
+		"nom": "ZOZOBRA",
+		"sala": "Carrer Perill (Gràcia)",
+		"hora": "22:00",
+		"mes": "AGO.2025",
+		"dia": "15",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-09-15T22:00+02:00"
+	},
+	{
+		"nom": "RÜCKKÔPRAX",
+		"sala": "Carrer Perill (Gràcia)",
+		"hora": "22:00",
+		"mes": "AGO.2025",
+		"dia": "16",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-16T22:00+02:00"
+	},
+	{
+		"nom": "TREEBARK",
+		"sala": "Carrer Perill (Gràcia)",
+		"hora": "22:00",
+		"mes": "AGO.2025",
+		"dia": "17",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-09-17T22:00+02:00"
+	},
+	{
+		"nom": "ALE><ANDRA",
+		"sala": "Carrer Perill (Gràcia)",
+		"hora": "22:00",
+		"mes": "AGO.2025",
+		"dia": "19",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-09-19T22:00+02:00"
+	},
+	{
+		"nom": "LAURA LEINER",
+		"sala": "Carrer Perill (Gràcia)",
+		"hora": "22:00",
+		"mes": "AGO.2025",
+		"dia": "20",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-09-20T22:00+02:00"
+	},
+	{
+		"nom": "ESPINOZA ESPINOZA",
+		"sala": "Carrer Perill (Gràcia)",
+		"hora": "22:00",
+		"mes": "AGO.2025",
+		"dia": "21",
+		"textdia": "dijous",
+		"ciutat": "",
+		"dateTime": "2025-09-21T22:00+02:00"
+	},
+	{
 		"nom": "PERMALOVE ",
 		"sala": "estraperlo",
 		"hora": "??:??",
