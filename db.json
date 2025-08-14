@@ -11,6 +11,86 @@
 		"dateTime": "2025-09-07T19:00+02:00"
 	},
 	{
+		"nom": "LIMA NEGRA",
+		"sala": "La Sedeta",
+		"hora": "20:00",
+		"mes": "AGO.2025",
+		"dia": "15",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-08-15T20:00+02:00"
+	},
+	{
+		"nom": "ME AND THE BEES",
+		"sala": "La Sedeta",
+		"hora": "21:00",
+		"mes": "AGO.2025",
+		"dia": "15",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-08-15T21:00+02:00"
+	},
+	{
+		"nom": "CIUTAT",
+		"sala": "La Sedeta",
+		"hora": "22:00",
+		"mes": "AGO.2025",
+		"dia": "15",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-08-15T22:00+02:00"
+	},
+	{
+		"nom": "HADREN",
+		"sala": "La Sedeta",
+		"hora": "23:20",
+		"mes": "AGO.2025",
+		"dia": "15",
+		"textdia": "divendres",
+		"ciutat": "",
+		"dateTime": "2025-08-15T23:20+02:00"
+	},
+	{
+		"nom": "MAIG",
+		"sala": "La Sedeta",
+		"hora": "20:00",
+		"mes": "AGO.2025",
+		"dia": "16",
+		"textdia": "disssbte",
+		"ciutat": "",
+		"dateTime": "2025-08-16T20:00+02:00"
+	},
+	{
+		"nom": "KILLIN'CACTUZ",
+		"sala": "La Sedeta",
+		"hora": "21:10",
+		"mes": "AGO.2025",
+		"dia": "16",
+		"textdia": "disssbte",
+		"ciutat": "",
+		"dateTime": "2025-08-16T21:10+02:00"
+	},
+	{
+		"nom": "CASERO",
+		"sala": "La Sedeta",
+		"hora": "22:10",
+		"mes": "AGO.2025",
+		"dia": "16",
+		"textdia": "disssbte",
+		"ciutat": "",
+		"dateTime": "2025-08-16T22:10+02:00"
+	},
+	{
+		"nom": "CORTE!",
+		"sala": "La Sedeta",
+		"hora": "23:20",
+		"mes": "AGO.2025",
+		"dia": "16",
+		"textdia": "disssbte",
+		"ciutat": "",
+		"dateTime": "2025-08-16T23:20+02:00"
+	},
+	{
 		"nom": "ZOZOBRA",
 		"sala": "Carrer Perill (Gràcia)",
 		"hora": "22:00",
