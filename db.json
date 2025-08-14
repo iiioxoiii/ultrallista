@@ -1,6 +1,16 @@
 {
 "concerts": [
 	{
+		"nom": "Inesperat",
+		"sala": "Sant Quirze del Vallés ",
+		"hora": "19:00",
+		"mes": "SET.2025",
+		"dia": "7",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-09-07T19:00+02:00"
+	},
+	{
 		"nom": "ZOZOBRA",
 		"sala": "Carrer Perill (Gràcia)",
 		"hora": "22:00",
