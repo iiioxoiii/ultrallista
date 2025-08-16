@@ -149,7 +149,149 @@
 		"textdia": "dijous",
 		"ciutat": "",
 		"dateTime": "2025-09-21T22:00+02:00"
+	},
+	
+	
+	{
+		"nom": "ROBA ESTESA",
+		"sala": "Parc de l'Espanya Ind.",
+		"hora": "22:30",
+		"mes": "AGO.2025",
+		"dia": "26",
+		"textdia": "dimarts",
+		"ciutat": "",
+		"dateTime": "2025-08-26T22:30+02:00"
+	},
+	{
+		"nom": "JOAN VILALTA & co",
+		"sala": "Plç. Bonet Muixí",
+		"hora": "12:30",
+		"mes": "AGO.2025",
+		"dia": "30",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-08-30T12:30+02:00"
+	},
+	{
+		"nom": "Banda Municipal BCN",
+		"sala": "Plç. Espanya Ind.",
+		"hora": "18:30",
+		"mes": "SET.2025",
+		"dia": "6",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-09-06T18:30+02:00"
+	},
+	{
+		"nom": "AWA PA LOS CALVOS",
+		"sala": "Plç. Espanya Ind.",
+		"hora": "22:00",
+		"mes": "AGO.2025",
+		"dia": "30",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-08-30T22:00+02:00"
 	},{
+		"nom": "CARMEN XIA",
+		"sala": "Plç. Espanya Ind.",
+		"hora": "23:00",
+		"mes": "AGO.2025",
+		"dia": "30",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-08-30T23:00+02:00"
+	},{
+		"nom": "CALDO",
+		"sala": "Plç. Joan Pelegrí",
+		"hora": "22:00",
+		"mes": "AGO.2025",
+		"dia": "23",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-08-23T22:00+02:00"
+	},{
+		"nom": "ALBERT",
+		"sala": "Plç. Joan Pelegrí",
+		"hora": "23:00",
+		"mes": "AGO.2025",
+		"dia": "23",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-08-23T23:00+02:00"
+	},{
+		"nom": "KORÉ",
+		"sala": "Plç. Joan Pelegrí",
+		"hora": "22:00",
+		"mes": "AGO.2025",
+		"dia": "27",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-08-27T22:00+02:00"
+	},{
+		"nom": "PENCA",
+		"sala": "Plç. Joan Pelegrí",
+		"hora": "23:15",
+		"mes": "AGO.2025",
+		"dia": "27",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-08-27T23:15+02:00"
+	},{
+		"nom": "MALAKIAS MX3",
+		"sala": "Plç. Joan Pelegrí",
+		"hora": "00:30",
+		"mes": "AGO.2025",
+		"dia": "28",
+		"textdia": "diumenge",
+		"ciutat": "",
+		"dateTime": "2025-08-28T00:30+02:00"
+	},{
+		"nom": "GLORIA RIBERA",
+		"sala": "C. Tinent Flomesta",
+		"hora": "23:00",
+		"mes": "AGO.2025",
+		"dia": "25",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-08-25T23:00+02:00"
+	},{
+		"nom": "CHANDALFLUOR",
+		"sala": "C. Tinent Flomesta",
+		"hora": "23:59",
+		"mes": "AGO.2025",
+		"dia": "25",
+		"textdia": "dilluns",
+		"ciutat": "",
+		"dateTime": "2025-08-25T23:59+02:00"
+	},{
+		"nom": "TIFUS",
+		"sala": "C. Tinent Flomesta",
+		"hora": "22:00",
+		"mes": "AGO.2025",
+		"dia": "27",
+		"textdia": "dimecres",
+		"ciutat": "",
+		"dateTime": "2025-08-27T22:00+02:00"
+	},{
+		"nom": "DON'T HIT LA NEGRA",
+		"sala": "Can Vies",
+		"hora": "23:00",
+		"mes": "AGO.2025",
+		"dia": "23",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-08-23T23:00+02:00"
+	},{
+		"nom": "PERLA NEGRA",
+		"sala": "Can Vies",
+		"hora": "23:59",
+		"mes": "AGO.2025",
+		"dia": "23",
+		"textdia": "dissabte",
+		"ciutat": "",
+		"dateTime": "2025-08-23T23:59+02:00"
+	},
+	{
 		"nom": "Karölinox",
 		"sala": "C. Pellaires",
 		"hora": "20:00",
