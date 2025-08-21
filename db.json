@@ -1,6 +1,126 @@
 {
 "concerts": [
     {
+        "nom": "FESTES DE SANTS: LaBulla",
+        "sala": "La Deskomunal",
+        "hora": "01:00",
+        "mes": "AGO.2025",
+        "dia": "24",
+        "textdia": "dissabte",
+        "ciutat": "",
+        "dateTime": "2025-08-24T01:00+02:00"
+    },
+    {
+        "nom": "FESTES DE SANTS: FricanDones",
+        "sala": "La Deskomunal",
+        "hora": "01:00",
+        "mes": "AGO.2025",
+        "dia": "29",
+        "textdia": "dijous",
+        "ciutat": "",
+        "dateTime": "2025-08-29T01:00+02:00"
+    },
+    {
+        "nom": "FESTES DE SANTS: EL SONIDO DE VELDÁ",
+        "sala": "La Deskomunal",
+        "hora": "01:00",
+        "mes": "AGO.2025",
+        "dia": "30",
+        "textdia": "divendres",
+        "ciutat": "",
+        "dateTime": "2025-08-30T01:00+02:00"
+    },
+    {
+        "nom": "FESTES DE SANTS: DISKOMUNAL",
+        "sala": "La Deskomunal",
+        "hora": "01:00",
+        "mes": "AGO.2025",
+        "dia": "31",
+        "textdia": "dissabte",
+        "ciutat": "",
+        "dateTime": "2025-08-31T01:00+02:00"
+    },
+    {
+        "nom": "LOS FASTIDIOS + AT-ASKO",
+        "sala": "La Deskomunal",
+        "hora": "20:30",
+        "mes": "SET.2025",
+        "dia": "5",
+        "textdia": "dijous",
+        "ciutat": "",
+        "dateTime": "2025-09-05T20:30+02:00"
+    },
+    {
+        "nom": "MONTFLORIT + QUINCALLA + DERBI JUNIOR",
+        "sala": "La Deskomunal",
+        "hora": "20:15",
+        "mes": "SET.2025",
+        "dia": "6",
+        "textdia": "divendres",
+        "ciutat": "",
+        "dateTime": "2025-09-06T20:15+02:00"
+    },
+    {
+        "nom": "PEER PRESURE + MALA HOSTIA + MICRMINDS",
+        "sala": "La Deskomunal",
+        "hora": "20:00",
+        "mes": "SET.2025",
+        "dia": "9",
+        "textdia": "dilluns",
+        "ciutat": "",
+        "dateTime": "2025-09-09T20:00+02:00"
+    },
+    {
+        "nom": "HARD SKIN + TEMPESTA",
+        "sala": "La Deskomunal",
+        "hora": "20:30",
+        "mes": "SET.2025",
+        "dia": "12",
+        "textdia": "dijous",
+        "ciutat": "",
+        "dateTime": "2025-09-12T20:30+02:00"
+    },
+    {
+        "nom": "SEXORES + HALLOWS + DRAFTCOLLECTOR",
+        "sala": "La Deskomunal",
+        "hora": "20:00",
+        "mes": "SET.2025",
+        "dia": "22",
+        "textdia": "diumenge",
+        "ciutat": "",
+        "dateTime": "2025-09-22T20:00+02:00"
+    },
+    {
+        "nom": "EDDIE + JANE DOE",
+        "sala": "La Deskomunal",
+        "hora": "20:00",
+        "mes": "SET.2025",
+        "dia": "23",
+        "textdia": "dilluns",
+        "ciutat": "",
+        "dateTime": "2025-09-23T20:00+02:00"
+    },
+    {
+        "nom": "US RAILS (ROOTSOUND FEST)",
+        "sala": "La Deskomunal",
+        "hora": "20:30",
+        "mes": "NOV.2025",
+        "dia": "6",
+        "textdia": "dimecres",
+        "ciutat": "",
+        "dateTime": "2025-11-06T20:30+02:00"
+    },
+    {
+        "nom": "THE SPOILED + DARKWAYS + SERCH. + LOW BLOWS",
+        "sala": "La Deskomunal",
+        "hora": "20:00",
+        "mes": "NOV.2025",
+        "dia": "15",
+        "textdia": "divendres",
+        "ciutat": "",
+        "dateTime": "2025-11-15T20:00+02:00"
+    },
+    {
       "nom": "Bis Festival! SIN BRAGAS + PRIMER INFANT",
       "sala": "Almo2bar",
       "hora": "21:00",
