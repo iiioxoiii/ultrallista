@@ -1,7 +1,7 @@
 {
 "concerts": [
     {
-        "nom": "FESTES DE SANTS: LaBulla",
+        "nom": "LaBulla",
         "sala": "La Deskomunal",
         "hora": "01:00",
         "mes": "AGO.2025",
@@ -11,7 +11,7 @@
         "dateTime": "2025-08-24T01:00+02:00"
     },
     {
-        "nom": "FESTES DE SANTS: FricanDones",
+        "nom": "FricanDones",
         "sala": "La Deskomunal",
         "hora": "01:00",
         "mes": "AGO.2025",
@@ -21,7 +21,7 @@
         "dateTime": "2025-08-29T01:00+02:00"
     },
     {
-        "nom": "FESTES DE SANTS: EL SONIDO DE VELDÁ",
+        "nom": "FEL SONIDO DE VELDÁ",
         "sala": "La Deskomunal",
         "hora": "01:00",
         "mes": "AGO.2025",
@@ -31,7 +31,7 @@
         "dateTime": "2025-08-30T01:00+02:00"
     },
     {
-        "nom": "FESTES DE SANTS: DISKOMUNAL",
+        "nom": "DISKOMUNAL",
         "sala": "La Deskomunal",
         "hora": "01:00",
         "mes": "AGO.2025",
