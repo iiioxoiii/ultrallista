@@ -1,6 +1,1026 @@
 {
 "concerts": [
     {
+            "nom": "Tropical Fuck Storm",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
+            "mes": "AGO.2025",
+            "dia": "28",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-08-28T19:30+02:00"
+        },
+        {
+            "nom": "Son Rompe Pera",
+            "sala": "Apolo[2]",
+            "hora": "20:30",
+            "mes": "SET.2025",
+            "dia": "2",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-09-02T20:30+02:00"
+        },
+        {
+            "nom": "Neo Pistea",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "4",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-09-04T20:00+02:00"
+        },
+        {
+            "nom": "Silvestre y La Naranja",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "5",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-05T20:00+02:00"
+        },
+        {
+            "nom": "Canelita",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "6",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-06T20:00+02:00"
+        },
+        {
+            "nom": "20è Aniversari àlbum Clap Your Hands Say Yeah",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "10",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-09-10T20:00+02:00"
+        },
+        {
+            "nom": "Bersuit",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "10",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-09-10T20:00+02:00"
+        },
+        {
+            "nom": "Caloncho",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "11",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-09-11T20:00+02:00"
+        },
+        {
+            "nom": "José Madero + La Gusana Ciega",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "11",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-09-11T20:00+02:00"
+        },
+        {
+            "nom": "Gilsons",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "SET.2025",
+            "dia": "12",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-12T19:30+02:00"
+        },
+        {
+            "nom": "Dubioza Kolektiv",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "SET.2025",
+            "dia": "13",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-13T19:30+02:00"
+        },
+        {
+            "nom": "Barcelona Jazz Orquestra",
+            "sala": "Apolo[1]",
+            "hora": "11:00",
+            "mes": "SET.2025",
+            "dia": "14",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-09-14T11:00+02:00"
+        },
+        {
+            "nom": "BaianaSystem",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "16",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-09-16T20:00+02:00"
+        },
+        {
+            "nom": "Wilfrido Vargas",
+            "sala": "Apolo[2]",
+            "hora": "19:00",
+            "mes": "SET.2025",
+            "dia": "19",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-19T19:00+02:00"
+        },
+        {
+            "nom": "Interactivo de Cuba",
+            "sala": "Apolo[2]",
+            "hora": "19:00",
+            "mes": "SET.2025",
+            "dia": "20",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-20T19:00+02:00"
+        },
+        {
+            "nom": "HVOB - The Silver Cage",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "SET.2025",
+            "dia": "20",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-20T19:00+02:00"
+        },
+        {
+            "nom": "Dope Lemon",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "SET.2025",
+            "dia": "23",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-09-23T19:00+02:00"
+        },
+        {
+            "nom": "The Lemonheads",
+            "sala": "Apolo[2]",
+            "hora": "19:00",
+            "mes": "SET.2025",
+            "dia": "26",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-26T19:00+02:00"
+        },
+        {
+            "nom": "Shrek Rave",
+            "sala": "Apolo[1]",
+            "hora": "17:00",
+            "mes": "SET.2025",
+            "dia": "27",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-27T17:00+02:00"
+        },
+        {
+            "nom": "Alfa",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "SET.2025",
+            "dia": "30",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-09-30T19:30+02:00"
+        },
+        {
+            "nom": "Kevin Johansen y Liniers",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "OCT.2025",
+            "dia": "1",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-01T19:30+02:00"
+        },
+        {
+            "nom": "Nova Twins",
+            "sala": "Apolo[2]",
+            "hora": "19:00",
+            "mes": "OCT.2025",
+            "dia": "3",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-03T19:00+02:00"
+        },
+        {
+            "nom": "The Midnight",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "3",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-03T20:00+02:00"
+        },
+        {
+            "nom": "Igorrr",
+            "sala": "Apolo[1]",
+            "hora": "18:00",
+            "mes": "OCT.2025",
+            "dia": "4",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-04T18:00+02:00"
+        },
+        {
+            "nom": "Coheed & Cambria",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "OCT.2025",
+            "dia": "8",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-08T19:00+02:00"
+        },
+        {
+            "nom": "The Pharcyde",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
+            "mes": "OCT.2025",
+            "dia": "8",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-08T19:30+02:00"
+        },
+        {
+            "nom": "Satori",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "OCT.2025",
+            "dia": "9",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-09T19:00+02:00"
+        },
+        {
+            "nom": "Alcest",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "OCT.2025",
+            "dia": "10",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-10T19:00+02:00"
+        },
+        {
+            "nom": "Mazoni",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
+            "mes": "OCT.2025",
+            "dia": "11",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-11T19:30+02:00"
+        },
+        {
+            "nom": "Ledisi",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "14",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-10-14T20:00+02:00"
+        },
+        {
+            "nom": "Tarquim y Los Metales Preciosos",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "15",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-15T20:00+02:00"
+        },
+        {
+            "nom": "Freedonia",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "16",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-16T20:00+02:00"
+        },
+        {
+            "nom": "Carla Collado",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
+            "mes": "OCT.2025",
+            "dia": "17",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-17T19:30+02:00"
+        },
+        {
+            "nom": "Miqui Puig Canciones ©",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "17",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-17T20:00+02:00"
+        },
+        {
+            "nom": "Familia de Leyendas",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "18",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-18T20:00+02:00"
+        },
+        {
+            "nom": "Lacuna Coil",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "OCT.2025",
+            "dia": "20",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-10-20T19:00+02:00"
+        },
+        {
+            "nom": "The Darkness",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "OCT.2025",
+            "dia": "21",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-10-21T19:00+02:00"
+        },
+        {
+            "nom": "The 5.6.7.8's",
+            "sala": "Apolo[2]",
+            "hora": "19:00",
+            "mes": "OCT.2025",
+            "dia": "21",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-10-21T19:00+02:00"
+        },
+        {
+            "nom": "Oscar and the Wolf",
+            "sala": "Apolo[2]",
+            "hora": "19:00",
+            "mes": "OCT.2025",
+            "dia": "22",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-22T19:00+02:00"
+        },
+        {
+            "nom": "Bar Italia",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
+            "mes": "OCT.2025",
+            "dia": "23",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-23T19:30+02:00"
+        },
+        {
+            "nom": "Kerala Dust",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "OCT.2025",
+            "dia": "23",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-23T19:30+02:00"
+        },
+        {
+            "nom": "La Cabra Mecánica",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "OCT.2025",
+            "dia": "24",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-24T19:30+02:00"
+        },
+        {
+            "nom": "Lisandro Aristimuño",
+            "sala": "Apolo[2]",
+            "hora": "20:30",
+            "mes": "OCT.2025",
+            "dia": "27",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-10-27T20:30+02:00"
+        },
+        {
+            "nom": "Shing02 & Spin Master A-1 Luv(Sic) Hexalogy",
+            "sala": "Apolo[2]",
+            "hora": "19:45",
+            "mes": "OCT.2025",
+            "dia": "28",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-10-28T19:45+02:00"
+        },
+        {
+            "nom": "Battle Beast + Dominum + Majestica",
+            "sala": "Apolo[1]",
+            "hora": "18:30",
+            "mes": "OCT.2025",
+            "dia": "29",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-29T18:30+02:00"
+        },
+        {
+            "nom": "Delvon Lamarr Organ Trio",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "31",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-31T20:00+02:00"
+        },
+        {
+            "nom": "Mr. Kilombo",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "NOV.2025",
+            "dia": "1",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-01T19:30+02:00"
+        },
+        {
+            "nom": "Bilal",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "4",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-11-04T20:00+02:00"
+        },
+        {
+            "nom": "Leprous + Gåte + Royal Sorrow",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "NOV.2025",
+            "dia": "5",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-11-05T19:00+02:00"
+        },
+        {
+            "nom": "IOSONOUNCANE & Daniela Pes",
+            "sala": "Apolo[2]",
+            "hora": "19:00",
+            "mes": "NOV.2025",
+            "dia": "6",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-06T19:00+02:00"
+        },
+        {
+            "nom": "Los Sirex",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "7",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-07T20:00+02:00"
+        },
+        {
+            "nom": "Ángeles Toledano",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "8",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-08T20:00+02:00"
+        },
+        {
+            "nom": "Dante Spinetta",
+            "sala": "Apolo[2]",
+            "hora": "19:15",
+            "mes": "NOV.2025",
+            "dia": "10",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-11-10T19:15+02:00"
+        },
+        {
+            "nom": "The Psychedelic Furs",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "NOV.2025",
+            "dia": "13",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-13T19:00+02:00"
+        },
+        {
+            "nom": "Sol Lagarto",
+            "sala": "Apolo[2]",
+            "hora": "19:45",
+            "mes": "NOV.2025",
+            "dia": "13",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-13T19:45+02:00"
+        },
+        {
+            "nom": "Carlos Ares",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "15",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-15T20:00+02:00"
+        },
+        {
+            "nom": "Monobloco",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "18",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-11-18T20:00+02:00"
+        },
+        {
+            "nom": "Martinho da Vila",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "NOV.2025",
+            "dia": "19",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-11-19T19:30+02:00"
+        },
+        {
+            "nom": "Cruïlla Tardor 2025 | Maria Hein",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "20",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-20T20:00+02:00"
+        },
+        {
+            "nom": "Morochos",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "NOV.2025",
+            "dia": "21",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-21T19:00+02:00"
+        },
+        {
+            "nom": "El Jose",
+            "sala": "Apolo[2]",
+            "hora": "19:15",
+            "mes": "NOV.2025",
+            "dia": "21",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-21T19:15+02:00"
+        },
+        {
+            "nom": "No Way Out",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "NOV.2025",
+            "dia": "22",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-22T19:30+02:00"
+        },
+        {
+            "nom": "Manuel Cortés",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "22",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-22T20:00+02:00"
+        },
+        {
+            "nom": "Tommy Cash",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
+            "mes": "NOV.2025",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-11-26T19:30+02:00"
+        },
+        {
+            "nom": "Thylacine",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "NOV.2025",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-27T19:00+02:00"
+        },
+        {
+            "nom": "Gilipojazz",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
+            "mes": "NOV.2025",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-27T19:30+02:00"
+        },
+        {
+            "nom": "La Vida Bohème",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "28",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-28T20:00+02:00"
+        },
+        {
+            "nom": "Hanabie",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
+            "mes": "NOV.2025",
+            "dia": "29",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-29T19:30+02:00"
+        },
+        {
+            "nom": "Hang Massive",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "29",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-29T20:00+02:00"
+        },
+        {
+            "nom": "Ocie Elliott",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "DES.2025",
+            "dia": "4",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-12-04T20:00+02:00"
+        },
+        {
+            "nom": "Brunori Sas",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "DES.2025",
+            "dia": "5",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-12-05T19:30+02:00"
+        },
+        {
+            "nom": "he Kiffness",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "DES.2025",
+            "dia": "6",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-12-06T19:30+02:00"
+        },
+        {
+            "nom": "Maruja",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "DES.2025",
+            "dia": "6",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-12-06T20:00+02:00"
+        },
+        {
+            "nom": "Fetus i Les Testarudes",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
+            "mes": "DES.2025",
+            "dia": "11",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-12-11T19:30+02:00"
+        },
+        {
+            "nom": "Nitzer Ebb + DIE SELEKTION",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "DES.2025",
+            "dia": "12",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-12-12T19:30+02:00"
+        },
+        {
+            "nom": "O'funk'illo",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "DES.2025",
+            "dia": "13",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-12-13T20:00+02:00"
+        },
+        {
+            "nom": "Yamê",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "DES.2025",
+            "dia": "17",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-12-17T20:00+02:00"
+        },
+        {
+            "nom": "Remei de Ca la Fresca",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "DES.2025",
+            "dia": "18",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-12-18T20:00+02:00"
+        },
+        {
+            "nom": "Amparanoia",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "DES.2025",
+            "dia": "19",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-12-19T19:30+02:00"
+        },
+        {
+            "nom": "Lagartija Nick",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "DES.2025",
+            "dia": "20",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-12-20T20:00+02:00"
+        },
+        {
+            "nom": "Maki y María Artés",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "DES.2025",
+            "dia": "27",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-12-27T20:00+02:00"
+        },
+        {
+            "nom": "Dani Nel·lo ",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "DES.2025",
+            "dia": "27",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-12-27T20:00+02:00"
+        },
+        {
+            "nom": "Hinds",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "GEN.2026",
+            "dia": "23",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-01-23T19:30+02:00"
+        },
+        {
+            "nom": "Cycle",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "GEN.2026",
+            "dia": "24",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-01-24T20:00+02:00"
+        },
+        {
+            "nom": "The Nu Metal Resurrection",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
+            "mes": "GEN.2026",
+            "dia": "30",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-01-30T19:30+02:00"
+        },
+        {
+            "nom": "Metrika",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "GEN.2026",
+            "dia": "30",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-01-30T20:00+02:00"
+        },
+        {
+            "nom": "Parquesvr",
+            "sala": "Apolo[2]",
+            "hora": "20:30",
+            "mes": "GEN.2026",
+            "dia": "31",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-01-31T20:30+02:00"
+        },
+        {
+            "nom": "Matute",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "FEB.2026",
+            "dia": "3",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-02-03T19:00+02:00"
+        },
+        {
+            "nom": "Los Lobos",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "FEB.2026",
+            "dia": "5",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-02-05T19:30+02:00"
+        },
+        {
+            "nom": "Alice Wonder",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "FEB.2026",
+            "dia": "6",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-02-06T19:30+02:00"
+        },
+        {
+            "nom": "Joe Crepúsculo",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "FEB.2026",
+            "dia": "7",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-02-07T20:00+02:00"
+        },
+        {
+            "nom": "Depresión Sonora",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "FEB.2026",
+            "dia": "12",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-02-12T19:30+02:00"
+        },
+        {
+            "nom": "María Peláe",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "FEB.2026",
+            "dia": "14",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-02-14T20:00+02:00"
+        },
+        {
+            "nom": "Ofenbach",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "FEB.2026",
+            "dia": "18",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-18T19:30+02:00"
+        },
+        {
+            "nom": "Arco",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "FEB.2026",
+            "dia": "21",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-02-21T19:30+02:00"
+        },
+        {
+            "nom": "The Divine Comedy",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "MAR.2026",
+            "dia": "5",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-03-05T19:30+02:00"
+        },
+        {
+            "nom": "Dominguinho | João Gomes, Jota.pê, Mestrinho",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "MAR.2026",
+            "dia": "31",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-03-31T20:00+02:00"
+        },
+        {
+            "nom": "Lagum",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "ABR.2026",
+            "dia": "15",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-04-15T20:00+02:00"
+        },
+        {
+            "nom": "Las Rodes",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "ABR.2026",
+            "dia": "18",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-04-18T20:00+02:00"
+        },
+        {
+            "nom": "Pole.",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "ABR.2026",
+            "dia": "24",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-04-24T19:30+02:00"
+        },
+        {
+            "nom": "Ramoncín",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "MAI.2026",
+            "dia": "9",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-05-09T19:00+02:00"
+        },
+        {
+            "nom": "The Aristocrats",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "MAI.2026",
+            "dia": "20",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-05-20T19:30+02:00"
+        },
+    {
         "nom": "LaBulla",
         "sala": "La Deskomunal",
         "hora": "01:00",
