@@ -1705,404 +1705,376 @@
 		"dateTime": "2025-11-15T20:00+02:00"
 	},
 	{
-		"nom": "EARTHELL + HEAVY TRIP",
-		"sala": "upload",
-		"hora": "19:30",
-		"mes": "AGO.2025",
-		"dia": "05",
-		"textdia": "dimarts",
-		"ciutat": "",
-		"dateTime": "2025-08-05T19:30+02:00"
-	},
-	{
-		"nom": "IGNEA + ANCIENT SETTLERS",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "AGO.2025",
-		"dia": "27",
-		"textdia": "dimecres",
-		"ciutat": "",
-		"dateTime": "2025-08-27T20:00+02:00"
-	},
-	{
-		"nom": "THE NEW CRIST + LA SECTA",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "SET.2025",
-		"dia": "02",
-		"textdia": "dimarts",
-		"ciutat": "",
-		"dateTime": "2025-09-02T20:00+02:00"
-	},
-	{
-		"nom": "MEATBODIES",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "SET.2025",
-		"dia": "03",
-		"textdia": "dimecres",
-		"ciutat": "",
-		"dateTime": "2025-09-03T20:00+02:00"
-	},
-	{
-		"nom": "HENGE",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "SET.2025",
-		"dia": "09",
-		"textdia": "dimarts",
-		"ciutat": "",
-		"dateTime": "2025-09-09T20:00+02:00"
-	},
-	{
-		"nom": "C.O.F.F.I.N (GAMBEAT)",
-		"sala": "upload",
-		"hora": "??:??",
-		"mes": "SET.2025",
-		"dia": "13",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-09-13T11:00+02:00"
-	},
-	{
-		"nom": "L.A.Witch (GAMBEAT)",
-		"sala": "upload",
-		"hora": "??:??",
-		"mes": "SET.2025",
-		"dia": "13",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-09-13T12:00+02:00"
-	},
-	{
-		"nom": "Crocodiles (GAMBEAT)",
-		"sala": "upload",
-		"hora": "??:??",
-		"mes": "SET.2025",
-		"dia": "13",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-09-13T13:00+02:00"
-	},
-	{
-		"nom": " Error97 (GAMBEAT)",
-		"sala": "upload",
-		"hora": "??:??",
-		"mes": "SET.2025",
-		"dia": "13",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-09-13T14:00+02:00"
-	},
-	{
-		"nom": "Aurora Roja (GAMBEAT)",
-		"sala": "upload",
-		"hora": "??:??",
-		"mes": "SET.2025",
-		"dia": "13",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-09-13T15:00+02:00"
-	},
-	{
-		"nom": "LEIF VOLLEBEKK",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "SET.2025",
-		"dia": "20",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-09-20T20:00+02:00"
-	},
-	{
-		"nom": "HAYDEN PEDIGO",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "SET.2025",
-		"dia": "22",
-		"textdia": "dilluns",
-		"ciutat": "",
-		"dateTime": "2025-09-22T20:00+02:00"
-	},{
-		"nom": "JODIE CASH + SERGI ESTELLA",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "SET.2025",
-		"dia": "27",
-		"textdia": "dilluns",
-		"ciutat": "",
-		"dateTime": "2025-09-27T20:00+02:00"
-	},
-	{
-		"nom": "KO SHIN MOON",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "SET.2025",
-		"dia": "28",
-		"textdia": "dimarts",
-		"ciutat": "",
-		"dateTime": "2025-09-28T20:00+02:00"
-	},
-	{
-		"nom": "JONNY KAPLAN",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "OCT.2025",
-		"dia": "02",
-		"textdia": "dijous",
-		"ciutat": "",
-		"dateTime": "2025-10-02T20:00+02:00"
-	},
-	{
-		"nom": "THE MORLOCKS",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "OCT.2025",
-		"dia": "07",
-		"textdia": "dijous",
-		"ciutat": "",
-		"dateTime": "2025-10-07T20:00+02:00"
-	},
-	{
-		"nom": "EMMA-JEAN THACKRAY",
-		"sala": "upload",
-		"hora": "21:00",
-		"mes": "OCT.2025",
-		"dia": "08",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-10-08T20:00+02:00"
-	},
-	{
-		"nom": "TRAMHAUS",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "OCT.2025",
-		"dia": "11",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-10-11T20:00+02:00"
-	},
-	{
-		"nom": "ROULETTE + HORA LÍMITE",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "OCT.2025",
-		"dia": "15",
-		"textdia": "dimecres",
-		"ciutat": "",
-		"dateTime": "2025-10-15T20:00+02:00"
-	},
-	{
-		"nom": "RAMBALAYA",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "OCT.2025",
-		"dia": "18",
-		"textdia": "dimecres",
-		"ciutat": "",
-		"dateTime": "2025-10-18T20:45+02:00"
-	},
-	{
-		"nom": "LA LUZ + THE MIFFS",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "OCT.2025",
-		"dia": "21",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-10-21T20:45+02:00"
-	},
-	{
-		"nom": "OVAL: WILLIAM LEWIS",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "OCT.2025",
-		"dia": "24",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-10-24T20:30+02:00"
-	},
-	{
-		"nom": "VULVARINE",
-		"sala": "upload",
-		"hora": "19:30",
-		"mes": "OCT.2025",
-		"dia": "28",
-		"textdia": "dimarts",
-		"ciutat": "",
-		"dateTime": "2025-10-28T20:30+02:00"
-	},
-	{
-		"nom": "CASTLE RAT",
-		"sala": "upload",
-		"hora": "19:00",
-		"mes": "OCT.2025",
-		"dia": "30",
-		"textdia": "dijous",
-		"ciutat": "",
-		"dateTime": "2025-10-30T20:30+02:00"
-	},
-	{
-		"nom": "STRANGER COLE",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "NOV.2025",
-		"dia": "01",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-11-01T20:30+02:00"
-	},
-	{
-		"nom": "BROKE CARREY & ELMALAMÍA",
-		"sala": "upload",
-		"hora": "19:30",
-		"mes": "NOV.2025",
-		"dia": "02",
-		"textdia": "diumenge",
-		"ciutat": "",
-		"dateTime": "2025-11-01T19:30+02:00"
-	},
-	{
-		"nom": "BRANT BJORK TRIO",
-		"sala": "upload",
-		"hora": "19:30",
-		"mes": "NOV.2025",
-		"dia": "04",
-		"textdia": "dimarts",
-		"ciutat": "",
-		"dateTime": "2025-11-04T19:30+02:00"
-	},
-	{
-		"nom": "CARLOS ESCOBEDO + ROMANTHICA",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "NOV.2025",
-		"dia": "08",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-11-04T20:00+02:00"
-	},
-	{
-		"nom": "LORNA",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "NOV.2025",
-		"dia": "12",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-11-12T20:00+02:00"
-	},
-	{
-		"nom": "MINARMI DEUTSCH",
-		"sala": "Upload",
-		"hora": "20:00",
-		"mes": "NOV.2025",
-		"dia": "16",
-		"textdia": "diumenge",
-		"ciutat": "",
-		"dateTime": "2025-11-16T20:00+02:00"
-	},
-	{
-		"nom": "ODEZENNE",
-		"sala": "upload",
-		"hora": "20:30",
-		"mes": "NOV.2025",
-		"dia": "20",
-		"textdia": "dijous",
-		"ciutat": "",
-		"dateTime": "2025-11-20T20:30+02:00"
-	},
-	{
-		"nom": "YAWNERS",
-		"sala": "upload",
-		"hora": "20:30",
-		"mes": "NOV.2025",
-		"dia": "21",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-11-21T20:30+02:00"
-	},
-	{
-		"nom": "GREENLEAF",
-		"sala": "upload",
-		"hora": "19:30",
-		"mes": "NOV.2025",
-		"dia": "25",
-		"textdia": "dimarts",
-		"ciutat": "",
-		"dateTime": "2025-11-25T19:30+02:00"
-	},
-	{
-		"nom": "CASSIE RAMONE",
-		"sala": "upload",
-		"hora": "20:30",
-		"mes": "NOV.2025",
-		"dia": "28",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-11-28T20:30+02:00"
-	},
-	{
-		"nom": "PANIC SHACK",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "DES.2025",
-		"dia": "20",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-12-01T20:00+02:00"
-	},
-	{
-		"nom": "WATER FROM YOUR EYES",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "DES.2025",
-		"dia": "05",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-12-05T20:00+02:00"
-	},
-	{
-		"nom": "THE HIDDEN CAMERAS",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "DES.2025",
-		"dia": "10",
-		"textdia": "dimecres",
-		"ciutat": "",
-		"dateTime": "2025-12-10T20:00+02:00"
-	},
-	{
-		"nom": "CHARIF MEGARBANE & ROGÉR FAKHR",
-		"sala": "upload",
-		"hora": "20:00",
-		"mes": "DES.2025",
-		"dia": "13",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-12-13T20:00+02:00"
-	},
-	{
-		"nom": "WAVVES",
-		"sala": "upload",
-		"hora": "19:00",
-		"mes": "DES.2025",
-		"dia": "26",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-12-26T19:00+02:00"
-	},
-	{
-		"nom": "PRIEST + DEAD LIGHTS",
-		"sala": "Upload",
-		"hora": "19:00",
-		"mes": "MAI.2026",
-		"dia": "08",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2026-05-08T19:00+02:00"
-	},
+            "nom": "Ignea +Ancient Settlers",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "AGO.2025",
+            "dia": "27",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-08-27T21:09+02:00"
+        },
+        {
+            "nom": "THE NEW CHRISTS + La Secta",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "SET.2025",
+            "dia": "2",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-09-02T21:09+02:00"
+        },
+        {
+            "nom": "MEATBODIES",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "SET.2025",
+            "dia": "3",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-09-03T21:09+02:00"
+        },
+
+        {
+            "nom": "HENGE",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "SET.2025",
+            "dia": "9",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-09-09T21:09+02:00"
+        },
+        {
+            "nom": "Gambeat Weekend",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "SET.2025",
+            "dia": "13",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-13T21:09+02:00"
+        },
+        {
+            "nom": "Leif Vollebekk",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "SET.2025",
+            "dia": "20",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-20T21:09+02:00"
+        },
+        {
+            "nom": "Hayden Pedigo",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "SET.2025",
+            "dia": "22",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-09-22T21:09+02:00"
+        },
+        {
+            "nom": "Jodie Cash + Sergi Estella",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "SET.2025",
+            "dia": "27",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-27T21:09+02:00"
+        },
+        {
+            "nom": "Ko Shin Moon",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "SET.2025",
+            "dia": "28",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-09-28T21:09+02:00"
+        },
+        {
+            "nom": "Jonny Kaplan",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "2",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-02T21:09+02:00"
+        },
+        {
+            "nom": "The Morlocks",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "7",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-10-07T21:09+02:00"
+        },
+        {
+            "nom": "Emma-Jean Thackray",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "8",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-08T21:09+02:00"
+        },
+        {
+            "nom": "Tramhaus",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "11",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-11T21:09+02:00"
+        },
+        {
+            "nom": "Roulette + Hora Límite",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "15",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-15T21:09+02:00"
+        },
+        {
+            "nom": "Rambalaya",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "18",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-18T21:09+02:00"
+        },
+        {
+            "nom": "La Luz + The Miffs",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "21",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-10-21T21:09+02:00"
+        },
+        {
+            "nom": "OVAL: mark william lewis",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "24",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-24T21:09+02:00"
+        },
+        {
+            "nom": "Vulvarine",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "28",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-10-28T21:09+02:00"
+        },
+        {
+            "nom": "Castle Rat",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "30",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-30T21:09+02:00"
+        },
+        {
+            "nom": "Stranger Cole",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "1",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-01T21:09+02:00"
+        },
+        {
+            "nom": "Broke Carrey + elmalamía",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "2",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-11-02T21:09+02:00"
+        },
+        {
+            "nom": "Brant Bjork Trio",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "4",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-11-04T21:09+02:00"
+        },
+        {
+            "nom": "Carlos Escobedo+ Romanthica",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "8",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-08T21:09+02:00"
+        },
+        {
+            "nom": "l0rna",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "12",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-11-12T21:09+02:00"
+        },
+        {
+            "nom": "Minami Deutsch",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "16",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-11-16T21:09+02:00"
+        },
+        {
+            "nom": "Slow Crush+ Keep",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "18",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-11-18T21:09+02:00"
+        },
+        {
+            "nom": "Odezenne",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "20",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-20T21:09+02:00"
+        },
+        {
+            "nom": "Yawners",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "21",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-21T21:09+02:00"
+        },
+        {
+            "nom": "Greenleaf",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-11-25T21:09+02:00"
+        },
+        {
+            "nom": "Cassie Ramone",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "28",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-28T21:09+02:00"
+        },
+        {
+            "nom": "Panic Shack",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "DES.2025",
+            "dia": "1",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-12-01T21:09+02:00"
+        },
+        {
+            "nom": "Water From Your Eyes",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "DES.2025",
+            "dia": "5",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-12-05T21:09+02:00"
+        },
+        {
+            "nom": "The Hidden Cameras",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "DES.2025",
+            "dia": "10",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-12-10T21:09+02:00"
+        },
+        {
+            "nom": "Charif Megarbane & Rogér Fakhr",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "DES.2025",
+            "dia": "13",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-12-13T21:09+02:00"
+        },
+        {
+            "nom": "+Minuit Machine+ Hørd",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "FEB.2026",
+            "dia": "17",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-02-17T21:09+02:00"
+        },
+        {
+            "nom": "Wavves",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "MAR.2026",
+            "dia": "26",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-03-26T21:09+02:00"
+        },
+        {
+            "nom": "Priest + Dead Lights",
+            "sala": "Upload",
+            "hora": "21:09",
+            "mes": "JUN.2026",
+            "dia": "8",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-06-08T21:09+02:00"
+        },
 	{
 		"nom": "Companyia Les Solidaries",
 		"sala": "Rambla del Raval",
