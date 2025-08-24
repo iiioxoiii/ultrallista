@@ -1,6 +1,15 @@
 {
 "concerts": [
-    {
+        {
+            "nom": "Puerta 104",
+            "sala": "C. Galileu",
+            "hora": "22:00",
+            "mes": "AGO.2025",
+            "dia": "28",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-08-24T22:00+02:00"
+        },{
             "nom": "Tropical Fuck Storm",
             "sala": "Apolo[2]",
             "hora": "19:30",
