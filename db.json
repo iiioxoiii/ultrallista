@@ -5376,7 +5376,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "3",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-09-03T20:00+02:00"
         },
@@ -5386,7 +5386,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "5",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-05T20:00+02:00"
         },
@@ -5396,7 +5396,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "6",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-06T20:00+02:00"
         },
@@ -5406,7 +5406,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "7",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-09-07T20:00+02:00"
         },
@@ -5416,7 +5416,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "12",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-12T20:00+02:00"
         },
@@ -5426,7 +5426,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "13",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-13T20:00+02:00"
         },
@@ -5436,7 +5436,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "16",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-09-16T20:00+02:00"
         },
@@ -5446,7 +5446,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "22",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-09-22T20:00+02:00"
         },
@@ -5456,7 +5456,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "23",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-09-23T20:00+02:00"
         },
@@ -5466,7 +5466,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "26",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-26T20:00+02:00"
         },
@@ -5476,7 +5476,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "28",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-09-28T20:00+02:00"
         },
@@ -5486,7 +5486,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "3",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-03T20:00+02:00"
         },
@@ -5496,7 +5496,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "4",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-04T20:00+02:00"
         },
@@ -5506,7 +5506,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "9",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-09T20:00+02:00"
         },
@@ -5516,7 +5516,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "10",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-10T20:00+02:00"
         },
@@ -5526,7 +5526,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "11",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-11T20:00+02:00"
         },
@@ -5536,7 +5536,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "12",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-10-12T20:00+02:00"
         },
@@ -5546,7 +5546,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "13",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-10-13T20:00+02:00"
         },
@@ -5556,7 +5556,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "14",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-14T20:00+02:00"
         },
@@ -5566,7 +5566,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "18",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-18T20:00+02:00"
         },
@@ -5576,7 +5576,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "21",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-21T20:00+02:00"
         },
@@ -5586,7 +5586,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "22",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-22T20:00+02:00"
         },
@@ -5596,7 +5596,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "23",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-23T20:00+02:00"
         },
@@ -5606,7 +5606,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "24",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-24T20:00+02:00"
         },
@@ -5616,7 +5616,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "24",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-24T20:00+02:00"
         },
@@ -5626,7 +5626,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "25",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-25T20:00+02:00"
         },
@@ -5636,7 +5636,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "30",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-30T20:00+02:00"
         },
@@ -5646,7 +5646,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "5",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-05T20:00+02:00"
         },
@@ -5656,7 +5656,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "6",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-06T20:00+02:00"
         },
@@ -5666,7 +5666,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "7",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-07T20:00+02:00"
         },
@@ -5676,7 +5676,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "8",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-08T20:00+02:00"
         },
@@ -5686,7 +5686,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "13",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-13T20:00+02:00"
         },
@@ -5696,7 +5696,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "14",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-14T20:00+02:00"
         },
@@ -5706,7 +5706,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "15",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-15T20:00+02:00"
         },
@@ -5716,7 +5716,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "20",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-20T20:00+02:00"
         },
@@ -5726,7 +5726,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "25",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-25T20:00+02:00"
         },
@@ -5736,7 +5736,7 @@
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "6",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-06T20:00+02:00"
         },
@@ -5746,7 +5746,7 @@
             "hora": "20:00",
             "mes": "GEN.2026",
             "dia": "22",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2026-01-22T20:00+02:00"
         },
@@ -5756,7 +5756,7 @@
             "hora": "20:00",
             "mes": "FEB.2026",
             "dia": "7",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-02-07T20:00+02:00"
         },
@@ -5766,7 +5766,7 @@
             "hora": "20:00",
             "mes": "FEB.2026",
             "dia": "21",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-02-21T20:00+02:00"
         },
@@ -5776,7 +5776,7 @@
             "hora": "20:00",
             "mes": "MAR.2026",
             "dia": "16",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2026-03-16T20:00+02:00"
         },
@@ -5786,7 +5786,7 @@
             "hora": "20:00",
             "mes": "MAR.2026",
             "dia": "23",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2026-03-23T20:00+02:00"
         },
@@ -5796,7 +5796,7 @@
             "hora": "20:00",
             "mes": "ABR.2026",
             "dia": "9",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2026-04-09T20:00+02:00"
         },
@@ -5806,7 +5806,7 @@
             "hora": "20:00",
             "mes": "ABR.2026",
             "dia": "15",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2026-04-15T20:00+02:00"
         },
@@ -5816,7 +5816,7 @@
             "hora": "20:00",
             "mes": "MAI.2026",
             "dia": "29",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2026-05-29T20:00+02:00"
         }
