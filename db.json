@@ -5369,6 +5369,456 @@
             "dia": "19",
             "ciutat": "",
             "dateTime": "2025-12-19T20:00+02:00"
+        },
+        {
+            "nom": "FLOTSAM AND JETSAM",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "3",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-09-03T20:00+02:00"
+        },
+        {
+            "nom": "YOUNG CISTER",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "5",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-05T20:00+02:00"
+        },
+        {
+            "nom": "CAIO ARANCIO",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "6",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-06T20:00+02:00"
+        },
+        {
+            "nom": "MIR NICOLAS",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "7",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-09-07T20:00+02:00"
+        },
+        {
+            "nom": "VACAS SAGRADAS TRIBUTO A MAREA, EXTREMODURO, BARRICADA",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "12",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-12T20:00+02:00"
+        },
+        {
+            "nom": "FORJA + GRYAL + MEEI",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "13",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-13T20:00+02:00"
+        },
+        {
+            "nom": "ELECTRIC MARY",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "16",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-09-16T20:00+02:00"
+        },
+        {
+            "nom": "WOLFHEART & BEFORE THE DAWN",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "22",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-09-22T20:00+02:00"
+        },
+        {
+            "nom": "HIGH SPIRITS (USA) + ARTISTA INVITADO",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "23",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-09-23T20:00+02:00"
+        },
+        {
+            "nom": "JOSH ROUSE",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "26",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-26T20:00+02:00"
+        },
+        {
+            "nom": "TROTSKY VENGARÁN + KLANDESTINO",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "28",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-09-28T20:00+02:00"
+        },
+        {
+            "nom": "PIEZAS & JAYDER",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "3",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-03T20:00+02:00"
+        },
+        {
+            "nom": "JIMY FEST 2",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "4",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-04T20:00+02:00"
+        },
+        {
+            "nom": "CATCHING FLIES",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "9",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-09T20:00+02:00"
+        },
+        {
+            "nom": "COVENANT",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "10",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-10T20:00+02:00"
+        },
+        {
+            "nom": "OZRIC TENTACLES",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "11",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-11T20:00+02:00"
+        },
+        {
+            "nom": "HYPNOTIC BRASS ENSEMBLE",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "12",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-10-12T20:00+02:00"
+        },
+        {
+            "nom": "GUS G. + RONNIE ROMERO",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "13",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-10-13T20:00+02:00"
+        },
+        {
+            "nom": "BILLIE MARTEN",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "14",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-10-14T20:00+02:00"
+        },
+        {
+            "nom": "KISS OF DEATH",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "18",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-18T20:00+02:00"
+        },
+        {
+            "nom": "AUTHOR & PUNISHER",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "21",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-10-21T20:00+02:00"
+        },
+        {
+            "nom": "YOUNG GODS",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "22",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-22T20:00+02:00"
+        },
+        {
+            "nom": "99 POSSE",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "23",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-23T20:00+02:00"
+        },
+        {
+            "nom": "DJEVEL - CANCELADO",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "24",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-24T20:00+02:00"
+        },
+        {
+            "nom": "PAUL ALONE",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "24",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-24T20:00+02:00"
+        },
+        {
+            "nom": "MAIDEN UNITED",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "25",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-25T20:00+02:00"
+        },
+        {
+            "nom": "TRANSMU7ACION",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "30",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-30T20:00+02:00"
+        },
+        {
+            "nom": "BYWATER CALL",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "5",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-11-05T20:00+02:00"
+        },
+        {
+            "nom": "PUÑO DRAGÓN",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "6",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-06T20:00+02:00"
+        },
+        {
+            "nom": "KINGFISHR",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "7",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-07T20:00+02:00"
+        },
+        {
+            "nom": "JALONER",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "8",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-08T20:00+02:00"
+        },
+        {
+            "nom": "KG970",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "13",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-13T20:00+02:00"
+        },
+        {
+            "nom": "POL 3.14",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "14",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-14T20:00+02:00"
+        },
+        {
+            "nom": "AVIDA DOLLARS",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "15",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-15T20:00+02:00"
+        },
+        {
+            "nom": "L.A",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "20",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-20T20:00+02:00"
+        },
+        {
+            "nom": "SOBREDOSIS DE SODA - 20 AÑOS",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "NOV.2025",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-11-25T20:00+02:00"
+        },
+        {
+            "nom": "PESTILENCE & CANCER",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "DES.2025",
+            "dia": "6",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-12-06T20:00+02:00"
+        },
+        {
+            "nom": "NANOWAR OF STEEL",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "GEN.2026",
+            "dia": "22",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-22T20:00+02:00"
+        },
+        {
+            "nom": "SYLOSIS + REVOCATION + DISTANT + LIFE CYCLES",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "FEB.2026",
+            "dia": "7",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-02-07T20:00+02:00"
+        },
+        {
+            "nom": "DEVISION REDUX",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "FEB.2026",
+            "dia": "21",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-02-21T20:00+02:00"
+        },
+        {
+            "nom": "ANDY TIMMONS",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "MAR.2026",
+            "dia": "16",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-03-16T20:00+02:00"
+        },
+        {
+            "nom": "THE ACADEMIC",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "MAR.2026",
+            "dia": "23",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-03-23T20:00+02:00"
+        },
+        {
+            "nom": "FM + TYGERS OF PAN TANG EN BARCELONA",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "ABR.2026",
+            "dia": "9",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-04-09T20:00+02:00"
+        },
+        {
+            "nom": "ERJA LYYTINEN",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "ABR.2026",
+            "dia": "15",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-04-15T20:00+02:00"
+        },
+        {
+            "nom": "EMBUSTEROS",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "MAI.2026",
+            "dia": "29",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-05-29T20:00+02:00"
         }
 ]
 }
