@@ -1141,11 +1141,12 @@
         "dateTime": "2025-11-15T20:00+02:00"
     },
     {
-      "nom": "Bis Festival! SIN BRAGAS + PRIMER INFANT",
+      "nom": "SIN BRAGAS + PRIMER INFANT",
       "sala": "Almo2bar",
       "hora": "21:00",
       "textdia": "dilluns",
-      "mes": "NOV",
+      "mes": "OCT.2025",
+      "dia": "5",
       "ciutat": "",
       "dateTime": "2025-10-05T21:00+02:00"
     },
@@ -1153,7 +1154,8 @@
         "nom": "REINA VENUS",
         "sala": "Almo2bar",
         "hora": "20:30",
-        "mes": "NOV",
+        "mes": "OCT.2025",
+        "dia": "12",
         "textdia": "dilluns",
         "ciutat": "",
         "dateTime": "2025-10-12T20:30+02:00"
@@ -1162,16 +1164,18 @@
         "nom": "VIZIO",
         "sala": "Almo2bar",
         "hora": "20:30",
-        "mes": "NOV",
+        "mes": "NOV.2025",
+        "dia": "13",
         "textdia": "dimarts",
         "ciutat": "",
         "dateTime": "2025-10-13T20:30+02:00"
     },
     {
-        "nom": "BIS FESTIVAL > LIDIA DAMUNT + IMPERIO",
+        "nom": "LIDIA DAMUNT + IMPERIO",
         "sala": "Almo2bar",
         "hora": "21:00",
-        "mes": "NOV",
+        "mes": "OCT.2025",
+        "dia": "19",
         "textdia": "dilluns",
         "ciutat": "",
         "dateTime": "2025-10-19T21:00+02:00"
@@ -1180,7 +1184,8 @@
         "nom": "GUATEKE INDIE",
         "sala": "Almo2bar",
         "hora": "20:00",
-        "mes": "NOV",
+        "mes": "OCT.2025",
+        "dia": "20",
         "textdia": "dimarts",
         "ciutat": "",
         "dateTime": "2025-10-20T20:00+02:00"
@@ -1189,7 +1194,8 @@
         "nom": "CRUSADER + REEKOHL",
         "sala": "Almo2bar",
         "hora": "20:00",
-        "mes": "NOV",
+        "mes": "OCT.2025",
+        "dia": "27",
         "textdia": "dimarts",
         "ciutat": "",
         "dateTime": "2025-10-27T20:00+02:00"
@@ -1645,7 +1651,7 @@
 		"sala": "estraperlo",
 		"hora": "20:30",
 		"mes": "OCT.2025",
-		"dia": "09",
+		"dia": "9",
 		"textdia": "dijous",
 		"ciutat": "",
 		"dateTime": "2025-10-09T20:30+02:00"
@@ -1654,7 +1660,7 @@
 		"sala": "Estraperlo",
 		"hora": "21:30",
 		"mes": "OCT.2025",
-		"dia": "09",
+		"dia": "9",
 		"textdia": "dijous",
 		"ciutat": "",
 		"dateTime": "2025-10-09T21:30+02:00"
@@ -3092,7 +3098,7 @@
             "dateTime": "2025-09-08T19:00+02:00"
         },
         {
-            "nom": "FLORIST + HANNAH FRANCES+ HANNAH FRANCES",
+            "nom": "FLORIST + HANNAH FRANCES + HANNAH FRANCES",
             "sala": "Razzmatazz(3)",
             "hora": "20:00",
             "mes": "SET.2025",
@@ -5212,7 +5218,7 @@
             "dateTime": "2025-09-22T20:00+02:00"
         },
         {
-            "nom": "HIGH SPIRITS (USA) + ARTISTA INVITADO",
+            "nom": "HIGH SPIRITS",
             "sala": "wolf",
             "hora": "20:00",
             "mes": "SET.2025",
@@ -5362,16 +5368,6 @@
             "dateTime": "2025-10-23T20:00+02:00"
         },
         {
-            "nom": "DJEVEL - CANCELADO",
-            "sala": "wolf",
-            "hora": "20:00",
-            "mes": "OCT.2025",
-            "dia": "24",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-10-24T20:00+02:00"
-        },
-        {
             "nom": "PAUL ALONE",
             "sala": "wolf",
             "hora": "20:00",
@@ -5482,7 +5478,7 @@
             "dateTime": "2025-11-20T20:00+02:00"
         },
         {
-            "nom": "SOBREDOSIS DE SODA - 20 AÑOS",
+            "nom": "SOBREDOSIS DE SODA",
             "sala": "wolf",
             "hora": "20:00",
             "mes": "NOV.2025",
@@ -5552,7 +5548,7 @@
             "dateTime": "2026-03-23T20:00+02:00"
         },
         {
-            "nom": "FM + TYGERS OF PAN TANG EN BARCELONA",
+            "nom": "FM + TYGERS OF PAN TANG",
             "sala": "wolf",
             "hora": "20:00",
             "mes": "ABR.2026",
@@ -5632,7 +5628,7 @@
             "dateTime": "2025-09-02T21:00+02:00"
         },
         {
-            "nom": "DON WEST **SOLD OUT**",
+            "nom": "DON WEST",
             "sala": "LaNau",
             "hora": "21:00",
             "mes": "SET",
@@ -5792,7 +5788,7 @@
             "dateTime": "2025-09-18T21:30+02:00"
         },
         {
-            "nom": "4444 by The Sound Society presents CC:DISCO",
+            "nom": "CC:DISCO",
             "sala": "LaNau",
             "hora": "21:12",
             "mes": "SET",
@@ -5902,7 +5898,7 @@
             "dateTime": "2025-10-10T20:00+02:00"
         },
         {
-            "nom": "SOUNDAY DANCE: NYAHBINGUIDUB SOUND SYSTEM",
+            "nom": "NYAHBINGUIDUB SOUND SYSTEM",
             "sala": "LaNau",
             "hora": "18:30",
             "mes": "OCT",
@@ -6192,7 +6188,7 @@
             "dateTime": "2025-12-10T21:00+02:00"
         },
         {
-            "nom": "2001 Presenta: \"Nunca Encajé\"",
+            "nom": "Nunca Encajé",
             "sala": "LaNau",
             "hora": "20:30",
             "mes": "DES",
@@ -6222,7 +6218,7 @@
             "dateTime": "2026-01-31T21:00+02:00"
         },
         {
-            "nom": "PRESIDENT **SOLD OUT**",
+            "nom": "PRESIDENT",
             "sala": "LaNau",
             "hora": "21:12",
             "mes": "FEB",
