@@ -712,7 +712,7 @@
         },
         {
             "nom": "Maruja",
-            "sala": "Apolo[2]",
+            "sala": "Apolo[2] &#127894",
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "6",
@@ -5891,7 +5891,7 @@
         },
         {
             "nom": "CALIBRO 35",
-            "sala": "LaNau",
+            "sala": "LaNau &#127894"
             "hora": "21:00",
             "mes": "DES",
             "dia": "3",
