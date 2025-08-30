@@ -1012,16 +1012,6 @@
         },
     
     {
-        "nom": "FricanDones",
-        "sala": "La Deskomunal",
-        "hora": "01:00",
-        "mes": "AGO.2025",
-        "dia": "29",
-        "textdia": "divendres",
-        "ciutat": "",
-        "dateTime": "2025-08-29T01:00+02:00"
-    },
-    {
         "nom": "FEL SONIDO DE VELDÁ",
         "sala": "La Deskomunal",
         "hora": "01:00",
@@ -1192,156 +1182,6 @@
 		"dateTime": "2025-09-07T19:00+02:00"
 	},
 	{
-		"nom": "LIMA NEGRA",
-		"sala": "La Sedeta",
-		"hora": "20:00",
-		"mes": "AGO.2025",
-		"dia": "15",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-08-15T20:00+02:00"
-	},
-	{
-		"nom": "ME AND THE BEES",
-		"sala": "La Sedeta",
-		"hora": "21:00",
-		"mes": "AGO.2025",
-		"dia": "15",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-08-15T21:00+02:00"
-	},
-	{
-		"nom": "CIUTAT",
-		"sala": "La Sedeta",
-		"hora": "22:00",
-		"mes": "AGO.2025",
-		"dia": "15",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-08-15T22:00+02:00"
-	},
-	{
-		"nom": "HADREN",
-		"sala": "La Sedeta",
-		"hora": "23:20",
-		"mes": "AGO.2025",
-		"dia": "15",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-08-15T23:20+02:00"
-	},
-	{
-		"nom": "MAIG",
-		"sala": "La Sedeta",
-		"hora": "20:00",
-		"mes": "AGO.2025",
-		"dia": "16",
-		"textdia": "disssbte",
-		"ciutat": "",
-		"dateTime": "2025-08-16T20:00+02:00"
-	},
-	{
-		"nom": "KILLIN'CACTUZ",
-		"sala": "La Sedeta",
-		"hora": "21:10",
-		"mes": "AGO.2025",
-		"dia": "16",
-		"textdia": "disssbte",
-		"ciutat": "",
-		"dateTime": "2025-08-16T21:10+02:00"
-	},
-	{
-		"nom": "CASERO",
-		"sala": "La Sedeta",
-		"hora": "22:10",
-		"mes": "AGO.2025",
-		"dia": "16",
-		"textdia": "disssbte",
-		"ciutat": "",
-		"dateTime": "2025-08-16T22:10+02:00"
-	},
-	{
-		"nom": "CORTE!",
-		"sala": "La Sedeta",
-		"hora": "23:20",
-		"mes": "AGO.2025",
-		"dia": "16",
-		"textdia": "disssbte",
-		"ciutat": "",
-		"dateTime": "2025-08-16T23:20+02:00"
-	},
-	{
-		"nom": "ZOZOBRA",
-		"sala": "Carrer Perill (Gràcia)",
-		"hora": "22:00",
-		"mes": "AGO.2025",
-		"dia": "15",
-		"textdia": "divendres",
-		"ciutat": "",
-		"dateTime": "2025-08-15T22:00+02:00"
-	},
-	{
-		"nom": "RÜCKKÔPRAX",
-		"sala": "Carrer Perill (Gràcia)",
-		"hora": "22:00",
-		"mes": "AGO.2025",
-		"dia": "16",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-08-16T22:00+02:00"
-	},
-	{
-		"nom": "TREEBARK",
-		"sala": "Carrer Perill (Gràcia)",
-		"hora": "22:00",
-		"mes": "AGO.2025",
-		"dia": "17",
-		"textdia": "diumenge",
-		"ciutat": "",
-		"dateTime": "2025-08-17T22:00+02:00"
-	},
-	{
-		"nom": "ALE><ANDRA",
-		"sala": "Carrer Perill (Gràcia)",
-		"hora": "22:00",
-		"mes": "AGO.2025",
-		"dia": "19",
-		"textdia": "dimarts",
-		"ciutat": "",
-		"dateTime": "2025-08-19T22:00+02:00"
-	},
-	{
-		"nom": "LAURA LEINER",
-		"sala": "Carrer Perill (Gràcia)",
-		"hora": "22:00",
-		"mes": "AGO.2025",
-		"dia": "20",
-		"textdia": "dimecres",
-		"ciutat": "",
-		"dateTime": "2025-08-20T22:00+02:00"
-	},
-	{
-		"nom": "ESPINOZA ESPINOZA",
-		"sala": "Carrer Perill (Gràcia)",
-		"hora": "22:00",
-		"mes": "AGO.2025",
-		"dia": "21",
-		"textdia": "dijous",
-		"ciutat": "",
-		"dateTime": "2025-09-21T22:00+02:00"
-	},
-	{
-		"nom": "ROBA ESTESA",
-		"sala": "Parc de l'Espanya Ind.",
-		"hora": "22:30",
-		"mes": "AGO.2025",
-		"dia": "26",
-		"textdia": "dimarts",
-		"ciutat": "",
-		"dateTime": "2025-08-26T22:30+02:00"
-	},
-	{
 		"nom": "JOAN VILALTA & co",
 		"sala": "Plç. Bonet Muixí",
 		"hora": "12:30",
@@ -1379,96 +1219,6 @@
 		"textdia": "dissabte",
 		"ciutat": "",
 		"dateTime": "2025-08-30T23:00+02:00"
-	},{
-		"nom": "CALDO",
-		"sala": "Plç. Joan Pelegrí",
-		"hora": "22:00",
-		"mes": "AGO.2025",
-		"dia": "23",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-08-23T22:00+02:00"
-	},{
-		"nom": "ALBERT",
-		"sala": "Plç. Joan Pelegrí",
-		"hora": "23:00",
-		"mes": "AGO.2025",
-		"dia": "23",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-08-23T23:00+02:00"
-	},{
-		"nom": "KORÉ",
-		"sala": "Plç. Joan Pelegrí",
-		"hora": "22:00",
-		"mes": "AGO.2025",
-		"dia": "27",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-08-27T22:00+02:00"
-	},{
-		"nom": "PENCA",
-		"sala": "Plç. Joan Pelegrí",
-		"hora": "23:15",
-		"mes": "AGO.2025",
-		"dia": "27",
-		"textdia": "dimecres",
-		"ciutat": "",
-		"dateTime": "2025-08-27T23:15+02:00"
-	},{
-		"nom": "MALAKIAS MX3",
-		"sala": "Plç. Joan Pelegrí",
-		"hora": "00:30",
-		"mes": "AGO.2025",
-		"dia": "28",
-		"textdia": "dijous",
-		"ciutat": "",
-		"dateTime": "2025-08-28T00:30+02:00"
-	},{
-		"nom": "GLORIA RIBERA",
-		"sala": "C. Tinent Flomesta",
-		"hora": "23:00",
-		"mes": "AGO.2025",
-		"dia": "25",
-		"textdia": "dilluns",
-		"ciutat": "",
-		"dateTime": "2025-08-25T23:00+02:00"
-	},{
-		"nom": "CHANDALFLUOR",
-		"sala": "C. Tinent Flomesta",
-		"hora": "23:59",
-		"mes": "AGO.2025",
-		"dia": "25",
-		"textdia": "dilluns",
-		"ciutat": "",
-		"dateTime": "2025-08-25T23:59+02:00"
-	},{
-		"nom": "TIFUS",
-		"sala": "C. Tinent Flomesta",
-		"hora": "22:00",
-		"mes": "AGO.2025",
-		"dia": "27",
-		"textdia": "dimecres",
-		"ciutat": "",
-		"dateTime": "2025-08-27T22:00+02:00"
-	},{
-		"nom": "DON'T HIT LA NEGRA",
-		"sala": "Can Vies",
-		"hora": "23:00",
-		"mes": "AGO.2025",
-		"dia": "23",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-08-23T23:00+02:00"
-	},{
-		"nom": "PERLA NEGRA",
-		"sala": "Can Vies",
-		"hora": "23:59",
-		"mes": "AGO.2025",
-		"dia": "23",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-08-23T23:59+02:00"
 	},
 	{
 		"nom": "Karölinox",
@@ -1691,17 +1441,8 @@
 		"ciutat": "",
 		"dateTime": "2025-11-15T20:00+02:00"
 	},
-	{
-            "nom": "Ignea +Ancient Settlers",
-            "sala": "Upload",
-            "hora": "21:09",
-            "mes": "AGO.2025",
-            "dia": "27",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2025-08-27T21:09+02:00"
-        },
-        {
+    
+    {
             "nom": "THE NEW CHRISTS + La Secta",
             "sala": "Upload",
             "hora": "21:09",
