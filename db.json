@@ -712,7 +712,7 @@
         },
         {
             "nom": "Maruja",
-            "sala": "Apolo[2] &#127894",
+            "sala": "Apolo[2]",
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "6",
@@ -1406,7 +1406,7 @@
 		"dateTime": "2025-10-29T19:30+02:00"
 	},{
 		"nom": "MARC RIBOT",
-		"sala": "Estraperlo &#127894",
+		"sala": "Estraperlo",
 		"hora": "20:30",
 		"mes": "OCT.2025",
 		"dia": "31",
@@ -5891,7 +5891,7 @@
         },
         {
             "nom": "CALIBRO 35",
-            "sala": "LaNau &#127894"
+            "sala": "LaNau &#127894",
             "hora": "21:00",
             "mes": "DES",
             "dia": "3",
