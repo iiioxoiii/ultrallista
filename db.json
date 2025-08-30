@@ -712,7 +712,7 @@
         },
         {
             "nom": "Maruja",
-            "sala": "Apolo[2]",
+            "sala": "Apolo[2]  &#127894; ",
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "6",
@@ -1388,7 +1388,7 @@
 		"dateTime": "2025-10-09T20:30+02:00"
 	},{
 		"nom": "QUIMI PORTET",
-		"sala": "Estraperlo",
+		"sala": "Estraperlo  &#127894; ",
 		"hora": "21:30",
 		"mes": "OCT.2025",
 		"dia": "9",
@@ -1406,7 +1406,7 @@
 		"dateTime": "2025-10-29T19:30+02:00"
 	},{
 		"nom": "MARC RIBOT",
-		"sala": "Estraperlo",
+		"sala": "Estraperlo  &#127894;&#127894; ",
 		"hora": "20:30",
 		"mes": "OCT.2025",
 		"dia": "31",
@@ -5321,7 +5321,7 @@
         },
         {
             "nom": "PISA NA FULÔ",
-            "sala": "LaNau &#127894; ",
+            "sala": "LaNau",
             "hora": "22:30",
             "mes": "AGO",
             "dia": "30",
@@ -5891,7 +5891,7 @@
         },
         {
             "nom": "CALIBRO 35",
-            "sala": "LaNau",
+            "sala": "LaNau  &#127894; ",
             "hora": "21:00",
             "mes": "DES",
             "dia": "3",
