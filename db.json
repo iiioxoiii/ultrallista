@@ -1,6 +1,15 @@
 {
 "concerts": [
         {
+            "nom": "Acopia + S.D.H. + Selectya Glossy",
+            "sala": "ol",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "6",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-06T20:00+02:00"
+        },{
             "nom": "Banda Municipal BCN",
             "sala": "Casino l'Aliança",
             "hora": "20:00",
