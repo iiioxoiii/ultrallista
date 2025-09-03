@@ -5150,7 +5150,47 @@
             "dateTime": "2026-05-30T19:30+02:00"
         },
         {
-            "nom": "versions: rock ibèric",
+            "nom": "FLOTSAM AND JETSAM",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "3",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-09-03T20:00+02:00"
+        },
+        {
+            "nom": "YOUNG CISTER",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "5",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-09-05T20:00+02:00"
+        },
+        {
+            "nom": "CAIO ARANCIO",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "6",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-06T20:00+02:00"
+        },
+        {
+            "nom": "MIR NICOLAS",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "7",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-07T20:00+02:00"
+        },
+        {
+            "nom": "Rock Ibèric (versions)",
             "sala": "wolf",
             "hora": "20:00",
             "mes": "SET.2025",
@@ -5190,7 +5230,7 @@
             "dateTime": "2025-09-22T20:00+02:00"
         },
         {
-            "nom": "HIGH SPIRITS",
+            "nom": "HIGH SPIRITS (USA) + ARTISTA INVITADO",
             "sala": "wolf",
             "hora": "20:00",
             "mes": "SET.2025",
@@ -5340,6 +5380,16 @@
             "dateTime": "2025-10-23T20:00+02:00"
         },
         {
+            "nom": "DJEVEL - CANCELADO",
+            "sala": "wolf",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "24",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-24T20:00+02:00"
+        },
+        {
             "nom": "PAUL ALONE",
             "sala": "wolf",
             "hora": "20:00",
@@ -5450,7 +5500,7 @@
             "dateTime": "2025-11-20T20:00+02:00"
         },
         {
-            "nom": "SOBREDOSIS DE SODA",
+            "nom": "SOBREDOSIS DE SODA - 20 AÑOS",
             "sala": "wolf",
             "hora": "20:00",
             "mes": "NOV.2025",
@@ -5520,7 +5570,7 @@
             "dateTime": "2026-03-23T20:00+02:00"
         },
         {
-            "nom": "FM + TYGERS OF PAN TANG",
+            "nom": "FM + TYGERS OF PAN TANG EN BARCELONA",
             "sala": "wolf",
             "hora": "20:00",
             "mes": "ABR.2026",
@@ -5589,16 +5639,7 @@
             "ciutat": "",
             "dateTime": "2025-08-31T20:30+02:00"
         },
-        {
-            "nom": "BLOCO DO CAOS",
-            "sala": "LaNau",
-            "hora": "21:00",
-            "mes": "SET.2025",
-            "dia": "2",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2025-09-02T21:00+02:00"
-        },
+        lf
         {
             "nom": "DON WEST",
             "sala": "LaNau",
