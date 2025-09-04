@@ -7292,6 +7292,606 @@
             "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-06-26T20:00+02:00"
+        },
+	 {
+            "nom": "Manuel Carrasco ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "10",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-10T21:09+02:00"
+        },
+        {
+            "nom": "Manuel Turizo",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "11",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-11T21:09+02:00"
+        },
+        {
+            "nom": "Saiko",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "11",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-11T21:09+02:00"
+        },
+        {
+            "nom": "Los Planetas",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "17",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-17T21:09+02:00"
+        },
+        {
+            "nom": "Babasonicos",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "18",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-18T21:09+02:00"
+        },
+        {
+            "nom": "Duki",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "24",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-24T21:09+02:00"
+        },
+        {
+            "nom": "Ojete Calor ",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "25",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-25T21:09+02:00"
+        },
+        {
+            "nom": "Vanesa Martín ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "25",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-25T21:09+02:00"
+        },
+        {
+            "nom": "Mala Rodríguez & Faenna",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "26",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-10-26T21:09+02:00"
+        },
+        {
+            "nom": "Pecos",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "26",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-10-26T21:09+02:00"
+        },
+        {
+            "nom": "Lady Gaga (28-29-31 Octubre)",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "28",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-10-28T21:09+02:00"
+        },
+        {
+            "nom": "Volbeat",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "OCT.2025",
+            "dia": "30",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-30T21:09+02:00"
+        },
+        {
+            "nom": "The Hives",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "1",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-01T21:09+02:00"
+        },
+        {
+            "nom": "Parkway Drive",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "2",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-11-02T21:09+02:00"
+        },
+        {
+            "nom": "Jamiroquai",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "6",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-06T21:09+02:00"
+        },
+        {
+            "nom": "Belén Aguilera",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "8",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-08T21:09+02:00"
+        },
+        {
+            "nom": "Leiva",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "8",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-08T21:09+02:00"
+        },
+        {
+            "nom": "Katy Perry",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "9",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-11-09T21:09+02:00"
+        },
+        {
+            "nom": "Till Lindemann",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "13",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-13T21:09+02:00"
+        },
+        {
+            "nom": "Lágrimas de Sangre LDS (14 & 15 Novembre)",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "14",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-14T21:09+02:00"
+        },
+        {
+            "nom": "Roxette",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "16",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-11-16T21:09+02:00"
+        },
+        {
+            "nom": "Kaze",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "20",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-20T21:09+02:00"
+        },
+        {
+            "nom": "Anuel AA",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "22",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-22T21:09+02:00"
+        },
+        {
+            "nom": "Él Mató a un Policía Motorizado",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "22",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-22T21:09+02:00"
+        },
+        {
+            "nom": "Mumford & Sons",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-11-23T21:09+02:00"
+        },
+        {
+            "nom": "Turnstile",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "24",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-11-24T21:09+02:00"
+        },
+        {
+            "nom": "Anuel AA",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-11-26T21:09+02:00"
+        },
+        {
+            "nom": "Crystal Fighters",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-27T21:09+02:00"
+        },
+        {
+            "nom": "Antonio Orozco (28 & 29 Novembre)",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "28",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-28T21:09+02:00"
+        },
+        {
+            "nom": "Big Time Rush",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "29",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-29T21:09+02:00"
+        },
+        {
+            "nom": "Tom Odell",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "NOV.2025",
+            "dia": "30",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-11-30T21:09+02:00"
+        },
+        {
+            "nom": "Loco Bongo XXL",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "DES.2025",
+            "dia": "6",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-12-06T21:09+02:00"
+        },
+        {
+            "nom": "Mónica Naranjo",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "DES.2025",
+            "dia": "19",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-12-19T21:09+02:00"
+        },
+        {
+            "nom": "Raphael",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "DES.2025",
+            "dia": "20",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-12-20T21:09+02:00"
+        },
+        {
+            "nom": "David Bisbal",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "DES.2025",
+            "dia": "23",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-12-23T21:09+02:00"
+        },
+        {
+            "nom": "Loquillo",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "DES.2025",
+            "dia": "27",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-12-27T21:09+02:00"
+        },
+        {
+            "nom": "Nil Moliner",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "DES.2025",
+            "dia": "27",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-12-27T21:09+02:00"
+        },
+        {
+            "nom": "Pecos",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "DES.2025",
+            "dia": "28",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-12-28T21:09+02:00"
+        },
+        {
+            "nom": "RUSOWSKY (15 i 16 de gener)",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "GEN.2026",
+            "dia": "15",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-15T21:09+02:00"
+        },
+        {
+            "nom": "Fito & Fitipaldis (16 i 17 Gener)",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "GEN.2026",
+            "dia": "16",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-01-16T21:09+02:00"
+        },
+        {
+            "nom": "Electric Callboy",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "GEN.2026",
+            "dia": "22",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-22T21:09+02:00"
+        },
+        {
+            "nom": "André Rieu",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "GEN.2026",
+            "dia": "31",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-01-31T21:09+02:00"
+        },
+        {
+            "nom": "Julieta",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "FEB.2026",
+            "dia": "13",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-02-13T21:09+02:00"
+        },
+        {
+            "nom": "FernandoCosta",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "FEB.2026",
+            "dia": "14",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-02-14T21:09+02:00"
+        },
+        {
+            "nom": "Mikel Izal ",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "FEB.2026",
+            "dia": "20",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-02-20T21:09+02:00"
+        },
+        {
+            "nom": "Luis Cortés",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "FEB.2026",
+            "dia": "22",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-02-22T21:09+02:00"
+        },
+        {
+            "nom": "Sombr",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "FEB.2026",
+            "dia": "25",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-25T21:09+02:00"
+        },
+        {
+            "nom": "Judeline",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "FEB.2026",
+            "dia": "26",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-02-26T21:09+02:00"
+        },
+        {
+            "nom": "Celtas Cortos",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "MAR.2026",
+            "dia": "14",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-03-14T21:09+02:00"
+        },
+        {
+            "nom": "Hans Zimmer Live",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "MAR.2026",
+            "dia": "27",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-03-27T21:09+02:00"
+        },
+        {
+            "nom": "ETS",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "ABR.2026",
+            "dia": "11",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-04-11T21:09+02:00"
+        },
+        {
+            "nom": "Dani Martín",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "ABR.2026",
+            "dia": "25",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-04-25T21:09+02:00"
+        },
+        {
+            "nom": "Pau Vallvé",
+            "sala": "Sant Jordi Club",
+            "hora": "21:09",
+            "mes": "ABR.2026",
+            "dia": "25",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-04-25T21:09+02:00"
+        },
+        {
+            "nom": "Eros Ramazzotti",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "MAI.2026",
+            "dia": "2",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-05-02T21:09+02:00"
+        },
+        {
+            "nom": "El Último de la Fila",
+            "sala": "Estadi Olímpic",
+            "hora": "21:09",
+            "mes": "MAI.2026",
+            "dia": "3",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-05-03T21:09+02:00"
+        },
+        {
+            "nom": "El Último de la Fila",
+            "sala": "Estadi Olímpic",
+            "hora": "21:09",
+            "mes": "MAI.2026",
+            "dia": "7",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-05-07T21:09+02:00"
+        },
+        {
+            "nom": "Hijos de la Ruina",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "MAI.2026",
+            "dia": "15",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-05-15T21:09+02:00"
+        },
+        {
+            "nom": "Bad Bunny - 22 i 23 maig 2026",
+            "sala": "Estadi Olímpic",
+            "hora": "21:09",
+            "mes": "MAI.2026",
+            "dia": "22",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-05-22T21:09+02:00"
+        },
+        {
+            "nom": "Dani Martín",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "OCT.2026",
+            "dia": "24",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-10-24T21:09+02:00"
+        },
+        {
+            "nom": "Galvan Real",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:09",
+            "mes": "NOV.2026",
+            "dia": "29",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-11-29T21:09+02:00"
         }
 ]
 }
