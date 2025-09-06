@@ -1,5 +1,15 @@
 {
 "concerts": [
+    {
+            "nom": "PROGRESSIOUX + ROCE + SUCKARRATS + DRY MEN",
+            "sala": "Plç. Ca l'Alier (Poblenou-BCN)",
+            "hora": "19:00",
+            "mes": "SET.2025",
+            "dia": "10",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-09-06T21:00+02:00"
+        },
 	{
             "nom": "WE CALL IT JAZZ",
             "sala": "Jamboree(3)",
