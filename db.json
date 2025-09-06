@@ -9591,6 +9591,186 @@
             "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2026-11-29T21:09+02:00"
+        },
+        {
+            "nom": "IGNASI TERRAZA & ANTONIO SERRANO",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "18",
+            "textdia": "SET.2025",
+            "ciutat": "",
+            "dateTime": "2025-09-18T20:00+02:00"
+        },
+        {
+            "nom": "YAZZ AHMED & RALPH WYLD",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "21",
+            "textdia": "SET.2025",
+            "ciutat": "",
+            "dateTime": "2025-09-21T20:00+02:00"
+        },
+        {
+            "nom": "XIXA",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "27",
+            "textdia": "SET.2025",
+            "ciutat": "",
+            "dateTime": "2025-09-27T20:00+02:00"
+        },
+        {
+            "nom": "ROBERTO FONSECA",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "28",
+            "textdia": "SET.2025",
+            "ciutat": "",
+            "dateTime": "2025-09-28T20:00+02:00"
+        },
+        {
+            "nom": "THE DELINES",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "4",
+            "textdia": "OCT.2025",
+            "ciutat": "",
+            "dateTime": "2025-10-04T20:00+02:00"
+        },
+        {
+            "nom": "ALONDRA BENTLEY",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "5",
+            "textdia": "OCT.2025",
+            "ciutat": "",
+            "dateTime": "2025-10-05T20:00+02:00"
+        },
+        {
+            "nom": "GONZALO DEL VAL QUINTETO",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "11",
+            "textdia": "OCT.2025",
+            "ciutat": "",
+            "dateTime": "2025-10-11T20:00+02:00"
+        },
+        {
+            "nom": "ALBA CARMONA I JESÚS GUERRERO",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "24",
+            "textdia": "OCT.2025",
+            "ciutat": "",
+            "dateTime": "2025-10-24T20:00+02:00"
+        },
+        {
+            "nom": "PATAX",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "31",
+            "textdia": "OCT.2025",
+            "ciutat": "",
+            "dateTime": "2025-10-31T20:00+02:00"
+        },
+        {
+            "nom": "RUSSIAN RED",
+            "sala": "El Molino",
+            "hora": "20:09",
+            "dia": "7",
+            "textdia": "NOV.2025",
+            "ciutat": "",
+            "dateTime": "2025-11-07T20:09+02:00"
+        },
+        {
+            "nom": "RUSSIAN RED",
+            "sala": "El Molino",
+            "hora": "20:09",
+            "dia": "8",
+            "textdia": "NOV.2025",
+            "ciutat": "",
+            "dateTime": "2025-11-08T20:09+02:00"
+        },
+        {
+            "nom": "ADRIAN YOUNGE",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "9",
+            "textdia": "NOV.2025",
+            "ciutat": "",
+            "dateTime": "2025-11-09T20:00+02:00"
+        },
+        {
+            "nom": "STACEY KENT",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "16",
+            "textdia": "NOV.2025",
+            "ciutat": "",
+            "dateTime": "2025-11-16T20:00+02:00"
+        },
+        {
+            "nom": "REUBEN JAMES",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "20",
+            "textdia": "NOV.2025",
+            "ciutat": "",
+            "dateTime": "2025-11-20T20:00+02:00"
+        },
+        {
+            "nom": "SANTIAGO AUSERÓN",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "22",
+            "textdia": "NOV.2025",
+            "ciutat": "",
+            "dateTime": "2025-11-22T20:00+02:00"
+        },
+        {
+            "nom": "MICAH P. HINSON",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "28",
+            "textdia": "NOV.2025",
+            "ciutat": "",
+            "dateTime": "2025-11-28T20:00+02:00"
+        },
+        {
+            "nom": "BUTLER, BLAKE & GRANT",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "29",
+            "textdia": "NOV.2025",
+            "ciutat": "",
+            "dateTime": "2025-11-29T20:00+02:00"
+        },
+        {
+            "nom": "AMAIA MIRANDA",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "30",
+            "textdia": "NOV.2025",
+            "ciutat": "",
+            "dateTime": "2025-11-30T20:00+02:00"
+        },
+        {
+            "nom": "ASTRIO",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "4",
+            "textdia": "DES.2025",
+            "ciutat": "",
+            "dateTime": "2025-12-04T20:00+02:00"
+        },
+        {
+            "nom": "SERGI CARBONELL",
+            "sala": "El Molino",
+            "hora": "20:00",
+            "dia": "19",
+            "textdia": "DES.2025",
+            "ciutat": "",
+            "dateTime": "2025-12-19T20:00+02:00"
         }
 ]
 }
