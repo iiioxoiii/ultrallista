@@ -1,6 +1,56 @@
 {
 "concerts": [
 	{
+            "nom": "NAZARETH",
+            "sala": "Bikini",
+            "hora": "19:00",
+            "mes": "SET.2025",
+            "dia": "21",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-09-21T19:00+02:00"
+        },
+        {
+            "nom": "VERKA SERDUCHKA",
+            "sala": "Bikini",
+            "hora": "19:00",
+            "mes": "SET.2025",
+            "dia": "28",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-09-28T19:00+02:00"
+        },
+        {
+            "nom": "3AM",
+            "sala": "Bikini",
+            "hora": "19:30",
+            "mes": "NOV.2025",
+            "dia": "20",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-20T19:30+02:00"
+        },
+        {
+            "nom": "BOOMBOX / БУМБОКС – ДРОНОТУР",
+            "sala": "Bikini",
+            "hora": "19:00",
+            "mes": "FEB.2026",
+            "dia": "18",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-18T19:00+02:00"
+        },
+        {
+            "nom": "BEZ OBMEZHEN",
+            "sala": "Bikini",
+            "hora": "19:00",
+            "mes": "MAR.2026",
+            "dia": "22",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-03-22T19:00+02:00"
+        },
+	{
             "nom": "The Painkillers + What'sup the people + Radio Truco",
             "sala": "Plç. de la Cultura (L'H)",
             "hora": "22:00",
