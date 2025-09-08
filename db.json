@@ -10,56 +10,6 @@
             "ciutat": "",
             "dateTime": "2025-09-10T21:00+02:00"
         },
-	{
-            "nom": "WE CALL IT JAZZ",
-            "sala": "Jamboree(3)",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-06T19:00+02:00"
-        },
-        {
-            "nom": "WE CALL IT JAZZ",
-            "sala": "Jamboree(3)",
-            "hora": "20:45",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-06T20:45+02:00"
-        },
-        {
-            "nom": "GIGI MCFARLANE",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "7",
-            "textdia": "dilluns",
-            "ciutat": "",
-            "dateTime": "2025-09-07T19:00+02:00"
-        },
-        {
-            "nom": "GIGI MCFARLANE",
-            "sala": "Jamboree(1)",
-            "hora": "20:30",
-            "mes": "SET.2025",
-            "dia": "7",
-            "textdia": "dilluns",
-            "ciutat": "",
-            "dateTime": "2025-09-07T20:30+02:00"
-        },
-        {
-            "nom": "JAMBOREE JAZZ SPACE",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "8",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2025-09-08T19:00+02:00"
-        },
         {
             "nom": "SOULCARE (FEAT. HERNÁN ROMERO)",
             "sala": "Jamboree(3)",
@@ -1690,16 +1640,6 @@
             "ciutat": "",
             "dateTime": "2026-06-20T21:00+02:00"
         },
-		{
-            "nom": "ROSENTHAL EFFECT",
-            "sala": "Boîte",
-            "hora": "20:30",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-06T20:30+02:00"
-        },
         {
             "nom": "QUE ELLA DECIDA",
             "sala": "Boîte",
@@ -1865,16 +1805,7 @@
             "ciutat": "",
             "dateTime": "2025-11-13T20:30+02:00"
         },
-        {
-            "nom": "Acopia + S.D.H. + Selectya Glossy",
-            "sala": "Vol",
-            "hora": "20:00",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T20:00+02:00"
-        },{
+       {
             "nom": "Banda Municipal BCN",
             "sala": "Casino l'Aliança",
             "hora": "20:00",
@@ -1945,66 +1876,6 @@
             "dateTime": "2025-09-05T23:00+02:00"
         },
         {
-            "nom": "CODIGO ROCK (versions)",
-            "sala": "Roc Boronat / Pallars",
-            "hora": "20:00",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T20:00+02:00"
-        },
-        {
-            "nom": "BARBOOTS",
-            "sala": "Roc Boronat / Pallars",
-            "hora": "23:15",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T20:00+02:00"
-        },
-        {
-            "nom": "TDA",
-            "sala": "Roc Boronat / Pallars",
-            "hora": "00:59",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T23:59+02:00"
-        },
-        {
-            "nom": "NIT DE BANDES",
-            "sala": "Doctor Trueta",
-            "hora": "21:00",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T21:00+02:00"
-        },
-        {
-            "nom": "MIL NOTES TRIO",
-            "sala": "Sant Bernat Calbó",
-            "hora": "23:00",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T23:00+02:00"
-        },
-        {
-            "nom": "Canelita",
-            "sala": "Apolo[1]",
-            "hora": "20:00",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T20:00+02:00"
-        },
-        {
             "nom": "El Toni, El Pako & el Aitor",
             "sala": "Parc Europa (Sta. Coloma de Gramenet)",
             "hora": "21:00",
@@ -2045,51 +1916,6 @@
             "dateTime": "2025-09-05T23:59+02:00"
         },
         {
-            "nom": "LOS TIKI PHANTOMS",
-            "sala": "Parc Europa (Sta. Coloma de Gramenet)",
-            "hora": "02:00",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T02:00+02:00"
-        },{
-            "nom": "RATPENADES",
-            "sala": "Parc Europa (Sta. Coloma de Gramenet)",
-            "hora": "21:00",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T21:00+02:00"
-        },{
-            "nom": "THE ADDBALLS",
-            "sala": "Parc Europa (Sta. Coloma de Gramenet)",
-            "hora": "22:00",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T22:00+02:00"
-        },{
-            "nom": "MEDALLA",
-            "sala": "Parc Europa (Sta. Coloma de Gramenet)",
-            "hora": "23:15",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T23:15+02:00"
-        },{
-            "nom": "PARQUE SVR",
-            "sala": "Parc Europa (Sta. Coloma de Gramenet)",
-            "hora": "00:30",
-            "mes": "SET.2025",
-            "dia": "7",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-06T00:30+02:00"
-        },{
             "nom": "SISTEMA DE ENTRETENIMIENTO",
             "sala": "Parc Europa (Sta. Coloma de Gramenet)",
             "hora": "21:00",
@@ -3154,26 +2980,6 @@
             "dateTime": "2025-09-05T23:45+02:00"
         },
         {
-            "nom": "MONTFLORIT + QUINCALLA + DERBI JUNIOR",
-            "sala": "La Deskomunal",
-            "hora": "20:15",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-06T20:15+02:00"
-        },
-        {
-            "nom": "SELECTRONIKA",
-            "sala": "La Deskomunal",
-            "hora": "23:45",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-06T23:45+02:00"
-        },
-        {
             "nom": "PEER PRESURE + MALA HOSTIA + MICRMINDS",
             "sala": "La Deskomunal",
             "hora": "20:00",
@@ -3334,16 +3140,7 @@
 		"ciutat": "",
 		"dateTime": "2025-08-30T12:30+02:00"
 	},
-	{
-		"nom": "Banda Municipal BCN",
-		"sala": "Plç. Espanya Ind.",
-		"hora": "18:30",
-		"mes": "SET.2025",
-		"dia": "6",
-		"textdia": "dissabte",
-		"ciutat": "",
-		"dateTime": "2025-09-06T18:30+02:00"
-	},
+	
 	{
 		"nom": "AWA PA LOS CALVOS",
 		"sala": "Plç. Espanya Ind.",
@@ -4933,16 +4730,7 @@
             "ciutat": "",
             "dateTime": "2025-09-05T19:30+02:00"
         },
-        {
-            "nom": "ONDA VAGA",
-            "sala": "Razzmatazz(2)",
-            "hora": "19:30",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T19:30+02:00"
-        },
+        
         {
             "nom": "MONSIEUR PERINÉ",
             "sala": "Razzmatazz(1)",
@@ -7053,16 +6841,7 @@
             "ciutat": "",
             "dateTime": "2025-09-05T20:00+02:00"
         },
-        {
-            "nom": "CAIO ARANCIO",
-            "sala": "wolf",
-            "hora": "20:00",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T20:00+02:00"
-        },
+        
         {
             "nom": "MIR NICOLAS",
             "sala": "wolf",
@@ -7552,16 +7331,6 @@
             "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-05T21:30+02:00"
-        },
-        {
-            "nom": "TKM",
-            "sala": "LaNau",
-            "hora": "21:12",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-06T21:12+02:00"
         },
         {
             "nom": "SANTI MUK Y ZENON PEREYRA",
@@ -8201,16 +7970,6 @@
             "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-05T23:30+02:00"
-        },
-        {
-            "nom": "SONS OF THE EAST + MATTHEW MOLE",
-            "sala": "Paral·lel 62",
-            "hora": "20:15",
-            "mes": "SET.2025",
-            "dia": "6",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-06T20:15+02:00"
         },
         {
             "nom": "ANA TIJOUX, ROCCA I MÉS",
