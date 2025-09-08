@@ -1,6 +1,118 @@
 {
 "concerts": [
 	{
+            "nom": "The Painkillers + What'sup the people + Radio Truco",
+            "sala": "Plç. de la Cultura (L'H)",
+            "hora": "22:00",
+            "mes": "SET.2025",
+            "dia": "6",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-06T22:00+02:00"
+        },{
+            "nom": "No Somos el Palo",
+            "sala": "Plç. de la Cultura (L'H)",
+            "hora": "18:00",
+            "mes": "SET.2025",
+            "dia": "7",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-07T18:00+02:00"
+        },{
+            "nom": "Paradise + Hungry Wolf",
+            "sala": "Plç. de la Cultura (L'H)",
+            "hora": "21:00",
+            "mes": "SET.2025",
+            "dia": "7",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-07T21:00+02:00"
+        },{
+            "nom": "Americant Lake Covers",
+            "sala": "Plç. de la Cultura (L'H)",
+            "hora": "22:00",
+            "mes": "SET.2025",
+            "dia": "9",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-09-09T22:00+02:00"
+        },
+	{
+            "nom": "Ocikotters + Dead People + Neighbour Rats",
+            "sala": "Plç. de la Cultura (L'H)",
+            "hora": "22:30",
+            "mes": "SET.2025",
+            "dia": "10",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-09-10T22:30+02:00"
+        },{
+            "nom": "JANE JAUME BAND",
+            "sala": "Plç. de la Cultura (L'H)",
+            "hora": "22:00",
+            "mes": "SET.2025",
+            "dia": "11",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-09-11T22:00+02:00"
+        },{
+            "nom": "HOSTIA PEDAGÓGICA + THE MOMENTO",
+            "sala": "Plç. de la Cultura (L'H)",
+            "hora": "23:30",
+            "mes": "SET.2025",
+            "dia": "12",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-09-12T23:30+02:00"
+        },{
+            "nom": "Combos Pop-Rock",
+            "sala": "Plç. de la Cultura (L'H)",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "12",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-09-12T20:00+02:00"
+        },{
+            "nom": "GRAY DREAM + La Ültima Movida + CHACAL CULT",
+            "sala": "Plç. de la Cultura (L'H)",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "13",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-13T22:30+02:00"
+        },{
+            "nom": "Dani Flaco",
+            "sala": "Plç. del Mercat (L'H)",
+            "hora": "22:00",
+            "mes": "SET.2025",
+            "dia": "13",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-13T22:00+02:00"
+        },{
+            "nom": "Chacal Cult",
+            "sala": "Plç. del Mercat (L'H)",
+            "hora": "01:00",
+            "mes": "SET.2025",
+            "dia": "14",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-14T01:00+02:00"
+        },{
+            "nom": "OmicronBCN",
+            "sala": "Plç. de la Cultura (L'H)",
+            "hora": "20:45",
+            "mes": "SET.2025",
+            "dia": "14",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-14T20:45+02:00"
+        },
+	
+	
+	{
             "nom": "ANTIC",
             "sala": "Freedonia",
             "hora": "20:30",
