@@ -1,5 +1,105 @@
 {
 "concerts": [
+	{
+            "nom": "ANTIC",
+            "sala": "Freedonia",
+            "hora": "20:30",
+            "mes": "SET.2025",
+            "dia": "9",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-12T20:30+02:00"
+        },
+        {
+            "nom": "EL NIÑO DE LA PILI + PERKAL",
+            "sala": "Freedonia",
+            "hora": "20:30",
+            "mes": "SET.2025",
+            "dia": "9",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-13T20:30+02:00"
+        },
+        {
+            "nom": "HOSTIA PEDAGÓGICA + ÜLL",
+            "sala": "Freedonia",
+            "hora": "20:30",
+            "mes": "SET.2025",
+            "dia": "9",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-20T20:30+02:00"
+        },
+        {
+            "nom": "SHE CAN’T AFFORD MASCARA + DICEPHAL MORTUS",
+            "sala": "Freedonia",
+            "hora": "20:30",
+            "mes": "SET.2025",
+            "dia": "9",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-09-27T20:30+02:00"
+        },
+        {
+            "nom": "VUELVETELOCA + LA DIVINA",
+            "sala": "Freedonia",
+            "hora": "20:30",
+            "mes": "OCT.2025",
+            "dia": "10",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-02T20:30+02:00"
+        },
+        {
+            "nom": "PIPO MORALEDA & LA SED + CHARLIE DIAGO TRÍO",
+            "sala": "Freedonia",
+            "hora": "20:30",
+            "mes": "OCT.2025",
+            "dia": "10",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-03T20:30+02:00"
+        },
+        {
+            "nom": "KING OF PAIN + L’IRREAL OMEGA",
+            "sala": "Freedonia",
+            "hora": "20:30",
+            "mes": "OCT.2025",
+            "dia": "10",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-04T20:30+02:00"
+        },
+        {
+            "nom": "KRASHKARMA",
+            "sala": "Freedonia",
+            "hora": "20:30",
+            "mes": "OCT.2025",
+            "dia": "10",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-09T20:30+02:00"
+        },
+        {
+            "nom": "LUCAS COLMAN",
+            "sala": "Freedonia",
+            "hora": "20:30",
+            "mes": "OCT.2025",
+            "dia": "10",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-17T20:30+02:00"
+        },
+        {
+            "nom": "DECIMALS + TESTUS",
+            "sala": "Freedonia",
+            "hora": "20:30",
+            "mes": "OCT.2025",
+            "dia": "10",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-10-18T20:30+02:00"
+        },
     {
             "nom": "PROGRESSIOUX + ROCE + SUCKARRATS + DRY MEN",
             "sala": "Plç. Ca l'Alier (Poblenou-BCN)",
