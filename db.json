@@ -2098,36 +2098,6 @@
             "dateTime": "2025-09-13T23:59+02:00"
         },
         {
-            "nom": "Son Rompe Pera",
-            "sala": "Apolo[2]",
-            "hora": "20:30",
-            "mes": "SET.2025",
-            "dia": "2",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2025-09-02T20:30+02:00"
-        },
-        {
-            "nom": "Neo Pistea",
-            "sala": "Apolo[1]",
-            "hora": "20:00",
-            "mes": "SET.2025",
-            "dia": "4",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-04T20:00+02:00"
-        },
-        {
-            "nom": "Silvestre y La Naranja",
-            "sala": "Apolo[1]",
-            "hora": "20:00",
-            "mes": "SET.2025",
-            "dia": "5",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-05T20:00+02:00"
-        },
-        {
             "nom": "DUET ESQUITX",
             "sala": "Plç. Sant Bernat Calbó",
             "hora": "23:00",
@@ -2251,6 +2221,15 @@
             "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-13T16:00+02:00"
+        }, {
+            "nom": "Bersuit Vergarabat - 25 anys amb Espanya",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "SET.2025",
+            "dia": "10",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-09-10T19:30+02:00"
         },
         {
             "nom": "20è Aniversari àlbum Clap Your Hands Say Yeah",
@@ -2258,19 +2237,19 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "10",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-09-10T20:00+02:00"
         },
         {
-            "nom": "Bersuit",
-            "sala": "Apolo[1]",
-            "hora": "20:00",
+            "nom": "José Madero + La Gusana Ciega",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
             "mes": "SET.2025",
-            "dia": "10",
+            "dia": "11",
             "textdia": "dijous",
             "ciutat": "",
-            "dateTime": "2025-09-10T20:00+02:00"
+            "dateTime": "2025-09-11T19:30+02:00"
         },
         {
             "nom": "Caloncho",
@@ -2278,17 +2257,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "11",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-11T20:00+02:00"
-        },
-        {
-            "nom": "José Madero + La Gusana Ciega",
-            "sala": "Apolo[2]",
-            "hora": "20:00",
-            "mes": "SET.2025",
-            "dia": "11",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-09-11T20:00+02:00"
         },
@@ -2298,7 +2267,7 @@
             "hora": "19:30",
             "mes": "SET.2025",
             "dia": "12",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-12T19:30+02:00"
         },
@@ -2308,17 +2277,17 @@
             "hora": "19:30",
             "mes": "SET.2025",
             "dia": "13",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-13T19:30+02:00"
         },
         {
-            "nom": "Barcelona Jazz Orquestra",
+            "nom": "Jazz & Swing amb la Barcelona Jazz Orquestra",
             "sala": "Apolo[1]",
             "hora": "11:00",
             "mes": "SET.2025",
             "dia": "14",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-09-14T11:00+02:00"
         },
@@ -2328,17 +2297,17 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "16",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-09-16T20:00+02:00"
         },
         {
-            "nom": "Wilfrido Vargas",
+            "nom": "El King del Merengue en BCN: Wilfrido Vargas",
             "sala": "Apolo[2]",
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "19",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-19T19:00+02:00"
         },
@@ -2348,7 +2317,7 @@
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "20",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-20T19:00+02:00"
         },
@@ -2358,7 +2327,7 @@
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "20",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-20T19:00+02:00"
         },
@@ -2368,7 +2337,7 @@
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "23",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-09-23T19:00+02:00"
         },
@@ -2378,7 +2347,7 @@
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "26",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-26T19:00+02:00"
         },
@@ -2388,9 +2357,19 @@
             "hora": "17:00",
             "mes": "SET.2025",
             "dia": "27",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-27T17:00+02:00"
+        },
+        {
+            "nom": "IM-PULSE | Tributo Pink Floyd Live Show",
+            "sala": "Apolo[2]",
+            "hora": "19:00",
+            "mes": "SET.2025",
+            "dia": "27",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-27T19:00+02:00"
         },
         {
             "nom": "Alfa",
@@ -2398,7 +2377,7 @@
             "hora": "19:30",
             "mes": "SET.2025",
             "dia": "30",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-09-30T19:30+02:00"
         },
@@ -2408,7 +2387,7 @@
             "hora": "19:30",
             "mes": "OCT.2025",
             "dia": "1",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-01T19:30+02:00"
         },
@@ -2418,7 +2397,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "3",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-03T19:00+02:00"
         },
@@ -2428,7 +2407,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "3",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-03T20:00+02:00"
         },
@@ -2438,9 +2417,19 @@
             "hora": "18:00",
             "mes": "OCT.2025",
             "dia": "4",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-04T18:00+02:00"
+        },
+        {
+            "nom": "Biga*Ranx",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "4",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-04T20:00+02:00"
         },
         {
             "nom": "Coheed & Cambria",
@@ -2448,17 +2437,17 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "8",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-08T19:00+02:00"
         },
         {
-            "nom": "The Pharcyde",
+            "nom": "Jeru The Damaja presents: Do The Right Thing / The Pharcyde",
             "sala": "Apolo[2]",
             "hora": "19:30",
             "mes": "OCT.2025",
             "dia": "8",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-08T19:30+02:00"
         },
@@ -2468,7 +2457,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "9",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-09T19:00+02:00"
         },
@@ -2478,27 +2467,27 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "10",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-10T19:00+02:00"
         },
         {
-            "nom": "Mazoni",
+            "nom": "Empremtes 2025 | Mazoni",
             "sala": "Apolo[2]",
             "hora": "19:30",
             "mes": "OCT.2025",
             "dia": "11",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-11T19:30+02:00"
         },
         {
-            "nom": "Ledisi",
+            "nom": "Piñata presenta: Ledisi",
             "sala": "Apolo[2]",
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "14",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-14T20:00+02:00"
         },
@@ -2508,27 +2497,27 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "15",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-15T20:00+02:00"
         },
         {
-            "nom": "Freedonia",
+            "nom": "Piñata presenta: Freedonia",
             "sala": "Apolo[2]",
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "16",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-16T20:00+02:00"
         },
         {
-            "nom": "Carla Collado",
+            "nom": "Empremtes 2025 | Carla Collado",
             "sala": "Apolo[2]",
             "hora": "19:30",
             "mes": "OCT.2025",
             "dia": "17",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-17T19:30+02:00"
         },
@@ -2538,9 +2527,19 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "17",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-17T20:00+02:00"
+        },
+        {
+            "nom": "Griso",
+            "sala": "Apolo[2]",
+            "hora": "20:00",
+            "mes": "OCT.2025",
+            "dia": "18",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-18T20:00+02:00"
         },
         {
             "nom": "Familia de Leyendas",
@@ -2548,7 +2547,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "18",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-18T20:00+02:00"
         },
@@ -2558,7 +2557,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "20",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-10-20T19:00+02:00"
         },
@@ -2568,17 +2567,17 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "21",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-21T19:00+02:00"
         },
         {
-            "nom": "The 5.6.7.8's",
+            "nom": "Curtcircuit: The 5.6.7.8's",
             "sala": "Apolo[2]",
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "21",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-21T19:00+02:00"
         },
@@ -2588,7 +2587,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "22",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-22T19:00+02:00"
         },
@@ -2598,7 +2597,7 @@
             "hora": "19:30",
             "mes": "OCT.2025",
             "dia": "23",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-23T19:30+02:00"
         },
@@ -2608,19 +2607,29 @@
             "hora": "19:30",
             "mes": "OCT.2025",
             "dia": "23",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-23T19:30+02:00"
         },
         {
-            "nom": "La Cabra Mecánica",
+            "nom": "Empremtes 2025 | La Cabra Mecánica",
             "sala": "Apolo[1]",
             "hora": "19:30",
             "mes": "OCT.2025",
             "dia": "24",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-24T19:30+02:00"
+        },
+        {
+            "nom": "Sarao Drag de Futuroa: vol. 18",
+            "sala": "Apolo[1]",
+            "hora": "19:00",
+            "mes": "OCT.2025",
+            "dia": "25",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-25T19:00+02:00"
         },
         {
             "nom": "Lisandro Aristimuño",
@@ -2628,17 +2637,17 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "27",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-10-27T20:30+02:00"
         },
         {
-            "nom": "Shing02 & Spin Master A-1 Luv(Sic) Hexalogy",
+            "nom": "Piñata presenta: Shing02 & Spin Master A-1 Luv(Sic) Hexalogy",
             "sala": "Apolo[2]",
             "hora": "19:45",
             "mes": "OCT.2025",
             "dia": "28",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-28T19:45+02:00"
         },
@@ -2648,37 +2657,37 @@
             "hora": "18:30",
             "mes": "OCT.2025",
             "dia": "29",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-29T18:30+02:00"
         },
         {
-            "nom": "Delvon Lamarr Organ Trio",
+            "nom": "Piñata presenta: Delvon Lamarr Organ Trio",
             "sala": "Apolo[2]",
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "31",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-31T20:00+02:00"
         },
         {
-            "nom": "Mr. Kilombo",
+            "nom": "Empremtes 2025 | Mr. Kilombo",
             "sala": "Apolo[1]",
             "hora": "19:30",
             "mes": "NOV.2025",
             "dia": "1",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-01T19:30+02:00"
         },
         {
-            "nom": "Bilal",
+            "nom": "Piñata presenta: Bilal",
             "sala": "Apolo[2]",
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "4",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-04T20:00+02:00"
         },
@@ -2688,7 +2697,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "5",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-05T19:00+02:00"
         },
@@ -2698,9 +2707,19 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "6",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-06T19:00+02:00"
+        },
+        {
+            "nom": "Piñata presenta: Mind Enterprises",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
+            "mes": "NOV.2025",
+            "dia": "7",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-07T19:30+02:00"
         },
         {
             "nom": "Los Sirex",
@@ -2708,17 +2727,17 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "7",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-07T20:00+02:00"
         },
         {
-            "nom": "Ángeles Toledano",
+            "nom": "Flamencos y Otras Aves presenta: Ángeles Toledano presenta \"Sangre Sucia\"",
             "sala": "Apolo[1]",
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "8",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-08T20:00+02:00"
         },
@@ -2728,7 +2747,7 @@
             "hora": "19:15",
             "mes": "NOV.2025",
             "dia": "10",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-11-10T19:15+02:00"
         },
@@ -2738,19 +2757,39 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "13",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-13T19:00+02:00"
         },
         {
-            "nom": "Sol Lagarto",
+            "nom": "Curtcircuit: Sol Lagarto",
             "sala": "Apolo[2]",
             "hora": "19:45",
             "mes": "NOV.2025",
             "dia": "13",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-13T19:45+02:00"
+        },
+        {
+            "nom": "Muerdo - Gira Sinvergüenza",
+            "sala": "Apolo[2]",
+            "hora": "19:30",
+            "mes": "NOV.2025",
+            "dia": "14",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-14T19:30+02:00"
+        },
+        {
+            "nom": "Partiboi69",
+            "sala": "Apolo[2]",
+            "hora": "19:00",
+            "mes": "NOV.2025",
+            "dia": "15",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-15T19:00+02:00"
         },
         {
             "nom": "Carlos Ares",
@@ -2758,9 +2797,19 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "15",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-15T20:00+02:00"
+        },
+        {
+            "nom": "Juicy Bae",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "NOV.2025",
+            "dia": "16",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-16T19:30+02:00"
         },
         {
             "nom": "Monobloco",
@@ -2768,7 +2817,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "18",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-18T20:00+02:00"
         },
@@ -2778,17 +2827,17 @@
             "hora": "19:30",
             "mes": "NOV.2025",
             "dia": "19",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-19T19:30+02:00"
         },
         {
-            "nom": "Maria Hein",
+            "nom": "Cruïlla Tardor 2025 | Maria Hein",
             "sala": "Apolo[1]",
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "20",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-20T20:00+02:00"
         },
@@ -2798,17 +2847,17 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "21",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-21T19:00+02:00"
         },
         {
-            "nom": "El Jose",
+            "nom": "Empremtes 2025 | El Jose",
             "sala": "Apolo[2]",
             "hora": "19:15",
             "mes": "NOV.2025",
             "dia": "21",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-21T19:15+02:00"
         },
@@ -2818,17 +2867,17 @@
             "hora": "19:30",
             "mes": "NOV.2025",
             "dia": "22",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-22T19:30+02:00"
         },
         {
-            "nom": "Manuel Cortés",
+            "nom": "Manuel Cortés presenta “Mi Sentir”",
             "sala": "Apolo[2]",
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "22",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-22T20:00+02:00"
         },
@@ -2838,7 +2887,7 @@
             "hora": "19:30",
             "mes": "NOV.2025",
             "dia": "26",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-26T19:30+02:00"
         },
@@ -2848,7 +2897,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "27",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-27T19:00+02:00"
         },
@@ -2858,7 +2907,7 @@
             "hora": "19:30",
             "mes": "NOV.2025",
             "dia": "27",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-27T19:30+02:00"
         },
@@ -2868,7 +2917,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "28",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-28T20:00+02:00"
         },
@@ -2878,7 +2927,7 @@
             "hora": "19:30",
             "mes": "NOV.2025",
             "dia": "29",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-29T19:30+02:00"
         },
@@ -2888,7 +2937,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "29",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-29T20:00+02:00"
         },
@@ -2898,7 +2947,7 @@
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "4",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-12-04T20:00+02:00"
         },
@@ -2908,37 +2957,37 @@
             "hora": "19:30",
             "mes": "DES.2025",
             "dia": "5",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-05T19:30+02:00"
         },
         {
-            "nom": "he Kiffness",
+            "nom": "Piñata presenta: The Kiffness",
             "sala": "Apolo[1]",
             "hora": "19:30",
             "mes": "DES.2025",
             "dia": "6",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-06T19:30+02:00"
         },
         {
-            "nom": "Maruja",
-            "sala": "Apolo[2]  &#127894; ",
+            "nom": "Maruja &#127894",
+            "sala": "Apolo[2]",
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "6",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-06T20:00+02:00"
         },
         {
-            "nom": "Fetus i Les Testarudes",
-            "sala": "Apolo[2]",
+            "nom": "La Gran Xefla 2025 | Fetus i Les Testarudes",
+            "sala": "Apolo[1]",
             "hora": "19:30",
             "mes": "DES.2025",
             "dia": "11",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-12-11T19:30+02:00"
         },
@@ -2948,7 +2997,7 @@
             "hora": "19:30",
             "mes": "DES.2025",
             "dia": "12",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-12T19:30+02:00"
         },
@@ -2958,17 +3007,17 @@
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "13",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-13T20:00+02:00"
         },
         {
-            "nom": "Yamê",
+            "nom": "Banco Mediolanum 27è Festival Mil·lenni - Yamê",
             "sala": "Apolo[1]",
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "17",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-12-17T20:00+02:00"
         },
@@ -2978,17 +3027,17 @@
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "18",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-12-18T20:00+02:00"
         },
         {
-            "nom": "Amparanoia",
+            "nom": "Empremtes 2025 | Amparanoia",
             "sala": "Apolo[1]",
             "hora": "19:30",
             "mes": "DES.2025",
             "dia": "19",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-19T19:30+02:00"
         },
@@ -2998,7 +3047,7 @@
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "20",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-20T20:00+02:00"
         },
@@ -3008,47 +3057,57 @@
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "27",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-27T20:00+02:00"
         },
         {
-            "nom": "Dani Nel·lo ",
+            "nom": "Dani Nel·lo 40 anys als escenaris",
             "sala": "Apolo[2]",
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "27",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-27T20:00+02:00"
         },
         {
-            "nom": "Hinds",
+            "nom": "Los Yakis",
+            "sala": "Apolo[1]",
+            "hora": "20:00",
+            "mes": "GEN.2026",
+            "dia": "3",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-01-03T20:00+02:00"
+        },
+        {
+            "nom": "Banco Mediolanum 27è Festival Mil·lenni - Hinds",
             "sala": "Apolo[1]",
             "hora": "19:30",
             "mes": "GEN.2026",
             "dia": "23",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2026-01-23T19:30+02:00"
         },
         {
-            "nom": "Cycle",
+            "nom": "Cycle - 20è Aniversari Weak On The Rocks",
             "sala": "Apolo[2]",
             "hora": "20:00",
             "mes": "GEN.2026",
             "dia": "24",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-01-24T20:00+02:00"
         },
         {
-            "nom": "The Nu Metal Resurrection",
+            "nom": "The Nu Metal Resurrection | Live Show By Roots",
             "sala": "Apolo[2]",
             "hora": "19:30",
             "mes": "GEN.2026",
             "dia": "30",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2026-01-30T19:30+02:00"
         },
@@ -3058,7 +3117,7 @@
             "hora": "20:00",
             "mes": "GEN.2026",
             "dia": "30",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2026-01-30T20:00+02:00"
         },
@@ -3068,17 +3127,17 @@
             "hora": "20:30",
             "mes": "GEN.2026",
             "dia": "31",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-01-31T20:30+02:00"
         },
         {
-            "nom": "Matute",
+            "nom": "Matute Disco Stereo Tour",
             "sala": "Apolo[1]",
             "hora": "19:00",
             "mes": "FEB.2026",
             "dia": "3",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2026-02-03T19:00+02:00"
         },
@@ -3088,7 +3147,7 @@
             "hora": "19:30",
             "mes": "FEB.2026",
             "dia": "5",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2026-02-05T19:30+02:00"
         },
@@ -3098,7 +3157,7 @@
             "hora": "19:30",
             "mes": "FEB.2026",
             "dia": "6",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2026-02-06T19:30+02:00"
         },
@@ -3108,7 +3167,7 @@
             "hora": "20:00",
             "mes": "FEB.2026",
             "dia": "7",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-02-07T20:00+02:00"
         },
@@ -3118,47 +3177,47 @@
             "hora": "19:30",
             "mes": "FEB.2026",
             "dia": "12",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2026-02-12T19:30+02:00"
         },
         {
-            "nom": "María Peláe",
+            "nom": "Guitar BCN: María Peláe",
             "sala": "Apolo[1]",
             "hora": "20:00",
             "mes": "FEB.2026",
             "dia": "14",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-02-14T20:00+02:00"
         },
         {
-            "nom": "Ofenbach",
+            "nom": "Ofenbach - Cloned live!",
             "sala": "Apolo[1]",
             "hora": "19:30",
             "mes": "FEB.2026",
             "dia": "18",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2026-02-18T19:30+02:00"
         },
         {
-            "nom": "Arco",
+            "nom": "Empremtes 2026 | Arco",
             "sala": "Apolo[1]",
             "hora": "19:30",
             "mes": "FEB.2026",
             "dia": "21",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-02-21T19:30+02:00"
         },
         {
-            "nom": "The Divine Comedy",
+            "nom": "Banco Mediolanum 27è Festival Mil·lenni - The Divine Comedy",
             "sala": "Apolo[1]",
             "hora": "19:30",
             "mes": "MAR.2026",
             "dia": "5",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2026-03-05T19:30+02:00"
         },
@@ -3168,7 +3227,7 @@
             "hora": "20:00",
             "mes": "MAR.2026",
             "dia": "31",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2026-03-31T20:00+02:00"
         },
@@ -3178,7 +3237,7 @@
             "hora": "20:00",
             "mes": "ABR.2026",
             "dia": "15",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2026-04-15T20:00+02:00"
         },
@@ -3188,27 +3247,37 @@
             "hora": "20:00",
             "mes": "ABR.2026",
             "dia": "18",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-04-18T20:00+02:00"
         },
         {
-            "nom": "Pole.",
+            "nom": "Guitar BCN 2026: Pole.",
             "sala": "Apolo[1]",
             "hora": "19:30",
             "mes": "ABR.2026",
             "dia": "24",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2026-04-24T19:30+02:00"
         },
         {
-            "nom": "Ramoncín",
+            "nom": "Guitar BCN 2026: Triquell",
+            "sala": "Apolo[1]",
+            "hora": "19:30",
+            "mes": "MAI.2026",
+            "dia": "8",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-05-08T19:30+02:00"
+        },
+        {
+            "nom": "Ramoncín - Gira Celebración 70/50",
             "sala": "Apolo[1]",
             "hora": "19:00",
             "mes": "MAI.2026",
             "dia": "9",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-05-09T19:00+02:00"
         },
@@ -3218,28 +3287,9 @@
             "hora": "19:30",
             "mes": "MAI.2026",
             "dia": "20",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2026-05-20T19:30+02:00"
-        },{
-            "nom": "LOS FASTIDIOS + AT-ASKO",
-            "sala": "La Deskomunal",
-            "hora": "20:30",
-            "mes": "SET.2025",
-            "dia": "5",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2025-09-05T20:30+02:00"
-        },
-        {
-            "nom": "BLACK OUT PARTY",
-            "sala": "La Deskomunal",
-            "hora": "23:45",
-            "mes": "SET.2025",
-            "dia": "5",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2025-09-05T23:45+02:00"
         },
         {
             "nom": "PEER PRESURE + MALA HOSTIA + MICRMINDS",
@@ -3262,6 +3312,16 @@
             "dateTime": "2025-09-12T20:30+02:00"
         },
         {
+            "nom": "BAILE FUNK DESKOMUNAL.",
+            "sala": "La Deskomunal",
+            "hora": "23:45",
+            "mes": "SET.2025",
+            "dia": "12",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-09-12T23:45+02:00"
+        },
+        {
             "nom": "SEAT IBIZA + PRODUCTO",
             "sala": "La Deskomunal",
             "hora": "20:30",
@@ -3282,7 +3342,7 @@
             "dateTime": "2025-09-13T23:45+02:00"
         },
         {
-            "nom": "KARAROCKER SEEK",
+            "nom": "KARAROCKER SEEK’ EM ALL – CONCIERTO ESPECIAL 40 ANIVERSARIO DE RIDE THE LIGHTNING",
             "sala": "La Deskomunal",
             "hora": "21:30",
             "mes": "SET.2025",
@@ -3320,6 +3380,36 @@
             "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-09-23T23:30+02:00"
+        },
+        {
+            "nom": "JAZZ DESKOMUNAL – MAITE RUIZ DE ERENTXUN: Mai7",
+            "sala": "La Deskomunal",
+            "hora": "20:30",
+            "mes": "OCT.2025",
+            "dia": "10",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-10T20:30+02:00"
+        },
+        {
+            "nom": "Dr. Ring Ding ‘Dandimite’",
+            "sala": "La Deskomunal",
+            "hora": "21:15",
+            "mes": "OCT.2025",
+            "dia": "17",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-17T21:15+02:00"
+        },
+        {
+            "nom": "US RAILS (ROOTSOUND FEST)",
+            "sala": "La Deskomunal",
+            "hora": "20:30",
+            "mes": "NOV.2025",
+            "dia": "6",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-11-06T20:30+02:00"
         }
         
     ,{
