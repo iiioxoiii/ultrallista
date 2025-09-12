@@ -9892,6 +9892,196 @@
             "textdia": "DES.2025",
             "ciutat": "",
             "dateTime": "2025-12-19T20:00+02:00"
+        },
+		{
+            "nom": "MEI SEMONES + AZIZ",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "SET.2025",
+            "dia": "12",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-09-12T20:08+02:00"
+        },
+        {
+            "nom": "BUZZ KULL",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "SET.2025",
+            "dia": "19",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-09-19T20:08+02:00"
+        },
+        {
+            "nom": "MY BAD SISTER (UK) + DR. FLI",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "OCT.2025",
+            "dia": "2",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-02T20:08+02:00"
+        },
+        {
+            "nom": "SWESOR BHRATER + AURI FULGENCI",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "OCT.2025",
+            "dia": "4",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-04T20:08+02:00"
+        },
+        {
+            "nom": "ABYSMO: RENZNIRO + NUEEN + JULIETTA FERRARI + AIRE",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "OCT.2025",
+            "dia": "9",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-10-09T20:08+02:00"
+        },
+        {
+            "nom": "LAS TRISTES + TRÁEME FLORES + PINXO PINXO",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "OCT.2025",
+            "dia": "11",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-11T20:08+02:00"
+        },
+        {
+            "nom": "LARA91K",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "OCT.2025",
+            "dia": "17",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-10-17T20:08+02:00"
+        },
+        {
+            "nom": "CHRIS STAPLES",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "OCT.2025",
+            "dia": "25",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-10-25T20:08+02:00"
+        },
+        {
+            "nom": "CENTRO DE AYUDA + RODRIGUEZ RODRIGUEZ",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "NOV.2025",
+            "dia": "7",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-07T20:08+02:00"
+        },
+        {
+            "nom": "DIANKA",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "NOV.2025",
+            "dia": "14",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-14T20:08+02:00"
+        },
+        {
+            "nom": "MEDALLA + LOS VALIENTES",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "NOV.2025",
+            "dia": "15",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-15T20:08+02:00"
+        },
+        {
+            "nom": "THE BELAIR LIP BOMBS",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "NOV.2025",
+            "dia": "19",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-11-19T20:08+02:00"
+        },
+        {
+            "nom": "CARI CARI",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "NOV.2025",
+            "dia": "20",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-11-20T20:08+02:00"
+        },
+        {
+            "nom": "SELECTO PICASSO",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "NOV.2025",
+            "dia": "21",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-21T20:08+02:00"
+        },
+        {
+            "nom": "MIRARI OROK TAPATZEN ZAURIA + RAMONA FLORES",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "NOV.2025",
+            "dia": "22",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-22T20:08+02:00"
+        },
+        {
+            "nom": "QENDRESA",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "NOV.2025",
+            "dia": "25",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-11-25T20:08+02:00"
+        },
+        {
+            "nom": "SPIRITUAL FRONT",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "NOV.2025",
+            "dia": "28",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-11-28T20:08+02:00"
+        },
+        {
+            "nom": "KORA",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "DES.2025",
+            "dia": "4",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-12-04T20:08+02:00"
+        },
+        {
+            "nom": "GEORGIO",
+            "sala": "Laüt",
+            "hora": "20:08",
+            "mes": "DES.2025",
+            "dia": "10",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-12-10T20:08+02:00"
         }
 ]
 }
