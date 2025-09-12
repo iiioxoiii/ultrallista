@@ -1,6 +1,26 @@
 {
 "concerts": [
 	{
+            "nom": "MEI SEMONES",
+            "sala": "Pumarejo",
+            "hora": "20:00",
+            "mes": "SET.2025",
+            "dia": "12",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-09-12T20:00+02:00"
+    },
+	{
+            "nom": "OROKO RADIO:BARCELONA",
+            "sala": "Pumarejo",
+            "hora": "22:00",
+            "mes": "SET.2025",
+            "dia": "13",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-09-13T22:00+02:00"
+    },
+	{
             "nom": "NAZARETH",
             "sala": "Bikini",
             "hora": "19:00",
