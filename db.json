@@ -282,203 +282,13 @@
             "ciutat": "",
             "dateTime": "2025-10-18T20:30+02:00"
         },
-    {
-            "nom": "PROGRESSIOUX + ROCE + SUCKARRATS + DRY MEN",
-            "sala": "Plç. Ca l'Alier (Poblenou-BCN)",
-            "hora": "21:00",
-            "mes": "SET.2025",
-            "dia": "10",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2025-09-10T21:00+02:00"
-        },
-        {
-            "nom": "SOULCARE (FEAT. HERNÁN ROMERO)",
-            "sala": "Jamboree(3)",
-            "hora": "21:00",
-            "mes": "SET.2025",
-            "dia": "9",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2025-09-09T21:00+02:00"
-        },
-        {
-            "nom": "JADEL",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "10",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2025-09-10T19:00+02:00"
-        },
-        {
-            "nom": "JADEL",
-            "sala": "Jamboree(1)",
-            "hora": "20:30",
-            "mes": "SET.2025",
-            "dia": "10",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2025-09-10T20:30+02:00"
-        },
-        {
-            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "11",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-11T19:00+02:00"
-        },
-        {
-            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
-            "sala": "Jamboree(1)",
-            "hora": "21:00",
-            "mes": "SET.2025",
-            "dia": "11",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-11T21:00+02:00"
-        },
-        {
-            "nom": "LUCAS HERRERA FERNÁNDEZ TRÍO",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "12",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-12T19:00+02:00"
-        },
-        {
-            "nom": "LUCAS HERRERA FERNÁNDEZ TRÍO",
-            "sala": "Jamboree(1)",
-            "hora": "20:30",
-            "mes": "SET.2025",
-            "dia": "12",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-12T20:30+02:00"
-        },
-        {
-            "nom": "ANNA BANANAHANACK",
-            "sala": "Jamboree(3)",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "13",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-13T19:00+02:00"
-        },
-        {
-            "nom": "ANNA BANANAHANACK",
-            "sala": "Jamboree(3)",
-            "hora": "20:30",
-            "mes": "SET.2025",
-            "dia": "13",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-13T20:30+02:00"
-        },
-        {
-            "nom": "BERNARD SELLAM & THE BOYZ FROM THE HOOD",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "14",
-            "textdia": "dilluns",
-            "ciutat": "",
-            "dateTime": "2025-09-14T19:00+02:00"
-        },
-        {
-            "nom": "BERNARD SELLAM & THE BOYZ FROM THE HOOD",
-            "sala": "Jamboree(1)",
-            "hora": "20:30",
-            "mes": "SET.2025",
-            "dia": "14",
-            "textdia": "dilluns",
-            "ciutat": "",
-            "dateTime": "2025-09-14T20:30+02:00"
-        },
-        {
-            "nom": "JAMBOREE JAZZ SPACE",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "15",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2025-09-15T19:00+02:00"
-        },
-        {
-            "nom": "GUIDO SPANNOCCHI QUARTET",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "16",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2025-09-16T19:00+02:00"
-        },
-        {
-            "nom": "GUIDO SPANNOCCHI QUARTET",
-            "sala": "Jamboree(1)",
-            "hora": "20:30",
-            "mes": "SET.2025",
-            "dia": "16",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2025-09-16T20:30+02:00"
-        },
-        {
-            "nom": "DAYNA STEPHENS TRIO",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "17",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2025-09-17T19:00+02:00"
-        },
-        {
-            "nom": "DAYNA STEPHENS TRIO",
-            "sala": "Jamboree(1)",
-            "hora": "20:30",
-            "mes": "SET.2025",
-            "dia": "17",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2025-09-17T20:30+02:00"
-        },
-        {
-            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "18",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-18T19:00+02:00"
-        },
-        {
-            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
-            "sala": "Jamboree(1)",
-            "hora": "21:00",
-            "mes": "SET.2025",
-            "dia": "18",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-18T21:00+02:00"
-        },
         {
             "nom": "IYAMAH",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "19",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-19T19:00+02:00"
         },
@@ -488,7 +298,7 @@
             "hora": "20:30",
             "mes": "SET.2025",
             "dia": "19",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-19T20:30+02:00"
         },
@@ -498,7 +308,7 @@
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "20",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-20T19:00+02:00"
         },
@@ -508,7 +318,7 @@
             "hora": "20:45",
             "mes": "SET.2025",
             "dia": "20",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-20T20:45+02:00"
         },
@@ -518,7 +328,7 @@
             "hora": "18:30",
             "mes": "SET.2025",
             "dia": "21",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-09-21T18:30+02:00"
         },
@@ -528,27 +338,27 @@
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "22",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-09-22T19:00+02:00"
         },
         {
             "nom": "REVIRADO PROJECT",
-            "sala": "Jamboree(1)",
+            "sala": "Jamboree(3)",
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "23",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-09-23T19:00+02:00"
         },
         {
             "nom": "REVIRADO PROJECT",
-            "sala": "Jamboree(1)",
+            "sala": "Jamboree(3)",
             "hora": "20:30",
             "mes": "SET.2025",
             "dia": "23",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-09-23T20:30+02:00"
         },
@@ -558,7 +368,7 @@
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "24",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-09-24T19:00+02:00"
         },
@@ -568,7 +378,7 @@
             "hora": "20:30",
             "mes": "SET.2025",
             "dia": "24",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-09-24T20:30+02:00"
         },
@@ -578,7 +388,7 @@
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "25",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-09-25T19:00+02:00"
         },
@@ -588,7 +398,7 @@
             "hora": "21:00",
             "mes": "SET.2025",
             "dia": "25",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-09-25T21:00+02:00"
         },
@@ -598,7 +408,7 @@
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "26",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-26T19:00+02:00"
         },
@@ -608,27 +418,27 @@
             "hora": "20:30",
             "mes": "SET.2025",
             "dia": "26",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-26T20:30+02:00"
         },
         {
-            "nom": "ARLOS CHILDE",
+            "nom": "JOE LASTIE’S NEW ORLEANS SOUND FEAT. CARLOS CHILDE – FESTIVAL MASIMAS25",
             "sala": "Jamboree(i)",
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "27",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-27T19:00+02:00"
         },
         {
-            "nom": "CARLOS CHILDE",
+            "nom": "JOE LASTIE’S NEW ORLEANS SOUND FEAT. CARLOS CHILDE – FESTIVAL MASIMAS25",
             "sala": "Jamboree(i)",
             "hora": "21:00",
             "mes": "SET.2025",
             "dia": "27",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-27T21:00+02:00"
         },
@@ -638,7 +448,7 @@
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "28",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-09-28T19:00+02:00"
         },
@@ -648,9 +458,19 @@
             "hora": "20:30",
             "mes": "SET.2025",
             "dia": "28",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-09-28T20:30+02:00"
+        },
+        {
+            "nom": "JAMBOREE JAZZ SPACE",
+            "sala": "Jamboree(1)",
+            "hora": "19:00",
+            "mes": "SET.2025",
+            "dia": "29",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-09-29T19:00+02:00"
         },
         {
             "nom": "FRAN RAMOS QUARTET",
@@ -658,7 +478,7 @@
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "30",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-09-30T19:00+02:00"
         },
@@ -668,47 +488,47 @@
             "hora": "20:30",
             "mes": "SET.2025",
             "dia": "30",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-09-30T20:30+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "2",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-02T19:00+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "21:00",
             "mes": "OCT.2025",
             "dia": "2",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-02T21:00+02:00"
         },
         {
-            "nom": "MANEL CHENITI & ENRIQUE HEREDIA",
+            "nom": "MANEL CHENITI & ENRIQUE HEREDIA FEATURING ESAIE CID",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "3",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-03T19:00+02:00"
         },
         {
-            "nom": "MANEL CHENITI & ENRIQUE HEREDIA",
+            "nom": "MANEL CHENITI & ENRIQUE HEREDIA FEATURING ESAIE CID",
             "sala": "Jamboree(1)",
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "3",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-03T20:30+02:00"
         },
@@ -718,7 +538,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "4",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-04T19:00+02:00"
         },
@@ -728,7 +548,7 @@
             "hora": "20:45",
             "mes": "OCT.2025",
             "dia": "4",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-04T20:45+02:00"
         },
@@ -738,7 +558,7 @@
             "hora": "18:30",
             "mes": "OCT.2025",
             "dia": "5",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-10-05T18:30+02:00"
         },
@@ -748,7 +568,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "8",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-08T19:00+02:00"
         },
@@ -758,27 +578,27 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "8",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-08T20:30+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "9",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-09T19:00+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "21:00",
             "mes": "OCT.2025",
             "dia": "9",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-09T21:00+02:00"
         },
@@ -788,7 +608,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "10",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-10T19:00+02:00"
         },
@@ -798,7 +618,7 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "10",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-10T20:30+02:00"
         },
@@ -808,7 +628,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "11",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-11T19:00+02:00"
         },
@@ -818,7 +638,7 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "11",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-11T20:30+02:00"
         },
@@ -828,7 +648,7 @@
             "hora": "18:30",
             "mes": "OCT.2025",
             "dia": "12",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-10-12T18:30+02:00"
         },
@@ -838,7 +658,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "14",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-14T19:00+02:00"
         },
@@ -848,27 +668,37 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "14",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-14T20:30+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "MCKINLEY DIXON",
+            "sala": "Jamboree(1)",
+            "hora": "22:00",
+            "mes": "OCT.2025",
+            "dia": "15",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-10-15T22:00+02:00"
+        },
+        {
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "16",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-16T19:00+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "21:00",
             "mes": "OCT.2025",
             "dia": "16",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-16T21:00+02:00"
         },
@@ -878,7 +708,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "17",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-17T19:00+02:00"
         },
@@ -888,7 +718,7 @@
             "hora": "20:45",
             "mes": "OCT.2025",
             "dia": "17",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-17T20:45+02:00"
         },
@@ -898,7 +728,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "18",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-18T19:00+02:00"
         },
@@ -908,27 +738,27 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "18",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-18T20:30+02:00"
         },
         {
-            "nom": "VANITO BROWN",
+            "nom": "VANITO BROWN – CONCERT ÚNIC A BARCELONA",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "19",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-10-19T19:00+02:00"
         },
         {
-            "nom": "VANITO BROWN ",
+            "nom": "VANITO BROWN – CONCERT ÚNIC A BARCELONA",
             "sala": "Jamboree(1)",
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "19",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-10-19T20:30+02:00"
         },
@@ -938,7 +768,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "21",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-21T19:00+02:00"
         },
@@ -948,7 +778,7 @@
             "hora": "21:00",
             "mes": "OCT.2025",
             "dia": "21",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-21T21:00+02:00"
         },
@@ -958,7 +788,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "22",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-22T19:00+02:00"
         },
@@ -968,47 +798,47 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "22",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-22T20:30+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "23",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-23T19:00+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "21:00",
             "mes": "OCT.2025",
             "dia": "23",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-23T21:00+02:00"
         },
         {
-            "nom": "MARIAN BARAHONA",
-            "sala": "Jamboree(1)",
+            "nom": "LA VELLA DIXIELAND & FRIENDS: JOAN MAR SAUQUE",
+            "sala": "Jamboree(3)",
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "24",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-24T19:00+02:00"
         },
         {
-            "nom": "MARIAN BARAHONA",
-            "sala": "Jamboree(1)",
+            "nom": "LA VELLA DIXIELAND & FRIENDS: JOAN MAR SAUQUE",
+            "sala": "Jamboree(3)",
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "24",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-24T20:30+02:00"
         },
@@ -1018,19 +848,29 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "25",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-25T20:30+02:00"
         },
         {
-            "nom": "LOS TARDEOS DE LA 3",
-            "sala": "Jamboree(3)",
-            "hora": "18:30",
+            "nom": "KOB BY ELECTRO HOPE ",
+            "sala": "Jamboree(1)",
+            "hora": "15:00",
             "mes": "OCT.2025",
             "dia": "26",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
-            "dateTime": "2025-10-26T18:30+02:00"
+            "dateTime": "2025-10-26T15:00+02:00"
+        },
+        {
+            "nom": "MAURICIO REDOLÉS",
+            "sala": "Jamboree(3)",
+            "hora": "20:30",
+            "mes": "OCT.2025",
+            "dia": "28",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-10-28T20:30+02:00"
         },
         {
             "nom": "BENNY SHARONI QUARTET",
@@ -1038,7 +878,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "29",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-29T19:00+02:00"
         },
@@ -1048,49 +888,49 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "29",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-29T20:30+02:00"
         },
         {
-            "nom": "PCLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "30",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-30T19:00+02:00"
         },
         {
-            "nom": "LARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "21:00",
             "mes": "OCT.2025",
             "dia": "30",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-30T21:00+02:00"
         },
         {
-            "nom": "WE CALL IT SOUL",
-            "sala": "Jamboree(3)",
+            "nom": "JOE MAGNARELLI & PAT BIANCHI QUARTET -A CELEBRATION OF ORGAN AND SOULJAZZ",
+            "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "31",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-31T19:00+02:00"
         },
         {
-            "nom": "WE CALL IT SOUL",
-            "sala": "Jamboree(3)",
-            "hora": "20:45",
+            "nom": "JOE MAGNARELLI & PAT BIANCHI QUARTET -A CELEBRATION OF ORGAN AND SOULJAZZ",
+            "sala": "Jamboree(1)",
+            "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "31",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
-            "dateTime": "2025-10-31T20:45+02:00"
+            "dateTime": "2025-10-31T20:30+02:00"
         },
         {
             "nom": "MORELAND",
@@ -1098,7 +938,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "2",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-02T19:00+02:00"
         },
@@ -1108,7 +948,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "2",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-02T20:30+02:00"
         },
@@ -1118,7 +958,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "4",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-04T19:00+02:00"
         },
@@ -1128,7 +968,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "4",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-04T20:30+02:00"
         },
@@ -1138,7 +978,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "5",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-05T19:00+02:00"
         },
@@ -1148,27 +988,27 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "5",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-05T20:30+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "6",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-06T19:00+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "21:00",
             "mes": "NOV.2025",
             "dia": "6",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-06T21:00+02:00"
         },
@@ -1178,7 +1018,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "7",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-07T19:00+02:00"
         },
@@ -1188,27 +1028,27 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "7",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-07T20:30+02:00"
         },
         {
-            "nom": "LUCY WIJNANDS QUARTET",
-            "sala": "Jamboree(1)",
+            "nom": "LUCY WIJNANDS QUARTET – A SASSY CENTENNIAL",
+            "sala": "Jamboree(3)",
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "8",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-08T19:00+02:00"
         },
         {
-            "nom": "LUCY WIJNANDS QUARTET",
-            "sala": "Jamboree(1)",
+            "nom": "LUCY WIJNANDS QUARTET – A SASSY CENTENNIAL",
+            "sala": "Jamboree(3)",
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "8",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-08T20:30+02:00"
         },
@@ -1218,7 +1058,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "9",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-09T19:00+02:00"
         },
@@ -1228,7 +1068,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "9",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-09T20:30+02:00"
         },
@@ -1238,7 +1078,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "11",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-11T19:00+02:00"
         },
@@ -1248,7 +1088,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "11",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-11T20:30+02:00"
         },
@@ -1258,7 +1098,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "12",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-12T19:00+02:00"
         },
@@ -1268,27 +1108,27 @@
             "hora": "21:00",
             "mes": "NOV.2025",
             "dia": "12",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-12T21:00+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "13",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-13T19:00+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "21:00",
             "mes": "NOV.2025",
             "dia": "13",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-13T21:00+02:00"
         },
@@ -1298,7 +1138,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "14",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-14T19:00+02:00"
         },
@@ -1308,27 +1148,27 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "14",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-14T20:30+02:00"
         },
         {
-            "nom": "CARL LEBLANC CARLOS CHILDE",
+            "nom": "CARL LEBLANC FEATURING CARLOS CHILDE",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "15",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-15T19:00+02:00"
         },
         {
-            "nom": "CARL LEBLANC CARLOS CHILDE",
+            "nom": "CARL LEBLANC FEATURING CARLOS CHILDE",
             "sala": "Jamboree(1)",
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "15",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-15T20:30+02:00"
         },
@@ -1338,7 +1178,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "16",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-16T19:00+02:00"
         },
@@ -1348,7 +1188,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "18",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-18T19:00+02:00"
         },
@@ -1358,7 +1198,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "18",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-18T20:30+02:00"
         },
@@ -1368,7 +1208,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "19",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-19T19:00+02:00"
         },
@@ -1378,69 +1218,39 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "19",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-19T20:30+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "20",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-20T19:00+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "21:00",
             "mes": "NOV.2025",
             "dia": "20",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-20T21:00+02:00"
         },
         {
-            "nom": "EDDIE HENDERSON QUARTET",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
+            "nom": "HAROLD TAYLOR",
+            "sala": "Jamboree(3)",
+            "hora": "21:00",
             "mes": "NOV.2025",
             "dia": "21",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
-            "dateTime": "2025-11-21T19:00+02:00"
-        },
-        {
-            "nom": "EDDIE HENDERSON QUARTET",
-            "sala": "Jamboree(1)",
-            "hora": "20:30",
-            "mes": "NOV.2025",
-            "dia": "21",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-11-21T20:30+02:00"
-        },
-        {
-            "nom": "EDDIE HENDERSON QUARTET",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
-            "mes": "NOV.2025",
-            "dia": "22",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-11-22T19:00+02:00"
-        },
-        {
-            "nom": "EDDIE HENDERSON QUARTET",
-            "sala": "Jamboree(1)",
-            "hora": "20:30",
-            "mes": "NOV.2025",
-            "dia": "22",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-11-22T20:30+02:00"
+            "dateTime": "2025-11-21T21:00+02:00"
         },
         {
             "nom": "LOS TARDEOS DE LA 3",
@@ -1448,47 +1258,47 @@
             "hora": "18:30",
             "mes": "NOV.2025",
             "dia": "23",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-23T18:30+02:00"
         },
         {
-            "nom": "PAUL CORNISH TRIO",
+            "nom": "PAUL CORNISH TRIO – FESTIVAL DE JAZZ DE BARCELONA",
             "sala": "Jamboree(3)",
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "24",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-11-24T19:00+02:00"
         },
         {
-            "nom": "PAUL CORNISH TRIO",
+            "nom": "PAUL CORNISH TRIO – FESTIVAL DE JAZZ DE BARCELONA",
             "sala": "Jamboree(3)",
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "24",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-11-24T20:30+02:00"
         },
         {
-            "nom": "FRODE KJEKSTAD & ERIC ALEXANDER QUARTET",
+            "nom": "FELIPE ARAVENA QUINTETO",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "25",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-25T19:00+02:00"
         },
         {
-            "nom": "FRODE KJEKSTAD & ERIC ALEXANDER QUARTET",
+            "nom": "FELIPE ARAVENA QUINTETO",
             "sala": "Jamboree(1)",
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "25",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-25T20:30+02:00"
         },
@@ -1498,7 +1308,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "26",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-26T19:00+02:00"
         },
@@ -1508,27 +1318,27 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "26",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-26T20:30+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "27",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-27T19:00+02:00"
         },
         {
-            "nom": "CLARENCE BEKKER BAND",
+            "nom": "PUR FUNK: CLARENCE BEKKER BAND",
             "sala": "Jamboree(1)",
             "hora": "21:00",
             "mes": "NOV.2025",
             "dia": "27",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-27T21:00+02:00"
         },
@@ -1538,7 +1348,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "28",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-28T19:00+02:00"
         },
@@ -1548,7 +1358,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "28",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-28T20:30+02:00"
         },
@@ -1558,7 +1368,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "29",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-29T19:00+02:00"
         },
@@ -1568,9 +1378,29 @@
             "hora": "18:30",
             "mes": "NOV.2025",
             "dia": "30",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-30T18:30+02:00"
+        },
+        {
+            "nom": "FUNK STATION",
+            "sala": "Jamboree(1)",
+            "hora": "19:00",
+            "mes": "DES.2025",
+            "dia": "4",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-12-04T19:00+02:00"
+        },
+        {
+            "nom": "FUNK STATION",
+            "sala": "Jamboree(1)",
+            "hora": "20:30",
+            "mes": "DES.2025",
+            "dia": "4",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-12-04T20:30+02:00"
         },
         {
             "nom": "B1N0",
@@ -1578,7 +1408,7 @@
             "hora": "22:00",
             "mes": "DES.2025",
             "dia": "5",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-05T22:00+02:00"
         },
@@ -1588,27 +1418,27 @@
             "hora": "18:30",
             "mes": "DES.2025",
             "dia": "7",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-12-07T18:30+02:00"
         },
         {
-            "nom": "FREDRIK CARLQUIST & JOAN CHAMORRO",
+            "nom": "FREDRIK CARLQUIST SAXOPHONE CONVERSATION WITH JOAN CHAMORRO",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "DES.2025",
             "dia": "9",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-12-09T19:00+02:00"
         },
         {
-            "nom": "FREDRIK CARLQUIST & JOAN CHAMORRO",
+            "nom": "FREDRIK CARLQUIST SAXOPHONE CONVERSATION WITH JOAN CHAMORRO",
             "sala": "Jamboree(1)",
             "hora": "20:30",
             "mes": "DES.2025",
             "dia": "9",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-12-09T20:30+02:00"
         },
@@ -1618,7 +1448,7 @@
             "hora": "19:00",
             "mes": "DES.2025",
             "dia": "10",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-12-10T19:00+02:00"
         },
@@ -1628,27 +1458,27 @@
             "hora": "20:30",
             "mes": "DES.2025",
             "dia": "10",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-12-10T20:30+02:00"
         },
         {
-            "nom": "J.HS GROOVE PARTY",
+            "nom": "PUR FUNK: J.H’S GROOVE PARTY",
             "sala": "Jamboree(1)",
             "hora": "19:00",
             "mes": "DES.2025",
             "dia": "11",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-12-11T19:00+02:00"
         },
         {
-            "nom": "J.HS GROOVE PARTY",
+            "nom": "PUR FUNK: J.H’S GROOVE PARTY",
             "sala": "Jamboree(1)",
             "hora": "21:00",
             "mes": "DES.2025",
             "dia": "11",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-12-11T21:00+02:00"
         },
@@ -1658,7 +1488,7 @@
             "hora": "19:00",
             "mes": "DES.2025",
             "dia": "12",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-12T19:00+02:00"
         },
@@ -1668,7 +1498,7 @@
             "hora": "20:30",
             "mes": "DES.2025",
             "dia": "12",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-12T20:30+02:00"
         },
@@ -1678,7 +1508,7 @@
             "hora": "19:00",
             "mes": "DES.2025",
             "dia": "13",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-13T19:00+02:00"
         },
@@ -1688,7 +1518,7 @@
             "hora": "20:45",
             "mes": "DES.2025",
             "dia": "13",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-13T20:45+02:00"
         },
@@ -1698,7 +1528,7 @@
             "hora": "18:30",
             "mes": "DES.2025",
             "dia": "14",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-12-14T18:30+02:00"
         },
@@ -1708,7 +1538,7 @@
             "hora": "19:00",
             "mes": "DES.2025",
             "dia": "16",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-12-16T19:00+02:00"
         },
@@ -1718,9 +1548,49 @@
             "hora": "20:30",
             "mes": "DES.2025",
             "dia": "16",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-12-16T20:30+02:00"
+        },
+        {
+            "nom": "CLARENCE BEKKER CHRISTMAS SPECIAL",
+            "sala": "Jamboree(3)",
+            "hora": "19:00",
+            "mes": "DES.2025",
+            "dia": "17",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-12-17T19:00+02:00"
+        },
+        {
+            "nom": "CLARENCE BEKKER CHRISTMAS SPECIAL",
+            "sala": "Jamboree(3)",
+            "hora": "21:00",
+            "mes": "DES.2025",
+            "dia": "17",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-12-17T21:00+02:00"
+        },
+        {
+            "nom": "CLARENCE BEKKER CHRISTMAS SPECIAL",
+            "sala": "Jamboree(3)",
+            "hora": "19:00",
+            "mes": "DES.2025",
+            "dia": "18",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-12-18T19:00+02:00"
+        },
+        {
+            "nom": "CLARENCE BEKKER CHRISTMAS SPECIAL",
+            "sala": "Jamboree(3)",
+            "hora": "21:00",
+            "mes": "DES.2025",
+            "dia": "18",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-12-18T21:00+02:00"
         },
         {
             "nom": "WE CALL IT JAZZ",
@@ -1728,7 +1598,7 @@
             "hora": "19:00",
             "mes": "DES.2025",
             "dia": "19",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-19T19:00+02:00"
         },
@@ -1738,7 +1608,7 @@
             "hora": "20:45",
             "mes": "DES.2025",
             "dia": "19",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-19T20:45+02:00"
         },
@@ -1748,7 +1618,7 @@
             "hora": "21:00",
             "mes": "DES.2025",
             "dia": "20",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-20T21:00+02:00"
         },
@@ -1758,29 +1628,109 @@
             "hora": "18:30",
             "mes": "DES.2025",
             "dia": "21",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-12-21T18:30+02:00"
         },
         {
-            "nom": "LA BIG BARRA BAND",
+            "nom": "SANT ANDREU REUNION BAND “NADALES”",
+            "sala": "Jamboree(1)",
+            "hora": "19:00",
+            "mes": "DES.2025",
+            "dia": "23",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-12-23T19:00+02:00"
+        },
+        {
+            "nom": "SANT ANDREU REUNION BAND “NADALES”",
+            "sala": "Jamboree(1)",
+            "hora": "21:00",
+            "mes": "DES.2025",
+            "dia": "23",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2025-12-23T21:00+02:00"
+        },
+        {
+            "nom": "JOE PISTO & IGNASI TERRAZA TRIO & MARIA PASCUAL CHRISTMAS",
             "sala": "Jamboree(3)",
             "hora": "19:00",
             "mes": "DES.2025",
+            "dia": "24",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-12-24T19:00+02:00"
+        },
+        {
+            "nom": "JOE PISTO & IGNASI TERRAZA TRIO & MARIA PASCUAL CHRISTMAS",
+            "sala": "Jamboree(3)",
+            "hora": "21:00",
+            "mes": "DES.2025",
+            "dia": "24",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-12-24T21:00+02:00"
+        },
+        {
+            "nom": "JOE PISTO & IGNASI TERRAZA TRIO & MARIA PASCUAL CHRISTMAS",
+            "sala": "Jamboree(3)",
+            "hora": "19:00",
+            "mes": "DES.2025",
+            "dia": "25",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-12-25T19:00+02:00"
+        },
+        {
+            "nom": "JOE PISTO & IGNASI TERRAZA TRIO & MARIA PASCUAL CHRISTMAS",
+            "sala": "Jamboree(3)",
+            "hora": "21:00",
+            "mes": "DES.2025",
+            "dia": "25",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2025-12-25T21:00+02:00"
+        },
+        {
+            "nom": "MICHAEL MWENSO & THE SHAKES",
+            "sala": "Jamboree(1)",
+            "hora": "19:00",
+            "mes": "DES.2025",
+            "dia": "26",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-12-26T19:00+02:00"
+        },
+        {
+            "nom": "MICHAEL MWENSO & THE SHAKES",
+            "sala": "Jamboree(1)",
+            "hora": "21:00",
+            "mes": "DES.2025",
+            "dia": "26",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2025-12-26T21:00+02:00"
+        },
+        {
+            "nom": "MICHAEL MWENSO & THE SHAKES",
+            "sala": "Jamboree(1)",
+            "hora": "19:00",
+            "mes": "DES.2025",
             "dia": "27",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-27T19:00+02:00"
         },
         {
-            "nom": "LA BIG BARRA BAND",
-            "sala": "Jamboree(3)",
-            "hora": "20:30",
+            "nom": "MICHAEL MWENSO & THE SHAKES",
+            "sala": "Jamboree(1)",
+            "hora": "21:00",
             "mes": "DES.2025",
             "dia": "27",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
-            "dateTime": "2025-12-27T20:30+02:00"
+            "dateTime": "2025-12-27T21:00+02:00"
         },
         {
             "nom": "LOS TARDEOS DE LA 3",
@@ -1788,29 +1738,9 @@
             "hora": "18:30",
             "mes": "DES.2025",
             "dia": "28",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-12-28T18:30+02:00"
-        },
-        {
-            "nom": "BERNARD VAN ROSSUM QUARTET",
-            "sala": "Jamboree(1)",
-            "hora": "19:00",
-            "mes": "GEN.2026",
-            "dia": "16",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-01-16T19:00+02:00"
-        },
-        {
-            "nom": "BERNARD VAN ROSSUM QUARTET",
-            "sala": "Jamboree(1)",
-            "hora": "20:30",
-            "mes": "GEN.2026",
-            "dia": "16",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-01-16T20:30+02:00"
         },
         {
             "nom": "CHEAP BLISS",
@@ -1818,7 +1748,7 @@
             "hora": "19:00",
             "mes": "GEN.2026",
             "dia": "18",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2026-01-18T19:00+02:00"
         },
@@ -1828,9 +1758,39 @@
             "hora": "20:30",
             "mes": "GEN.2026",
             "dia": "18",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2026-01-18T20:30+02:00"
+        },
+        {
+            "nom": "JUDITH OWEN",
+            "sala": "Jamboree(1)",
+            "hora": "19:00",
+            "mes": "GEN.2026",
+            "dia": "30",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-30T19:00+02:00"
+        },
+        {
+            "nom": "JUDITH OWEN",
+            "sala": "Jamboree(1)",
+            "hora": "20:30",
+            "mes": "GEN.2026",
+            "dia": "30",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-30T20:30+02:00"
+        },
+        {
+            "nom": "TERRAPIN FLYER AMB AARON FEDER I BRYAN CURTIS",
+            "sala": "Jamboree(1)",
+            "hora": "21:00",
+            "mes": "FEB.2026",
+            "dia": "20",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-02-20T21:00+02:00"
         },
         {
             "nom": "SHERYL YOUNGBLOOD BLUES BAND",
@@ -1838,7 +1798,7 @@
             "hora": "19:00",
             "mes": "FEB.2026",
             "dia": "28",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-02-28T19:00+02:00"
         },
@@ -1848,7 +1808,7 @@
             "hora": "20:30",
             "mes": "FEB.2026",
             "dia": "28",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-02-28T20:30+02:00"
         },
@@ -1858,7 +1818,7 @@
             "hora": "19:00",
             "mes": "MAR.2026",
             "dia": "7",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-03-07T19:00+02:00"
         },
@@ -1868,9 +1828,19 @@
             "hora": "20:30",
             "mes": "MAR.2026",
             "dia": "7",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-03-07T20:30+02:00"
+        },
+        {
+            "nom": "AGOSTO",
+            "sala": "Jamboree(1)",
+            "hora": "22:00",
+            "mes": "MAR.2026",
+            "dia": "14",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-03-14T22:00+02:00"
         },
         {
             "nom": "RODRIGO ALARCON",
@@ -1878,9 +1848,29 @@
             "hora": "21:00",
             "mes": "MAR.2026",
             "dia": "15",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2026-03-15T21:00+02:00"
+        },
+        {
+            "nom": "JEROME SABBAGH QUARTET FEAT. BEN MONDER",
+            "sala": "Jamboree(1)",
+            "hora": "19:00",
+            "mes": "MAR.2026",
+            "dia": "24",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-03-24T19:00+02:00"
+        },
+        {
+            "nom": "JEROME SABBAGH QUARTET FEAT. BEN MONDER",
+            "sala": "Jamboree(1)",
+            "hora": "20:30",
+            "mes": "MAR.2026",
+            "dia": "24",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-03-24T20:30+02:00"
         },
         {
             "nom": "CHEAP BLISS",
@@ -1888,7 +1878,7 @@
             "hora": "19:00",
             "mes": "MAR.2026",
             "dia": "29",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2026-03-29T19:00+02:00"
         },
@@ -1898,7 +1888,7 @@
             "hora": "20:30",
             "mes": "MAR.2026",
             "dia": "29",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2026-03-29T20:30+02:00"
         },
@@ -1908,7 +1898,7 @@
             "hora": "19:00",
             "mes": "JUN.2026",
             "dia": "20",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-06-20T19:00+02:00"
         },
@@ -1918,7 +1908,7 @@
             "hora": "21:00",
             "mes": "JUN.2026",
             "dia": "20",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-06-20T21:00+02:00"
         },
