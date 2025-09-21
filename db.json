@@ -19,26 +19,45 @@
             "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-13T22:00+02:00"
-    },
-	{
-            "nom": "NAZARETH",
-            "sala": "Bikini",
-            "hora": "19:00",
-            "mes": "SET.2025",
-            "dia": "21",
-            "textdia": "dilluns",
-            "ciutat": "",
-            "dateTime": "2025-09-21T19:00+02:00"
-        },
-        {
+    },{
             "nom": "VERKA SERDUCHKA",
             "sala": "Bikini",
             "hora": "19:00",
             "mes": "SET.2025",
             "dia": "28",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-09-28T19:00+02:00"
+        },
+        {
+            "nom": "SHORT PARIS",
+            "sala": "Bikini",
+            "hora": "19:00",
+            "mes": "NOV.2025",
+            "dia": "5",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2025-11-05T19:00+02:00"
+        },
+        {
+            "nom": "CACHUMBA",
+            "sala": "Bikini",
+            "hora": "19:00",
+            "mes": "NOV.2025",
+            "dia": "9",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2025-11-09T19:00+02:00"
+        },
+        {
+            "nom": "KOLA",
+            "sala": "Bikini",
+            "hora": "19:00",
+            "mes": "NOV.2025",
+            "dia": "10",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-11-10T19:00+02:00"
         },
         {
             "nom": "3AM",
@@ -46,17 +65,27 @@
             "hora": "19:30",
             "mes": "NOV.2025",
             "dia": "20",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-20T19:30+02:00"
         },
         {
-            "nom": "BOOMBOX / БУМБОКС – ДРОНОТУР",
+            "nom": "NERVY BAND",
+            "sala": "Bikini",
+            "hora": "19:00",
+            "mes": "DES.2025",
+            "dia": "22",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2025-12-22T19:00+02:00"
+        },
+        {
+            "nom": "BOOMBOX / БУМБОКС ДРОНОТУР",
             "sala": "Bikini",
             "hora": "19:00",
             "mes": "FEB.2026",
             "dia": "18",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2026-02-18T19:00+02:00"
         },
@@ -66,10 +95,11 @@
             "hora": "19:00",
             "mes": "MAR.2026",
             "dia": "22",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2026-03-22T19:00+02:00"
-        },
+        }
+
 	{
             "nom": "The Painkillers + What'sup the people + Radio Truco",
             "sala": "Plç. de la Cultura (L'H)",
