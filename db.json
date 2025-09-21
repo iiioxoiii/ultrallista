@@ -8332,162 +8332,12 @@
             "dateTime": "2026-05-21T21:30+02:00"
         },
         {
-            "nom": "‘EL YIYO’ I ANDRÉS BARRIOS",
-            "sala": "Paral·lel 62",
-            "hora": "20:00",
-            "mes": "SET.2025",
-            "dia": "4",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-04T20:00+02:00"
-        },
-        {
-            "nom": "AGARRATE CATALINA & LEÓN GIECO",
-            "sala": "Paral·lel 62",
-            "hora": "21:00",
-            "mes": "SET.2025",
-            "dia": "5",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-05T21:00+02:00"
-        },
-        {
-            "nom": "ANDÉN MVMNT",
-            "sala": "Paral·lel 62",
-            "hora": "23:30",
-            "mes": "SET.2025",
-            "dia": "5",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-05T23:30+02:00"
-        },
-        {
-            "nom": "ANA TIJOUX, ROCCA I MÉS",
-            "sala": "Paral·lel 62",
-            "hora": "20:00",
-            "mes": "SET.2025",
-            "dia": "10",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2025-09-10T20:00+02:00"
-        },
-        {
-            "nom": "FESTIVAL CATALUNYA TRIOMFANT",
-            "sala": "Paral·lel 62",
-            "hora": "17:00",
-            "mes": "SET.2025",
-            "dia": "11",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-11T17:00+02:00"
-        },
-        {
-            "nom": "RETROVIBES PARTY",
-            "sala": "Paral·lel 62",
-            "hora": "22:30",
-            "mes": "SET.2025",
-            "dia": "12",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-12T22:30+02:00"
-        },
-        {
-            "nom": "DIAMANTE NEGRO + PLAYA NUDISTA",
-            "sala": "Paral·lel 62",
-            "hora": "15:00",
-            "mes": "SET.2025",
-            "dia": "13",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-13T15:00+02:00"
-        },
-        {
-            "nom": "STUDIO 54 BARCELONA",
-            "sala": "Paral·lel 62",
-            "hora": "22:00",
-            "mes": "SET.2025",
-            "dia": "13",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-13T22:00+02:00"
-        },
-        {
-            "nom": "DANCEHALL VS AFROBEATS VOL. 22",
-            "sala": "Paral·lel 62",
-            "hora": "23:00",
-            "mes": "SET.2025",
-            "dia": "13",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-13T23:00+02:00"
-        },
-        {
-            "nom": "LA FESTA DE CULTURA JOVE",
-            "sala": "Paral·lel 62",
-            "hora": "20:02",
-            "mes": "SET.2025",
-            "dia": "15",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2025-09-15T20:02+02:00"
-        },
-        {
-            "nom": "LAURA PÉREZ – LA CHINITA",
-            "sala": "Paral·lel 62",
-            "hora": "20:30",
-            "mes": "SET.2025",
-            "dia": "17",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2025-09-17T20:30+02:00"
-        },
-        {
-            "nom": "PAULINA DEL CARMEN",
-            "sala": "Paral·lel 62",
-            "hora": "20:15",
-            "mes": "SET.2025",
-            "dia": "18",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-18T20:15+02:00"
-        },
-        {
-            "nom": "LA SOTANA EN DIRECTE",
-            "sala": "Paral·lel 62",
-            "hora": "21:00",
-            "mes": "SET.2025",
-            "dia": "18",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-18T21:00+02:00"
-        },
-        {
-            "nom": "KOSMOZOO BARCELONA",
-            "sala": "Paral·lel 62",
-            "hora": "21:30",
-            "mes": "SET.2025",
-            "dia": "19",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2025-09-19T21:30+02:00"
-        },
-        {
-            "nom": "PERKELE + THE LIZARDS + AGAINSTERS",
-            "sala": "Paral·lel 62",
-            "hora": "21:00",
-            "mes": "SET.2025",
-            "dia": "20",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-20T21:00+02:00"
-        },
-        {
             "nom": "BRIELA OJEDA",
             "sala": "Paral·lel 62",
             "hora": "21:00",
             "mes": "SET.2025",
             "dia": "21",
-            "textdia": "dilluns",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-21T21:00+02:00"
         },
@@ -8497,7 +8347,7 @@
             "hora": "20:30",
             "mes": "SET.2025",
             "dia": "24",
-            "textdia": "dijous",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-09-24T20:30+02:00"
         },
@@ -8507,7 +8357,7 @@
             "hora": "21:00",
             "mes": "SET.2025",
             "dia": "26",
-            "textdia": "dissabte",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-09-26T21:00+02:00"
         },
@@ -8517,7 +8367,7 @@
             "hora": "18:30",
             "mes": "SET.2025",
             "dia": "27",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-27T18:30+02:00"
         },
@@ -8527,7 +8377,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "27",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-09-27T20:00+02:00"
         },
@@ -8537,7 +8387,7 @@
             "hora": "18:00",
             "mes": "SET.2025",
             "dia": "28",
-            "textdia": "dilluns",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-28T18:00+02:00"
         },
@@ -8547,7 +8397,7 @@
             "hora": "21:00",
             "mes": "OCT.2025",
             "dia": "2",
-            "textdia": "divendres",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-02T21:00+02:00"
         },
@@ -8557,7 +8407,7 @@
             "hora": "21:00",
             "mes": "OCT.2025",
             "dia": "3",
-            "textdia": "dissabte",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-03T21:00+02:00"
         },
@@ -8567,7 +8417,7 @@
             "hora": "22:00",
             "mes": "OCT.2025",
             "dia": "3",
-            "textdia": "dissabte",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-03T22:00+02:00"
         },
@@ -8577,7 +8427,7 @@
             "hora": "21:30",
             "mes": "OCT.2025",
             "dia": "4",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-04T21:30+02:00"
         },
@@ -8587,7 +8437,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "8",
-            "textdia": "dijous",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-08T20:00+02:00"
         },
@@ -8597,7 +8447,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "9",
-            "textdia": "divendres",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-09T20:00+02:00"
         },
@@ -8607,7 +8457,7 @@
             "hora": "22:00",
             "mes": "OCT.2025",
             "dia": "10",
-            "textdia": "dissabte",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-10T22:00+02:00"
         },
@@ -8617,7 +8467,7 @@
             "hora": "12:00",
             "mes": "OCT.2025",
             "dia": "11",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-11T12:00+02:00"
         },
@@ -8627,7 +8477,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "13",
-            "textdia": "dimarts",
+            "textdia": "",
             "ciutat": "",
             "dateTime": "2025-10-13T20:00+02:00"
         },
@@ -8637,7 +8487,7 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "15",
-            "textdia": "dijous",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-15T20:30+02:00"
         },
@@ -8647,7 +8497,7 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "16",
-            "textdia": "divendres",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-16T20:30+02:00"
         },
@@ -8657,7 +8507,7 @@
             "hora": "21:00",
             "mes": "OCT.2025",
             "dia": "17",
-            "textdia": "dissabte",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-17T21:00+02:00"
         },
@@ -8667,7 +8517,7 @@
             "hora": "21:00",
             "mes": "OCT.2025",
             "dia": "18",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-18T21:00+02:00"
         },
@@ -8677,7 +8527,7 @@
             "hora": "11:30",
             "mes": "OCT.2025",
             "dia": "19",
-            "textdia": "dilluns",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-19T11:30+02:00"
         },
@@ -8687,7 +8537,7 @@
             "hora": "19:30",
             "mes": "OCT.2025",
             "dia": "19",
-            "textdia": "dilluns",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-19T19:30+02:00"
         },
@@ -8697,7 +8547,7 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "21",
-            "textdia": "dimecres",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-10-21T20:30+02:00"
         },
@@ -8707,7 +8557,7 @@
             "hora": "20:30",
             "mes": "OCT.2025",
             "dia": "23",
-            "textdia": "divendres",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-23T20:30+02:00"
         },
@@ -8717,7 +8567,7 @@
             "hora": "22:00",
             "mes": "OCT.2025",
             "dia": "24",
-            "textdia": "dissabte",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-24T22:00+02:00"
         },
@@ -8727,7 +8577,7 @@
             "hora": "19:00",
             "mes": "OCT.2025",
             "dia": "25",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-25T19:00+02:00"
         },
@@ -8737,7 +8587,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "26",
-            "textdia": "dilluns",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-26T20:00+02:00"
         },
@@ -8747,7 +8597,7 @@
             "hora": "20:02",
             "mes": "OCT.2025",
             "dia": "29",
-            "textdia": "dijous",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-29T20:02+02:00"
         },
@@ -8757,7 +8607,7 @@
             "hora": "20:02",
             "mes": "OCT.2025",
             "dia": "30",
-            "textdia": "divendres",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-30T20:02+02:00"
         },
@@ -8767,7 +8617,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "1",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-01T20:30+02:00"
         },
@@ -8777,7 +8627,7 @@
             "hora": "21:00",
             "mes": "NOV.2025",
             "dia": "1",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-01T21:00+02:00"
         },
@@ -8787,7 +8637,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "2",
-            "textdia": "dilluns",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-02T20:00+02:00"
         },
@@ -8797,7 +8647,7 @@
             "hora": "21:00",
             "mes": "NOV.2025",
             "dia": "4",
-            "textdia": "dimecres",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-11-04T21:00+02:00"
         },
@@ -8807,7 +8657,7 @@
             "hora": "21:30",
             "mes": "NOV.2025",
             "dia": "7",
-            "textdia": "dissabte",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-07T21:30+02:00"
         },
@@ -8817,7 +8667,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "8",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-08T20:30+02:00"
         },
@@ -8827,7 +8677,7 @@
             "hora": "18:30",
             "mes": "NOV.2025",
             "dia": "9",
-            "textdia": "dilluns",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-09T18:30+02:00"
         },
@@ -8837,7 +8687,7 @@
             "hora": "19:00",
             "mes": "NOV.2025",
             "dia": "9",
-            "textdia": "dilluns",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-09T19:00+02:00"
         },
@@ -8847,7 +8697,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "10",
-            "textdia": "dimarts",
+            "textdia": "",
             "ciutat": "",
             "dateTime": "2025-11-10T20:30+02:00"
         },
@@ -8857,7 +8707,7 @@
             "hora": "21:00",
             "mes": "NOV.2025",
             "dia": "15",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-15T21:00+02:00"
         },
@@ -8867,7 +8717,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "18",
-            "textdia": "dimecres",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-11-18T20:00+02:00"
         },
@@ -8877,7 +8727,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "19",
-            "textdia": "dijous",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-19T20:30+02:00"
         },
@@ -8887,7 +8737,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "20",
-            "textdia": "divendres",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-20T20:30+02:00"
         },
@@ -8897,7 +8747,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "21",
-            "textdia": "dissabte",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-21T20:30+02:00"
         },
@@ -8907,7 +8757,7 @@
             "hora": "21:00",
             "mes": "NOV.2025",
             "dia": "22",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-22T21:00+02:00"
         },
@@ -8917,7 +8767,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "24",
-            "textdia": "dimarts",
+            "textdia": "",
             "ciutat": "",
             "dateTime": "2025-11-24T20:30+02:00"
         },
@@ -8927,7 +8777,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "26",
-            "textdia": "dijous",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-26T20:30+02:00"
         },
@@ -8937,7 +8787,7 @@
             "hora": "20:30",
             "mes": "NOV.2025",
             "dia": "27",
-            "textdia": "divendres",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-27T20:30+02:00"
         },
@@ -8947,7 +8797,7 @@
             "hora": "20:02",
             "mes": "NOV.2025",
             "dia": "29",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-29T20:02+02:00"
         },
@@ -8957,7 +8807,7 @@
             "hora": "18:30",
             "mes": "DES.2025",
             "dia": "5",
-            "textdia": "dissabte",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-12-05T18:30+02:00"
         },
@@ -8967,7 +8817,7 @@
             "hora": "12:00",
             "mes": "DES.2025",
             "dia": "6",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-06T12:00+02:00"
         },
@@ -8977,7 +8827,7 @@
             "hora": "16:00",
             "mes": "DES.2025",
             "dia": "6",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-06T16:00+02:00"
         },
@@ -8987,7 +8837,7 @@
             "hora": "18:30",
             "mes": "DES.2025",
             "dia": "6",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-06T18:30+02:00"
         },
@@ -8997,7 +8847,7 @@
             "hora": "12:00",
             "mes": "DES.2025",
             "dia": "7",
-            "textdia": "dilluns",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-07T12:00+02:00"
         },
@@ -9007,7 +8857,7 @@
             "hora": "16:00",
             "mes": "DES.2025",
             "dia": "7",
-            "textdia": "dilluns",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-07T16:00+02:00"
         },
@@ -9017,7 +8867,7 @@
             "hora": "18:30",
             "mes": "DES.2025",
             "dia": "7",
-            "textdia": "dilluns",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-07T18:30+02:00"
         },
@@ -9027,7 +8877,7 @@
             "hora": "12:00",
             "mes": "DES.2025",
             "dia": "8",
-            "textdia": "dimarts",
+            "textdia": "",
             "ciutat": "",
             "dateTime": "2025-12-08T12:00+02:00"
         },
@@ -9037,7 +8887,7 @@
             "hora": "16:00",
             "mes": "DES.2025",
             "dia": "8",
-            "textdia": "dimarts",
+            "textdia": "",
             "ciutat": "",
             "dateTime": "2025-12-08T16:00+02:00"
         },
@@ -9047,17 +8897,17 @@
             "hora": "20:30",
             "mes": "DES.2025",
             "dia": "11",
-            "textdia": "divendres",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-12-11T20:30+02:00"
         },
         {
-            "nom": "ROBA ESTESA",
+            "nom": "",
             "sala": "Paral·lel 62",
             "hora": "21:00",
             "mes": "DES.2025",
             "dia": "12",
-            "textdia": "dissabte",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-12-12T21:00+02:00"
         },
@@ -9067,7 +8917,7 @@
             "hora": "20:02",
             "mes": "DES.2025",
             "dia": "13",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-13T20:02+02:00"
         },
@@ -9077,7 +8927,7 @@
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "14",
-            "textdia": "dilluns",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-14T20:00+02:00"
         },
@@ -9087,7 +8937,7 @@
             "hora": "18:30",
             "mes": "DES.2025",
             "dia": "17",
-            "textdia": "dijous",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-12-17T18:30+02:00"
         },
@@ -9097,7 +8947,7 @@
             "hora": "20:30",
             "mes": "FEB.2026",
             "dia": "5",
-            "textdia": "divendres",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2026-02-05T20:30+02:00"
         },
@@ -9107,7 +8957,7 @@
             "hora": "21:00",
             "mes": "FEB.2026",
             "dia": "7",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2026-02-07T21:00+02:00"
         },
@@ -9117,7 +8967,7 @@
             "hora": "20:00",
             "mes": "FEB.2026",
             "dia": "12",
-            "textdia": "divendres",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2026-02-12T20:00+02:00"
         },
@@ -9127,7 +8977,7 @@
             "hora": "12:00",
             "mes": "FEB.2026",
             "dia": "21",
-            "textdia": "diumenge",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2026-02-21T12:00+02:00"
         },
@@ -9137,7 +8987,7 @@
             "hora": "21:00",
             "mes": "JUN.2026",
             "dia": "4",
-            "textdia": "divendres",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2026-06-04T21:00+02:00"
         },
@@ -9147,11 +8997,11 @@
             "hora": "20:00",
             "mes": "JUN.2026",
             "dia": "26",
-            "textdia": "dissabte",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2026-06-26T20:00+02:00"
         },
-	 {
+        {
             "nom": "Manuel Carrasco ",
             "sala": "Palau Sant Jordi",
             "hora": "21:09",
