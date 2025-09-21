@@ -9752,22 +9752,12 @@
             "dateTime": "2026-11-29T21:09+02:00"
         },
         {
-            "nom": "IGNASI TERRAZA & ANTONIO SERRANO",
-            "sala": "El Molino",
-            "hora": "20:00",
-            "mes": "SET.2025",
-            "dia": "18",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2025-09-18T20:00+02:00"
-        },
-        {
             "nom": "YAZZ AHMED & RALPH WYLD",
             "sala": "El Molino",
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "21",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-09-21T20:00+02:00"
         },
@@ -9777,7 +9767,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "27",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-27T20:00+02:00"
         },
@@ -9787,7 +9777,7 @@
             "hora": "20:00",
             "mes": "SET.2025",
             "dia": "28",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-09-28T20:00+02:00"
         },
@@ -9797,7 +9787,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "4",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-04T20:00+02:00"
         },
@@ -9807,7 +9797,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "5",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-10-05T20:00+02:00"
         },
@@ -9817,7 +9807,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "11",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-11T20:00+02:00"
         },
@@ -9827,7 +9817,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "24",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-24T20:00+02:00"
         },
@@ -9837,7 +9827,7 @@
             "hora": "20:00",
             "mes": "OCT.2025",
             "dia": "31",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-31T20:00+02:00"
         },
@@ -9847,7 +9837,7 @@
             "hora": "20:09",
             "mes": "NOV.2025",
             "dia": "7",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-07T20:09+02:00"
         },
@@ -9857,7 +9847,7 @@
             "hora": "20:09",
             "mes": "NOV.2025",
             "dia": "8",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-08T20:09+02:00"
         },
@@ -9867,7 +9857,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "9",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-09T20:00+02:00"
         },
@@ -9877,7 +9867,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "16",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-16T20:00+02:00"
         },
@@ -9887,7 +9877,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "20",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-20T20:00+02:00"
         },
@@ -9897,7 +9887,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "22",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-22T20:00+02:00"
         },
@@ -9907,7 +9897,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "28",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-28T20:00+02:00"
         },
@@ -9917,7 +9907,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "29",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-29T20:00+02:00"
         },
@@ -9927,7 +9917,7 @@
             "hora": "20:00",
             "mes": "NOV.2025",
             "dia": "30",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-30T20:00+02:00"
         },
@@ -9937,7 +9927,7 @@
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "4",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-12-04T20:00+02:00"
         },
@@ -9947,7 +9937,7 @@
             "hora": "20:00",
             "mes": "DES.2025",
             "dia": "19",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-19T20:00+02:00"
         },
