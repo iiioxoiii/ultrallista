@@ -3770,76 +3770,23 @@
 		"textdia": "dissabte",
 		"ciutat": "",
 		"dateTime": "2025-11-15T20:00+02:00"
-	},
-    
-    {
-            "nom": "THE NEW CHRISTS + La Secta",
-            "sala": "Upload",
-            "hora": "21:09",
-            "mes": "SET.2025",
-            "dia": "2",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2025-09-02T21:09+02:00"
-        },
-        {
-            "nom": "MEATBODIES",
-            "sala": "Upload",
-            "hora": "21:09",
-            "mes": "SET.2025",
-            "dia": "3",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2025-09-03T21:09+02:00"
-        },
-
-        {
-            "nom": "HENGE",
-            "sala": "Upload",
-            "hora": "21:09",
-            "mes": "SET.2025",
-            "dia": "9",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2025-09-09T21:09+02:00"
-        },
-        {
-            "nom": "Gambeat Weekend",
-            "sala": "Upload",
-            "hora": "21:09",
-            "mes": "SET.2025",
-            "dia": "13",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-13T21:09+02:00"
-        },
-        {
-            "nom": "Leif Vollebekk",
-            "sala": "Upload",
-            "hora": "21:09",
-            "mes": "SET.2025",
-            "dia": "20",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2025-09-20T21:09+02:00"
-        },
-        {
+	},{
             "nom": "Hayden Pedigo",
             "sala": "Upload",
             "hora": "21:09",
             "mes": "SET.2025",
             "dia": "22",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-09-22T21:09+02:00"
         },
         {
-            "nom": "Jodie Cash + Sergi Estella",
+            "nom": "Jodie Cash",
             "sala": "Upload",
             "hora": "21:09",
             "mes": "SET.2025",
             "dia": "27",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-09-27T21:09+02:00"
         },
@@ -3849,7 +3796,7 @@
             "hora": "21:09",
             "mes": "SET.2025",
             "dia": "28",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-09-28T21:09+02:00"
         },
@@ -3859,7 +3806,7 @@
             "hora": "21:09",
             "mes": "OCT.2025",
             "dia": "2",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-02T21:09+02:00"
         },
@@ -3869,7 +3816,7 @@
             "hora": "21:09",
             "mes": "OCT.2025",
             "dia": "7",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-07T21:09+02:00"
         },
@@ -3879,7 +3826,7 @@
             "hora": "21:09",
             "mes": "OCT.2025",
             "dia": "8",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-08T21:09+02:00"
         },
@@ -3889,17 +3836,17 @@
             "hora": "21:09",
             "mes": "OCT.2025",
             "dia": "11",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-11T21:09+02:00"
         },
         {
-            "nom": "Roulette + Hora Límite",
+            "nom": "Roulette",
             "sala": "Upload",
             "hora": "21:09",
             "mes": "OCT.2025",
             "dia": "15",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-10-15T21:09+02:00"
         },
@@ -3909,17 +3856,17 @@
             "hora": "21:09",
             "mes": "OCT.2025",
             "dia": "18",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-10-18T21:09+02:00"
         },
         {
-            "nom": "La Luz + The Miffs",
+            "nom": "La Luz",
             "sala": "Upload",
             "hora": "21:09",
             "mes": "OCT.2025",
             "dia": "21",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-21T21:09+02:00"
         },
@@ -3929,7 +3876,7 @@
             "hora": "21:09",
             "mes": "OCT.2025",
             "dia": "24",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-10-24T21:09+02:00"
         },
@@ -3939,7 +3886,7 @@
             "hora": "21:09",
             "mes": "OCT.2025",
             "dia": "28",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-10-28T21:09+02:00"
         },
@@ -3949,27 +3896,27 @@
             "hora": "21:09",
             "mes": "OCT.2025",
             "dia": "30",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-10-30T21:09+02:00"
         },
         {
-            "nom": "Stranger Cole",
+            "nom": "Train to Skaville: Stranger Cole",
             "sala": "Upload",
             "hora": "21:09",
             "mes": "NOV.2025",
             "dia": "1",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-01T21:09+02:00"
         },
         {
-            "nom": "Broke Carrey + elmalamía",
+            "nom": "Broke Carrey + elmalam\u00eda",
             "sala": "Upload",
             "hora": "21:09",
             "mes": "NOV.2025",
             "dia": "2",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-02T21:09+02:00"
         },
@@ -3979,17 +3926,17 @@
             "hora": "21:09",
             "mes": "NOV.2025",
             "dia": "4",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-04T21:09+02:00"
         },
         {
-            "nom": "Carlos Escobedo+ Romanthica",
+            "nom": "Carlos Escobedo",
             "sala": "Upload",
             "hora": "21:09",
             "mes": "NOV.2025",
             "dia": "8",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-11-08T21:09+02:00"
         },
@@ -3999,7 +3946,7 @@
             "hora": "21:09",
             "mes": "NOV.2025",
             "dia": "12",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-11-12T21:09+02:00"
         },
@@ -4009,17 +3956,17 @@
             "hora": "21:09",
             "mes": "NOV.2025",
             "dia": "16",
-            "textdia": "dilluns",
+            "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2025-11-16T21:09+02:00"
         },
         {
-            "nom": "Slow Crush+ Keep",
+            "nom": "Slow Crush",
             "sala": "Upload",
             "hora": "21:09",
             "mes": "NOV.2025",
             "dia": "18",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-18T21:09+02:00"
         },
@@ -4029,7 +3976,7 @@
             "hora": "21:09",
             "mes": "NOV.2025",
             "dia": "20",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2025-11-20T21:09+02:00"
         },
@@ -4039,7 +3986,7 @@
             "hora": "21:09",
             "mes": "NOV.2025",
             "dia": "21",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-21T21:09+02:00"
         },
@@ -4049,7 +3996,7 @@
             "hora": "21:09",
             "mes": "NOV.2025",
             "dia": "25",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2025-11-25T21:09+02:00"
         },
@@ -4059,7 +4006,7 @@
             "hora": "21:09",
             "mes": "NOV.2025",
             "dia": "28",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-11-28T21:09+02:00"
         },
@@ -4069,7 +4016,7 @@
             "hora": "21:09",
             "mes": "DES.2025",
             "dia": "1",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2025-12-01T21:09+02:00"
         },
@@ -4079,7 +4026,7 @@
             "hora": "21:09",
             "mes": "DES.2025",
             "dia": "5",
-            "textdia": "dissabte",
+            "textdia": "divendres",
             "ciutat": "",
             "dateTime": "2025-12-05T21:09+02:00"
         },
@@ -4089,27 +4036,27 @@
             "hora": "21:09",
             "mes": "DES.2025",
             "dia": "10",
-            "textdia": "dijous",
+            "textdia": "dimecres",
             "ciutat": "",
             "dateTime": "2025-12-10T21:09+02:00"
         },
         {
-            "nom": "Charif Megarbane & Rogér Fakhr",
+            "nom": "Charif Megarbane & Rog\u00e9r Fakhr",
             "sala": "Upload",
             "hora": "21:09",
             "mes": "DES.2025",
             "dia": "13",
-            "textdia": "diumenge",
+            "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2025-12-13T21:09+02:00"
         },
         {
-            "nom": "+Minuit Machine+ Hørd",
+            "nom": "Minuit Machine",
             "sala": "Upload",
             "hora": "21:09",
             "mes": "FEB.2026",
             "dia": "17",
-            "textdia": "dimecres",
+            "textdia": "dimarts",
             "ciutat": "",
             "dateTime": "2026-02-17T21:09+02:00"
         },
@@ -4119,7 +4066,7 @@
             "hora": "21:09",
             "mes": "MAR.2026",
             "dia": "26",
-            "textdia": "divendres",
+            "textdia": "dijous",
             "ciutat": "",
             "dateTime": "2026-03-26T21:09+02:00"
         },
@@ -4129,7 +4076,7 @@
             "hora": "21:09",
             "mes": "JUN.2026",
             "dia": "8",
-            "textdia": "dimarts",
+            "textdia": "dilluns",
             "ciutat": "",
             "dateTime": "2026-06-08T21:09+02:00"
         },
