@@ -1,5 +1,16 @@
 {
 "concerts": [
+    {
+            "nom": "TRIPULANTE",
+            "sala": "Magic",
+            "hora": "21:00",
+            "mes": "NOV.2025",
+            "dia": "29",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2025-11-29T21:00+02:00"
+    },
+
 	{
             "nom": "MEI SEMONES",
             "sala": "Pumarejo",
