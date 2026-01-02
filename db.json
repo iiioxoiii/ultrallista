@@ -1,6 +1,1825 @@
 {
   "concerts": [
     {
+            "nom": "Bebe",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 8,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-01-08T19:00+02:00"
+        },
+        {
+            "nom": "Ardo440",
+            "sala": "Razzmatazz(3)",
+            "mes": "GEN.2026",
+            "dia": 9,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-01-09T20:00+02:00"
+        },
+        {
+            "nom": "Miss Caffeina #Empremtes2026",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 9,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-01-09T19:30+02:00"
+        },
+        {
+            "nom": "Derivas",
+            "sala": "Razzmatazz(2)",
+            "mes": "GEN.2026",
+            "dia": 9,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-01-09T19:30+02:00"
+        },
+        {
+            "nom": "Suzete",
+            "sala": "Razzmatazz(3)",
+            "mes": "GEN.2026",
+            "dia": 10,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-10T20:30+02:00"
+        },
+        {
+            "nom": "Miguel Campello",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 10,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-10T19:00+02:00"
+        },
+        {
+            "nom": "The Night Prowlers",
+            "sala": "Razzmatazz(2)",
+            "mes": "GEN.2026",
+            "dia": 10,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-10T20:00+02:00"
+        },
+        {
+            "nom": "Fury Festival",
+            "sala": "Razzmatazz(2)",
+            "mes": "GEN.2026",
+            "dia": 11,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-01-11T17:00+02:00"
+        },
+        {
+            "nom": "Fury Festival pres. Warehouse Indoor Rave",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 11,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-01-11T17:00+02:00"
+        },
+        {
+            "nom": "Murubutu",
+            "sala": "Razzmatazz(3)",
+            "mes": "GEN.2026",
+            "dia": 14,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-01-14T20:00+02:00"
+        },
+        {
+            "nom": "B10",
+            "sala": "Razzmatazz(2)",
+            "mes": "GEN.2026",
+            "dia": 15,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-01-15T20:30+02:00"
+        },
+        {
+            "nom": "Maximiliano Calvo",
+            "sala": "Razzmatazz(3)",
+            "mes": "GEN.2026",
+            "dia": 15,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-01-15T20:00+02:00"
+        },
+        {
+            "nom": "D. Valentino",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 15,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-01-15T19:30+02:00"
+        },
+        {
+            "nom": "Fades",
+            "sala": "Razzmatazz(2)",
+            "mes": "GEN.2026",
+            "dia": 16,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-01-16T20:00+02:00"
+        },
+        {
+            "nom": "Baiuca",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 16,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-01-16T19:30+02:00"
+        },
+        {
+            "nom": "Los Deltonos",
+            "sala": "Razzmatazz(3)",
+            "mes": "GEN.2026",
+            "dia": 17,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-17T20:00+02:00"
+        },
+        {
+            "nom": "Estados De Ánimo",
+            "sala": "Razzmatazz(2)",
+            "mes": "GEN.2026",
+            "dia": 17,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-17T20:00+02:00"
+        },
+        {
+            "nom": "Hammerfall",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 17,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-17T20:00+02:00"
+        },
+        {
+            "nom": "Tortufest: Monterrojo",
+            "sala": "Razzmatazz(3)",
+            "mes": "GEN.2026",
+            "dia": 18,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-01-18T21:30+02:00"
+        },
+        {
+            "nom": "Mvrk",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 21,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-01-21T19:30+02:00"
+        },
+        {
+            "nom": "Michael Marcagi",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 22,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-01-22T20:30+02:00"
+        },
+        {
+            "nom": "Homenaje Mecano",
+            "sala": "Razzmatazz(2)",
+            "mes": "GEN.2026",
+            "dia": 23,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-01-23T19:30+02:00"
+        },
+        {
+            "nom": "Menend",
+            "sala": "Razzmatazz(3)",
+            "mes": "GEN.2026",
+            "dia": 23,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-01-23T21:00+02:00"
+        },
+        {
+            "nom": "Mvrk",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 23,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-01-23T19:30+02:00"
+        },
+        {
+            "nom": "Tuomala + Leonmanso",
+            "sala": "Razzmatazz(3)",
+            "mes": "GEN.2026",
+            "dia": 24,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-24T19:30+02:00"
+        },
+        {
+            "nom": "Morgan",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 24,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-24T19:30+02:00"
+        },
+        {
+            "nom": "Born To Band",
+            "sala": "Razzmatazz(2)",
+            "mes": "GEN.2026",
+            "dia": 24,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-24T19:30+02:00"
+        },
+        {
+            "nom": "Ketama 126",
+            "sala": "Razzmatazz(3)",
+            "mes": "GEN.2026",
+            "dia": 26,
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-01-26T19:30+02:00"
+        },
+        {
+            "nom": "Kim Dracula",
+            "sala": "Razzmatazz(2)",
+            "mes": "GEN.2026",
+            "dia": 27,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-01-27T18:31+02:00"
+        },
+        {
+            "nom": "Taburete",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 28,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-01-28T19:00+02:00"
+        },
+        {
+            "nom": "Kybba",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 29,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-01-29T21:00+02:00"
+        },
+        {
+            "nom": "La Reina Del Pop",
+            "sala": "Razzmatazz(2)",
+            "mes": "GEN.2026",
+            "dia": 30,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-01-30T20:00+02:00"
+        },
+        {
+            "nom": "Ale Acosta",
+            "sala": "Razzmatazz(3)",
+            "mes": "GEN.2026",
+            "dia": 30,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-01-30T20:00+02:00"
+        },
+        {
+            "nom": "Epica & Amaranthe",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 30,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-01-30T18:00+02:00"
+        },
+        {
+            "nom": "Underground Metal Impact: Rave in Fire + Redshark + Pyre Forge",
+            "sala": "Razzmatazz(3)",
+            "mes": "GEN.2026",
+            "dia": 31,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-31T19:00+02:00"
+        },
+        {
+            "nom": "CLARENT",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2026",
+            "dia": 31,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-31T19:00+02:00"
+        },
+        {
+            "nom": "Lee Fields + Eneida Fever!",
+            "sala": "Razzmatazz(2)",
+            "mes": "GEN.2026",
+            "dia": 31,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-01-31T19:00+02:00"
+        },
+        {
+            "nom": "Tarja & Marko Hietala",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 3,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-02-03T18:31+02:00"
+        },
+        {
+            "nom": "Paleface Swiss + Stick To Your Guns + Static Dress",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 4,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-02-04T18:31+02:00"
+        },
+        {
+            "nom": "C-Kan",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 5,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-02-05T20:30+02:00"
+        },
+        {
+            "nom": "D. Valentino",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 5,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-02-05T19:30+02:00"
+        },
+        {
+            "nom": "Microdosis: Fenoaltea",
+            "sala": "Razzmatazz(3)",
+            "mes": "FEB.2026",
+            "dia": 6,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-06T20:00+02:00"
+        },
+        {
+            "nom": "Siloé",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 6,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-06T18:31+02:00"
+        },
+        {
+            "nom": "McEnroe",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 6,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-06T20:30+02:00"
+        },
+        {
+            "nom": "Megara",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 7,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-02-07T19:15+02:00"
+        },
+        {
+            "nom": "Alter Bridge + Daughtry + Sevendust",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 8,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-02-08T17:30+02:00"
+        },
+        {
+            "nom": "Eric Sardinas",
+            "sala": "Razzmatazz(3)",
+            "mes": "FEB.2026",
+            "dia": 10,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-02-10T20:00+02:00"
+        },
+        {
+            "nom": "The Last Dinner Party",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 11,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-02-11T19:00+02:00"
+        },
+        {
+            "nom": "Raynald Colom 3Io & Logan Richardson Blues People",
+            "sala": "Razzmatazz(3)",
+            "mes": "FEB.2026",
+            "dia": 11,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-02-11T19:00+02:00"
+        },
+        {
+            "nom": "The New Raemon",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 12,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-02-12T19:30+02:00"
+        },
+        {
+            "nom": "La M.O.D.A.",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 12,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-02-12T19:00+02:00"
+        },
+        {
+            "nom": "Mourn",
+            "sala": "Razzmatazz(3)",
+            "mes": "FEB.2026",
+            "dia": 13,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-13T20:00+02:00"
+        },
+        {
+            "nom": "La M.O.D.A.",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 13,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-13T19:30+02:00"
+        },
+        {
+            "nom": "La M.O.D.A.",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 14,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-02-14T19:30+02:00"
+        },
+        {
+            "nom": "All Time Low",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 15,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-02-15T20:00+02:00"
+        },
+        {
+            "nom": "Cesc Sansalvadó",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 17,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-02-17T18:31+02:00"
+        },
+        {
+            "nom": "Laurence Guy",
+            "sala": "Razzmatazz(3)",
+            "mes": "FEB.2026",
+            "dia": 18,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-02-18T19:30+02:00"
+        },
+        {
+            "nom": "Los Motherflowers",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 18,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-02-18T20:00+02:00"
+        },
+        {
+            "nom": "Miles Kane",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 18,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-02-18T19:45+02:00"
+        },
+        {
+            "nom": "Satan + Wicked Leather + Hellgrim",
+            "sala": "Razzmatazz(3)",
+            "mes": "FEB.2026",
+            "dia": 19,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-02-19T18:00+02:00"
+        },
+        {
+            "nom": "Dillom",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 19,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-02-19T19:30+02:00"
+        },
+        {
+            "nom": "Balkan Paradise Orchestra #Empremtes2026",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 19,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-02-19T20:00+02:00"
+        },
+        {
+            "nom": "Fyahbwoy",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 20,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-20T20:00+02:00"
+        },
+        {
+            "nom": "Bosco Herrero",
+            "sala": "Razzmatazz(3)",
+            "mes": "FEB.2026",
+            "dia": 20,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-20T20:00+02:00"
+        },
+        {
+            "nom": "Leïti",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 20,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-20T19:30+02:00"
+        },
+        {
+            "nom": "Sexy Zebras",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 21,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-02-21T19:00+02:00"
+        },
+        {
+            "nom": "Roomtrash6",
+            "sala": "Razzmatazz(3)",
+            "mes": "FEB.2026",
+            "dia": 21,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-02-21T19:00+02:00"
+        },
+        {
+            "nom": "Tu Otra Bonita #Empremtes2026",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 21,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-02-21T20:00+02:00"
+        },
+        {
+            "nom": "LaBlackie",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 22,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-02-22T20:00+02:00"
+        },
+        {
+            "nom": "No Es Fácil Ser Grison",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 22,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-02-22T20:00+02:00"
+        },
+        {
+            "nom": "Pappo X Juanse",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 24,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-02-24T19:30+02:00"
+        },
+        {
+            "nom": "Avatar + Alien Weaponry",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 24,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-02-24T18:00+02:00"
+        },
+        {
+            "nom": "The Cost",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 25,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-02-25T18:31+02:00"
+        },
+        {
+            "nom": "Lucho RK + La Pantera",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 25,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-02-25T19:30+02:00"
+        },
+        {
+            "nom": "Sam Quealy",
+            "sala": "Razzmatazz(3)",
+            "mes": "FEB.2026",
+            "dia": 26,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-02-26T18:31+02:00"
+        },
+        {
+            "nom": "Teo Lucadamo",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 26,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-02-26T20:00+02:00"
+        },
+        {
+            "nom": "Lucho RK + La Pantera",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 26,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-02-26T21:00+02:00"
+        },
+        {
+            "nom": "Bon Calso",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 27,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-27T20:00+02:00"
+        },
+        {
+            "nom": "El Virtual",
+            "sala": "Razzmatazz(3)",
+            "mes": "FEB.2026",
+            "dia": 27,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-27T20:30+02:00"
+        },
+        {
+            "nom": "Nach",
+            "sala": "Razzmatazz(1)",
+            "mes": "FEB.2026",
+            "dia": 27,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-02-27T19:30+02:00"
+        },
+        {
+            "nom": "Roserona",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2026",
+            "dia": 28,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-02-28T19:00+02:00"
+        },
+        {
+            "nom": "Kataklysm",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAR.2026",
+            "dia": 1,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-03-01T18:00+02:00"
+        },
+        {
+            "nom": "The Kooks",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 3,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-03-03T20:30+02:00"
+        },
+        {
+            "nom": "Meduza",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 4,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-03-04T20:30+02:00"
+        },
+        {
+            "nom": "Motionless In White",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 5,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-03-05T18:31+02:00"
+        },
+        {
+            "nom": "Potato",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAR.2026",
+            "dia": 6,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-03-06T20:00+02:00"
+        },
+        {
+            "nom": "Xavibo",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 6,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-03-06T19:00+02:00"
+        },
+        {
+            "nom": "Ultralone",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 6,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-03-06T20:30+02:00"
+        },
+        {
+            "nom": "Cráneo",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAR.2026",
+            "dia": 7,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-03-07T21:00+02:00"
+        },
+        {
+            "nom": "The Summit",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 7,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-03-07T20:00+02:00"
+        },
+        {
+            "nom": "Linkoln Park",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 7,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-03-07T19:00+02:00"
+        },
+        {
+            "nom": "The Southern River Band",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 8,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-03-08T20:00+02:00"
+        },
+        {
+            "nom": "Dea Matrona",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 10,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-03-10T18:31+02:00"
+        },
+        {
+            "nom": "Los Espíritus",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAR.2026",
+            "dia": 11,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-03-11T19:30+02:00"
+        },
+        {
+            "nom": "Dub Inc",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 12,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-03-12T19:00+02:00"
+        },
+        {
+            "nom": "Blackpanda",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 13,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-03-13T20:30+02:00"
+        },
+        {
+            "nom": "Karavana",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAR.2026",
+            "dia": 13,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-03-13T20:00+02:00"
+        },
+        {
+            "nom": "Pedrá",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAR.2026",
+            "dia": 14,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-03-14T19:30+02:00"
+        },
+        {
+            "nom": "Rojuu",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 14,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-03-14T19:00+02:00"
+        },
+        {
+            "nom": "Rubén Pozo",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 14,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-03-14T20:00+02:00"
+        },
+        {
+            "nom": "Leire",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 15,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-03-15T19:30+02:00"
+        },
+        {
+            "nom": "Grey Daze",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 15,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-03-15T19:30+02:00"
+        },
+        {
+            "nom": "Rage",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 17,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-03-17T18:30+02:00"
+        },
+        {
+            "nom": "The Wave Pictures",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 17,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-03-17T18:31+02:00"
+        },
+        {
+            "nom": "Simon Grossmann",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 18,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-03-18T20:00+02:00"
+        },
+        {
+            "nom": "ASCO",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 18,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-03-18T21:00+02:00"
+        },
+        {
+            "nom": "La Banda de Carlitos y Euge Quevedo",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAR.2026",
+            "dia": 19,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-03-19T19:00+02:00"
+        },
+        {
+            "nom": "Slappy Av",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 19,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-03-19T20:00+02:00"
+        },
+        {
+            "nom": "French Police",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 20,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-03-20T18:31+02:00"
+        },
+        {
+            "nom": "Nusar3000",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAR.2026",
+            "dia": 20,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-03-20T20:00+02:00"
+        },
+        {
+            "nom": "Mägo De Oz + Leyendärian",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 21,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-03-21T19:30+02:00"
+        },
+        {
+            "nom": "Airbourne",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 24,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-03-24T19:00+02:00"
+        },
+        {
+            "nom": "2 Minutos",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAR.2026",
+            "dia": 25,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-03-25T19:00+02:00"
+        },
+        {
+            "nom": "Suede",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 25,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-03-25T19:00+02:00"
+        },
+        {
+            "nom": "Eileen Alister",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 26,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-03-26T20:30+02:00"
+        },
+        {
+            "nom": "Toc + Vecinos",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAR.2026",
+            "dia": 28,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-03-28T20:00+02:00"
+        },
+        {
+            "nom": "JUSEPH",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAR.2026",
+            "dia": 28,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-03-28T19:30+02:00"
+        },
+        {
+            "nom": "The Dead South",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 29,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-03-29T19:30+02:00"
+        },
+        {
+            "nom": "Fit For A King + Memphis May Fire + Acres + 156/Silence",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAR.2026",
+            "dia": 29,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-03-29T17:00+02:00"
+        },
+        {
+            "nom": "J.I.D.",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAR.2026",
+            "dia": 30,
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-03-30T19:00+02:00"
+        },
+        {
+            "nom": "The Australian Pink Floyd Show",
+            "sala": "Razzmatazz(1)",
+            "mes": "ABR.2026",
+            "dia": 1,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-04-01T18:30+02:00"
+        },
+        {
+            "nom": "Mobb Deep",
+            "sala": "Razzmatazz(1)",
+            "mes": "ABR.2026",
+            "dia": 5,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-04-05T19:00+02:00"
+        },
+        {
+            "nom": "Worakls Orchestra",
+            "sala": "Razzmatazz(1)",
+            "mes": "ABR.2026",
+            "dia": 9,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-04-09T18:30+02:00"
+        },
+        {
+            "nom": "Stoned Jesus & Wheel",
+            "sala": "Razzmatazz(2)",
+            "mes": "ABR.2026",
+            "dia": 9,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-04-09T18:31+02:00"
+        },
+        {
+            "nom": "Ouineta",
+            "sala": "Razzmatazz(2)",
+            "mes": "ABR.2026",
+            "dia": 10,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-04-10T20:00+02:00"
+        },
+        {
+            "nom": "Cybernene",
+            "sala": "Razzmatazz(3)",
+            "mes": "ABR.2026",
+            "dia": 10,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-04-10T19:00+02:00"
+        },
+        {
+            "nom": "Hey Kid",
+            "sala": "Razzmatazz(1)",
+            "mes": "ABR.2026",
+            "dia": 10,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-04-10T19:30+02:00"
+        },
+        {
+            "nom": "Mosimann",
+            "sala": "Razzmatazz(2)",
+            "mes": "ABR.2026",
+            "dia": 11,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-04-11T20:00+02:00"
+        },
+        {
+            "nom": "Doble Esfera",
+            "sala": "Razzmatazz(3)",
+            "mes": "ABR.2026",
+            "dia": 11,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-04-11T20:00+02:00"
+        },
+        {
+            "nom": "Seguridad Social #Empremtes2026",
+            "sala": "Razzmatazz(1)",
+            "mes": "ABR.2026",
+            "dia": 11,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-04-11T19:30+02:00"
+        },
+        {
+            "nom": "Turf & Kanaku y El Tigre",
+            "sala": "Razzmatazz(2)",
+            "mes": "ABR.2026",
+            "dia": 14,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-04-14T19:00+02:00"
+        },
+        {
+            "nom": "Guillem Roma #Empremtes2026",
+            "sala": "Razzmatazz(2)",
+            "mes": "ABR.2026",
+            "dia": 16,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-04-16T20:00+02:00"
+        },
+        {
+            "nom": "Exsonvaldes",
+            "sala": "Razzmatazz(3)",
+            "mes": "ABR.2026",
+            "dia": 16,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-04-16T20:00+02:00"
+        },
+        {
+            "nom": "Paula Mattheus",
+            "sala": "Razzmatazz(1)",
+            "mes": "ABR.2026",
+            "dia": 16,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-04-16T19:00+02:00"
+        },
+        {
+            "nom": "Ángel Stanich Band",
+            "sala": "Razzmatazz(2)",
+            "mes": "ABR.2026",
+            "dia": 17,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-04-17T18:30+02:00"
+        },
+        {
+            "nom": "Meler",
+            "sala": "Razzmatazz(3)",
+            "mes": "ABR.2026",
+            "dia": 17,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-04-17T20:00+02:00"
+        },
+        {
+            "nom": "Queralt Lahoz",
+            "sala": "Razzmatazz(1)",
+            "mes": "ABR.2026",
+            "dia": 18,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-04-18T19:30+02:00"
+        },
+        {
+            "nom": "Los Autenticos Decadentes",
+            "sala": "Razzmatazz(1)",
+            "mes": "ABR.2026",
+            "dia": 19,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-04-19T18:30+02:00"
+        },
+        {
+            "nom": "Alex Serra",
+            "sala": "Razzmatazz(1)",
+            "mes": "ABR.2026",
+            "dia": 21,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-04-21T20:00+02:00"
+        },
+        {
+            "nom": "Saxon",
+            "sala": "Razzmatazz(1)",
+            "mes": "ABR.2026",
+            "dia": 24,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-04-24T19:00+02:00"
+        },
+        {
+            "nom": "TERS",
+            "sala": "Razzmatazz(3)",
+            "mes": "ABR.2026",
+            "dia": 25,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-04-25T20:30+02:00"
+        },
+        {
+            "nom": "Cardellino",
+            "sala": "Razzmatazz(1)",
+            "mes": "ABR.2026",
+            "dia": 25,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-04-25T19:00+02:00"
+        },
+        {
+            "nom": "Vega",
+            "sala": "Razzmatazz(2)",
+            "mes": "ABR.2026",
+            "dia": 25,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-04-25T19:30+02:00"
+        },
+        {
+            "nom": "The New Roses",
+            "sala": "Razzmatazz(2)",
+            "mes": "ABR.2026",
+            "dia": 26,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-04-26T18:30+02:00"
+        },
+        {
+            "nom": "Max Pezzali",
+            "sala": "Razzmatazz(1)",
+            "mes": "ABR.2026",
+            "dia": 27,
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-04-27T19:00+02:00"
+        },
+        {
+            "nom": "Black Sea Dahu + Mel D",
+            "sala": "Razzmatazz(2)",
+            "mes": "ABR.2026",
+            "dia": 27,
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-04-27T19:00+02:00"
+        },
+        {
+            "nom": "Marlon Magnée",
+            "sala": "Razzmatazz(3)",
+            "mes": "ABR.2026",
+            "dia": 29,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-04-29T20:30+02:00"
+        },
+        {
+            "nom": "Robert Jon & The Wreck",
+            "sala": "Razzmatazz(2)",
+            "mes": "ABR.2026",
+            "dia": 29,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-04-29T20:30+02:00"
+        },
+        {
+            "nom": "Ligabue",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 1,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-05-01T19:30+02:00"
+        },
+        {
+            "nom": "Guasones",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAI.2026",
+            "dia": 1,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-05-01T20:00+02:00"
+        },
+        {
+            "nom": "Primitive Man",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAI.2026",
+            "dia": 2,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-05-02T20:00+02:00"
+        },
+        {
+            "nom": "El Plan De La Mariposa",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 2,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-05-02T19:30+02:00"
+        },
+        {
+            "nom": "Madball + La Guadaña + King Of Pain + L'Irreal Omega",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAI.2026",
+            "dia": 3,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-05-03T18:31+02:00"
+        },
+        {
+            "nom": "Miguel",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 5,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-05-05T20:30+02:00"
+        },
+        {
+            "nom": "M¥SS KETA",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAI.2026",
+            "dia": 6,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-05-06T20:00+02:00"
+        },
+        {
+            "nom": "Abel Pintos",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 7,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-05-07T18:30+02:00"
+        },
+        {
+            "nom": "Cam Cole",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAI.2026",
+            "dia": 8,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-05-08T19:00+02:00"
+        },
+        {
+            "nom": "DEMO: Mala Gestión",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAI.2026",
+            "dia": 8,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-05-08T20:00+02:00"
+        },
+        {
+            "nom": "El Drogas",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 9,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-05-09T19:00+02:00"
+        },
+        {
+            "nom": "Mad Caddies",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAI.2026",
+            "dia": 10,
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-05-10T18:31+02:00"
+        },
+        {
+            "nom": "Paledusk EU/UK Tour 2026",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAI.2026",
+            "dia": 13,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-05-13T18:31+02:00"
+        },
+        {
+            "nom": "Joshua Idehen",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAI.2026",
+            "dia": 14,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-05-14T20:00+02:00"
+        },
+        {
+            "nom": "Sopa De Cabra",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 15,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-05-15T19:30+02:00"
+        },
+        {
+            "nom": "Pølaroit",
+            "sala": "Razzmatazz(3)",
+            "mes": "MAI.2026",
+            "dia": 15,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-05-15T20:00+02:00"
+        },
+        {
+            "nom": "Sopa De Cabra",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 16,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-05-16T19:30+02:00"
+        },
+        {
+            "nom": "Oxxxymiron",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 19,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-05-19T18:30+02:00"
+        },
+        {
+            "nom": "Skillet",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 20,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-05-20T18:30+02:00"
+        },
+        {
+            "nom": "The Sword + Earthless",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAI.2026",
+            "dia": 21,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-05-21T19:30+02:00"
+        },
+        {
+            "nom": "Apparat",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 21,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-05-21T19:00+02:00"
+        },
+        {
+            "nom": "Tabü",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAI.2026",
+            "dia": 23,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-05-23T19:30+02:00"
+        },
+        {
+            "nom": "Kchiporros",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 26,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-05-26T18:30+02:00"
+        },
+        {
+            "nom": "Nasa Histoires",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAI.2026",
+            "dia": 27,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-05-27T20:00+02:00"
+        },
+        {
+            "nom": "Lany",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 27,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-05-27T20:30+02:00"
+        },
+        {
+            "nom": "Kadec Santa Anna",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 29,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-05-29T20:00+02:00"
+        },
+        {
+            "nom": "Public Image Ltd.",
+            "sala": "Razzmatazz(2)",
+            "mes": "MAI.2026",
+            "dia": 29,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-05-29T20:30+02:00"
+        },
+        {
+            "nom": "Rata Blanca",
+            "sala": "Razzmatazz(1)",
+            "mes": "MAI.2026",
+            "dia": 30,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-05-30T19:30+02:00"
+        },
+        {
+            "nom": "Malevolence",
+            "sala": "Razzmatazz(2)",
+            "mes": "JUN.2026",
+            "dia": 2,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-06-02T18:31+02:00"
+        },
+        {
+            "nom": "Céro",
+            "sala": "Razzmatazz(2)",
+            "mes": "JUN.2026",
+            "dia": 6,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-06-06T20:00+02:00"
+        },
+        {
+            "nom": "Ambkor",
+            "sala": "Razzmatazz(1)",
+            "mes": "JUN.2026",
+            "dia": 6,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-06-06T19:30+02:00"
+        },
+        {
+            "nom": "Kompromat (Vitalic & Rebeka Warrior)",
+            "sala": "Razzmatazz(1)",
+            "mes": "JUN.2026",
+            "dia": 11,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-06-11T20:00+02:00"
+        },
+        {
+            "nom": "Jaguayano",
+            "sala": "Razzmatazz(3)",
+            "mes": "JUN.2026",
+            "dia": 11,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-06-11T20:00+02:00"
+        },
+        {
+            "nom": "Bosegrafia",
+            "sala": "Razzmatazz(3)",
+            "mes": "JUN.2026",
+            "dia": 12,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-06-12T20:00+02:00"
+        },
+        {
+            "nom": "Sidecars",
+            "sala": "Razzmatazz(1)",
+            "mes": "JUN.2026",
+            "dia": 13,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-06-13T19:00+02:00"
+        },
+        {
+            "nom": "Haze",
+            "sala": "Razzmatazz(2)",
+            "mes": "JUN.2026",
+            "dia": 13,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-06-13T19:30+02:00"
+        },
+        {
+            "nom": "Oscar El Ruso",
+            "sala": "Razzmatazz(2)",
+            "mes": "JUN.2026",
+            "dia": 26,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-06-26T20:00+02:00"
+        },
+        {
+            "nom": "Pennywise",
+            "sala": "Razzmatazz(1)",
+            "mes": "JUL.2026",
+            "dia": 2,
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-07-02T18:31+02:00"
+        },
+        {
+            "nom": "Cuarteto de Nos",
+            "sala": "Razzmatazz(1)",
+            "mes": "JUL.2026",
+            "dia": 4,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-07-04T19:30+02:00"
+        },
+        {
+            "nom": "Amyl And The Sniffers",
+            "sala": "Razzmatazz(1)",
+            "mes": "AGO.2026",
+            "dia": 18,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-18T19:00+02:00"
+        },
+        {
+            "nom": "Amyl And The Sniffers",
+            "sala": "Razzmatazz(1)",
+            "mes": "AGO.2026",
+            "dia": 19,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-08-19T19:00+02:00"
+        },
+        {
+            "nom": "Compota de Manana",
+            "sala": "Razzmatazz(2)",
+            "mes": "AGO.2026",
+            "dia": 29,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-29T20:00+02:00"
+        },
+        {
+            "nom": "Transvision Vamp",
+            "sala": "Razzmatazz(2)",
+            "mes": "SET.2026",
+            "dia": 25,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-09-25T20:00+02:00"
+        },
+        {
+            "nom": "Fat Freddy's Drop",
+            "sala": "Razzmatazz(1)",
+            "mes": "SET.2026",
+            "dia": 26,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-09-26T19:00+02:00"
+        },
+        {
+            "nom": "Big Big Train",
+            "sala": "Razzmatazz(2)",
+            "mes": "OCT.2026",
+            "dia": 7,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-10-07T18:15+02:00"
+        },
+        {
+            "nom": "Gloryhammer",
+            "sala": "Razzmatazz(2)",
+            "mes": "OCT.2026",
+            "dia": 20,
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-10-20T18:31+02:00"
+        },
+        {
+            "nom": "Beast In Black + Sonata Arctica + Frozen Crown",
+            "sala": "Razzmatazz(1)",
+            "mes": "NOV.2026",
+            "dia": 11,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-11-11T18:30+02:00"
+        },
+        {
+            "nom": "Sports",
+            "sala": "Razzmatazz(2)",
+            "mes": "NOV.2026",
+            "dia": 13,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-11-13T20:00+02:00"
+        },
+        {
+            "nom": "Elyella",
+            "sala": "Razzmatazz(1)",
+            "mes": "NOV.2026",
+            "dia": 14,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-11-14T19:30+02:00"
+        },
+        {
+            "nom": "Claim",
+            "sala": "Razzmatazz(3)",
+            "mes": "DES.2026",
+            "dia": 11,
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-12-11T19:30+02:00"
+        },
+        {
+            "nom": "La Sra. Tomasa",
+            "sala": "Razzmatazz(1)",
+            "mes": "DES.2026",
+            "dia": 12,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-12-12T19:00+02:00"
+        },
+        {
+            "nom": "JP Fernandez",
+            "sala": "Razzmatazz(2)",
+            "mes": "DES.2026",
+            "dia": 19,
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-12-19T20:00+02:00"
+        },
+        {
+            "nom": "Hard GZ",
+            "sala": "Razzmatazz(1)",
+            "mes": "GEN.2027",
+            "dia": 23,
+            "textdia": "disssabte",
+            "ciutat": "",
+            "dateTime": "2027-01-23T19:30+02:00"
+        },
+        {
+            "nom": "Orden Ogan",
+            "sala": "Razzmatazz(2)",
+            "mes": "FEB.2027",
+            "dia": 23,
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2027-02-23T18:30+02:00"
+        },
+    
+    {
       "nom": "BONA COLLITA",
       "sala": "Almo2bar",
       "hora": "21:00",
@@ -8,6 +1827,22 @@
       "textdia": "dissabte",
       "ciutat": "",
       "dateTime": "2025-10-10T21:00+02:00"
+    },{
+      "nom": "Brighton 64 + Los Fresones Rebeldes",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "GEN",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-01-03T20:00+02:00"
+    },{
+      "nom": "Moonloop + Boveda al sol + Jade",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "GEN",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-01-09T20:00+02:00"
     },
     {
       "nom": "ARLANDA + MIRAGÜANO",
