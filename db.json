@@ -1,5 +1,435 @@
 {
   "concerts": [
+  {
+          "nom": "Sunborn + SPLEEN + THE FALL OF ATLANTIS",
+          "sala": "Upload",
+          "hora": "19:00",
+          "mes": "JUL.2026",
+          "dia": "24",
+          "textdia": "dijous",
+          "ciutat": "",
+          "dateTime": "2026-07-24T19:00+02:00"
+      },
+      {
+          "nom": "Siamés ",
+          "sala": "Upload",
+          "hora": "19:00",
+          "mes": "JUL.2026",
+          "dia": "28",
+          "textdia": "dilluns",
+          "ciutat": "",
+          "dateTime": "2026-07-28T19:00+02:00"
+      },
+      {
+          "nom": "Las Robertas ",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "JUL.2026",
+          "dia": "31",
+          "textdia": "dijous",
+          "ciutat": "",
+          "dateTime": "2026-07-31T20:02+02:00"
+      },
+      {
+          "nom": "GEE TEE + GRIPAU",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "AGO.2026",
+          "dia": "2",
+          "textdia": "dissabte",
+          "ciutat": "",
+          "dateTime": "2026-08-02T20:02+02:00"
+      },
+      {
+          "nom": "Sonido Gallo Negro ",
+          "sala": "Upload",
+          "hora": "20:30",
+          "mes": "AGO.2026",
+          "dia": "3",
+          "textdia": "diumenge",
+          "ciutat": "",
+          "dateTime": "2026-08-03T20:30+02:00"
+      },
+      {
+          "nom": "Jack Moore (Playing Gary Moore) ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "AGO.2026",
+          "dia": "8",
+          "textdia": "divendres",
+          "ciutat": "",
+          "dateTime": "2026-08-08T20:00+02:00"
+      },
+      {
+          "nom": "The Flamin’ Groovies ",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "SET.2026",
+          "dia": "2",
+          "textdia": "dimarts",
+          "ciutat": "",
+          "dateTime": "2026-09-02T20:02+02:00"
+      },
+      {
+          "nom": "Guillem Ramisa ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "SET.2026",
+          "dia": "5",
+          "textdia": "divendres",
+          "ciutat": "",
+          "dateTime": "2026-09-05T20:00+02:00"
+      },
+      {
+          "nom": "Bodega + BAF",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "SET.2026",
+          "dia": "9",
+          "textdia": "dimarts",
+          "ciutat": "",
+          "dateTime": "2026-09-09T20:02+02:00"
+      },
+      {
+          "nom": "Das Ich + Siva Six ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "SET.2026",
+          "dia": "11",
+          "textdia": "dijous",
+          "ciutat": "",
+          "dateTime": "2026-09-11T20:00+02:00"
+      },
+      {
+          "nom": "Gambeat Weekend ",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "SET.2026",
+          "dia": "12",
+          "textdia": "divendres",
+          "ciutat": "",
+          "dateTime": "2026-09-12T20:02+02:00"
+      },
+      {
+          "nom": "Kumbia Queers ",
+          "sala": "Upload",
+          "hora": "19:00",
+          "mes": "SET.2026",
+          "dia": "16",
+          "textdia": "dimarts",
+          "ciutat": "",
+          "dateTime": "2026-09-16T19:00+02:00"
+      },
+      {
+          "nom": "B-Movie ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "SET.2026",
+          "dia": "17",
+          "textdia": "dimecres",
+          "ciutat": "",
+          "dateTime": "2026-09-17T20:00+02:00"
+      },
+      {
+          "nom": "White Denim ",
+          "sala": "Upload",
+          "hora": "21:00",
+          "mes": "SET.2026",
+          "dia": "18",
+          "textdia": "dijous",
+          "ciutat": "",
+          "dateTime": "2026-09-18T21:00+02:00"
+      },
+      {
+          "nom": "15º Aniversario Psycho RADIACTIVAS + THE MEOWS + ...",
+          "sala": "Upload",
+          "hora": "21:30",
+          "mes": "SET.2026",
+          "dia": "19",
+          "textdia": "divendres",
+          "ciutat": "",
+          "dateTime": "2026-09-19T21:30+02:00"
+      },
+      {
+          "nom": "Destroyer (solo show) ",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "SET.2026",
+          "dia": "20",
+          "textdia": "dissabte",
+          "ciutat": "",
+          "dateTime": "2026-09-20T20:02+02:00"
+      },
+      {
+          "nom": "Holy Wave ",
+          "sala": "Upload",
+          "hora": "00:00",
+          "mes": "SET.2026",
+          "dia": "22",
+          "textdia": "dilluns",
+          "ciutat": "",
+          "dateTime": "2026-09-22T00:00+02:00"
+      },
+      {
+          "nom": "Maya Ongaku ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "OCT.2026",
+          "dia": "1",
+          "textdia": "dimecres",
+          "ciutat": "",
+          "dateTime": "2026-10-01T20:00+02:00"
+      },
+      {
+          "nom": "Boyanka Kostova ",
+          "sala": "Upload",
+          "hora": "21:00",
+          "mes": "OCT.2026",
+          "dia": "8",
+          "textdia": "dimecres",
+          "ciutat": "",
+          "dateTime": "2026-10-08T21:00+02:00"
+      },
+      {
+          "nom": "Prison Records Party #3 ",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "OCT.2026",
+          "dia": "9",
+          "textdia": "dijous",
+          "ciutat": "",
+          "dateTime": "2026-10-09T20:02+02:00"
+      },
+      {
+          "nom": "The Slackers ",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "OCT.2026",
+          "dia": "10",
+          "textdia": "divendres",
+          "ciutat": "",
+          "dateTime": "2026-10-10T20:02+02:00"
+      },
+      {
+          "nom": "Strawberry Guy ",
+          "sala": "Upload",
+          "hora": "19:00",
+          "mes": "OCT.2026",
+          "dia": "12",
+          "textdia": "diumenge",
+          "ciutat": "",
+          "dateTime": "2026-10-12T19:00+02:00"
+      },
+      {
+          "nom": "IST IST ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "OCT.2026",
+          "dia": "13",
+          "textdia": "dilluns",
+          "ciutat": "",
+          "dateTime": "2026-10-13T20:00+02:00"
+      },
+      {
+          "nom": "Erik Urano ",
+          "sala": "Upload",
+          "hora": "19:30",
+          "mes": "OCT.2026",
+          "dia": "15",
+          "textdia": "dimecres",
+          "ciutat": "",
+          "dateTime": "2026-10-15T19:30+02:00"
+      },
+      {
+          "nom": "Hällas ",
+          "sala": "Upload",
+          "hora": "19:30",
+          "mes": "OCT.2026",
+          "dia": "16",
+          "textdia": "dijous",
+          "ciutat": "",
+          "dateTime": "2026-10-16T19:30+02:00"
+      },
+      {
+          "nom": "Magic In The Air LOS RETROVISORES, THE FALKEN'S MAZE...",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "OCT.2026",
+          "dia": "17",
+          "textdia": "divendres",
+          "ciutat": "",
+          "dateTime": "2026-10-17T20:00+02:00"
+      },
+      {
+          "nom": "Bass Drum Of Death ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "OCT.2026",
+          "dia": "19",
+          "textdia": "diumenge",
+          "ciutat": "",
+          "dateTime": "2026-10-19T20:00+02:00"
+      },
+      {
+          "nom": "Songhoy Blues + AYSAY",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "OCT.2026",
+          "dia": "20",
+          "textdia": "dilluns",
+          "ciutat": "",
+          "dateTime": "2026-10-20T20:02+02:00"
+      },
+      {
+          "nom": "Kelley Stoltz ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "OCT.2026",
+          "dia": "29",
+          "textdia": "dimecres",
+          "ciutat": "",
+          "dateTime": "2026-10-29T20:00+02:00"
+      },
+      {
+          "nom": "Lido Pimienta ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "NOV.2026",
+          "dia": "2",
+          "textdia": "diumenge",
+          "ciutat": "",
+          "dateTime": "2026-11-02T20:00+02:00"
+      },
+      {
+          "nom": "Kiss Facility ",
+          "sala": "Upload",
+          "hora": "19:00",
+          "mes": "NOV.2026",
+          "dia": "4",
+          "textdia": "dimarts",
+          "ciutat": "",
+          "dateTime": "2026-11-04T19:00+02:00"
+      },
+      {
+          "nom": "Dumbo Gets Mad ",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "NOV.2026",
+          "dia": "5",
+          "textdia": "dimecres",
+          "ciutat": "",
+          "dateTime": "2026-11-05T20:02+02:00"
+      },
+      {
+          "nom": "Cloud Nothings ",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "NOV.2026",
+          "dia": "17",
+          "textdia": "dilluns",
+          "ciutat": "",
+          "dateTime": "2026-11-17T20:02+02:00"
+      },
+      {
+          "nom": "Vreno Yg ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "NOV.2026",
+          "dia": "19",
+          "textdia": "dimecres",
+          "ciutat": "",
+          "dateTime": "2026-11-19T20:00+02:00"
+      },
+      {
+          "nom": "Tito Ramírez ",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "NOV.2026",
+          "dia": "20",
+          "textdia": "dijous",
+          "ciutat": "",
+          "dateTime": "2026-11-20T20:02+02:00"
+      },
+      {
+          "nom": "Geordie Greep ",
+          "sala": "Upload",
+          "hora": "20:30",
+          "mes": "NOV.2026",
+          "dia": "23",
+          "textdia": "diumenge",
+          "ciutat": "",
+          "dateTime": "2026-11-23T20:30+02:00"
+      },
+      {
+          "nom": "Frankie and the Witch Fingers ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "NOV.2026",
+          "dia": "25",
+          "textdia": "dimarts",
+          "ciutat": "",
+          "dateTime": "2026-11-25T20:00+02:00"
+      },
+      {
+          "nom": "The Sadies + TERRA LIGHTFOOT",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "DES.2026",
+          "dia": "5",
+          "textdia": "divendres",
+          "ciutat": "",
+          "dateTime": "2026-12-05T20:02+02:00"
+      },
+      {
+          "nom": "Kid Kapichi ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "DES.2026",
+          "dia": "11",
+          "textdia": "dijous",
+          "ciutat": "",
+          "dateTime": "2026-12-11T20:00+02:00"
+      },
+      {
+          "nom": "Joia ",
+          "sala": "Upload",
+          "hora": "20:30",
+          "mes": "DES.2026",
+          "dia": "12",
+          "textdia": "divendres",
+          "ciutat": "",
+          "dateTime": "2026-12-12T20:30+02:00"
+      },
+      {
+          "nom": "Trobar de Morte ",
+          "sala": "Upload",
+          "hora": "20:02",
+          "mes": "GEN.2027",
+          "dia": "16",
+          "textdia": "divendres",
+          "ciutat": "",
+          "dateTime": "2027-01-16T20:02+02:00"
+      },
+      {
+          "nom": "Henge ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "FEB.2027",
+          "dia": "24",
+          "textdia": "dimarts",
+          "ciutat": "",
+          "dateTime": "2027-02-24T20:00+02:00"
+      },
+      {
+          "nom": "Perfecto Miserable ",
+          "sala": "Upload",
+          "hora": "20:00",
+          "mes": "FEB.2027",
+          "dia": "27",
+          "textdia": "divendres",
+          "ciutat": "",
+          "dateTime": "2027-02-27T20:00+02:00"
+      },
     {
       "nom": "THE AZAR LAWRENCE QUARTET SALUTES JOHN COLTRANE. THE IMPULSE ERA! ",
       "sala": "Jamboree[1]",
