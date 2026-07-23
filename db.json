@@ -1,5 +1,7 @@
 {
   "concerts": [
+
+    
     {
             "nom": "VULTURES + SASSY",
             "sala": "Boîte",
@@ -39,7 +41,7 @@
             "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-10-23T21:30+02:00"
-        }
+        },
     {
             "nom": "PLASTILINA MOSH",
             "sala": "Bikini",
