@@ -1,6 +1,136 @@
 {
   "concerts": [
     {
+            "nom": "CRUZ + PVRGATORII + ATONEMENT",
+            "sala": "laDeskomunal",
+            "hora": "19",
+            "mes": "AGO.2026",
+            "dia": "24",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-07-24T19:30+02:00"
+        },
+        {
+            "nom": "CRUZ + PVRGATORII + ATONEMENT",
+            "sala": "laDeskomunal",
+            "hora": "19",
+            "mes": "AGO.2026",
+            "dia": "24",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-07-24T19:30+02:00"
+        },
+        {
+            "nom": "FROM SKA TO DANCEHALL",
+            "sala": "laDeskomunal",
+            "hora": "23",
+            "mes": "AGO.2026",
+            "dia": "25",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-07-25T23:45+02:00"
+        },
+        {
+            "nom": "SORROFEST – 26",
+            "sala": "laDeskomunal",
+            "hora": "20",
+            "mes": "AGO.2026",
+            "dia": "26",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-07-26T20:00+02:00"
+        },
+        {
+            "nom": "SHUTDOWN + GO VETERANS + NO REST FOR THE ENEMY",
+            "sala": "laDeskomunal",
+            "hora": "19",
+            "mes": "AGO.2026",
+            "dia": "27",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-07-27T19:45+02:00"
+        },
+        {
+            "nom": "MATOLL + VOLTS",
+            "sala": "laDeskomunal",
+            "hora": "21",
+            "mes": "AGO.2026",
+            "dia": "30",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-07-30T21:00+02:00"
+        },
+        {
+            "nom": "HERDOIL",
+            "sala": "laDeskomunal",
+            "hora": "21",
+            "mes": "AGO.2026",
+            "dia": "31",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-07-31T21:30+02:00"
+        },
+        {
+            "nom": "GRADE 2",
+            "sala": "laDeskomunal",
+            "hora": "20",
+            "mes": "OCT.2026",
+            "dia": "7",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-09-07T20:30+02:00"
+        },
+        {
+            "nom": "DECLIVI + DEM",
+            "sala": "laDeskomunal",
+            "hora": "20",
+            "mes": "OCT.2026",
+            "dia": "12",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-09-12T20:00+02:00"
+        },
+        {
+            "nom": "CUATRO PESOS DE PROPINA + MONA DE MAGMA",
+            "sala": "laDeskomunal",
+            "hora": "20",
+            "mes": "OCT.2026",
+            "dia": "17",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-09-17T20:00+02:00"
+        },
+        {
+            "nom": "INTEGRITY",
+            "sala": "laDeskomunal",
+            "hora": "20",
+            "mes": "OCT.2026",
+            "dia": "18",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-09-18T20:00+02:00"
+        },
+        {
+            "nom": "NOT SCIENTISTS",
+            "sala": "laDeskomunal",
+            "hora": "20",
+            "mes": "OCT.2026",
+            "dia": "19",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-09-19T20:00+02:00"
+        },
+        {
+            "nom": "ROBERT RODRIGO BAND + GNAPOSS TRÍO",
+            "sala": "laDeskomunal",
+            "hora": "20",
+            "mes": "OCT.2026",
+            "dia": "26",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-09-26T20:00+02:00"
+        },
+    {
             "nom": "VULTURES + SASSY",
             "sala": "Boîte",
             "hora": "21:00",
@@ -39,8 +169,7 @@
             "textdia": "dissabte",
             "ciutat": "",
             "dateTime": "2026-10-23T21:30+02:00"
-        },
-    {
+        },{
             "nom": "PLASTILINA MOSH",
             "sala": "Bikini",
             "hora": "19:30",
@@ -49,8 +178,7 @@
             "textdia": "diumenge",
             "ciutat": "",
             "dateTime": "2026-09-13T19:30+02:00"
-        },
-        {
+        },{
             "nom": "ALEKS SYNTEK",
             "sala": "Bikini",
             "hora": "20:00",
