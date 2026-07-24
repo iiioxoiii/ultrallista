@@ -1,1396 +1,6 @@
 {
   "concerts": [
     {
-            "nom": "Armenian",
-            "sala": "Wolf",
-            "hora": "20:00",
-            "mes": "SET.2026",
-            "dia": "5",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-09-05T20:00+02:00"
-        },
-        {
-            "nom": "La Coka Nostra",
-            "sala": "Wolf",
-            "hora": "20:00",
-            "mes": "SET.2026",
-            "dia": "6",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-09-06T20:00+02:00"
-        },
-        {
-            "nom": "Olivia Wald",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "SET.2026",
-            "dia": "12",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-09-12T21:00+02:00"
-        },
-        {
-            "nom": "Actors + Hallows",
-            "sala": "Wolf",
-            "hora": "21:15",
-            "mes": "SET.2026",
-            "dia": "18",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-09-18T21:15+02:00"
-        },
-        {
-            "nom": "Hechizo, Homenaje a Héroes del Silencio",
-            "sala": "Wolf",
-            "hora": "19:30",
-            "mes": "OCT.2026",
-            "dia": "2",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-10-02T19:30+02:00"
-        },
-        {
-            "nom": "Then Jerico",
-            "sala": "Wolf",
-            "hora": "20:00",
-            "mes": "OCT.2026",
-            "dia": "7",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2026-10-07T20:00+02:00"
-        },
-        {
-            "nom": "DM EXPERIENCE: Tribut a Depeche Mode",
-            "sala": "Wolf",
-            "hora": "20:02",
-            "mes": "OCT.2026",
-            "dia": "9",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-10-09T20:02+02:00"
-        },
-        {
-            "nom": "Far East Groove - Yashuru Takanashi",
-            "sala": "Wolf",
-            "hora": "19:30",
-            "mes": "OCT.2026",
-            "dia": "13",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2026-10-13T19:30+02:00"
-        },
-        {
-            "nom": "Analog Society + Dj Surda",
-            "sala": "Wolf",
-            "hora": "19:30",
-            "mes": "OCT.2026",
-            "dia": "16",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-10-16T19:30+02:00"
-        },
-        {
-            "nom": "Las Novias + Serch",
-            "sala": "Wolf",
-            "hora": "19:30",
-            "mes": "OCT.2026",
-            "dia": "17",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-10-17T19:30+02:00"
-        },
-        {
-            "nom": "Sodi",
-            "sala": "Wolf",
-            "hora": "20:00",
-            "mes": "OCT.2026",
-            "dia": "23",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-10-23T20:00+02:00"
-        },
-        {
-            "nom": "Declan Welsh & The Decadent West",
-            "sala": "Wolf",
-            "hora": "20:00",
-            "mes": "OCT.2026",
-            "dia": "24",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-10-24T20:00+02:00"
-        },
-        {
-            "nom": "Myrath",
-            "sala": "Wolf",
-            "hora": "19:00",
-            "mes": "OCT.2026",
-            "dia": "25",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-10-25T19:00+02:00"
-        },
-        {
-            "nom": "Vecinos",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "OCT.2026",
-            "dia": "29",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2026-10-29T21:00+02:00"
-        },
-        {
-            "nom": "The Last Internationale",
-            "sala": "Wolf",
-            "hora": "20:02",
-            "mes": "NOV.2026",
-            "dia": "12",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2026-11-12T20:02+02:00"
-        },
-        {
-            "nom": "Zeballos",
-            "sala": "Wolf",
-            "hora": "20:00",
-            "mes": "NOV.2026",
-            "dia": "13",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-11-13T20:00+02:00"
-        },
-        {
-            "nom": "Razorlight + The K's",
-            "sala": "Wolf",
-            "hora": "19:30",
-            "mes": "NOV.2026",
-            "dia": "18",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2026-11-18T19:30+02:00"
-        },
-        {
-            "nom": "Pete & Bas",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "NOV.2026",
-            "dia": "18",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2026-11-18T21:00+02:00"
-        },
-        {
-            "nom": "Modelo de Respuesta Polar",
-            "sala": "Wolf",
-            "hora": "20:00",
-            "mes": "NOV.2026",
-            "dia": "20",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-11-20T20:00+02:00"
-        },
-        {
-            "nom": "Denom",
-            "sala": "Wolf",
-            "hora": "20:00",
-            "mes": "NOV.2026",
-            "dia": "21",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-11-21T20:00+02:00"
-        },
-        {
-            "nom": "Clearwater Creedence Revival",
-            "sala": "Wolf",
-            "hora": "20:00",
-            "mes": "NOV.2026",
-            "dia": "25",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2026-11-25T20:00+02:00"
-        },
-        {
-            "nom": "Michelle Gurevich",
-            "sala": "Wolf",
-            "hora": "20:00",
-            "mes": "NOV.2026",
-            "dia": "26",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2026-11-26T20:00+02:00"
-        },
-        {
-            "nom": "Dúo Kie",
-            "sala": "Wolf",
-            "hora": "19:00",
-            "mes": "DES.2026",
-            "dia": "5",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-12-05T19:00+02:00"
-        },
-        {
-            "nom": "Javi Crespo",
-            "sala": "Wolf",
-            "hora": "21:00",
-            "mes": "GEN.2027",
-            "dia": "14",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2027-01-14T21:00+02:00"
-        },
-        {
-            "nom": "Shred Fest 2026: Obscura + Pestilence + Cryptic Shift + Thus + Dvrk",
-            "sala": "Wolf",
-            "hora": "17:30",
-            "mes": "FEB.2027",
-            "dia": "5",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2027-02-05T17:30+02:00"
-        },
-        {
-            "nom": "SLIFT",
-            "sala": "Wolf",
-            "hora": "20:00",
-            "mes": "FEB.2027",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2027-02-06T20:00+02:00"
-        },
-        {
-            "nom": "Invisible Limits",
-            "sala": "Wolf",
-            "hora": "20:30",
-            "mes": "FEB.2027",
-            "dia": "7",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2027-02-07T20:30+02:00"
-        },
-    {
-            "nom": "RATOS DE PORAO + LOBOTOMICS + EUSKAL BASTARDS + INSERSHOW",
-            "sala": "Salamandra (H'l)",
-            "hora": "19:15",
-            "mes": "SET.2026",
-            "dia": "6",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-08-06T19:15+02:00"
-        },
-        {
-            "nom": "HELABUSADOR & REY TONY",
-            "sala": "Salamandra (H'l)",
-            "hora": "19:00",
-            "mes": "SET.2026",
-            "dia": "8",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-08-08T19:00+02:00"
-        },
-        {
-            "nom": "MARKY RAMONE'S BLITZKRIEG",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "SET.2026",
-            "dia": "13",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-08-13T21:00+02:00"
-        },
-        {
-            "nom": "SEEK'M'ALL",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "FEB.2027",
-            "dia": "12",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2027-01-12T21:00+02:00"
-        },
-        {
-            "nom": "FISCHER-Z",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "FEB.2027",
-            "dia": "18",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2027-01-18T21:00+02:00"
-        },
-        {
-            "nom": "PEDRÁ - TRIBUT A EXTREMODURO - 1 PASE",
-            "sala": "Salamandra (H'l)",
-            "hora": "18:00",
-            "mes": "FEB.2027",
-            "dia": "19",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2027-01-19T18:00+02:00"
-        },
-        {
-            "nom": "PEDRÁ - TRIBUT A EXTREMODURO - 2 PASE",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "FEB.2027",
-            "dia": "19",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2027-01-19T21:00+02:00"
-        },
-        {
-            "nom": "HAKEN",
-            "sala": "Salamandra (H'l)",
-            "hora": "19:00",
-            "mes": "FEB.2027",
-            "dia": "23",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2027-01-23T19:00+02:00"
-        },
-        {
-            "nom": "HAVOK + BLOOD RED THRONE + XONOR + ERADIKATED",
-            "sala": "Salamandra (H'l)",
-            "hora": "18:30",
-            "mes": "FEB.2027",
-            "dia": "24",
-            "textdia": "dilluns",
-            "ciutat": "",
-            "dateTime": "2027-01-24T18:30+02:00"
-        },
-        {
-            "nom": "ZENOBIA + DAERIA",
-            "sala": "Salamandra (H'l)",
-            "hora": "20:30",
-            "mes": "FEB.2027",
-            "dia": "25",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2027-01-25T20:30+02:00"
-        },
-        {
-            "nom": "DULCE CASTIGO",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "NOV.2026",
-            "dia": "3",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-10-03T21:00+02:00"
-        },
-        {
-            "nom": "DEVIN TOWNSEND",
-            "sala": "Salamandra (H'l)",
-            "hora": "19:30",
-            "mes": "NOV.2026",
-            "dia": "10",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-10-10T19:30+02:00"
-        },
-        {
-            "nom": "PRIMAL FEAR",
-            "sala": "Salamandra (H'l)",
-            "hora": "19:30",
-            "mes": "NOV.2026",
-            "dia": "12",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2026-10-12T19:30+02:00"
-        },
-        {
-            "nom": "ALBERTUCHO",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "NOV.2026",
-            "dia": "16",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-10-16T21:00+02:00"
-        },
-        {
-            "nom": "SVETLANA - Directes Estrella Damm 150",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "NOV.2026",
-            "dia": "17",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-10-17T21:00+02:00"
-        },
-        {
-            "nom": "5'NIZZA",
-            "sala": "Salamandra (H'l)",
-            "hora": "20:00",
-            "mes": "NOV.2026",
-            "dia": "22",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-10-22T20:00+02:00"
-        },
-        {
-            "nom": "MEINSTEIN",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "NOV.2026",
-            "dia": "23",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-10-23T21:00+02:00"
-        },
-        {
-            "nom": "LOKO&MOTORA",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "NOV.2026",
-            "dia": "24",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-10-24T21:00+02:00"
-        },
-        {
-            "nom": "MESSA",
-            "sala": "Salamandra (H'l)",
-            "hora": "20:00",
-            "mes": "NOV.2026",
-            "dia": "28",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2026-10-28T20:00+02:00"
-        },
-        {
-            "nom": "REBEL PUNK: ANA CURRA",
-            "sala": "Salamandra (H'l)",
-            "hora": "20:00",
-            "mes": "NOV.2026",
-            "dia": "30",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-10-30T20:00+02:00"
-        },
-        {
-            "nom": "ARCHSPIRE + CROWN MAGNETAR + THE ZENITH PASSAGE + ANALEPSY",
-            "sala": "Salamandra (H'l)",
-            "hora": "18:00",
-            "mes": "DES.2026",
-            "dia": "6",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-11-06T18:00+02:00"
-        },
-        {
-            "nom": "EL RENO RENARDO",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "DES.2026",
-            "dia": "7",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-11-07T21:00+02:00"
-        },
-        {
-            "nom": "PONCHO K",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "DES.2026",
-            "dia": "14",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-11-14T21:00+02:00"
-        },
-        {
-            "nom": "BORN TO BAND",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "DES.2026",
-            "dia": "20",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-11-20T21:00+02:00"
-        },
-        {
-            "nom": "DEPEDRO",
-            "sala": "Salamandra (H'l)",
-            "hora": "21:00",
-            "mes": "DES.2026",
-            "dia": "21",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-11-21T21:00+02:00"
-        },
-    {
-            "nom": "Anna Tréa",
-            "sala": "Aclam Club",
-            "hora": "20:00",
-            "mes": "AGO.2026",
-            "dia": "24",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-07-24T20:00+02:00"
-        },
-        {
-            "nom": "Braxton Cook",
-            "sala": "Aclam Club",
-            "hora": "20:30",
-            "mes": "AGO.2026",
-            "dia": "25",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-07-25T20:30+02:00"
-        },
-        {
-            "nom": "Cosimo & The Hot Coals",
-            "sala": "Aclam Club",
-            "hora": "20:00",
-            "mes": "AGO.2026",
-            "dia": "28",
-            "textdia": "dimecres",
-            "ciutat": "",
-            "dateTime": "2026-07-28T20:00+02:00"
-        },
-        {
-            "nom": "Romain Vuillemin · Vespres de Refrigeris entre Guitarres",
-            "sala": "Aclam Club",
-            "hora": "20:00",
-            "mes": "AGO.2026",
-            "dia": "29",
-            "textdia": "dijous",
-            "ciutat": "",
-            "dateTime": "2026-07-29T20:00+02:00"
-        },
-        {
-            "nom": "Lluís Coloma & Blue Lou Marini",
-            "sala": "Aclam Club",
-            "hora": "20:00",
-            "mes": "AGO.2026",
-            "dia": "30",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-07-30T20:00+02:00"
-        },
-        {
-            "nom": "Chicuelo Trio · Cicle Flamenc · Edició 4",
-            "sala": "Aclam Club",
-            "hora": "20:30",
-            "mes": "OCT.2026",
-            "dia": "18",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-09-18T20:30+02:00"
-        },
-        {
-            "nom": "Kenny «Blues Boss» Wayne Band",
-            "sala": "Aclam Club",
-            "hora": "20:00",
-            "mes": "OCT.2026",
-            "dia": "20",
-            "textdia": "dilluns",
-            "ciutat": "",
-            "dateTime": "2026-09-20T20:00+02:00"
-        },
-        {
-            "nom": "Carles Benavent & Roger Mas · Cicle Flamenc · Edició 5",
-            "sala": "Aclam Club",
-            "hora": "19:00",
-            "mes": "NOV.2026",
-            "dia": "2",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-10-02T19:00+02:00"
-        },
-        {
-            "nom": "Josep Traver Organ Trio – Tribute to Grant Green",
-            "sala": "Aclam Club",
-            "hora": "20:00",
-            "mes": "NOV.2026",
-            "dia": "16",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-10-16T20:00+02:00"
-        },
-        {
-            "nom": "Will Hoge",
-            "sala": "Aclam Club",
-            "hora": "20:30",
-            "mes": "NOV.2026",
-            "dia": "22",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-10-22T20:30+02:00"
-        },
-        {
-            "nom": "The Pyramidiacs",
-            "sala": "Aclam Club",
-            "hora": "20:00",
-            "mes": "NOV.2026",
-            "dia": "29",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-10-29T20:00+02:00"
-        },
-        {
-            "nom": "Tori Sparks",
-            "sala": "Aclam Club",
-            "hora": "20:30",
-            "mes": "NOV.2026",
-            "dia": "30",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-10-30T20:30+02:00"
-        },
-        {
-            "nom": "Sisa Còsmic",
-            "sala": "Aclam Club",
-            "hora": "20:00",
-            "mes": "DES.2026",
-            "dia": "13",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-11-13T20:00+02:00"
-        },
-        {
-            "nom": "Massive Noise Collective",
-            "sala": "Aclam Club",
-            "hora": "20:00",
-            "mes": "DES.2026",
-            "dia": "22",
-            "textdia": "dilluns",
-            "ciutat": "",
-            "dateTime": "2026-11-22T20:00+02:00"
-        },
-    {
-            "nom": "CRUZ + PVRGATORII + ATONEMENT",
-            "sala": "laDeskomunal",
-            "hora": "19:30",
-            "mes": "AGO.2026",
-            "dia": "24",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-07-24T19:30+02:00"
-        },
-        {
-            "nom": "CRUZ + PVRGATORII + ATONEMENT",
-            "sala": "laDeskomunal",
-            "hora": "19:30",
-            "mes": "AGO.2026",
-            "dia": "24",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-07-24T19:30+02:00"
-        },
-        {
-            "nom": "FROM SKA TO DANCEHALL",
-            "sala": "laDeskomunal",
-            "hora": "23:45",
-            "mes": "AGO.2026",
-            "dia": "25",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-07-25T23:45+02:00"
-        },
-        {
-            "nom": "SORROFEST – 26",
-            "sala": "laDeskomunal",
-            "hora": "20:00",
-            "mes": "AGO.2026",
-            "dia": "26",
-            "textdia": "dilluns",
-            "ciutat": "",
-            "dateTime": "2026-07-26T20:00+02:00"
-        },
-        {
-            "nom": "SHUTDOWN + GO VETERANS + NO REST FOR THE ENEMY",
-            "sala": "laDeskomunal",
-            "hora": "19:45",
-            "mes": "AGO.2026",
-            "dia": "27",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2026-07-27T19:45+02:00"
-        },
-        {
-            "nom": "MATOLL + VOLTS",
-            "sala": "laDeskomunal",
-            "hora": "21:00",
-            "mes": "AGO.2026",
-            "dia": "30",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-07-30T21:00+02:00"
-        },
-        {
-            "nom": "HERDOIL",
-            "sala": "laDeskomunal",
-            "hora": "21:30",
-            "mes": "AGO.2026",
-            "dia": "31",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-07-31T21:30+02:00"
-        },
-        {
-            "nom": "GRADE 2",
-            "sala": "laDeskomunal",
-            "hora": "20:30",
-            "mes": "OCT.2026",
-            "dia": "7",
-            "textdia": "dimarts",
-            "ciutat": "",
-            "dateTime": "2026-09-07T20:30+02:00"
-        },
-        {
-            "nom": "DECLIVI + DEM",
-            "sala": "laDeskomunal",
-            "hora": "20:00",
-            "mes": "OCT.2026",
-            "dia": "12",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-09-12T20:00+02:00"
-        },
-        {
-            "nom": "CUATRO PESOS DE PROPINA + MONA DE MAGMA",
-            "sala": "laDeskomunal",
-            "hora": "20:00",
-            "mes": "OCT.2026",
-            "dia": "17",
-            "textdia": "divendres",
-            "ciutat": "",
-            "dateTime": "2026-09-17T20:00+02:00"
-        },
-        {
-            "nom": "INTEGRITY",
-            "sala": "laDeskomunal",
-            "hora": "20:00",
-            "mes": "OCT.2026",
-            "dia": "18",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-09-18T20:00+02:00"
-        },
-        {
-            "nom": "NOT SCIENTISTS",
-            "sala": "laDeskomunal",
-            "hora": "20:00",
-            "mes": "OCT.2026",
-            "dia": "19",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-09-19T20:00+02:00"
-        },
-        {
-            "nom": "ROBERT RODRIGO BAND + GNAPOSS TRÍO",
-            "sala": "laDeskomunal",
-            "hora": "20:00",
-            "mes": "OCT.2026",
-            "dia": "26",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-09-26T20:00+02:00"
-        },
-    {
-            "nom": "VULTURES + SASSY",
-            "sala": "Boîte",
-            "hora": "21:00",
-            "mes": "JUL.2026",
-            "dia": "25",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-07-25T21:00+02:00"
-        },
-        {
-            "nom": "METRONOMICAL + ESTEBAN NOGARA",
-            "sala": "Boîte",
-            "hora": "21:30",
-            "mes": "AGO.2026",
-            "dia": "1",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-08-01T21:30+02:00"
-        },
-        {
-            "nom": "TAKERU´S CLUB HOUSE TOUR",
-            "sala": "Boîte",
-            "hora": "21:30",
-            "mes": "AGO.2026",
-            "dia": "22",
-            "textdia": "diumenge",
-            "ciutat": "",
-            "dateTime": "2026-08-22T21:30+02:00"
-        },
-        {
-            "nom": "SHOVELL + SATZAOOGA",
-            "sala": "Boîte",
-            "hora": "21:30",
-            "mes": "OCT.2026",
-            "dia": "23",
-            "textdia": "dissabte",
-            "ciutat": "",
-            "dateTime": "2026-10-23T21:30+02:00"
-        },
-    {
-      "nom": "JERE",
-      "sala": "Almo2bar",
-      "hora": "20:30",
-      "mes": "OCT",
-      "dia": "03",
-      "textdia": "diumenge",
-      "ciutat": "",
-      "dateTime": "2026-10-03T20:30+02:00"
-    },
-    {
-      "nom": "ANORA KITO + CRISTALES ROTOS",
-      "sala": "Almo2bar",
-      "hora": "20:30",
-      "mes": "OCT",
-      "dia": "10",
-      "textdia": "diumenge",
-      "ciutat": "",
-      "dateTime": "2026-10-10T20:30+02:00"
-    },
-    {
-      "nom": "Sunborn + SPLEEN + THE FALL OF ATLANTIS",
-      "sala": "Upload",
-      "hora": "19:00",
-      "mes": "JUL.2026",
-      "dia": "24",
-      "textdia": "dijous",
-      "ciutat": "",
-      "dateTime": "2026-07-24T19:00+02:00"
-      },
-      {
-          "nom": "Siamés ",
-          "sala": "Upload",
-          "hora": "19:00",
-          "mes": "JUL.2026",
-          "dia": "28",
-          "textdia": "dilluns",
-          "ciutat": "",
-          "dateTime": "2026-07-28T19:00+02:00"
-      },
-      {
-          "nom": "Las Robertas ",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "JUL.2026",
-          "dia": "31",
-          "textdia": "dijous",
-          "ciutat": "",
-          "dateTime": "2026-07-31T20:02+02:00"
-      },
-      {
-          "nom": "GEE TEE + GRIPAU",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "AGO.2026",
-          "dia": "2",
-          "textdia": "dissabte",
-          "ciutat": "",
-          "dateTime": "2026-08-02T20:02+02:00"
-      },
-      {
-          "nom": "Sonido Gallo Negro ",
-          "sala": "Upload",
-          "hora": "20:30",
-          "mes": "AGO.2026",
-          "dia": "3",
-          "textdia": "diumenge",
-          "ciutat": "",
-          "dateTime": "2026-08-03T20:30+02:00"
-      },
-      {
-          "nom": "Jack Moore (Playing Gary Moore) ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "AGO.2026",
-          "dia": "8",
-          "textdia": "divendres",
-          "ciutat": "",
-          "dateTime": "2026-08-08T20:00+02:00"
-      },
-      {
-          "nom": "The Flamin’ Groovies ",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "SET.2026",
-          "dia": "2",
-          "textdia": "dimarts",
-          "ciutat": "",
-          "dateTime": "2026-09-02T20:02+02:00"
-      },
-      {
-          "nom": "Guillem Ramisa ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "SET.2026",
-          "dia": "5",
-          "textdia": "divendres",
-          "ciutat": "",
-          "dateTime": "2026-09-05T20:00+02:00"
-      },
-      {
-          "nom": "Bodega + BAF",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "SET.2026",
-          "dia": "9",
-          "textdia": "dimarts",
-          "ciutat": "",
-          "dateTime": "2026-09-09T20:02+02:00"
-      },
-      {
-          "nom": "Das Ich + Siva Six ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "SET.2026",
-          "dia": "11",
-          "textdia": "dijous",
-          "ciutat": "",
-          "dateTime": "2026-09-11T20:00+02:00"
-      },
-      {
-          "nom": "Gambeat Weekend ",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "SET.2026",
-          "dia": "12",
-          "textdia": "divendres",
-          "ciutat": "",
-          "dateTime": "2026-09-12T20:02+02:00"
-      },
-      {
-          "nom": "Kumbia Queers ",
-          "sala": "Upload",
-          "hora": "19:00",
-          "mes": "SET.2026",
-          "dia": "16",
-          "textdia": "dimarts",
-          "ciutat": "",
-          "dateTime": "2026-09-16T19:00+02:00"
-      },
-      {
-          "nom": "B-Movie ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "SET.2026",
-          "dia": "17",
-          "textdia": "dimecres",
-          "ciutat": "",
-          "dateTime": "2026-09-17T20:00+02:00"
-      },
-      {
-          "nom": "White Denim ",
-          "sala": "Upload",
-          "hora": "21:00",
-          "mes": "SET.2026",
-          "dia": "18",
-          "textdia": "dijous",
-          "ciutat": "",
-          "dateTime": "2026-09-18T21:00+02:00"
-      },
-      {
-          "nom": "15º Aniversario Psycho RADIACTIVAS + THE MEOWS + ...",
-          "sala": "Upload",
-          "hora": "21:30",
-          "mes": "SET.2026",
-          "dia": "19",
-          "textdia": "divendres",
-          "ciutat": "",
-          "dateTime": "2026-09-19T21:30+02:00"
-      },
-      {
-          "nom": "Destroyer (solo show) ",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "SET.2026",
-          "dia": "20",
-          "textdia": "dissabte",
-          "ciutat": "",
-          "dateTime": "2026-09-20T20:02+02:00"
-      },
-      {
-          "nom": "Holy Wave ",
-          "sala": "Upload",
-          "hora": "00:00",
-          "mes": "SET.2026",
-          "dia": "22",
-          "textdia": "dilluns",
-          "ciutat": "",
-          "dateTime": "2026-09-22T00:00+02:00"
-      },
-      {
-          "nom": "Maya Ongaku ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "OCT.2026",
-          "dia": "1",
-          "textdia": "dimecres",
-          "ciutat": "",
-          "dateTime": "2026-10-01T20:00+02:00"
-      },
-      {
-          "nom": "Boyanka Kostova ",
-          "sala": "Upload",
-          "hora": "21:00",
-          "mes": "OCT.2026",
-          "dia": "8",
-          "textdia": "dimecres",
-          "ciutat": "",
-          "dateTime": "2026-10-08T21:00+02:00"
-      },
-      {
-          "nom": "Prison Records Party #3 ",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "OCT.2026",
-          "dia": "9",
-          "textdia": "dijous",
-          "ciutat": "",
-          "dateTime": "2026-10-09T20:02+02:00"
-      },
-      {
-          "nom": "The Slackers ",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "OCT.2026",
-          "dia": "10",
-          "textdia": "divendres",
-          "ciutat": "",
-          "dateTime": "2026-10-10T20:02+02:00"
-      },
-      {
-          "nom": "Strawberry Guy ",
-          "sala": "Upload",
-          "hora": "19:00",
-          "mes": "OCT.2026",
-          "dia": "12",
-          "textdia": "diumenge",
-          "ciutat": "",
-          "dateTime": "2026-10-12T19:00+02:00"
-      },
-      {
-          "nom": "IST IST ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "OCT.2026",
-          "dia": "13",
-          "textdia": "dilluns",
-          "ciutat": "",
-          "dateTime": "2026-10-13T20:00+02:00"
-      },
-      {
-          "nom": "Erik Urano ",
-          "sala": "Upload",
-          "hora": "19:30",
-          "mes": "OCT.2026",
-          "dia": "15",
-          "textdia": "dimecres",
-          "ciutat": "",
-          "dateTime": "2026-10-15T19:30+02:00"
-      },
-      {
-          "nom": "Hällas ",
-          "sala": "Upload",
-          "hora": "19:30",
-          "mes": "OCT.2026",
-          "dia": "16",
-          "textdia": "dijous",
-          "ciutat": "",
-          "dateTime": "2026-10-16T19:30+02:00"
-      },
-      {
-          "nom": "Magic In The Air LOS RETROVISORES, THE FALKEN'S MAZE...",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "OCT.2026",
-          "dia": "17",
-          "textdia": "divendres",
-          "ciutat": "",
-          "dateTime": "2026-10-17T20:00+02:00"
-      },
-      {
-          "nom": "Bass Drum Of Death ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "OCT.2026",
-          "dia": "19",
-          "textdia": "diumenge",
-          "ciutat": "",
-          "dateTime": "2026-10-19T20:00+02:00"
-      },
-      {
-          "nom": "Songhoy Blues + AYSAY",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "OCT.2026",
-          "dia": "20",
-          "textdia": "dilluns",
-          "ciutat": "",
-          "dateTime": "2026-10-20T20:02+02:00"
-      },
-      {
-          "nom": "Kelley Stoltz ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "OCT.2026",
-          "dia": "29",
-          "textdia": "dimecres",
-          "ciutat": "",
-          "dateTime": "2026-10-29T20:00+02:00"
-      },
-      {
-          "nom": "Lido Pimienta ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "NOV.2026",
-          "dia": "2",
-          "textdia": "diumenge",
-          "ciutat": "",
-          "dateTime": "2026-11-02T20:00+02:00"
-      },
-      {
-          "nom": "Kiss Facility ",
-          "sala": "Upload",
-          "hora": "19:00",
-          "mes": "NOV.2026",
-          "dia": "4",
-          "textdia": "dimarts",
-          "ciutat": "",
-          "dateTime": "2026-11-04T19:00+02:00"
-      },
-      {
-          "nom": "Dumbo Gets Mad ",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "NOV.2026",
-          "dia": "5",
-          "textdia": "dimecres",
-          "ciutat": "",
-          "dateTime": "2026-11-05T20:02+02:00"
-      },
-      {
-          "nom": "Cloud Nothings ",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "NOV.2026",
-          "dia": "17",
-          "textdia": "dilluns",
-          "ciutat": "",
-          "dateTime": "2026-11-17T20:02+02:00"
-      },
-      {
-          "nom": "Vreno Yg ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "NOV.2026",
-          "dia": "19",
-          "textdia": "dimecres",
-          "ciutat": "",
-          "dateTime": "2026-11-19T20:00+02:00"
-      },
-      {
-          "nom": "Tito Ramírez ",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "NOV.2026",
-          "dia": "20",
-          "textdia": "dijous",
-          "ciutat": "",
-          "dateTime": "2026-11-20T20:02+02:00"
-      },
-      {
-          "nom": "Geordie Greep ",
-          "sala": "Upload",
-          "hora": "20:30",
-          "mes": "NOV.2026",
-          "dia": "23",
-          "textdia": "diumenge",
-          "ciutat": "",
-          "dateTime": "2026-11-23T20:30+02:00"
-      },
-      {
-          "nom": "Frankie and the Witch Fingers ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "NOV.2026",
-          "dia": "25",
-          "textdia": "dimarts",
-          "ciutat": "",
-          "dateTime": "2026-11-25T20:00+02:00"
-      },
-      {
-          "nom": "The Sadies + TERRA LIGHTFOOT",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "DES.2026",
-          "dia": "5",
-          "textdia": "divendres",
-          "ciutat": "",
-          "dateTime": "2026-12-05T20:02+02:00"
-      },
-      {
-          "nom": "Kid Kapichi ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "DES.2026",
-          "dia": "11",
-          "textdia": "dijous",
-          "ciutat": "",
-          "dateTime": "2026-12-11T20:00+02:00"
-      },
-      {
-          "nom": "Joia ",
-          "sala": "Upload",
-          "hora": "20:30",
-          "mes": "DES.2026",
-          "dia": "12",
-          "textdia": "divendres",
-          "ciutat": "",
-          "dateTime": "2026-12-12T20:30+02:00"
-      },
-      {
-          "nom": "Trobar de Morte ",
-          "sala": "Upload",
-          "hora": "20:02",
-          "mes": "GEN.2027",
-          "dia": "16",
-          "textdia": "divendres",
-          "ciutat": "",
-          "dateTime": "2027-01-16T20:02+02:00"
-      },
-      {
-          "nom": "Henge ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "FEB.2027",
-          "dia": "24",
-          "textdia": "dimarts",
-          "ciutat": "",
-          "dateTime": "2027-02-24T20:00+02:00"
-      },
-      {
-          "nom": "Perfecto Miserable ",
-          "sala": "Upload",
-          "hora": "20:00",
-          "mes": "FEB.2027",
-          "dia": "27",
-          "textdia": "divendres",
-          "ciutat": "",
-          "dateTime": "2027-02-27T20:00+02:00"
-      },
-    {
-      "nom": "THE AZAR LAWRENCE QUARTET SALUTES JOHN COLTRANE. THE IMPULSE ERA! ",
-      "sala": "Jamboree[1]",
-      "hora": "19:00",
-      "mes": "JUL.2026",
-      "dia": "22",
-      "textdia": "dimecres",
-      "ciutat": "",
-      "dateTime": "2026-07-22T19:00+02:00"
-    },
-    {
-      "nom": "SUNTRAP",
-      "sala": "Paral·lel 62",
-      "hora": "19:30",
-      "mes": "JUL.2026",
-      "dia": "22",
-      "textdia": "dimecres",
-      "ciutat": "",
-      "dateTime": "2026-07-22T19:30+02:00"
-    },
-    {
-      "nom": "THE DATSUNS",
-      "sala": "Razzmatazz(3)",
-      "hora": "19:30",
-      "mes": "JUL.2026",
-      "dia": "22",
-      "textdia": "dimarts",
-      "ciutat": "",
-      "dateTime": "2026-07-22T19:30+02:00"
-    },
-    {
-      "nom": "THE AZAR LAWRENCE QUARTET SALUTES JOHN COLTRANE. THE IMPULSE ERA! ",
-      "sala": "Jamboree[1]",
-      "hora": "21:00",
-      "mes": "JUL.2026",
-      "dia": "22",
-      "textdia": "dimecres",
-      "ciutat": "",
-      "dateTime": "2026-07-22T21:00+02:00"
-    },
-    {
-      "nom": "ANA TIJOUX",
-      "sala": "LaNau",
-      "hora": "21:00",
-      "mes": "JUL",
-      "dia": "22",
-      "textdia": "dimecres",
-      "ciutat": "",
-      "dateTime": "2026-07-22T21:00+02:00"
-    },
-    {
-      "nom": "REVELAÇÃO",
-      "sala": "Paral·lel 62",
-      "hora": "21:00",
-      "mes": "JUL.2026",
-      "dia": "22",
-      "textdia": "dimecres",
-      "ciutat": "",
-      "dateTime": "2026-07-22T21:00+02:00"
-    },
-    {
-      "nom": "CLARENCE BEKKER BAND",
-      "sala": "Jamboree[1]",
-      "hora": "19:00",
-      "mes": "JUL.2026",
-      "dia": "23",
-      "textdia": "dijous",
-      "ciutat": "",
-      "dateTime": "2026-07-23T19:00+02:00"
-    },
-    {
-      "nom": "EMOSTIU: ROKO BANANA THE COLDEST JULY LA CHICA ESTA ",
-      "sala": "Vol",
-      "hora": "19:30",
-      "mes": "JUL.2026",
-      "textdia": "divendres",
-      "dia": "23",
-      "ciutat": "",
-      "dateTime": "2026-07-23T19:30+02:00"
-    },
-    {
-      "nom": "CLARENCE BEKKER BAND",
-      "sala": "Jamboree[1]",
-      "hora": "20:30",
-      "mes": "JUL.2026",
-      "dia": "23",
-      "textdia": "dijous",
-      "ciutat": "",
-      "dateTime": "2026-07-23T20:30+02:00"
-    },
-    {
-      "nom": "EL BESTA",
-      "sala": "Paral·lel 62",
-      "hora": "21:00",
-      "mes": "JUL.2026",
-      "dia": "23",
-      "textdia": "dijous",
-      "ciutat": "",
-      "dateTime": "2026-07-23T21:00+02:00"
-    },
-    {
-      "nom": "LOLABÚM",
-      "sala": "Paral·lel 62",
-      "hora": "21:30",
-      "mes": "JUL.2026",
-      "dia": "23",
-      "textdia": "dijous",
-      "ciutat": "",
-      "dateTime": "2026-07-23T21:30+02:00"
-    },
-    {
       "nom": "SVSTO + ENDORA Y SUS VICIOS + DJ SETS",
       "sala": "Apolo[2]",
       "hora": "18:00",
@@ -1421,6 +31,36 @@
       "dateTime": "2026-07-24T19:00+02:00"
     },
     {
+      "nom": "SUNBORN + SPLEEN + THE FALL OF ATLANTIS",
+      "sala": "Upload",
+      "hora": "19:00",
+      "mes": "JUL.2026",
+      "dia": "24",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-07-24T19:00+02:00"
+    },
+    {
+      "nom": "CRUZ + PVRGATORII + ATONEMENT",
+      "sala": "laDeskomunal",
+      "hora": "19:30",
+      "mes": "AGO.2026",
+      "dia": "24",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-07-24T19:30+02:00"
+    },
+    {
+      "nom": "CRUZ + PVRGATORII + ATONEMENT",
+      "sala": "laDeskomunal",
+      "hora": "19:30",
+      "mes": "AGO.2026",
+      "dia": "24",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-07-24T19:30+02:00"
+    },
+    {
       "nom": "HENSHIN! DERBI JUNIOR ",
       "sala": "Vol",
       "hora": "19:45",
@@ -1429,6 +69,16 @@
       "dia": "24",
       "ciutat": "",
       "dateTime": "2026-07-24T19:45+02:00"
+    },
+    {
+      "nom": "ANNA TRÉA",
+      "sala": "Aclam Club",
+      "hora": "20:00",
+      "mes": "AGO.2026",
+      "dia": "24",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-07-24T20:00+02:00"
     },
     {
       "nom": "LA BLANCA OFELIA + SOFT CALL",
@@ -1501,6 +151,16 @@
       "dateTime": "2026-07-25T19:45+02:00"
     },
     {
+      "nom": "BRAXTON COOK",
+      "sala": "Aclam Club",
+      "hora": "20:30",
+      "mes": "AGO.2026",
+      "dia": "25",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-07-25T20:30+02:00"
+    },
+    {
       "nom": "BO MAKER + DONCELLA",
       "sala": "Freedonia",
       "hora": "20:30",
@@ -1551,6 +211,16 @@
       "dateTime": "2026-07-25T22:30+02:00"
     },
     {
+      "nom": "FROM SKA TO DANCEHALL",
+      "sala": "laDeskomunal",
+      "hora": "23:45",
+      "mes": "AGO.2026",
+      "dia": "25",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-07-25T23:45+02:00"
+    },
+    {
       "nom": "FINAL DE CURSO EC VOCAL STUDIO",
       "sala": "LaNau",
       "hora": "12:30",
@@ -1569,6 +239,16 @@
       "textdia": "diumenge",
       "ciutat": "",
       "dateTime": "2026-07-26T19:00+02:00"
+    },
+    {
+      "nom": "SORROFEST – 26",
+      "sala": "laDeskomunal",
+      "hora": "20:00",
+      "mes": "AGO.2026",
+      "dia": "26",
+      "textdia": "dilluns",
+      "ciutat": "",
+      "dateTime": "2026-07-26T20:00+02:00"
     },
     {
       "nom": "TAREK YAMANI TRIO",
@@ -1591,6 +271,16 @@
       "dateTime": "2026-07-27T19:30+02:00"
     },
     {
+      "nom": "SHUTDOWN + GO VETERANS + NO REST FOR THE ENEMY",
+      "sala": "laDeskomunal",
+      "hora": "19:45",
+      "mes": "AGO.2026",
+      "dia": "27",
+      "textdia": "dimarts",
+      "ciutat": "",
+      "dateTime": "2026-07-27T19:45+02:00"
+    },
+    {
       "nom": "SERGI SIRVENT AWARE",
       "sala": "Jamboree[1]",
       "hora": "19:00",
@@ -1599,6 +289,26 @@
       "textdia": "dimarts",
       "ciutat": "",
       "dateTime": "2026-07-28T19:00+02:00"
+    },
+    {
+      "nom": "SIAMÉS ",
+      "sala": "Upload",
+      "hora": "19:00",
+      "mes": "JUL.2026",
+      "dia": "28",
+      "textdia": "dilluns",
+      "ciutat": "",
+      "dateTime": "2026-07-28T19:00+02:00"
+    },
+    {
+      "nom": "COSIMO & THE HOT COALS",
+      "sala": "Aclam Club",
+      "hora": "20:00",
+      "mes": "AGO.2026",
+      "dia": "28",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-07-28T20:00+02:00"
     },
     {
       "nom": "SERGI SIRVENT AWARE",
@@ -1641,6 +351,16 @@
       "dateTime": "2026-07-29T19:30+02:00"
     },
     {
+      "nom": "ROMAIN VUILLEMIN · VESPRES DE REFRIGERIS ENTRE GUITARRES",
+      "sala": "Aclam Club",
+      "hora": "20:00",
+      "mes": "AGO.2026",
+      "dia": "29",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-07-29T20:00+02:00"
+    },
+    {
       "nom": "PABLO MARTÍN TRIO – PRESENTACIÓ NOU DISC “THE STANDARD US”",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -1671,6 +391,16 @@
       "dateTime": "2026-07-30T19:00+02:00"
     },
     {
+      "nom": "LLUÍS COLOMA & BLUE LOU MARINI",
+      "sala": "Aclam Club",
+      "hora": "20:00",
+      "mes": "AGO.2026",
+      "dia": "30",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-07-30T20:00+02:00"
+    },
+    {
       "nom": "CAMEL ON FLUTE",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -1679,6 +409,36 @@
       "textdia": "dijous",
       "ciutat": "",
       "dateTime": "2026-07-30T20:30+02:00"
+    },
+    {
+      "nom": "MATOLL + VOLTS",
+      "sala": "laDeskomunal",
+      "hora": "21:00",
+      "mes": "AGO.2026",
+      "dia": "30",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-07-30T21:00+02:00"
+    },
+    {
+      "nom": "LAS ROBERTAS ",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "JUL.2026",
+      "dia": "31",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-07-31T20:02+02:00"
+    },
+    {
+      "nom": "HERDOIL",
+      "sala": "laDeskomunal",
+      "hora": "21:30",
+      "mes": "AGO.2026",
+      "dia": "31",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-07-31T21:30+02:00"
     },
     {
       "nom": "BCN CHICHA FEST III",
@@ -1711,7 +471,7 @@
       "dateTime": "2026-08-01T20:30+02:00"
     },
     {
-      "nom": "LIVE! METRONOMICAL + ESTEBAN NOGARA",
+      "nom": "METRONOMICAL + ESTEBAN NOGARA",
       "sala": "Boîte",
       "hora": "21:30",
       "mes": "AGO.2026",
@@ -1729,6 +489,16 @@
       "textdia": "diumenge",
       "ciutat": "",
       "dateTime": "2026-08-02T19:00+02:00"
+    },
+    {
+      "nom": "GEE TEE + GRIPAU",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "AGO.2026",
+      "dia": "2",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-08-02T20:02+02:00"
     },
     {
       "nom": "TONI SOLÀ QUARTET, PRESENTACIÓ CD «WAITING FOR COMMON SENSE»",
@@ -1749,6 +519,16 @@
       "textdia": "dilluns",
       "ciutat": "",
       "dateTime": "2026-08-03T19:30+02:00"
+    },
+    {
+      "nom": "SONIDO GALLO NEGRO ",
+      "sala": "Upload",
+      "hora": "20:30",
+      "mes": "AGO.2026",
+      "dia": "3",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-08-03T20:30+02:00"
     },
     {
       "nom": "BLACK LABEL SOCIETY UK / EU TOUR 2026",
@@ -1841,6 +621,16 @@
       "dateTime": "2026-08-06T19:00+02:00"
     },
     {
+      "nom": "RATOS DE PORAO + LOBOTOMICS + EUSKAL BASTARDS + INSERSHOW",
+      "sala": "Salamandra (H'l)",
+      "hora": "19:15",
+      "mes": "SET.2026",
+      "dia": "6",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-08-06T19:15+02:00"
+    },
+    {
       "nom": "CLARENCE BEKKER BAND",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -1899,6 +689,26 @@
       "textdia": "dissabte",
       "ciutat": "",
       "dateTime": "2026-08-08T19:00+02:00"
+    },
+    {
+      "nom": "HELABUSADOR & REY TONY",
+      "sala": "Salamandra (H'l)",
+      "hora": "19:00",
+      "mes": "SET.2026",
+      "dia": "8",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-08-08T19:00+02:00"
+    },
+    {
+      "nom": "JACK MOORE (PLAYING GARY MOORE) ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "AGO.2026",
+      "dia": "8",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-08-08T20:00+02:00"
     },
     {
       "nom": "GREGORY GROOVER JR QUARTET",
@@ -2039,6 +849,16 @@
       "textdia": "dijous",
       "ciutat": "",
       "dateTime": "2026-08-13T20:30+02:00"
+    },
+    {
+      "nom": "MARKY RAMONE'S BLITZKRIEG",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "SET.2026",
+      "dia": "13",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-08-13T21:00+02:00"
     },
     {
       "nom": "CENK ESEN",
@@ -2441,6 +1261,16 @@
       "dateTime": "2026-09-02T19:00+02:00"
     },
     {
+      "nom": "THE FLAMIN’ GROOVIES ",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "SET.2026",
+      "dia": "2",
+      "textdia": "dimarts",
+      "ciutat": "",
+      "dateTime": "2026-09-02T20:02+02:00"
+    },
+    {
       "nom": "PAT BIANCHI – STEPHANE BELMONDO QUARTET",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -2621,6 +1451,26 @@
       "dateTime": "2026-09-05T20:00+02:00"
     },
     {
+      "nom": "GUILLEM RAMISA ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "SET.2026",
+      "dia": "5",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-09-05T20:00+02:00"
+    },
+    {
+      "nom": "ARMENIAN",
+      "sala": "Wolf",
+      "hora": "20:00",
+      "mes": "SET.2026",
+      "dia": "5",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-09-05T20:00+02:00"
+    },
+    {
       "nom": "TONY MATCH IN RESIDENCY AT JAMBOREE",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -2681,6 +1531,16 @@
       "dateTime": "2026-09-06T20:00+02:00"
     },
     {
+      "nom": "LA COKA NOSTRA",
+      "sala": "Wolf",
+      "hora": "20:00",
+      "mes": "SET.2026",
+      "dia": "6",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-09-06T20:00+02:00"
+    },
+    {
       "nom": "ILAN AMORES",
       "sala": "LaNau",
       "hora": "20:30",
@@ -2709,6 +1569,16 @@
       "textdia": "diumenge",
       "ciutat": "",
       "dateTime": "2026-09-07T19:00+02:00"
+    },
+    {
+      "nom": "GRADE 2",
+      "sala": "laDeskomunal",
+      "hora": "20:30",
+      "mes": "OCT.2026",
+      "dia": "7",
+      "textdia": "dimarts",
+      "ciutat": "",
+      "dateTime": "2026-09-07T20:30+02:00"
     },
     {
       "nom": "JOHN O’GALLAGHER/MASA KAMAGUCHI/ROB GARCIA",
@@ -2749,6 +1619,16 @@
       "textdia": "dimarts",
       "ciutat": "",
       "dateTime": "2026-09-09T19:00+02:00"
+    },
+    {
+      "nom": "BODEGA + BAF",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "SET.2026",
+      "dia": "9",
+      "textdia": "dimarts",
+      "ciutat": "",
+      "dateTime": "2026-09-09T20:02+02:00"
     },
     {
       "nom": "GONZALO DEL VAL «LAMENTOS MESTIZOS»",
@@ -2881,6 +1761,16 @@
       "dateTime": "2026-09-11T19:00+02:00"
     },
     {
+      "nom": "DAS ICH + SIVA SIX ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "SET.2026",
+      "dia": "11",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-09-11T20:00+02:00"
+    },
+    {
       "nom": "UN TRIBUT A FREDDIE MERCURY",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -2931,6 +1821,16 @@
       "dateTime": "2026-09-12T20:00+02:00"
     },
     {
+      "nom": "DECLIVI + DEM",
+      "sala": "laDeskomunal",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "12",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-09-12T20:00+02:00"
+    },
+    {
       "nom": "BELLA BESTIA",
       "sala": "Razzmatazz(2)",
       "hora": "20:00",
@@ -2941,8 +1841,28 @@
       "dateTime": "2026-09-12T20:00+02:00"
     },
     {
+      "nom": "GAMBEAT WEEKEND ",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "SET.2026",
+      "dia": "12",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-09-12T20:02+02:00"
+    },
+    {
       "nom": "46 ANIVERSARI STUDIO 54 + CONCERT DEVOTIONAL MODE",
       "sala": "Paral·lel 62",
+      "hora": "21:00",
+      "mes": "SET.2026",
+      "dia": "12",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-09-12T21:00+02:00"
+    },
+    {
+      "nom": "OLIVIA WALD",
+      "sala": "Wolf",
       "hora": "21:00",
       "mes": "SET.2026",
       "dia": "12",
@@ -3017,6 +1937,16 @@
       "mes": "SET.2026",
       "dia": "16",
       "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-09-16T19:00+02:00"
+    },
+    {
+      "nom": "KUMBIA QUEERS ",
+      "sala": "Upload",
+      "hora": "19:00",
+      "mes": "SET.2026",
+      "dia": "16",
+      "textdia": "dimarts",
       "ciutat": "",
       "dateTime": "2026-09-16T19:00+02:00"
     },
@@ -3101,6 +2031,26 @@
       "dateTime": "2026-09-17T19:30+02:00"
     },
     {
+      "nom": "CUATRO PESOS DE PROPINA + MONA DE MAGMA",
+      "sala": "laDeskomunal",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "17",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-09-17T20:00+02:00"
+    },
+    {
+      "nom": "B-MOVIE ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "SET.2026",
+      "dia": "17",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-09-17T20:00+02:00"
+    },
+    {
       "nom": "CLARENCE BEKKER BAND",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -3181,6 +2131,26 @@
       "dateTime": "2026-09-18T19:30+02:00"
     },
     {
+      "nom": "INTEGRITY",
+      "sala": "laDeskomunal",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "18",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-09-18T20:00+02:00"
+    },
+    {
+      "nom": "CHICUELO TRIO · CICLE FLAMENC · EDICIÓ 4",
+      "sala": "Aclam Club",
+      "hora": "20:30",
+      "mes": "OCT.2026",
+      "dia": "18",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-09-18T20:30+02:00"
+    },
+    {
       "nom": "NEYLA I SÒNICA BAND",
       "sala": "Freedonia",
       "hora": "20:30",
@@ -3211,6 +2181,26 @@
       "dateTime": "2026-09-18T20:30+02:00"
     },
     {
+      "nom": "WHITE DENIM ",
+      "sala": "Upload",
+      "hora": "21:00",
+      "mes": "SET.2026",
+      "dia": "18",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-09-18T21:00+02:00"
+    },
+    {
+      "nom": "ACTORS + HALLOWS",
+      "sala": "Wolf",
+      "hora": "21:15",
+      "mes": "SET.2026",
+      "dia": "18",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-09-18T21:15+02:00"
+    },
+    {
       "nom": "FREDERICO HELIODORO",
       "sala": "Jamboree[1]",
       "hora": "19:00",
@@ -3229,6 +2219,16 @@
       "textdia": "dissabte",
       "ciutat": "",
       "dateTime": "2026-09-19T19:30+02:00"
+    },
+    {
+      "nom": "NOT SCIENTISTS",
+      "sala": "laDeskomunal",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "19",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-09-19T20:00+02:00"
     },
     {
       "nom": "ENBOR ARNASA",
@@ -3271,6 +2271,16 @@
       "dateTime": "2026-09-19T21:00+02:00"
     },
     {
+      "nom": "15º ANIVERSARIO PSYCHO RADIACTIVAS + THE MEOWS + ...",
+      "sala": "Upload",
+      "hora": "21:30",
+      "mes": "SET.2026",
+      "dia": "19",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-09-19T21:30+02:00"
+    },
+    {
       "nom": "MARIAN BARAHONA BLUES SPECIAL REUNIÓN",
       "sala": "Jamboree[3]",
       "hora": "19:00",
@@ -3291,6 +2301,16 @@
       "dateTime": "2026-09-20T19:00+02:00"
     },
     {
+      "nom": "KENNY «BLUES BOSS» WAYNE BAND",
+      "sala": "Aclam Club",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "20",
+      "textdia": "dilluns",
+      "ciutat": "",
+      "dateTime": "2026-09-20T20:00+02:00"
+    },
+    {
       "nom": "INTI-ILLIMANI",
       "sala": "Paral·lel 62",
       "hora": "20:00",
@@ -3299,6 +2319,16 @@
       "textdia": "diumenge",
       "ciutat": "",
       "dateTime": "2026-09-20T20:00+02:00"
+    },
+    {
+      "nom": "DESTROYER (SOLO SHOW) ",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "SET.2026",
+      "dia": "20",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-09-20T20:02+02:00"
     },
     {
       "nom": "MARIAN BARAHONA BLUES SPECIAL REUNIÓN",
@@ -3339,6 +2369,16 @@
       "textdia": "dilluns",
       "ciutat": "",
       "dateTime": "2026-09-21T20:30+02:00"
+    },
+    {
+      "nom": "HOLY WAVE ",
+      "sala": "Upload",
+      "hora": "00:00",
+      "mes": "SET.2026",
+      "dia": "22",
+      "textdia": "dilluns",
+      "ciutat": "",
+      "dateTime": "2026-09-22T00:00+02:00"
     },
     {
       "nom": "CICLE MILES DAVIS: URBAN JAZZ QUINTET FEATURING RICK MARGITZA – «SMILING WITH MILES»",
@@ -3601,6 +2641,16 @@
       "dateTime": "2026-09-26T19:30+02:00"
     },
     {
+      "nom": "ROBERT RODRIGO BAND + GNAPOSS TRÍO",
+      "sala": "laDeskomunal",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "26",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-09-26T20:00+02:00"
+    },
+    {
       "nom": "WHITE PARTY",
       "sala": "Paral·lel 62",
       "hora": "20:00",
@@ -3821,6 +2871,16 @@
       "dateTime": "2026-10-01T20:00+02:00"
     },
     {
+      "nom": "MAYA ONGAKU ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "1",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-10-01T20:00+02:00"
+    },
+    {
       "nom": "QUENTIN MOORE",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -3851,6 +2911,16 @@
       "dateTime": "2026-10-01T20:30+02:00"
     },
     {
+      "nom": "CARLES BENAVENT & ROGER MAS · CICLE FLAMENC · EDICIÓ 5",
+      "sala": "Aclam Club",
+      "hora": "19:00",
+      "mes": "NOV.2026",
+      "dia": "2",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-10-02T19:00+02:00"
+    },
+    {
       "nom": "PLEASE U2 - U2 50TH ANNIVERSARY",
       "sala": "Apolo[1]",
       "hora": "19:00",
@@ -3867,6 +2937,16 @@
       "mes": "OCT.2026",
       "dia": "2",
       "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-10-02T19:30+02:00"
+    },
+    {
+      "nom": "HECHIZO, HOMENAJE A HÉROES DEL SILENCIO",
+      "sala": "Wolf",
+      "hora": "19:30",
+      "mes": "OCT.2026",
+      "dia": "2",
+      "textdia": "divendres",
       "ciutat": "",
       "dateTime": "2026-10-02T19:30+02:00"
     },
@@ -3961,6 +3041,16 @@
       "dateTime": "2026-10-03T20:00+02:00"
     },
     {
+      "nom": "JERE",
+      "sala": "Almo2bar",
+      "hora": "20:30",
+      "mes": "OCT",
+      "dia": "03",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-10-03T20:30+02:00"
+    },
+    {
       "nom": "TORNAVIAJE TRIO",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -3987,6 +3077,16 @@
       "mes": "OCT.2026",
       "dia": "3",
       "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-10-03T21:00+02:00"
+    },
+    {
+      "nom": "DULCE CASTIGO",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "NOV.2026",
+      "dia": "3",
+      "textdia": "diumenge",
       "ciutat": "",
       "dateTime": "2026-10-03T21:00+02:00"
     },
@@ -4131,6 +3231,16 @@
       "dateTime": "2026-10-07T19:00+02:00"
     },
     {
+      "nom": "THEN JERICO",
+      "sala": "Wolf",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "7",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-10-07T20:00+02:00"
+    },
+    {
       "nom": "GIDEON TAZELAAR QUARTET",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -4167,6 +3277,16 @@
       "mes": "OCT",
       "dia": "8",
       "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-10-08T21:00+02:00"
+    },
+    {
+      "nom": "BOYANKA KOSTOVA ",
+      "sala": "Upload",
+      "hora": "21:00",
+      "mes": "OCT.2026",
+      "dia": "8",
+      "textdia": "dimecres",
       "ciutat": "",
       "dateTime": "2026-10-08T21:00+02:00"
     },
@@ -4241,6 +3361,26 @@
       "dateTime": "2026-10-09T20:00+02:00"
     },
     {
+      "nom": "PRISON RECORDS PARTY #3 ",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "OCT.2026",
+      "dia": "9",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-10-09T20:02+02:00"
+    },
+    {
+      "nom": "DM EXPERIENCE: TRIBUT A DEPECHE MODE",
+      "sala": "Wolf",
+      "hora": "20:02",
+      "mes": "OCT.2026",
+      "dia": "9",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-10-09T20:02+02:00"
+    },
+    {
       "nom": "FLORIAN ARBENZ MEETS GREG OSBY",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -4291,6 +3431,16 @@
       "dateTime": "2026-10-10T19:30+02:00"
     },
     {
+      "nom": "DEVIN TOWNSEND",
+      "sala": "Salamandra (H'l)",
+      "hora": "19:30",
+      "mes": "NOV.2026",
+      "dia": "10",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-10-10T19:30+02:00"
+    },
+    {
       "nom": "FOSCDAMASCODEATH ROW KILLER GROUPIE ",
       "sala": "Vol",
       "hora": "19:30",
@@ -4309,6 +3459,26 @@
       "textdia": "divendres",
       "ciutat": "",
       "dateTime": "2026-10-10T20:00+02:00"
+    },
+    {
+      "nom": "THE SLACKERS ",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "OCT.2026",
+      "dia": "10",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-10-10T20:02+02:00"
+    },
+    {
+      "nom": "ANORA KITO + CRISTALES ROTOS",
+      "sala": "Almo2bar",
+      "hora": "20:30",
+      "mes": "OCT",
+      "dia": "10",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-10-10T20:30+02:00"
     },
     {
       "nom": "LOLA SANTIAGO I HORACIO FUMERO QUARTET",
@@ -4401,6 +3571,26 @@
       "dateTime": "2026-10-12T18:30+02:00"
     },
     {
+      "nom": "STRAWBERRY GUY ",
+      "sala": "Upload",
+      "hora": "19:00",
+      "mes": "OCT.2026",
+      "dia": "12",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-10-12T19:00+02:00"
+    },
+    {
+      "nom": "PRIMAL FEAR",
+      "sala": "Salamandra (H'l)",
+      "hora": "19:30",
+      "mes": "NOV.2026",
+      "dia": "12",
+      "textdia": "dimarts",
+      "ciutat": "",
+      "dateTime": "2026-10-12T19:30+02:00"
+    },
+    {
       "nom": "JAKUB KLIMIUK QUINTET",
       "sala": "Jamboree[1]",
       "hora": "19:00",
@@ -4419,6 +3609,26 @@
       "textdia": "dilluns",
       "ciutat": "",
       "dateTime": "2026-10-13T19:19+02:00"
+    },
+    {
+      "nom": "FAR EAST GROOVE - YASHURU TAKANASHI",
+      "sala": "Wolf",
+      "hora": "19:30",
+      "mes": "OCT.2026",
+      "dia": "13",
+      "textdia": "dimarts",
+      "ciutat": "",
+      "dateTime": "2026-10-13T19:30+02:00"
+    },
+    {
+      "nom": "IST IST ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "13",
+      "textdia": "dilluns",
+      "ciutat": "",
+      "dateTime": "2026-10-13T20:00+02:00"
     },
     {
       "nom": "JAKUB KLIMIUK QUINTET",
@@ -4541,6 +3751,16 @@
       "dateTime": "2026-10-15T19:00+02:00"
     },
     {
+      "nom": "ERIK URANO ",
+      "sala": "Upload",
+      "hora": "19:30",
+      "mes": "OCT.2026",
+      "dia": "15",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-10-15T19:30+02:00"
+    },
+    {
       "nom": "CLARENCE BEKKER BAND",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -4611,6 +3831,36 @@
       "dateTime": "2026-10-16T19:30+02:00"
     },
     {
+      "nom": "HÄLLAS ",
+      "sala": "Upload",
+      "hora": "19:30",
+      "mes": "OCT.2026",
+      "dia": "16",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-10-16T19:30+02:00"
+    },
+    {
+      "nom": "ANALOG SOCIETY + DJ SURDA",
+      "sala": "Wolf",
+      "hora": "19:30",
+      "mes": "OCT.2026",
+      "dia": "16",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-10-16T19:30+02:00"
+    },
+    {
+      "nom": "JOSEP TRAVER ORGAN TRIO – TRIBUTE TO GRANT GREEN",
+      "sala": "Aclam Club",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "16",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-10-16T20:00+02:00"
+    },
+    {
       "nom": "BRUSHY ONE STRING",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -4627,6 +3877,16 @@
       "mes": "OCT",
       "dia": "16",
       "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-10-16T21:00+02:00"
+    },
+    {
+      "nom": "ALBERTUCHO",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "NOV.2026",
+      "dia": "16",
+      "textdia": "dissabte",
       "ciutat": "",
       "dateTime": "2026-10-16T21:00+02:00"
     },
@@ -4691,6 +3951,16 @@
       "dateTime": "2026-10-17T19:30+02:00"
     },
     {
+      "nom": "LAS NOVIAS + SERCH",
+      "sala": "Wolf",
+      "hora": "19:30",
+      "mes": "OCT.2026",
+      "dia": "17",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-10-17T19:30+02:00"
+    },
+    {
       "nom": "ESTADA A CORTO PLAZOANIMALES DE PAPEL ",
       "sala": "Vol",
       "hora": "19:45",
@@ -4703,6 +3973,16 @@
     {
       "nom": "ÁLVARO GARCIA",
       "sala": "Razzmatazz(3)",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "17",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-10-17T20:00+02:00"
+    },
+    {
+      "nom": "MAGIC IN THE AIR LOS RETROVISORES, THE FALKEN'S MAZE...",
+      "sala": "Upload",
       "hora": "20:00",
       "mes": "OCT.2026",
       "dia": "17",
@@ -4727,6 +4007,16 @@
       "mes": "OCT.2026",
       "dia": "17",
       "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-10-17T21:00+02:00"
+    },
+    {
+      "nom": "SVETLANA",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "NOV.2026",
+      "dia": "17",
+      "textdia": "diumenge",
       "ciutat": "",
       "dateTime": "2026-10-17T21:00+02:00"
     },
@@ -4791,6 +4081,16 @@
       "dateTime": "2026-10-19T20:00+02:00"
     },
     {
+      "nom": "BASS DRUM OF DEATH ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "19",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-10-19T20:00+02:00"
+    },
+    {
       "nom": "DEEP PURPLE",
       "sala": "Sant Jordi Club",
       "hora": "21:09",
@@ -4829,6 +4129,16 @@
       "textdia": "dimarts",
       "ciutat": "",
       "dateTime": "2026-10-20T19:00+02:00"
+    },
+    {
+      "nom": "SONGHOY BLUES + AYSAY",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "OCT.2026",
+      "dia": "20",
+      "textdia": "dilluns",
+      "ciutat": "",
+      "dateTime": "2026-10-20T20:02+02:00"
     },
     {
       "nom": "CHICO PINHEIRO QUARTET",
@@ -4971,6 +4281,26 @@
       "dateTime": "2026-10-22T20:00+02:00"
     },
     {
+      "nom": "5'NIZZA",
+      "sala": "Salamandra (H'l)",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "22",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-10-22T20:00+02:00"
+    },
+    {
+      "nom": "WILL HOGE",
+      "sala": "Aclam Club",
+      "hora": "20:30",
+      "mes": "NOV.2026",
+      "dia": "22",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-10-22T20:30+02:00"
+    },
+    {
       "nom": "EVERYTHING YES",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -5071,6 +4401,16 @@
       "dateTime": "2026-10-23T20:00+02:00"
     },
     {
+      "nom": "SODI",
+      "sala": "Wolf",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "23",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-10-23T20:00+02:00"
+    },
+    {
       "nom": "SOBREZERO",
       "sala": "Razzmatazz(3)",
       "hora": "20:15",
@@ -5111,6 +4451,16 @@
       "dateTime": "2026-10-23T21:00+02:00"
     },
     {
+      "nom": "MEINSTEIN",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "NOV.2026",
+      "dia": "23",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-10-23T21:00+02:00"
+    },
+    {
       "nom": "DANI MARTÍN",
       "sala": "Palau Sant Jordi",
       "hora": "21:09",
@@ -5129,6 +4479,16 @@
       "textdia": "dissabte",
       "ciutat": "",
       "dateTime": "2026-10-23T21:09+02:00"
+    },
+    {
+      "nom": " SHOVELL + SATZAOOGA",
+      "sala": "Boîte",
+      "hora": "21:30",
+      "mes": "OCT.2026",
+      "dia": "23",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-10-23T21:30+02:00"
     },
     {
       "nom": "LAURA MARCHAL",
@@ -5191,6 +4551,16 @@
       "dateTime": "2026-10-24T20:00+02:00"
     },
     {
+      "nom": "DECLAN WELSH & THE DECADENT WEST",
+      "sala": "Wolf",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "24",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-10-24T20:00+02:00"
+    },
+    {
       "nom": "LAURA MARCHAL",
       "sala": "Jamboree[3]",
       "hora": "20:45",
@@ -5199,6 +4569,16 @@
       "textdia": "dissabte",
       "ciutat": "",
       "dateTime": "2026-10-24T20:45+02:00"
+    },
+    {
+      "nom": "LOKO&MOTORA",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "NOV.2026",
+      "dia": "24",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-10-24T21:00+02:00"
     },
     {
       "nom": "DANI MARTÍN",
@@ -5223,6 +4603,16 @@
     {
       "nom": "JULIAN «J3PO» POLLACK TRIO",
       "sala": "Jamboree[1]",
+      "hora": "19:00",
+      "mes": "OCT.2026",
+      "dia": "25",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-10-25T19:00+02:00"
+    },
+    {
+      "nom": "MYRATH",
+      "sala": "Wolf",
       "hora": "19:00",
       "mes": "OCT.2026",
       "dia": "25",
@@ -5401,6 +4791,16 @@
       "dateTime": "2026-10-28T20:00+02:00"
     },
     {
+      "nom": "MESSA",
+      "sala": "Salamandra (H'l)",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "28",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-10-28T20:00+02:00"
+    },
+    {
       "nom": "KUHN FU",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -5481,6 +4881,26 @@
       "dateTime": "2026-10-29T19:00+02:00"
     },
     {
+      "nom": "THE PYRAMIDIACS",
+      "sala": "Aclam Club",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "29",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-10-29T20:00+02:00"
+    },
+    {
+      "nom": "KELLEY STOLTZ ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "OCT.2026",
+      "dia": "29",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-10-29T20:00+02:00"
+    },
+    {
       "nom": "SAINT STACY",
       "sala": "LaNau",
       "hora": "20:30",
@@ -5501,6 +4921,16 @@
       "dateTime": "2026-10-29T20:30+02:00"
     },
     {
+      "nom": "DIRECTES ESTRELLA DAMM 150: VECINOS",
+      "sala": "Wolf",
+      "hora": "21:00",
+      "mes": "OCT.2026",
+      "dia": "29",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-10-29T21:00+02:00"
+    },
+    {
       "nom": "ALBERT VILA QUARTET FEAT PERICO SAMBEAT",
       "sala": "Jamboree[1]",
       "hora": "19:00",
@@ -5519,6 +4949,26 @@
       "textdia": "dijous",
       "ciutat": "",
       "dateTime": "2026-10-30T19:00+02:00"
+    },
+    {
+      "nom": "ANA CURRA",
+      "sala": "Salamandra (H'l)",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "30",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-10-30T20:00+02:00"
+    },
+    {
+      "nom": "TORI SPARKS",
+      "sala": "Aclam Club",
+      "hora": "20:30",
+      "mes": "NOV.2026",
+      "dia": "30",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-10-30T20:30+02:00"
     },
     {
       "nom": "ALBERT VILA QUARTET FEAT PERICO SAMBEAT",
@@ -5751,6 +5201,16 @@
       "dateTime": "2026-11-02T19:45+02:00"
     },
     {
+      "nom": "LIDO PIMIENTA ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "2",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-11-02T20:00+02:00"
+    },
+    {
       "nom": "PENDRAGON",
       "sala": "Apolo[2]",
       "hora": "19:00",
@@ -5827,6 +5287,16 @@
       "mes": "NOV.2026",
       "dia": "4",
       "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-11-04T19:00+02:00"
+    },
+    {
+      "nom": "KISS FACILITY ",
+      "sala": "Upload",
+      "hora": "19:00",
+      "mes": "NOV.2026",
+      "dia": "4",
+      "textdia": "dimarts",
       "ciutat": "",
       "dateTime": "2026-11-04T19:00+02:00"
     },
@@ -5941,6 +5411,16 @@
       "dateTime": "2026-11-05T20:00+02:00"
     },
     {
+      "nom": "DUMBO GETS MAD ",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "NOV.2026",
+      "dia": "5",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-11-05T20:02+02:00"
+    },
+    {
       "nom": "FUNK STATION",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -5959,6 +5439,16 @@
       "dia": "5",
       "ciutat": "",
       "dateTime": "2026-11-05T20:30+02:00"
+    },
+    {
+      "nom": "ARCHSPIRE + CROWN MAGNETAR + THE ZENITH PASSAGE + ANALEPSY",
+      "sala": "Salamandra (H'l)",
+      "hora": "18:00",
+      "mes": "DES.2026",
+      "dia": "6",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-11-06T18:00+02:00"
     },
     {
       "nom": "LITTLE BIG",
@@ -6129,6 +5619,16 @@
       "textdia": "dissabte",
       "ciutat": "",
       "dateTime": "2026-11-07T20:45+02:00"
+    },
+    {
+      "nom": "EL RENO RENARDO",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "DES.2026",
+      "dia": "7",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-11-07T21:00+02:00"
     },
     {
       "nom": "JOE BONAMASSA",
@@ -6371,6 +5871,16 @@
       "dateTime": "2026-11-12T19:45+02:00"
     },
     {
+      "nom": "THE LAST INTERNATIONALE",
+      "sala": "Wolf",
+      "hora": "20:02",
+      "mes": "NOV.2026",
+      "dia": "12",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-11-12T20:02+02:00"
+    },
+    {
       "nom": "SOFIA RIBEIRO",
       "sala": "Jamboree[3]",
       "hora": "20:30",
@@ -6431,6 +5941,16 @@
       "dateTime": "2026-11-13T19:30+02:00"
     },
     {
+      "nom": "SISA CÒSMIC",
+      "sala": "Aclam Club",
+      "hora": "20:00",
+      "mes": "DES.2026",
+      "dia": "13",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-11-13T20:00+02:00"
+    },
+    {
       "nom": "REMEI DE CA LA FRESCA",
       "sala": "Razzmatazz(1)",
       "hora": "20:00",
@@ -6467,6 +5987,16 @@
       "mes": "NOV.2026",
       "textdia": "dissabte",
       "dia": "13",
+      "ciutat": "",
+      "dateTime": "2026-11-13T20:00+02:00"
+    },
+    {
+      "nom": "ZEBALLOS",
+      "sala": "Wolf",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "13",
+      "textdia": "divendres",
       "ciutat": "",
       "dateTime": "2026-11-13T20:00+02:00"
     },
@@ -6561,6 +6091,16 @@
       "dateTime": "2026-11-14T20:30+02:00"
     },
     {
+      "nom": "PONCHO K",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "DES.2026",
+      "dia": "14",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-11-14T21:00+02:00"
+    },
+    {
       "nom": "BRYAN ADAMS",
       "sala": "Palau Sant Jordi",
       "hora": "21:09",
@@ -6651,6 +6191,16 @@
       "dateTime": "2026-11-17T20:00+02:00"
     },
     {
+      "nom": "CLOUD NOTHINGS ",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "NOV.2026",
+      "dia": "17",
+      "textdia": "dilluns",
+      "ciutat": "",
+      "dateTime": "2026-11-17T20:02+02:00"
+    },
+    {
       "nom": "SAMUEL BLASER QUARTET",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -6711,6 +6261,16 @@
       "dateTime": "2026-11-18T19:30+02:00"
     },
     {
+      "nom": "RAZORLIGHT + THE K'S",
+      "sala": "Wolf",
+      "hora": "19:30",
+      "mes": "NOV.2026",
+      "dia": "18",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-11-18T19:30+02:00"
+    },
+    {
       "nom": "FRANCESCO BEARZATTI TRIO",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -6729,6 +6289,16 @@
       "textdia": "dimarts",
       "ciutat": "",
       "dateTime": "2026-11-18T20:30+02:00"
+    },
+    {
+      "nom": "PETE & BAS",
+      "sala": "Wolf",
+      "hora": "21:00",
+      "mes": "NOV.2026",
+      "dia": "18",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-11-18T21:00+02:00"
     },
     {
       "nom": "CLARENCE BEKKER BAND",
@@ -6753,6 +6323,16 @@
     {
       "nom": "SALMA",
       "sala": "Razzmatazz(3)",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "19",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-11-19T20:00+02:00"
+    },
+    {
+      "nom": "VRENO YG ",
+      "sala": "Upload",
       "hora": "20:00",
       "mes": "NOV.2026",
       "dia": "19",
@@ -6841,6 +6421,26 @@
       "dateTime": "2026-11-20T20:00+02:00"
     },
     {
+      "nom": "MODELO DE RESPUESTA POLAR",
+      "sala": "Wolf",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "20",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-11-20T20:00+02:00"
+    },
+    {
+      "nom": "TITO RAMÍREZ ",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "NOV.2026",
+      "dia": "20",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-11-20T20:02+02:00"
+    },
+    {
       "nom": "LAS ERAS + ALTRES ARTISTES",
       "sala": "Paral·lel 62",
       "hora": "20:30",
@@ -6849,6 +6449,16 @@
       "textdia": "divendres",
       "ciutat": "",
       "dateTime": "2026-11-20T20:30+02:00"
+    },
+    {
+      "nom": "BORN TO BAND",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "DES.2026",
+      "dia": "20",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-11-20T21:00+02:00"
     },
     {
       "nom": "LOS40 MUSIC AWARDS",
@@ -6911,6 +6521,16 @@
       "dateTime": "2026-11-21T20:00+02:00"
     },
     {
+      "nom": "DENOM",
+      "sala": "Wolf",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "21",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-11-21T20:00+02:00"
+    },
+    {
       "nom": "ALBERT CIRERA & TRES TAMBORS",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -6929,6 +6549,16 @@
       "dia": "21",
       "ciutat": "",
       "dateTime": "2026-11-21T20:30+02:00"
+    },
+    {
+      "nom": "DEPEDRO",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "DES.2026",
+      "dia": "21",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-11-21T21:00+02:00"
     },
     {
       "nom": "JAVI CANTERO",
@@ -6969,6 +6599,16 @@
       "textdia": "dissabte",
       "ciutat": "",
       "dateTime": "2026-11-22T19:30+02:00"
+    },
+    {
+      "nom": "MASSIVE NOISE COLLECTIVE",
+      "sala": "Aclam Club",
+      "hora": "20:00",
+      "mes": "DES.2026",
+      "dia": "22",
+      "textdia": "dilluns",
+      "ciutat": "",
+      "dateTime": "2026-11-22T20:00+02:00"
     },
     {
       "nom": "LLUÍS COLOMA & BLUE LOU MARINI",
@@ -7029,6 +6669,16 @@
       "textdia": "dilluns",
       "ciutat": "",
       "dateTime": "2026-11-23T19:30+02:00"
+    },
+    {
+      "nom": "GEORDIE GREEP ",
+      "sala": "Upload",
+      "hora": "20:30",
+      "mes": "NOV.2026",
+      "dia": "23",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2026-11-23T20:30+02:00"
     },
     {
       "nom": "FLOTSAM AND JETSAM",
@@ -7151,6 +6801,26 @@
       "dateTime": "2026-11-25T19:30+02:00"
     },
     {
+      "nom": "FRANKIE AND THE WITCH FINGERS ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "25",
+      "textdia": "dimarts",
+      "ciutat": "",
+      "dateTime": "2026-11-25T20:00+02:00"
+    },
+    {
+      "nom": "CLEARWATER CREEDENCE REVIVAL",
+      "sala": "Wolf",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "25",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-11-25T20:00+02:00"
+    },
+    {
       "nom": "CICLE MILES DAVIS: EDDIE HENDERSON QUARTET",
       "sala": "Jamboree[1]",
       "hora": "20:30",
@@ -7197,6 +6867,16 @@
       "mes": "NOV.2026",
       "dia": "26",
       "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2026-11-26T20:00+02:00"
+    },
+    {
+      "nom": "MICHELLE GUREVICH",
+      "sala": "Wolf",
+      "hora": "20:00",
+      "mes": "NOV.2026",
+      "dia": "26",
+      "textdia": "dijous",
       "ciutat": "",
       "dateTime": "2026-11-26T20:00+02:00"
     },
@@ -7671,6 +7351,16 @@
       "dateTime": "2026-12-05T18:30+02:00"
     },
     {
+      "nom": "DÚO KIE",
+      "sala": "Wolf",
+      "hora": "19:00",
+      "mes": "DES.2026",
+      "dia": "5",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2026-12-05T19:00+02:00"
+    },
+    {
       "nom": "THE SHEEPDOGS - OUT ALL NIGHT TOUR",
       "sala": "Apolo[2]",
       "hora": "19:30",
@@ -7689,6 +7379,16 @@
       "textdia": "divendres",
       "ciutat": "",
       "dateTime": "2026-12-05T20:00+02:00"
+    },
+    {
+      "nom": "THE SADIES + TERRA LIGHTFOOT",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "DES.2026",
+      "dia": "5",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-12-05T20:02+02:00"
     },
     {
       "nom": "SED DE MAL",
@@ -7961,6 +7661,16 @@
       "dateTime": "2026-12-11T20:00+02:00"
     },
     {
+      "nom": "KID KAPICHI ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "DES.2026",
+      "dia": "11",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2026-12-11T20:00+02:00"
+    },
+    {
       "nom": "GIULIA VALLE TRIO",
       "sala": "Jamboree[1]",
       "hora": "21:00",
@@ -7999,6 +7709,16 @@
       "textdia": "divendres",
       "ciutat": "",
       "dateTime": "2026-12-12T20:00+02:00"
+    },
+    {
+      "nom": "JOIA ",
+      "sala": "Upload",
+      "hora": "20:30",
+      "mes": "DES.2026",
+      "dia": "12",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2026-12-12T20:30+02:00"
     },
     {
       "nom": "SCARPETTA – KARLES PÉREZ SEXTET",
@@ -8411,6 +8131,16 @@
       "dateTime": "2027-01-09T21:09+02:00"
     },
     {
+      "nom": "SEEK'M'ALL",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "FEB.2027",
+      "dia": "12",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2027-01-12T21:00+02:00"
+    },
+    {
       "nom": "GUARRES! TEMPORADA 3 - CAPÍTOL 7",
       "sala": "Apolo[2]",
       "hora": "19:00",
@@ -8471,6 +8201,16 @@
       "dateTime": "2027-01-14T21:00+02:00"
     },
     {
+      "nom": "JAVI CRESPO",
+      "sala": "Wolf",
+      "hora": "21:00",
+      "mes": "GEN.2027",
+      "dia": "14",
+      "textdia": "dijous",
+      "ciutat": "",
+      "dateTime": "2027-01-14T21:00+02:00"
+    },
+    {
       "nom": "AMAURY FAYE NOLA 4TET FEAT HERLIN RILEY",
       "sala": "Jamboree[1]",
       "hora": "19:00",
@@ -8521,6 +8261,16 @@
       "dateTime": "2027-01-16T19:30+02:00"
     },
     {
+      "nom": "TROBAR DE MORTE ",
+      "sala": "Upload",
+      "hora": "20:02",
+      "mes": "GEN.2027",
+      "dia": "16",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2027-01-16T20:02+02:00"
+    },
+    {
       "nom": "VIVA SUECIA",
       "sala": "Palau Sant Jordi",
       "hora": "21:09",
@@ -8559,6 +8309,36 @@
       "textdia": "diumenge",
       "ciutat": "",
       "dateTime": "2027-01-17T21:00+02:00"
+    },
+    {
+      "nom": "FISCHER-Z",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "FEB.2027",
+      "dia": "18",
+      "textdia": "dimarts",
+      "ciutat": "",
+      "dateTime": "2027-01-18T21:00+02:00"
+    },
+    {
+      "nom": "PEDRÁ - TRIBUT A EXTREMODURO - 1 PASE",
+      "sala": "Salamandra (H'l)",
+      "hora": "18:00",
+      "mes": "FEB.2027",
+      "dia": "19",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2027-01-19T18:00+02:00"
+    },
+    {
+      "nom": "PEDRÁ - TRIBUT A EXTREMODURO - 2 PASE",
+      "sala": "Salamandra (H'l)",
+      "hora": "21:00",
+      "mes": "FEB.2027",
+      "dia": "19",
+      "textdia": "dimecres",
+      "ciutat": "",
+      "dateTime": "2027-01-19T21:00+02:00"
     },
     {
       "nom": "MUJERES",
@@ -8621,6 +8401,16 @@
       "dateTime": "2027-01-23T19:00+02:00"
     },
     {
+      "nom": "HAKEN",
+      "sala": "Salamandra (H'l)",
+      "hora": "19:00",
+      "mes": "FEB.2027",
+      "dia": "23",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2027-01-23T19:00+02:00"
+    },
+    {
       "nom": "HARD GZ",
       "sala": "Razzmatazz(1)",
       "hora": "19:30",
@@ -8629,6 +8419,16 @@
       "textdia": "divendres",
       "ciutat": "",
       "dateTime": "2027-01-23T19:30+02:00"
+    },
+    {
+      "nom": "HAVOK + BLOOD RED THRONE + XONOR + ERADIKATED",
+      "sala": "Salamandra (H'l)",
+      "hora": "18:30",
+      "mes": "FEB.2027",
+      "dia": "24",
+      "textdia": "dilluns",
+      "ciutat": "",
+      "dateTime": "2027-01-24T18:30+02:00"
     },
     {
       "nom": "FEDE ÁLVAREZ QUARTET",
@@ -8679,6 +8479,16 @@
       "textdia": "diumenge",
       "ciutat": "",
       "dateTime": "2027-01-25T20:00+02:00"
+    },
+    {
+      "nom": "ZENOBIA + DAERIA",
+      "sala": "Salamandra (H'l)",
+      "hora": "20:30",
+      "mes": "FEB.2027",
+      "dia": "25",
+      "textdia": "dimarts",
+      "ciutat": "",
+      "dateTime": "2027-01-25T20:30+02:00"
     },
     {
       "nom": "GUARRES! TEMPORADA 3 - CAPÍTOL 8",
@@ -8791,6 +8601,16 @@
       "dateTime": "2027-01-31T21:09+02:00"
     },
     {
+      "nom": "SHRED FEST 2026: OBSCURA + PESTILENCE + CRYPTIC SHIFT + THUS + DVRK",
+      "sala": "Wolf",
+      "hora": "17:30",
+      "mes": "FEB.2027",
+      "dia": "5",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2027-02-05T17:30+02:00"
+    },
+    {
       "nom": "MIND2MODE | TRIBUTO A SIMPLE MINDS, DEPECHE MODE I U2",
       "sala": "Apolo[1]",
       "hora": "19:30",
@@ -8829,6 +8649,26 @@
       "textdia": "divendres",
       "ciutat": "",
       "dateTime": "2027-02-06T19:30+02:00"
+    },
+    {
+      "nom": "SLIFT",
+      "sala": "Wolf",
+      "hora": "20:00",
+      "mes": "FEB.2027",
+      "dia": "6",
+      "textdia": "dissabte",
+      "ciutat": "",
+      "dateTime": "2027-02-06T20:00+02:00"
+    },
+    {
+      "nom": "INVISIBLE LIMITS",
+      "sala": "Wolf",
+      "hora": "20:30",
+      "mes": "FEB.2027",
+      "dia": "7",
+      "textdia": "diumenge",
+      "ciutat": "",
+      "dateTime": "2027-02-07T20:30+02:00"
     },
     {
       "nom": "AMORPHIS",
@@ -8921,6 +8761,16 @@
       "dateTime": "2027-02-20T20:00+02:00"
     },
     {
+      "nom": "HENGE ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "FEB.2027",
+      "dia": "24",
+      "textdia": "dimarts",
+      "ciutat": "",
+      "dateTime": "2027-02-24T20:00+02:00"
+    },
+    {
       "nom": "SOCUNBOHEMIO",
       "sala": "Apolo[1]",
       "hora": "19:00",
@@ -8969,6 +8819,16 @@
       "textdia": "divendres",
       "ciutat": "",
       "dateTime": "2027-02-27T19:30+02:00"
+    },
+    {
+      "nom": "PERFECTO MISERABLE ",
+      "sala": "Upload",
+      "hora": "20:00",
+      "mes": "FEB.2027",
+      "dia": "27",
+      "textdia": "divendres",
+      "ciutat": "",
+      "dateTime": "2027-02-27T20:00+02:00"
     },
     {
       "nom": "ISA MIRALLAS & RAI PAZ FEAT. GIUSEPPE CAMPISI",
