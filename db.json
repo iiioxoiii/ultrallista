@@ -1,6 +1,276 @@
 {
   "concerts": [
     {
+            "nom": "Armenian",
+            "sala": "Wolf",
+            "hora": "20:00",
+            "mes": "SET.2026",
+            "dia": "5",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-09-05T20:00+02:00"
+        },
+        {
+            "nom": "La Coka Nostra",
+            "sala": "Wolf",
+            "hora": "20:00",
+            "mes": "SET.2026",
+            "dia": "6",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-09-06T20:00+02:00"
+        },
+        {
+            "nom": "Olivia Wald",
+            "sala": "Wolf",
+            "hora": "21:00",
+            "mes": "SET.2026",
+            "dia": "12",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-09-12T21:00+02:00"
+        },
+        {
+            "nom": "Actors + Hallows",
+            "sala": "Wolf",
+            "hora": "21:15",
+            "mes": "SET.2026",
+            "dia": "18",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-09-18T21:15+02:00"
+        },
+        {
+            "nom": "Hechizo, Homenaje a Héroes del Silencio",
+            "sala": "Wolf",
+            "hora": "19:30",
+            "mes": "OCT.2026",
+            "dia": "2",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-10-02T19:30+02:00"
+        },
+        {
+            "nom": "Then Jerico",
+            "sala": "Wolf",
+            "hora": "20:00",
+            "mes": "OCT.2026",
+            "dia": "7",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-10-07T20:00+02:00"
+        },
+        {
+            "nom": "DM EXPERIENCE: Tribut a Depeche Mode",
+            "sala": "Wolf",
+            "hora": "20:02",
+            "mes": "OCT.2026",
+            "dia": "9",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-10-09T20:02+02:00"
+        },
+        {
+            "nom": "Far East Groove - Yashuru Takanashi",
+            "sala": "Wolf",
+            "hora": "19:30",
+            "mes": "OCT.2026",
+            "dia": "13",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-10-13T19:30+02:00"
+        },
+        {
+            "nom": "Analog Society + Dj Surda",
+            "sala": "Wolf",
+            "hora": "19:30",
+            "mes": "OCT.2026",
+            "dia": "16",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-10-16T19:30+02:00"
+        },
+        {
+            "nom": "Las Novias + Serch",
+            "sala": "Wolf",
+            "hora": "19:30",
+            "mes": "OCT.2026",
+            "dia": "17",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-10-17T19:30+02:00"
+        },
+        {
+            "nom": "Sodi",
+            "sala": "Wolf",
+            "hora": "20:00",
+            "mes": "OCT.2026",
+            "dia": "23",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-10-23T20:00+02:00"
+        },
+        {
+            "nom": "Declan Welsh & The Decadent West",
+            "sala": "Wolf",
+            "hora": "20:00",
+            "mes": "OCT.2026",
+            "dia": "24",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-10-24T20:00+02:00"
+        },
+        {
+            "nom": "Myrath",
+            "sala": "Wolf",
+            "hora": "19:00",
+            "mes": "OCT.2026",
+            "dia": "25",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-10-25T19:00+02:00"
+        },
+        {
+            "nom": "Vecinos",
+            "sala": "Wolf",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "dia": "29",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-10-29T21:00+02:00"
+        },
+        {
+            "nom": "The Last Internationale",
+            "sala": "Wolf",
+            "hora": "20:02",
+            "mes": "NOV.2026",
+            "dia": "12",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-11-12T20:02+02:00"
+        },
+        {
+            "nom": "Zeballos",
+            "sala": "Wolf",
+            "hora": "20:00",
+            "mes": "NOV.2026",
+            "dia": "13",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-11-13T20:00+02:00"
+        },
+        {
+            "nom": "Razorlight + The K's",
+            "sala": "Wolf",
+            "hora": "19:30",
+            "mes": "NOV.2026",
+            "dia": "18",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-11-18T19:30+02:00"
+        },
+        {
+            "nom": "Pete & Bas",
+            "sala": "Wolf",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "dia": "18",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-11-18T21:00+02:00"
+        },
+        {
+            "nom": "Modelo de Respuesta Polar",
+            "sala": "Wolf",
+            "hora": "20:00",
+            "mes": "NOV.2026",
+            "dia": "20",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-11-20T20:00+02:00"
+        },
+        {
+            "nom": "Denom",
+            "sala": "Wolf",
+            "hora": "20:00",
+            "mes": "NOV.2026",
+            "dia": "21",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-11-21T20:00+02:00"
+        },
+        {
+            "nom": "Clearwater Creedence Revival",
+            "sala": "Wolf",
+            "hora": "20:00",
+            "mes": "NOV.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-11-25T20:00+02:00"
+        },
+        {
+            "nom": "Michelle Gurevich",
+            "sala": "Wolf",
+            "hora": "20:00",
+            "mes": "NOV.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-11-26T20:00+02:00"
+        },
+        {
+            "nom": "Dúo Kie",
+            "sala": "Wolf",
+            "hora": "19:00",
+            "mes": "DES.2026",
+            "dia": "5",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-12-05T19:00+02:00"
+        },
+        {
+            "nom": "Javi Crespo",
+            "sala": "Wolf",
+            "hora": "21:00",
+            "mes": "GEN.2027",
+            "dia": "14",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2027-01-14T21:00+02:00"
+        },
+        {
+            "nom": "Shred Fest 2026: Obscura + Pestilence + Cryptic Shift + Thus + Dvrk",
+            "sala": "Wolf",
+            "hora": "17:30",
+            "mes": "FEB.2027",
+            "dia": "5",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2027-02-05T17:30+02:00"
+        },
+        {
+            "nom": "SLIFT",
+            "sala": "Wolf",
+            "hora": "20:00",
+            "mes": "FEB.2027",
+            "dia": "6",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2027-02-06T20:00+02:00"
+        },
+        {
+            "nom": "Invisible Limits",
+            "sala": "Wolf",
+            "hora": "20:30",
+            "mes": "FEB.2027",
+            "dia": "7",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2027-02-07T20:30+02:00"
+        },
+    {
             "nom": "RATOS DE PORAO + LOBOTOMICS + EUSKAL BASTARDS + INSERSHOW",
             "sala": "Salamandra (H'l)",
             "hora": "19:15",
