@@ -1,6 +1,256 @@
 {
   "concerts": [
     {
+            "nom": "RATOS DE PORAO + LOBOTOMICS + EUSKAL BASTARDS + INSERSHOW",
+            "sala": "Salamandra (H'l)",
+            "hora": "19:15",
+            "mes": "SET.2026",
+            "dia": "6",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-06T19:15+02:00"
+        },
+        {
+            "nom": "HELABUSADOR & REY TONY",
+            "sala": "Salamandra (H'l)",
+            "hora": "19:00",
+            "mes": "SET.2026",
+            "dia": "8",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-08-08T19:00+02:00"
+        },
+        {
+            "nom": "MARKY RAMONE'S BLITZKRIEG",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "SET.2026",
+            "dia": "13",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-13T21:00+02:00"
+        },
+        {
+            "nom": "SEEK'M'ALL",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "FEB.2027",
+            "dia": "12",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2027-01-12T21:00+02:00"
+        },
+        {
+            "nom": "FISCHER-Z",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "FEB.2027",
+            "dia": "18",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2027-01-18T21:00+02:00"
+        },
+        {
+            "nom": "PEDRÁ - TRIBUT A EXTREMODURO - 1 PASE",
+            "sala": "Salamandra (H'l)",
+            "hora": "18:00",
+            "mes": "FEB.2027",
+            "dia": "19",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2027-01-19T18:00+02:00"
+        },
+        {
+            "nom": "PEDRÁ - TRIBUT A EXTREMODURO - 2 PASE",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "FEB.2027",
+            "dia": "19",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2027-01-19T21:00+02:00"
+        },
+        {
+            "nom": "HAKEN",
+            "sala": "Salamandra (H'l)",
+            "hora": "19:00",
+            "mes": "FEB.2027",
+            "dia": "23",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2027-01-23T19:00+02:00"
+        },
+        {
+            "nom": "HAVOK + BLOOD RED THRONE + XONOR + ERADIKATED",
+            "sala": "Salamandra (H'l)",
+            "hora": "18:30",
+            "mes": "FEB.2027",
+            "dia": "24",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2027-01-24T18:30+02:00"
+        },
+        {
+            "nom": "ZENOBIA + DAERIA",
+            "sala": "Salamandra (H'l)",
+            "hora": "20:30",
+            "mes": "FEB.2027",
+            "dia": "25",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2027-01-25T20:30+02:00"
+        },
+        {
+            "nom": "DULCE CASTIGO",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "dia": "3",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-10-03T21:00+02:00"
+        },
+        {
+            "nom": "DEVIN TOWNSEND",
+            "sala": "Salamandra (H'l)",
+            "hora": "19:30",
+            "mes": "NOV.2026",
+            "dia": "10",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-10-10T19:30+02:00"
+        },
+        {
+            "nom": "PRIMAL FEAR",
+            "sala": "Salamandra (H'l)",
+            "hora": "19:30",
+            "mes": "NOV.2026",
+            "dia": "12",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-10-12T19:30+02:00"
+        },
+        {
+            "nom": "ALBERTUCHO",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "dia": "16",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-10-16T21:00+02:00"
+        },
+        {
+            "nom": "SVETLANA - Directes Estrella Damm 150",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "dia": "17",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-10-17T21:00+02:00"
+        },
+        {
+            "nom": "5'NIZZA",
+            "sala": "Salamandra (H'l)",
+            "hora": "20:00",
+            "mes": "NOV.2026",
+            "dia": "22",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-10-22T20:00+02:00"
+        },
+        {
+            "nom": "MEINSTEIN",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "dia": "23",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-10-23T21:00+02:00"
+        },
+        {
+            "nom": "LOKO&MOTORA",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "dia": "24",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-10-24T21:00+02:00"
+        },
+        {
+            "nom": "MESSA",
+            "sala": "Salamandra (H'l)",
+            "hora": "20:00",
+            "mes": "NOV.2026",
+            "dia": "28",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-10-28T20:00+02:00"
+        },
+        {
+            "nom": "REBEL PUNK: ANA CURRA",
+            "sala": "Salamandra (H'l)",
+            "hora": "20:00",
+            "mes": "NOV.2026",
+            "dia": "30",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-10-30T20:00+02:00"
+        },
+        {
+            "nom": "ARCHSPIRE + CROWN MAGNETAR + THE ZENITH PASSAGE + ANALEPSY",
+            "sala": "Salamandra (H'l)",
+            "hora": "18:00",
+            "mes": "DES.2026",
+            "dia": "6",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-11-06T18:00+02:00"
+        },
+        {
+            "nom": "EL RENO RENARDO",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "DES.2026",
+            "dia": "7",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-11-07T21:00+02:00"
+        },
+        {
+            "nom": "PONCHO K",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "DES.2026",
+            "dia": "14",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-11-14T21:00+02:00"
+        },
+        {
+            "nom": "BORN TO BAND",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "DES.2026",
+            "dia": "20",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-11-20T21:00+02:00"
+        },
+        {
+            "nom": "DEPEDRO",
+            "sala": "Salamandra (H'l)",
+            "hora": "21:00",
+            "mes": "DES.2026",
+            "dia": "21",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-11-21T21:00+02:00"
+        },
+    {
             "nom": "Anna Tréa",
             "sala": "Aclam Club",
             "hora": "20:00",
