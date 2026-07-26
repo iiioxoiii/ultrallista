@@ -1,6 +1,116 @@
 {
   "concerts": [
     {
+            "nom": "Defacto",
+            "sala": "Estraperlo(BDN)",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-09-04T20:30+02:00"
+        },
+        {
+            "nom": "MEETING BANDS & DJs 2026",
+            "sala": "Estraperlo(BDN)",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-09-04T20:30+02:00"
+        },
+        {
+            "nom": "Todo Mal + Matote",
+            "sala": "Estraperlo(BDN)",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-09-04T20:30+02:00"
+        },
+        {
+            "nom": "Far n Hate",
+            "sala": "Estraperlo(BDN)",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-09-04T20:30+02:00"
+        },
+        {
+            "nom": "ZIGI SC + EKWOLS + LOUMA + JANE AGAIN DEBICE + PSYCORP",
+            "sala": "Estraperlo(BDN)",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-09-04T20:30+02:00"
+        },
+        {
+            "nom": "Toxic Fest II",
+            "sala": "Estraperlo(BDN)",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-09-04T20:30+02:00"
+        },
+        {
+            "nom": "Mamá Ladilla",
+            "sala": "Estraperlo(BDN)",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-09-04T20:30+02:00"
+        },
+        {
+            "nom": "Vapors of Morphine",
+            "sala": "Estraperlo(BDN)",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-09-04T20:30+02:00"
+        },
+        {
+            "nom": "Mad about Laurel Aitken",
+            "sala": "Estraperlo(BDN)",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-09-04T20:30+02:00"
+        },
+        {
+            "nom": "Maldito Metal fest III",
+            "sala": "Estraperlo(BDN)",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-09-04T20:30+02:00"
+        },
+        {
+            "nom": "Belako",
+            "sala": "Estraperlo(BDN)",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-09-04T20:30+02:00"
+        },
+    {
             "nom": "The Weeknd",
             "sala": "Estadi Olímpic",
             "hora": "20:00",
