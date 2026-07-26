@@ -1,6 +1,816 @@
 {
   "concerts": [
     {
+            "nom": "The Weeknd",
+            "sala": "Estadi Olímpic",
+            "hora": "20:00",
+            "mes": "SET.2026",
+            "textdia": "dimecres",
+            "dia": "1",
+            "ciutat": "",
+            "dateTime": "2026-09-01T20:00+02:00"
+        },
+        {
+            "nom": "Aitana ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "SET.2026",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-09-04T21:00+02:00"
+        },
+        {
+            "nom": "Aitana ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "SET.2026",
+            "textdia": "diumenge",
+            "dia": "5",
+            "ciutat": "",
+            "dateTime": "2026-09-05T21:00+02:00"
+        },
+        {
+            "nom": "Aitana ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "SET.2026",
+            "textdia": "dimarts",
+            "dia": "7",
+            "ciutat": "",
+            "dateTime": "2026-09-07T21:00+02:00"
+        },
+        {
+            "nom": "Aitana ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "SET.2026",
+            "textdia": "dimecres",
+            "dia": "8",
+            "ciutat": "",
+            "dateTime": "2026-09-08T21:00+02:00"
+        },
+        {
+            "nom": "Ca7riel & Paco Amoroso",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "textdia": "divendres",
+            "dia": "10",
+            "ciutat": "",
+            "dateTime": "2026-09-10T20:30+02:00"
+        },
+        {
+            "nom": "Music Bank Barcelona",
+            "sala": "Estadi Olímpic",
+            "hora": "20:00",
+            "mes": "SET.2026",
+            "textdia": "diumenge",
+            "dia": "12",
+            "ciutat": "",
+            "dateTime": "2026-09-12T20:00+02:00"
+        },
+        {
+            "nom": "Vetusta Morla",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "dissabte",
+            "dia": "2",
+            "ciutat": "",
+            "dateTime": "2026-10-02T21:00+02:00"
+        },
+        {
+            "nom": "Placebo",
+            "sala": "Sant Jordi Club",
+            "hora": "20:45",
+            "mes": "OCT.2026",
+            "textdia": "diumenge",
+            "dia": "3",
+            "ciutat": "",
+            "dateTime": "2026-10-03T20:45+02:00"
+        },
+        {
+            "nom": "Hombres G",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "diumenge",
+            "dia": "3",
+            "ciutat": "",
+            "dateTime": "2026-10-03T21:00+02:00"
+        },
+        {
+            "nom": "Oques Grasses ",
+            "sala": "Estadi Olímpic",
+            "hora": "20:30",
+            "mes": "OCT.2026",
+            "textdia": "dimarts",
+            "dia": "5",
+            "ciutat": "",
+            "dateTime": "2026-10-05T20:30+02:00"
+        },
+        {
+            "nom": "Oques Grasses ",
+            "sala": "Estadi Olímpic",
+            "hora": "20:30",
+            "mes": "OCT.2026",
+            "textdia": "dijous",
+            "dia": "7",
+            "ciutat": "",
+            "dateTime": "2026-10-07T20:30+02:00"
+        },
+        {
+            "nom": "Oques Grasses ",
+            "sala": "Estadi Olímpic",
+            "hora": "20:30",
+            "mes": "OCT.2026",
+            "textdia": "dissabte",
+            "dia": "9",
+            "ciutat": "",
+            "dateTime": "2026-10-09T20:30+02:00"
+        },
+        {
+            "nom": "Oques Grasses ",
+            "sala": "Estadi Olímpic",
+            "hora": "20:30",
+            "mes": "OCT.2026",
+            "textdia": "diumenge",
+            "dia": "10",
+            "ciutat": "",
+            "dateTime": "2026-10-10T20:30+02:00"
+        },
+        {
+            "nom": "Trueno",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "dimecres",
+            "dia": "13",
+            "ciutat": "",
+            "dateTime": "2026-10-13T21:00+02:00"
+        },
+        {
+            "nom": "Leoni Torres",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "dijous",
+            "dia": "14",
+            "ciutat": "",
+            "dateTime": "2026-10-14T21:00+02:00"
+        },
+        {
+            "nom": "Morat ",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:00",
+            "mes": "OCT.2026",
+            "textdia": "dissabte",
+            "dia": "16",
+            "ciutat": "",
+            "dateTime": "2026-10-16T20:00+02:00"
+        },
+        {
+            "nom": "Morat ",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:00",
+            "mes": "OCT.2026",
+            "textdia": "diumenge",
+            "dia": "17",
+            "ciutat": "",
+            "dateTime": "2026-10-17T20:00+02:00"
+        },
+        {
+            "nom": "La Fúmiga ",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "dissabte",
+            "dia": "16",
+            "ciutat": "",
+            "dateTime": "2026-10-16T21:00+02:00"
+        },
+        {
+            "nom": "La Fúmiga ",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "diumenge",
+            "dia": "17",
+            "ciutat": "",
+            "dateTime": "2026-10-17T21:00+02:00"
+        },
+        {
+            "nom": "Deep Purple",
+            "sala": "Sant Jordi Club",
+            "hora": "19:30",
+            "mes": "OCT.2026",
+            "textdia": "dimarts",
+            "dia": "19",
+            "ciutat": "",
+            "dateTime": "2026-10-19T19:30+02:00"
+        },
+        {
+            "nom": "The Strokes",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:30",
+            "mes": "OCT.2026",
+            "textdia": "dimecres",
+            "dia": "20",
+            "ciutat": "",
+            "dateTime": "2026-10-20T20:30+02:00"
+        },
+        {
+            "nom": "Dani Martín",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "dissabte",
+            "dia": "23",
+            "ciutat": "",
+            "dateTime": "2026-10-23T21:00+02:00"
+        },
+        {
+            "nom": "Serko",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "dissabte",
+            "dia": "23",
+            "ciutat": "",
+            "dateTime": "2026-10-23T21:00+02:00"
+        },
+        {
+            "nom": "Dani Martín",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "diumenge",
+            "dia": "24",
+            "ciutat": "",
+            "dateTime": "2026-10-24T21:00+02:00"
+        },
+        {
+            "nom": "Niall Horan",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:15",
+            "mes": "OCT.2026",
+            "textdia": "dilluns",
+            "dia": "25",
+            "ciutat": "",
+            "dateTime": "2026-10-25T21:15+02:00"
+        },
+        {
+            "nom": "Simple Plan",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "dimarts",
+            "dia": "26",
+            "ciutat": "",
+            "dateTime": "2026-10-26T21:00+02:00"
+        },
+        {
+            "nom": "Jungle",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "dijous",
+            "dia": "28",
+            "ciutat": "",
+            "dateTime": "2026-10-28T21:00+02:00"
+        },
+        {
+            "nom": "Valeria Castro ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "dissabte",
+            "dia": "30",
+            "ciutat": "",
+            "dateTime": "2026-10-30T21:00+02:00"
+        },
+        {
+            "nom": "Divididos",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "diumenge",
+            "dia": "31",
+            "ciutat": "",
+            "dateTime": "2026-10-31T21:00+02:00"
+        },
+        {
+            "nom": "Jorge Drexler ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "OCT.2026",
+            "textdia": "diumenge",
+            "dia": "31",
+            "ciutat": "",
+            "dateTime": "2026-10-31T21:00+02:00"
+        },
+        {
+            "nom": "This is Michael",
+            "sala": "Sant Jordi Club",
+            "hora": "20:00",
+            "mes": "NOV.2026",
+            "textdia": "dilluns",
+            "dia": "1",
+            "ciutat": "",
+            "dateTime": "2026-11-01T20:00+02:00"
+        },
+        {
+            "nom": "Melendi ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "dilluns",
+            "dia": "1",
+            "ciutat": "",
+            "dateTime": "2026-11-01T21:00+02:00"
+        },
+        {
+            "nom": "Melendi ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "dimarts",
+            "dia": "2",
+            "ciutat": "",
+            "dateTime": "2026-11-02T21:00+02:00"
+        },
+        {
+            "nom": "Pitbull",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:30",
+            "mes": "NOV.2026",
+            "textdia": "dijous",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2026-11-04T20:30+02:00"
+        },
+        {
+            "nom": "John Pollõn ",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "dissabte",
+            "dia": "6",
+            "ciutat": "",
+            "dateTime": "2026-11-06T21:00+02:00"
+        },
+        {
+            "nom": "La Oreja de Van Gogh ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "dissabte",
+            "dia": "6",
+            "ciutat": "",
+            "dateTime": "2026-11-06T21:00+02:00"
+        },
+        {
+            "nom": "La Oreja de Van Gogh ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "diumenge",
+            "dia": "7",
+            "ciutat": "",
+            "dateTime": "2026-11-07T21:00+02:00"
+        },
+        {
+            "nom": "La Oreja de Van Gogh ",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:30",
+            "mes": "NOV.2026",
+            "textdia": "divendres",
+            "dia": "26",
+            "ciutat": "",
+            "dateTime": "2026-11-26T20:30+02:00"
+        },
+        {
+            "nom": "La Oreja de Van Gogh ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "dissabte",
+            "dia": "27",
+            "ciutat": "",
+            "dateTime": "2026-11-27T21:00+02:00"
+        },
+        {
+            "nom": "Joe Bonamassa",
+            "sala": "Sant Jordi Club",
+            "hora": "20:00",
+            "mes": "NOV.2026",
+            "textdia": "diumenge",
+            "dia": "7",
+            "ciutat": "",
+            "dateTime": "2026-11-07T20:00+02:00"
+        },
+        {
+            "nom": "Miranda",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "divendres",
+            "dia": "12",
+            "ciutat": "",
+            "dateTime": "2026-11-12T21:00+02:00"
+        },
+        {
+            "nom": "Amon Amarth",
+            "sala": "Sant Jordi Club",
+            "hora": "19:00",
+            "mes": "NOV.2026",
+            "textdia": "dissabte",
+            "dia": "13",
+            "ciutat": "",
+            "dateTime": "2026-11-13T19:00+02:00"
+        },
+        {
+            "nom": "Bryan Adams",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "diumenge",
+            "dia": "14",
+            "ciutat": "",
+            "dateTime": "2026-11-14T21:00+02:00"
+        },
+        {
+            "nom": "Malmö 040",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "diumenge",
+            "dia": "14",
+            "ciutat": "",
+            "dateTime": "2026-11-14T21:00+02:00"
+        },
+        {
+            "nom": "Luck Ra",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "divendres",
+            "dia": "26",
+            "ciutat": "",
+            "dateTime": "2026-11-26T21:00+02:00"
+        },
+        {
+            "nom": "Carolina Durante",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "diumenge",
+            "dia": "28",
+            "ciutat": "",
+            "dateTime": "2026-11-28T21:00+02:00"
+        },
+        {
+            "nom": "Chiara Oliver",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "diumenge",
+            "dia": "28",
+            "ciutat": "",
+            "dateTime": "2026-11-28T21:00+02:00"
+        },
+        {
+            "nom": "Galvan Real",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "NOV.2026",
+            "textdia": "dilluns",
+            "dia": "29",
+            "ciutat": "",
+            "dateTime": "2026-11-29T21:00+02:00"
+        },
+        {
+            "nom": "Premier Padel Finals ",
+            "sala": "Palau Sant Jordi",
+            "hora": "13:00",
+            "mes": "DES.2026",
+            "textdia": "divendres",
+            "dia": "10",
+            "ciutat": "",
+            "dateTime": "2026-12-10T13:00+02:00"
+        },
+        {
+            "nom": "Premier Padel Finals ",
+            "sala": "Palau Sant Jordi",
+            "hora": "13:00",
+            "mes": "DES.2026",
+            "textdia": "dissabte",
+            "dia": "11",
+            "ciutat": "",
+            "dateTime": "2026-12-11T13:00+02:00"
+        },
+        {
+            "nom": "Premier Padel Finals ",
+            "sala": "Palau Sant Jordi",
+            "hora": "11:00",
+            "mes": "DES.2026",
+            "textdia": "diumenge",
+            "dia": "12",
+            "ciutat": "",
+            "dateTime": "2026-12-12T11:00+02:00"
+        },
+        {
+            "nom": "Premier Padel Finals ",
+            "sala": "Palau Sant Jordi",
+            "hora": "11:00",
+            "mes": "DES.2026",
+            "textdia": "dilluns",
+            "dia": "13",
+            "ciutat": "",
+            "dateTime": "2026-12-13T11:00+02:00"
+        },
+        {
+            "nom": "Amaral",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "DES.2026",
+            "textdia": "dissabte",
+            "dia": "18",
+            "ciutat": "",
+            "dateTime": "2026-12-18T21:00+02:00"
+        },
+        {
+            "nom": "Amaia",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "DES.2026",
+            "textdia": "dilluns",
+            "dia": "20",
+            "ciutat": "",
+            "dateTime": "2026-12-20T21:00+02:00"
+        },
+        {
+            "nom": "Antonio Orozco ",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "DES.2026",
+            "textdia": "dimecres",
+            "dia": "22",
+            "ciutat": "",
+            "dateTime": "2026-12-22T21:00+02:00"
+        },
+        {
+            "nom": "OBK",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "DES.2026",
+            "textdia": "dijous",
+            "dia": "30",
+            "ciutat": "",
+            "dateTime": "2026-12-30T21:00+02:00"
+        },
+        {
+            "nom": "BARRY B",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "GEN.2027",
+            "textdia": "dissabte",
+            "dia": "8",
+            "ciutat": "",
+            "dateTime": "2027-01-08T21:00+02:00"
+        },
+        {
+            "nom": "Carlos Ares",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "GEN.2027",
+            "textdia": "diumenge",
+            "dia": "9",
+            "ciutat": "",
+            "dateTime": "2027-01-09T21:00+02:00"
+        },
+        {
+            "nom": "Viva Suecia",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "GEN.2027",
+            "textdia": "diumenge",
+            "dia": "16",
+            "ciutat": "",
+            "dateTime": "2027-01-16T21:00+02:00"
+        },
+        {
+            "nom": "Tini ",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:00",
+            "mes": "GEN.2027",
+            "textdia": "dissabte",
+            "dia": "22",
+            "ciutat": "",
+            "dateTime": "2027-01-22T20:00+02:00"
+        },
+        {
+            "nom": "Tini ",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:00",
+            "mes": "GEN.2027",
+            "textdia": "diumenge",
+            "dia": "23",
+            "ciutat": "",
+            "dateTime": "2027-01-23T20:00+02:00"
+        },
+        {
+            "nom": "Tini ",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:00",
+            "mes": "GEN.2027",
+            "textdia": "dilluns",
+            "dia": "24",
+            "ciutat": "",
+            "dateTime": "2027-01-24T20:00+02:00"
+        },
+        {
+            "nom": "Sergio Dalma",
+            "sala": "Palau Sant Jordi",
+            "hora": "21:00",
+            "mes": "GEN.2027",
+            "textdia": "diumenge",
+            "dia": "30",
+            "ciutat": "",
+            "dateTime": "2027-01-30T21:00+02:00"
+        },
+        {
+            "nom": "aespa ",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:00",
+            "mes": "GEN.2027",
+            "textdia": "dilluns",
+            "dia": "31",
+            "ciutat": "",
+            "dateTime": "2027-01-31T20:00+02:00"
+        },
+        {
+            "nom": "Disney On Ice 2027 ",
+            "sala": "Palau Sant Jordi",
+            "hora": "19:00",
+            "mes": "FEB.2027",
+            "textdia": "divendres",
+            "dia": "18",
+            "ciutat": "",
+            "dateTime": "2027-02-18T19:00+02:00"
+        },
+        {
+            "nom": "Disney On Ice 2027 ",
+            "sala": "Palau Sant Jordi",
+            "hora": "19:00",
+            "mes": "FEB.2027",
+            "textdia": "dissabte",
+            "dia": "19",
+            "ciutat": "",
+            "dateTime": "2027-02-19T19:00+02:00"
+        },
+        {
+            "nom": "Disney On Ice 2027 ",
+            "sala": "Palau Sant Jordi",
+            "hora": "16:00",
+            "mes": "FEB.2027",
+            "textdia": "diumenge",
+            "dia": "20",
+            "ciutat": "",
+            "dateTime": "2027-02-20T16:00+02:00"
+        },
+        {
+            "nom": "Disney On Ice 2027 ",
+            "sala": "Palau Sant Jordi",
+            "hora": "19:45",
+            "mes": "FEB.2027",
+            "textdia": "diumenge",
+            "dia": "20",
+            "ciutat": "",
+            "dateTime": "2027-02-20T19:45+02:00"
+        },
+        {
+            "nom": "Disney On Ice 2027 ",
+            "sala": "Palau Sant Jordi",
+            "hora": "12:00",
+            "mes": "FEB.2027",
+            "textdia": "dilluns",
+            "dia": "21",
+            "ciutat": "",
+            "dateTime": "2027-02-21T12:00+02:00"
+        },
+        {
+            "nom": "La Casa Azul",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:00",
+            "mes": "MAR.2027",
+            "textdia": "diumenge",
+            "dia": "13",
+            "ciutat": "",
+            "dateTime": "2027-03-13T20:00+02:00"
+        },
+        {
+            "nom": "Svetlana",
+            "sala": "Sant Jordi Club",
+            "hora": "21:00",
+            "mes": "MAR.2027",
+            "textdia": "diumenge",
+            "dia": "13",
+            "ciutat": "",
+            "dateTime": "2027-03-13T21:00+02:00"
+        },
+        {
+            "nom": "WALLS",
+            "sala": "Sant Jordi Club",
+            "hora": "20:30",
+            "mes": "ABR.2027",
+            "textdia": "diumenge",
+            "dia": "24",
+            "ciutat": "",
+            "dateTime": "2027-04-24T20:30+02:00"
+        },
+        {
+            "nom": "Eros Ramazzotti",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:30",
+            "mes": "ABR.2027",
+            "textdia": "dimecres",
+            "dia": "27",
+            "ciutat": "",
+            "dateTime": "2027-04-27T20:30+02:00"
+        },
+        {
+            "nom": "Olivia Rodrigo ",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:30",
+            "mes": "MAI.2027",
+            "textdia": "diumenge",
+            "dia": "1",
+            "ciutat": "",
+            "dateTime": "2027-05-01T20:30+02:00"
+        },
+        {
+            "nom": "Olivia Rodrigo ",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:30",
+            "mes": "MAI.2027",
+            "textdia": "dilluns",
+            "dia": "2",
+            "ciutat": "",
+            "dateTime": "2027-05-02T20:30+02:00"
+        },
+        {
+            "nom": "Olivia Rodrigo ",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:30",
+            "mes": "MAI.2027",
+            "textdia": "dijous",
+            "dia": "5",
+            "ciutat": "",
+            "dateTime": "2027-05-05T20:30+02:00"
+        },
+        {
+            "nom": "Olivia Rodrigo ",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:30",
+            "mes": "MAI.2027",
+            "textdia": "divendres",
+            "dia": "6",
+            "ciutat": "",
+            "dateTime": "2027-05-06T20:30+02:00"
+        },
+        {
+            "nom": "The World of Hans Zimmer 2027",
+            "sala": "Palau Sant Jordi",
+            "hora": "20:00",
+            "mes": "MAI.2027",
+            "textdia": "diumenge",
+            "dia": "8",
+            "ciutat": "",
+            "dateTime": "2027-05-08T20:00+02:00"
+        },
+        {
+            "nom": "Karol G ",
+            "sala": "Estadi Olímpic",
+            "hora": "20:00",
+            "mes": "JUN.2027",
+            "textdia": "divendres",
+            "dia": "3",
+            "ciutat": "",
+            "dateTime": "2027-06-03T20:00+02:00"
+        },
+        {
+            "nom": "Karol G ",
+            "sala": "Estadi Olímpic",
+            "hora": "20:00",
+            "mes": "JUN.2027",
+            "textdia": "dissabte",
+            "dia": "4",
+            "ciutat": "",
+            "dateTime": "2027-06-04T20:00+02:00"
+        },
+    {
             "nom": "Divina Afàsia",
             "sala": "Heliogàbal",
             "hora": "20:30",
