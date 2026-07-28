@@ -1,6 +1,1116 @@
 {
   "concerts": [
     {
+            "nom": "Shanghai Conservatory of Music Jazz Ensemble",
+            "sala": "Jardins del Doctor Pla i Armengol",
+            "hora": "21:00",
+            "mes": "SET.2026",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-23T21:00+02:00"
+        },
+        {
+            "nom": "Pol Batlle",
+            "sala": "Teatre Grec",
+            "hora": "21:30",
+            "mes": "SET.2026",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-23T21:30+02:00"
+        },
+        {
+            "nom": "Humana Taranja",
+            "sala": "La Rambla del Raval",
+            "hora": "21:30",
+            "mes": "SET.2026",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-23T21:30+02:00"
+        },
+        {
+            "nom": "Sabor de Gràcia",
+            "sala": "Avinguda de la Catedral",
+            "hora": "22:00",
+            "mes": "SET.2026",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-23T22:00+02:00"
+        },
+        {
+            "nom": "Kiw & Mourad Belouadi",
+            "sala": "Moll de la Fusta",
+            "hora": "22:30",
+            "mes": "SET.2026",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-23T22:30+02:00"
+        },
+        {
+            "nom": "Bia Ferreira",
+            "sala": "La Plaça de Catalunya",
+            "hora": "22:30",
+            "mes": "SET.2026",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-23T22:30+02:00"
+        },
+        {
+            "nom": "Sunflowers",
+            "sala": "La Rambla del Raval",
+            "hora": "23:00",
+            "mes": "SET.2026",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-23T23:00+02:00"
+        },
+        {
+            "nom": "Shanghai Restoration Project feat. Angelo Manhenzane & Tebza Majaivane",
+            "sala": "Jardins del Doctor Pla i Armengol",
+            "hora": "23:00",
+            "mes": "SET.2026",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-23T23:00+02:00"
+        },
+        {
+            "nom": "Luísa Sobral",
+            "sala": "Teatre Grec",
+            "hora": "23:30",
+            "mes": "SET.2026",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-23T23:30+02:00"
+        },
+        {
+            "nom": "La 126",
+            "sala": "Moll de la Fusta",
+            "hora": "23:59",
+            "mes": "SET.2026",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-23T23:59+02:00"
+        },
+        {
+            "nom": "Arp Frique and the Perpetual Singers",
+            "sala": "Avinguda de la Catedral",
+            "hora": "23:59",
+            "mes": "SET.2026",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-23T23:59+02:00"
+        },
+        {
+            "nom": "Brama",
+            "sala": "La Plaça de Catalunya",
+            "hora": "23:59",
+            "mes": "SET.2026",
+            "dia": "23",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-23T23:59+02:00"
+        },
+        {
+            "nom": "Maria Reis",
+            "sala": "La Rambla del Raval",
+            "hora": "00:30",
+            "mes": "SET.2026",
+            "dia": "24",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-24T00:30+02:00"
+        },
+        {
+            "nom": "Juventude",
+            "sala": "Moll de la Fusta",
+            "hora": "01:30",
+            "mes": "SET.2026",
+            "dia": "24",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-24T01:30+02:00"
+        },
+        {
+            "nom": "Imarhan",
+            "sala": "La Plaça de Catalunya",
+            "hora": "01:30",
+            "mes": "SET.2026",
+            "dia": "24",
+            "textdia": "dilluns",
+            "ciutat": "",
+            "dateTime": "2026-08-24T01:30+02:00"
+        },
+        {
+            "nom": "Escola Superior de Música de Catalunya (ESMUC)",
+            "sala": "Jardins del Doctor Pla i Armengol",
+            "hora": "12:00",
+            "mes": "SET.2026",
+            "dia": "24",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-08-24T12:00+02:00"
+        },
+        {
+            "nom": "Catalunya Freestyle",
+            "sala": "La Plaça de Catalunya",
+            "hora": "17:00",
+            "mes": "SET.2026",
+            "dia": "24",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-08-24T17:00+02:00"
+        },
+        {
+            "nom": "Bandes i Grup Vocal dels Joves de Xamfrà",
+            "sala": "Jardins del Doctor Pla i Armengol",
+            "hora": "19:00",
+            "mes": "SET.2026",
+            "dia": "24",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-08-24T19:00+02:00"
+        },
+        {
+            "nom": "Catalunya Freestyle",
+            "sala": "La Plaça de Catalunya",
+            "hora": "17:00",
+            "mes": "SET.2026",
+            "dia": "24",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-08-24T17:00+02:00"
+        },
+        {
+            "nom": "María Terremoto",
+            "sala": "Avinguda de la Catedral",
+            "hora": "21:00",
+            "mes": "SET.2026",
+            "dia": "24",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-08-24T21:00+02:00"
+        },
+        {
+            "nom": "Cor del Gran Teatre del Liceu",
+            "sala": "Plaça Major de Nou Barris",
+            "hora": "21:00",
+            "mes": "SET.2026",
+            "dia": "24",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-08-24T21:00+02:00"
+        },
+        {
+            "nom": "La Barcelona Flamenca",
+            "sala": "Avinguda de la Catedral",
+            "hora": "22:15",
+            "mes": "SET.2026",
+            "dia": "24",
+            "textdia": "dimarts",
+            "ciutat": "",
+            "dateTime": "2026-08-24T22:15+02:00"
+        },
+        {
+            "nom": "Aina Machuca",
+            "sala": "Platja del Bogatell",
+            "hora": "19:45",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T19:45+02:00"
+        },
+        {
+            "nom": "Sexenni",
+            "sala": "Platja del Bogatell",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T20:30+02:00"
+        },
+        {
+            "nom": "Orquestra Simfònica de Barcelona i Nacional de Catalunya - OBC",
+            "sala": "Plaça Major de Nou Barris",
+            "hora": "20:45",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T20:45+02:00"
+        },
+        {
+            "nom": "Maria Jaume",
+            "sala": "Avinguda Maria Cristina",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T20:30+02:00"
+        },
+        {
+            "nom": "Sexenni",
+            "sala": "Platja del Bogatell",
+            "hora": "20:30",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T20:30+02:00"
+        },
+        {
+            "nom": "Orquestra Simfònica de Barcelona i Nacional de Catalunya - OBC",
+            "sala": "Plaça Major de Nou Barris",
+            "hora": "20:45",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T20:45+02:00"
+        },
+        {
+            "nom": "Fuensanta",
+            "sala": "Jardins del Doctor Pla i Armengol",
+            "hora": "21:00",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T21:00+02:00"
+        },
+        {
+            "nom": "Werio",
+            "sala": "La Plaça de Catalunya",
+            "hora": "21:15",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T21:15+02:00"
+        },
+        {
+            "nom": "Restinga",
+            "sala": "La Rambla del Raval",
+            "hora": "21:30",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T21:30+02:00"
+        },
+        {
+            "nom": "Markos amb K",
+            "sala": "Avinguda Maria Cristina",
+            "hora": "21:30",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T21:30+02:00"
+        },
+        {
+            "nom": "Nacho Vegas",
+            "sala": "Teatre Grec",
+            "hora": "21:30",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T21:30+02:00"
+        },
+        {
+            "nom": "Miki Núñez",
+            "sala": "Platja del Bogatell",
+            "hora": "22:00",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T22:00+02:00"
+        },
+        {
+            "nom": "Els Amics de les Arts",
+            "sala": "Avinguda Maria Cristina",
+            "hora": "22:00",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T22:00+02:00"
+        },
+        {
+            "nom": "Azucarillo Kings",
+            "sala": "Parc de la Ciutadella",
+            "hora": "22:30",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T22:30+02:00"
+        },
+        {
+            "nom": "Daoud",
+            "sala": "La Plaça de Catalunya",
+            "hora": "22:30",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T22:30+02:00"
+        },
+        {
+            "nom": "Les Testarudes",
+            "sala": "Moll de la Fusta",
+            "hora": "22:30",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T22:30+02:00"
+        },
+        {
+            "nom": "Marina y su Melao",
+            "sala": "Jardins del Doctor Pla i Armengol",
+            "hora": "23:00",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T23:00+02:00"
+        },
+        {
+            "nom": "Uzi Freyja",
+            "sala": "La Rambla del Raval",
+            "hora": "23:00",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T23:00+02:00"
+        },
+        {
+            "nom": "Shanghai Chinese Orchestra",
+            "sala": "Avinguda de la Catedral",
+            "hora": "23:00",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T23:00+02:00"
+        },
+        {
+            "nom": "La Paloma",
+            "sala": "Teatre Grec",
+            "hora": "23:30",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T23:30+02:00"
+        },
+        {
+            "nom": "Els Catarres",
+            "sala": "Avinguda Maria Cristina",
+            "hora": "23:45",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T23:45+02:00"
+        },
+        {
+            "nom": "The Slates",
+            "sala": "La Plaça de Catalunya",
+            "hora": "23:59",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T23:59+02:00"
+        },
+        {
+            "nom": "Isla Kume",
+            "sala": "Moll de la Fusta",
+            "hora": "23:59",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-08-25T23:59+02:00"
+        },
+        {
+            "nom": "Queer Falafel i MadMonKey",
+            "sala": "La Rambla del Raval",
+            "hora": "00:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T00:30+02:00"
+        },
+        {
+            "nom": "Buhos",
+            "sala": "Platja del Bogatell",
+            "hora": "01:15",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T01:15+02:00"
+        },
+        {
+            "nom": "Sandré",
+            "sala": "La Plaça de Catalunya",
+            "hora": "01:30",
+            "mes": "SET.2026",
+            "dia": "25",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T01:30+02:00"
+        },
+        {
+            "nom": "Teràpia de Shock",
+            "sala": "Avinguda Maria Cristina",
+            "hora": "01:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-25T01:30+02:00"
+        },
+        {
+            "nom": "Islandman",
+            "sala": "Moll de la Fusta",
+            "hora": "01:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T01:30+02:00"
+        },
+        {
+            "nom": "Banda Simfònica Roquetes-Nou Barris i Banda Mollet",
+            "sala": "Plaça Major de Nou Barris",
+            "hora": "12:00",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T12:00+02:00"
+        },
+        {
+            "nom": "Jam Nation",
+            "sala": "Jardins del Doctor Pla i Armengol",
+            "hora": "12:00",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T12:00+02:00"
+        },
+        {
+            "nom": "Carmen Aciar",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "13:15",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T13:15+02:00"
+        },
+        {
+            "nom": "Angela Blackburn",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "14:15",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T14:15+02:00"
+        },
+        {
+            "nom": "Marco de Ana",
+            "sala": "Parc de la Ciutadella",
+            "hora": "14:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T14:30+02:00"
+        },
+        {
+            "nom": "Angela Blackburn",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "14:15",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T14:15+02:00"
+        },
+        {
+            "nom": "Marco de Ana",
+            "sala": "Parc de la Ciutadella",
+            "hora": "14:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T14:30+02:00"
+        },
+        {
+            "nom": "Jovedry",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "16:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T16:30+02:00"
+        },
+        {
+            "nom": "Peperina",
+            "sala": "Ateneu L'Harmonia",
+            "hora": "17:00",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T17:00+02:00"
+        },
+        {
+            "nom": "Admire",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "17:40",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T17:40+02:00"
+        },
+        {
+            "nom": "María Cielos",
+            "sala": "Recinte Fabra i Coats",
+            "hora": "17:50",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T17:50+02:00"
+        },
+        {
+            "nom": "Grup de Ties",
+            "sala": "Ateneu L'Harmonia",
+            "hora": "18:40",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T18:40+02:00"
+        },
+        {
+            "nom": "Cristina Len",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "18:50",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T18:50+02:00"
+        },
+        {
+            "nom": "Agost",
+            "sala": "Recinte Fabra i Coats",
+            "hora": "19:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T19:30+02:00"
+        },
+        {
+            "nom": "Al·lèrgiques al Pol·len",
+            "sala": "Platja del Bogatell",
+            "hora": "20:00",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T20:00+02:00"
+        },
+        {
+            "nom": "Bofirax",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "20:15",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T20:15+02:00"
+        },
+        {
+            "nom": "Lecocq",
+            "sala": "Ateneu L'Harmonia",
+            "hora": "20:20",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T20:20+02:00"
+        },
+        {
+            "nom": "Banda Municipal de Barcelona",
+            "sala": "Plaça Major de Nou Barris",
+            "hora": "20:45",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T20:45+02:00"
+        },
+        {
+            "nom": "Lecocq",
+            "sala": "Ateneu L'Harmonia",
+            "hora": "20:20",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T20:20+02:00"
+        },
+        {
+            "nom": "Banda Municipal de Barcelona",
+            "sala": "Plaça Major de Nou Barris",
+            "hora": "20:45",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T20:45+02:00"
+        },
+        {
+            "nom": "Ivan Herzog",
+            "sala": "Avinguda Maria Cristina",
+            "hora": "21:00",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T21:00+02:00"
+        },
+        {
+            "nom": "Jester",
+            "sala": "Plaça de Can Fabra",
+            "hora": "21:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T21:30+02:00"
+        },
+        {
+            "nom": "I Am Roze",
+            "sala": "La Rambla del Raval",
+            "hora": "21:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T21:30+02:00"
+        },
+        {
+            "nom": "Ana Rossi i Joana Queiroz",
+            "sala": "Teatre Grec",
+            "hora": "21:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T21:30+02:00"
+        },
+        {
+            "nom": "La Pegatina",
+            "sala": "Platja del Bogatell",
+            "hora": "21:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T21:30+02:00"
+        },
+        {
+            "nom": "Marc Vilajuana",
+            "sala": "Jardins del Doctor Pla i Armengol",
+            "hora": "21:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T21:30+02:00"
+        },
+        {
+            "nom": "Banda Neon",
+            "sala": "Avinguda Maria Cristina",
+            "hora": "21:45",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T21:45+02:00"
+        },
+        {
+            "nom": "Aterciopelados",
+            "sala": "Avinguda de la Catedral",
+            "hora": "22:00",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T22:00+02:00"
+        },
+        {
+            "nom": "Sorvina",
+            "sala": "Parc de la Ciutadella",
+            "hora": "22:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T22:30+02:00"
+        },
+        {
+            "nom": "Minibús Intergalàctic",
+            "sala": "La Plaça de Catalunya",
+            "hora": "22:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T22:30+02:00"
+        },
+        {
+            "nom": "Gala i Ovidio",
+            "sala": "Moll de la Fusta",
+            "hora": "22:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T22:30+02:00"
+        },
+        {
+            "nom": "Revolución Guapachosa",
+            "sala": "Plaça de Can Fabra",
+            "hora": "22:50",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T22:50+02:00"
+        },
+        {
+            "nom": "Paula Koops",
+            "sala": "Avinguda Maria Cristina",
+            "hora": "23:00",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T23:00+02:00"
+        },
+        {
+            "nom": "El Extintor + LaTorre",
+            "sala": "Jardins del Doctor Pla i Armengol",
+            "hora": "23:00",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T23:00+02:00"
+        },
+        {
+            "nom": "Tära",
+            "sala": "La Rambla del Raval",
+            "hora": "23:00",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T23:00+02:00"
+        },
+        {
+            "nom": "Def Mama Def",
+            "sala": "Teatre Grec",
+            "hora": "23:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T23:30+02:00"
+        },
+        {
+            "nom": "Ypnosi",
+            "sala": "La Plaça de Catalunya",
+            "hora": "23:59",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T23:59+02:00"
+        },
+        {
+            "nom": "Maika Makovski",
+            "sala": "Avinguda de la Catedral",
+            "hora": "23:59",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T23:59+02:00"
+        },
+        {
+            "nom": "Poncelam",
+            "sala": "Moll de la Fusta",
+            "hora": "23:59",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-08-26T23:59+02:00"
+        },
+        {
+            "nom": "STA",
+            "sala": "Plaça de Can Fabra",
+            "hora": "00:10",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T00:10+02:00"
+        },
+        {
+            "nom": "TootArd",
+            "sala": "La Rambla del Raval",
+            "hora": "00:30",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T00:30+02:00"
+        },
+        {
+            "nom": "Leire Martínez",
+            "sala": "Avinguda Maria Cristina",
+            "hora": "01:15",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T01:15+02:00"
+        },
+        {
+            "nom": "Svetlana",
+            "sala": "Platja del Bogatell",
+            "hora": "01:30",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T1:30+02:00"
+        },
+        {
+            "nom": "La Valentina",
+            "sala": "Moll de la Fusta",
+            "hora": "01:30",
+            "mes": "SET.2026",
+            "dia": "26",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T01:30+02:00"
+        },
+        {
+            "nom": "Sandra Monfort",
+            "sala": "La Plaça de Catalunya",
+            "hora": "01:30",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T01:30+02:00"
+        },
+        {
+            "nom": "Conservatori Superior de Música Liceu",
+            "sala": "Jardins del Doctor Pla i Armengol",
+            "hora": "12:00",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T12:00+02:00"
+        },
+        {
+            "nom": "TUMBAKIN",
+            "sala": "Parc de la Ciutadella",
+            "hora": "13:00",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T13:00+02:00"
+        },
+        {
+            "nom": "De Gairó",
+            "sala": "Plaça de Can Fabra",
+            "hora": "13:10",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T13:10+02:00"
+        },
+        {
+            "nom": "Arar",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "13:15",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T13:15+02:00"
+        },
+        {
+            "nom": "Mala Freixura DJ",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "14:15",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T14:15+02:00"
+        },
+        {
+            "nom": "Mala Freixura DJ",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "14:15",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T14:15+02:00"
+        },
+        {
+            "nom": "Brisa Nunjo",
+            "sala": "Plaça de Can Fabra",
+            "hora": "15:00",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T15:00+02:00"
+        },
+        {
+            "nom": "AL-V",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "16:30",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T16:30+02:00"
+        },
+        {
+            "nom": "Quintal Delas",
+            "sala": "Plaça de Can Fabra",
+            "hora": "16:30",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T16:30+02:00"
+        },
+        {
+            "nom": "Asra3",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "17:40",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T17:40+02:00"
+        },
+        {
+            "nom": "La Llorería",
+            "sala": "Plaça de Can Fabra",
+            "hora": "18:00",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T18:00+02:00"
+        },
+        {
+            "nom": "MERCÈ",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "18:50",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T18:50+02:00"
+        },
+        {
+            "nom": "Vozes + Marco Mezquida",
+            "sala": "Plaça Major de Nou Barris",
+            "hora": "19:00",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T19:00+02:00"
+        },
+        {
+            "nom": "Carola Ortiz",
+            "sala": "La Plaça de Sant Jaume",
+            "hora": "19:00",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T19:00+02:00"
+        },
+        {
+            "nom": "Giulia Valle",
+            "sala": "Parc de la Ciutadella",
+            "hora": "19:30",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T19:30+02:00"
+        },
+        {
+            "nom": "Maig",
+            "sala": "Antiga Fàbrica Estrella Damm",
+            "hora": "20:15",
+            "mes": "SET.2026",
+            "dia": "27",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-08-27T20:15+02:00"
+        },
+    {
             "nom": "Defacto",
             "sala": "Estraperlo(BDN)",
             "hora": "20:30",
