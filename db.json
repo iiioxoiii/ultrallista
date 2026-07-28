@@ -1,6 +1,176 @@
 {
   "concerts": [
     {
+            "nom": "Zeta + Murina",
+            "sala": "Laut",
+            "hora": "20:00",
+            "mes": "JUL",
+            "dia": "30",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-07-30T20:00+02:00"
+        },
+        {
+            "nom": "Diles que no me maten",
+            "sala": "Laut",
+            "hora": "20:00",
+            "mes": "AGO",
+            "dia": "1",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-08-01T20:00+02:00"
+        },
+        {
+            "nom": "Days Of Sorrow + Self Secrets",
+            "sala": "Laut",
+            "hora": "21:00",
+            "mes": "SET",
+            "dia": "5",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-09-05T21:00+02:00"
+        },
+        {
+            "nom": "Yaunest + Silvio",
+            "sala": "Laut",
+            "hora": "19:30",
+            "mes": "OCT",
+            "dia": "1",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-10-01T19:30+02:00"
+        },
+        {
+            "nom": "BLANCA PALOMA",
+            "sala": "Laut",
+            "hora": "21:45",
+            "mes": "OCT",
+            "dia": "2",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-10-02T21:45+02:00"
+        },
+        {
+            "nom": "Hogar",
+            "sala": "Laut",
+            "hora": "19:30",
+            "mes": "OCT",
+            "dia": "10",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-10-10T19:30+02:00"
+        },
+        {
+            "nom": "СОЮЗ (SOYUZ)",
+            "sala": "Laut",
+            "hora": "20:00",
+            "mes": "OCT",
+            "dia": "15",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-10-15T20:00+02:00"
+        },
+        {
+            "nom": "King Dude_Barcelona_Southern Gothic_Folk",
+            "sala": "Laut",
+            "hora": "20:00",
+            "mes": "OCT",
+            "dia": "18",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-10-18T20:00+02:00"
+        },
+        {
+            "nom": "BLAYA",
+            "sala": "Laut",
+            "hora": "20:30",
+            "mes": "OCT",
+            "dia": "21",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-10-21T20:30+02:00"
+        },
+        {
+            "nom": "World News",
+            "sala": "Laut",
+            "hora": "20:00",
+            "mes": "OCT",
+            "dia": "30",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-10-30T20:00+02:00"
+        },
+        {
+            "nom": "Nero Kane",
+            "sala": "Laut",
+            "hora": "20:00",
+            "mes": "NOV",
+            "dia": "1",
+            "textdia": "diumenge",
+            "ciutat": "",
+            "dateTime": "2026-11-01T20:00+02:00"
+        },
+        {
+            "nom": "60juno",
+            "sala": "Laut",
+            "hora": "20:00",
+            "mes": "NOV",
+            "dia": "4",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-11-04T20:00+02:00"
+        },
+        {
+            "nom": "Aupinard",
+            "sala": "Laut",
+            "hora": "20:30",
+            "mes": "NOV",
+            "dia": "6",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-11-06T20:30+02:00"
+        },
+        {
+            "nom": "All In + Headache + Treehouse Kids",
+            "sala": "Laut",
+            "hora": "20:00",
+            "mes": "NOV",
+            "dia": "14",
+            "textdia": "dissabte",
+            "ciutat": "",
+            "dateTime": "2026-11-14T20:00+02:00"
+        },
+        {
+            "nom": " MIAW ",
+            "sala": "Laut",
+            "hora": "18:00",
+            "mes": "NOV",
+            "dia": "18",
+            "textdia": "dimecres",
+            "ciutat": "",
+            "dateTime": "2026-11-18T18:00+02:00"
+        },
+        {
+            "nom": "Blanco Palamera",
+            "sala": "Laut",
+            "hora": "20:00",
+            "mes": "NOV",
+            "dia": "19",
+            "textdia": "dijous",
+            "ciutat": "",
+            "dateTime": "2026-11-19T20:00+02:00"
+        },
+        {
+            "nom": "Westerman ",
+            "sala": "Laut",
+            "hora": "20:00",
+            "mes": "NOV",
+            "dia": "20",
+            "textdia": "divendres",
+            "ciutat": "",
+            "dateTime": "2026-11-20T20:00+02:00"
+        },
+    {
             "nom": "Shanghai Conservatory of Music Jazz Ensemble",
             "sala": "Jardins del Doctor Pla i Armengol",
             "hora": "21:00",
